@@ -1,1 +1,24 @@
-
+{
+  "schemaVersion": 1,
+  "translationVersion": 1,
+  "sourceDataset": "yuhonas/free-exercise-db",
+  "sourceFile": "exercises_with_tracking.json",
+  "languages": {
+    "de": {
+      "name": "Deutsch",
+      "file": "translations/de.json"
+    },
+    "es": {
+      "name": "Español",
+      "file": "translations/es.json"
+    },
+    "fr": {
+      "name": "Français",
+      "file": "translations/fr.json"
+    },
+    "nl": {
+      "name": "Nederlands",
+      "file": "translations/nl.json"
+    }
+  }
+}
