@@ -21,42 +21,70 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Locate translation builder
+        id: locate_builder
+        shell: bash
+        run: |
+          BUILDER_PATH="$(find . -type f -name 'build_translations.py' -print -quit)"
+
+          if [ -z "$BUILDER_PATH" ]; then
+            echo "build_translations.py was not found anywhere in the repository."
+            echo
+            echo "Repository files:"
+            find . -maxdepth 4 -type f | sort
+            exit 1
+          fi
+
+          echo "Found builder at: $BUILDER_PATH"
+          echo "builder_path=$BUILDER_PATH" >> "$GITHUB_OUTPUT"
+
       - name: Build German translation
         run: |
-          python build_translations.py \
+          python "${{ steps.locate_builder.outputs.builder_path }}" \
             --language de \
             --expected-batches 47 \
             --expected-exercises 873
 
       - name: Build Spanish translation
         run: |
-          python build_translations.py \
+          python "${{ steps.locate_builder.outputs.builder_path }}" \
             --language es \
             --expected-batches 16 \
             --expected-exercises 873
 
       - name: Build French translation
         run: |
-          python build_translations.py \
+          python "${{ steps.locate_builder.outputs.builder_path }}" \
             --language fr \
             --expected-batches 16 \
             --expected-exercises 873
 
       - name: Build Dutch translation
         run: |
-          python build_translations.py \
+          python "${{ steps.locate_builder.outputs.builder_path }}" \
             --language nl \
             --expected-batches 16 \
             --expected-exercises 873
 
-      - name: Show generated files
+      - name: Verify generated files
+        shell: bash
         run: |
-          ls -lh translations/de.json
-          ls -lh translations/es.json
-          ls -lh translations/fr.json
-          ls -lh translations/nl.json
+          for file in \
+            translations/de.json \
+            translations/es.json \
+            translations/fr.json \
+            translations/nl.json
+          do
+            if [ ! -f "$file" ]; then
+              echo "Expected generated file is missing: $file"
+              exit 1
+            fi
+
+            ls -lh "$file"
+          done
 
       - name: Commit generated translation files
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
