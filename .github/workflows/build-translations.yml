@@ -21,30 +21,35 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Show repository structure
+        run: |
+          pwd
+          find . -maxdepth 5 -type f | sort
+
       - name: Build German translation
         run: |
-          python scripts/build_translations.py \
+          python .github/workflows/scripts/build_translations.py \
             --language de \
             --expected-batches 47 \
             --expected-exercises 873
 
       - name: Build Spanish translation
         run: |
-          python scripts/build_translations.py \
+          python .github/workflows/scripts/build_translations.py \
             --language es \
             --expected-batches 16 \
             --expected-exercises 873
 
       - name: Build French translation
         run: |
-          python scripts/build_translations.py \
+          python .github/workflows/scripts/build_translations.py \
             --language fr \
             --expected-batches 16 \
             --expected-exercises 873
 
       - name: Build Dutch translation
         run: |
-          python scripts/build_translations.py \
+          python .github/workflows/scripts/build_translations.py \
             --language nl \
             --expected-batches 16 \
             --expected-exercises 873
