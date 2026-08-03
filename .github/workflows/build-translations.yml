@@ -24,48 +24,59 @@ jobs:
       - name: Show repository structure
         run: |
           pwd
-          find . -maxdepth 5 -type f | sort
+          find . -maxdepth 4 -type f | sort
 
       - name: Build German translation
         run: |
-          python .github/workflows/scripts/build_translations.py \
+          python scripts/build_translation.py \
+            --input translations/de/batches \
+            --output translations/de.json \
             --language de \
             --expected-batches 47 \
             --expected-exercises 873
 
       - name: Build Spanish translation
         run: |
-          python .github/workflows/scripts/build_translations.py \
+          python scripts/build_translation.py \
+            --input translations/es/batches \
+            --output translations/es.json \
             --language es \
             --expected-batches 16 \
             --expected-exercises 873
 
       - name: Build French translation
         run: |
-          python .github/workflows/scripts/build_translations.py \
+          python scripts/build_translation.py \
+            --input translations/fr/batches \
+            --output translations/fr.json \
             --language fr \
             --expected-batches 16 \
             --expected-exercises 873
 
       - name: Build Dutch translation
         run: |
-          python .github/workflows/scripts/build_translations.py \
+          python scripts/build_translation.py \
+            --input translations/nl/batches \
+            --output translations/nl.json \
             --language nl \
             --expected-batches 16 \
             --expected-exercises 873
 
       - name: Verify generated files
         run: |
-          test -f translations/de.json
-          test -f translations/es.json
-          test -f translations/fr.json
-          test -f translations/nl.json
-
-          ls -lh \
+          for file in \
             translations/de.json \
             translations/es.json \
             translations/fr.json \
             translations/nl.json
+          do
+            if [ ! -f "$file" ]; then
+              echo "Missing generated file: $file"
+              exit 1
+            fi
+
+            ls -lh "$file"
+          done
 
       - name: Commit generated translation files
         run: |
