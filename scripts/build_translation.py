@@ -76,8 +76,8 @@ def parse_batch_filename(path: Path) -> tuple[str, int]:
     if match is None:
         raise ValueError(
             f"Invalid batch filename: {path.name}. "
-            "Expected a name such as de_batch_01.json "
-            "or es_batch_01.json."
+            "Expected a name such as de_batch_01.json, "
+            "es_batch_01.json, or fr_batch_01.json."
         )
 
     return (
@@ -116,7 +116,10 @@ def collect_batch_files(
         detected_languages.add(language)
         parsed_files.append((batch_number, path))
 
-        if expected_language is not None and language != expected_language:
+        if (
+            expected_language is not None
+            and language != expected_language
+        ):
             raise ValueError(
                 f"{path}: expected language prefix "
                 f"{expected_language!r}, found {language!r}."
@@ -148,7 +151,7 @@ def collect_batch_files(
 
     if batch_numbers[0] != 1:
         raise ValueError(
-            f"Batch numbering must begin at 1. "
+            "Batch numbering must begin at 1. "
             f"First batch found: {batch_numbers[0]}."
         )
 
@@ -306,7 +309,7 @@ def main() -> int:
     if arguments.check:
         if not arguments.output.exists():
             print(
-                f"Error: generated file does not exist: "
+                "Error: generated file does not exist: "
                 f"{arguments.output}",
                 file=sys.stderr,
             )
