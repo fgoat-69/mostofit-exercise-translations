@@ -1,0 +1,532 @@
+{
+  "Lying_Cambered_Barbell_Row": {
+    "name": "Remo tumbado con barra curvada",
+    "instructions": [
+      "Coloca una barra curvada debajo de un banco de ejercicio.",
+      "Túmbate boca abajo sobre el banco y sujeta la barra con agarre prono, más ancho que los hombros. Esta será la posición inicial.",
+      "Exhala y rema con la barra manteniendo los codos cerca del cuerpo. Llévala al pecho para trabajar la zona media-superior de la espalda o al abdomen para enfatizar los dorsales.",
+      "Tras mantener un segundo en la parte alta, baja lentamente hasta la posición inicial mientras inhalas."
+    ]
+  },
+  "Lying_Close-Grip_Bar_Curl_On_High_Pulley": {
+    "name": "Curl tumbado con barra y agarre cerrado en polea alta",
+    "instructions": [
+      "Coloca un banco plano delante de una polea alta o una máquina de jalón.",
+      "Sujeta la barra recta con agarre supino aproximadamente al ancho de los hombros.",
+      "Túmbate boca arriba con la cabeza sobrepasando el extremo del banco.",
+      "Extiende los brazos por encima de los hombros. El torso y los brazos deben formar 90 grados, con los codos cerrados. Esta será la posición inicial.",
+      "Exhala y flexiona la barra hacia abajo describiendo un arco hasta tocar la barbilla. Contrae los bíceps durante un segundo. Consejo: solo deben moverse los antebrazos; los brazos deben permanecer perpendiculares e inmóviles.",
+      "Vuelve lentamente a la posición inicial.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head": {
+    "name": "Extensión de tríceps tumbado con barra y agarre cerrado detrás de la cabeza",
+    "instructions": [
+      "Sujeta una barra recta o EZ con agarre prono y túmbate boca arriba en un banco plano con la cabeza cerca del extremo. Consejo: usa un agarre al ancho de los hombros con barra recta o las empuñaduras interiores con barra EZ.",
+      "Extiende los brazos delante de ti y lleva lentamente la barra hacia atrás, manteniéndolos extendidos, hasta colocarla sobre la cabeza. Los brazos deben quedar paralelos al suelo. Esta será la posición inicial. Consejo: mantén los codos cerrados.",
+      "Inhala y baja la barra flexionando los codos sin mover los brazos, hasta que los antebrazos queden perpendiculares al suelo.",
+      "Exhala y devuelve la barra mediante un arco hasta que los antebrazos vuelvan a quedar paralelos al suelo. Contrae con fuerza los tríceps durante un segundo. Consejo: solo deben moverse los antebrazos.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin": {
+    "name": "Press de tríceps tumbado con barra y agarre cerrado hacia la barbilla",
+    "instructions": [
+      "Sujeta una barra recta o EZ con agarre prono y túmbate boca arriba en un banco plano con la cabeza fuera del extremo. Consejo: usa un agarre al ancho de los hombros con barra recta o las empuñaduras interiores con barra EZ.",
+      "Extiende los brazos y sostén la barra sobre el pecho, perpendicular al torso. Esta será la posición inicial.",
+      "Inhala y baja la barra con un movimiento semicircular flexionando los codos, manteniendo inmóviles los brazos y los codos cerrados, hasta tocar ligeramente la barbilla.",
+      "Exhala y empuja la barra por el mismo arco hasta la posición inicial. Contrae con fuerza los tríceps durante un segundo. Consejo: solo deben moverse los antebrazos.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Crossover": {
+    "name": "Estiramiento cruzado tumbado",
+    "instructions": [
+      "Túmbate boca arriba con las piernas extendidas.",
+      "Flexiona una rodilla y cruza esa pierna sobre el cuerpo intentando acercarla al suelo. Tu compañero debe arrodillarse a tu lado, sujetar el hombro con una mano y controlar la pierna cruzada con la otra. Esta será la posición inicial.",
+      "Intenta elevar la rodilla flexionada mientras tu compañero impide cualquier movimiento.",
+      "Tras 10-20 segundos, relaja la pierna mientras tu compañero empuja suavemente la rodilla hacia el suelo. Repite con el otro lado."
+    ]
+  },
+  "Lying_Dumbbell_Tricep_Extension": {
+    "name": "Extensión de tríceps tumbado con mancuernas",
+    "instructions": [
+      "Túmbate en un banco plano sosteniendo dos mancuernas delante de ti. Los brazos deben estar completamente extendidos y perpendiculares al torso y al suelo, con las palmas enfrentadas y los codos cerrados. Esta será la posición inicial.",
+      "Inhala y baja lentamente las mancuernas hacia las orejas, manteniendo inmóviles los brazos y los codos cerrados.",
+      "Desde ahí, extiende los codos con los tríceps para devolver las mancuernas a la posición inicial mientras exhalas.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Face_Down_Plate_Neck_Resistance": {
+    "name": "Flexión cervical boca abajo con disco",
+    "instructions": [
+      "Túmbate boca abajo y recto sobre un banco plano, sosteniendo un disco detrás de la cabeza. Colócate con los hombros ligeramente fuera del extremo para que el pecho superior, el cuello y la cara queden libres. Esta será la posición inicial.",
+      "Mantén el disco estable y baja lentamente la cabeza como si asintieras mientras inhalas.",
+      "Eleva la cabeza mediante un arco hasta la posición inicial mientras exhalas. Mantén la contracción durante un segundo.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Face_Up_Plate_Neck_Resistance": {
+    "name": "Flexión cervical boca arriba con disco",
+    "instructions": [
+      "Túmbate boca arriba y recto sobre un banco plano, sosteniendo un disco sobre la frente. Colócate con los hombros ligeramente fuera del extremo para que los trapecios, el cuello y la cabeza queden libres. Esta será la posición inicial.",
+      "Mantén el disco estable y baja lentamente la cabeza hacia atrás describiendo un arco mientras inhalas.",
+      "Eleva la cabeza por el mismo arco hasta la posición inicial mientras exhalas. Mantén la contracción durante un segundo.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Glute": {
+    "name": "Estiramiento de glúteos tumbado",
+    "instructions": [
+      "Túmbate boca arriba con tu compañero arrodillado a tu lado.",
+      "Flexiona la cadera de una pierna y elévala. Gírala hasta colocar el pie sobre la cadera contraria y la parte inferior de la pierna perpendicular al cuerpo. Tu compañero debe mantener la rodilla y el tobillo en posición. Esta será la posición inicial.",
+      "Intenta empujar la pierna hacia tu compañero mientras este impide cualquier movimiento.",
+      "Tras 10-20 segundos, relájate por completo mientras tu compañero acerca suavemente el tobillo y la rodilla al pecho. Indícale cuándo el estiramiento es suficiente para evitar lesiones o una amplitud excesiva."
+    ]
+  },
+  "Lying_Hamstring": {
+    "name": "Estiramiento de isquiotibiales tumbado",
+    "instructions": [
+      "Túmbate boca arriba con las piernas extendidas y tu compañero arrodillado a tu lado. Eleva una pierna hacia el techo y pídele que sujete el tobillo; puede apoyar la pierna sobre su hombro si es necesario. Esta será la posición inicial.",
+      "Con la pierna inmovilizada, intenta flexionar la rodilla y contrae los isquiotibiales durante 10-20 segundos.",
+      "Relaja la pierna y deja que tu compañero la acerque suavemente hacia la cabeza. Indícale cuándo el estiramiento es suficiente para evitar lesiones. Cambia de lado al terminar."
+    ]
+  },
+  "Lying_High_Bench_Barbell_Curl": {
+    "name": "Curl con barra tumbado en banco alto",
+    "instructions": [
+      "Túmbate boca abajo en un banco plano alto y sujeta una barra con agarre supino. Usa un agarre al ancho de los hombros con barra recta o las empuñaduras interiores con barra EZ. Coloca la parte superior del pecho fuera del banco y deja la barra colgando con los brazos extendidos y perpendiculares al suelo. Esta será la posición inicial.",
+      "Mantén los codos cerrados y los brazos inmóviles. Flexiona la barra con un movimiento semicircular mientras contraes los bíceps y exhalas. Mantén un segundo arriba.",
+      "Inhala y vuelve lentamente a la posición inicial. Consejo: controla el peso, evita balancearlo y mueve únicamente los antebrazos.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Leg_Curls": {
+    "name": "Curl femoral tumbado",
+    "instructions": [
+      "Ajusta la palanca a tu altura y túmbate boca abajo en la máquina, con la almohadilla sobre la parte posterior de las piernas, unos centímetros por debajo de las pantorrillas. Consejo: una máquina inclinada suele favorecer más la activación de los isquiotibiales que una plana.",
+      "Mantén el torso apoyado, las piernas completamente extendidas y sujeta las asas laterales. Orienta los dedos hacia delante o utiliza otra posición de pies. Esta será la posición inicial.",
+      "Exhala y flexiona las piernas todo lo posible sin despegar los muslos de la almohadilla. Mantén la contracción durante un segundo.",
+      "Inhala y devuelve las piernas a la posición inicial. Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Machine_Squat": {
+    "name": "Sentadilla tumbada en máquina",
+    "instructions": [
+      "Ajusta la máquina a una altura que te permita entrar con las rodillas flexionadas y los muslos ligeramente por debajo del paralelo.",
+      "Selecciona el peso y colócate boca arriba con las rodillas flexionadas y los muslos ligeramente por debajo del paralelo. Evita que las rodillas sobrepasen los dedos; el ángulo entre isquiotibiales y pantorrillas debe ser algo menor de 90 grados. Apoya la espalda y la cabeza y coloca los hombros bajo las almohadillas.",
+      "Sujeta las asas y coloca los pies al ancho de los hombros, ligeramente orientados hacia fuera. Esta será la posición inicial.",
+      "Empuja con la parte anterior de los pies mientras exhalas y extiende el cuerpo contrayendo los cuádriceps. Mantén un segundo. Consejo: en la primera repetición puedes ayudarte presionando los muslos con las manos.",
+      "Inhala y baja en sentadilla solo hasta que los muslos queden paralelos a la plataforma y formen 90 grados con las pantorrillas.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_One-Arm_Lateral_Raise": {
+    "name": "Elevación lateral unilateral tumbado",
+    "instructions": [
+      "Túmbate boca abajo en un banco plano con una mancuerna en una mano. Usa la otra mano para sujetarte a una pata del banco.",
+      "Mantén un agarre neutro, el brazo extendido y el codo ligeramente flexionado. Esta será la posición inicial.",
+      "Exhala y eleva lateralmente la mancuerna hasta que el codo quede a la altura del hombro y el brazo aproximadamente paralelo al suelo. Mantén el brazo perpendicular al torso y la contracción durante un segundo.",
+      "Baja lentamente la mancuerna mientras inhalas.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Lying_Prone_Quadriceps": {
+    "name": "Estiramiento de cuádriceps tumbado boca abajo",
+    "instructions": [
+      "Túmbate boca abajo en el suelo con tu compañero arrodillado a tu lado. Flexiona una rodilla y eleva esa pierna del suelo, intentando tocar los glúteos con el pie. Tu compañero debe sujetarte la rodilla y el tobillo. Esta será la posición inicial.",
+      "Intenta extender la rodilla mientras tu compañero impide que se produzca movimiento.",
+      "Después de 10-20 segundos, relaja los músculos mientras tu compañero empuja suavemente el pie hacia los glúteos para aumentar el estiramiento de los cuádriceps y los flexores de la cadera.",
+      "Después de 10-20 segundos, cambia de lado."
+    ]
+  },
+  "Lying_Rear_Delt_Raise": {
+    "name": "Elevación posterior para deltoides tumbado",
+    "instructions": [
+      "Túmbate boca abajo sobre un banco plano sosteniendo una mancuerna en cada mano.",
+      "Coloca las palmas en posición neutra, orientadas hacia el torso, y mantén los brazos extendidos con una ligera flexión de los codos. Esta será la posición inicial.",
+      "Eleva los brazos hacia los lados hasta que los codos alcancen la altura de los hombros y los brazos queden aproximadamente paralelos al suelo mientras exhalas. Consejo: Mantén los brazos perpendiculares al torso y extendidos durante todo el movimiento. Mantén también la contracción arriba durante un segundo.",
+      "Baja lentamente las mancuernas hasta la posición inicial mientras inhalas.",
+      "Repite el número recomendado de repeticiones y después cambia al otro brazo."
+    ]
+  },
+  "Lying_Supine_Dumbbell_Curl": {
+    "name": "Curl supino con mancuernas tumbado",
+    "instructions": [
+      "Túmbate boca arriba sobre un banco plano sosteniendo una mancuerna en cada mano sobre los muslos.",
+      "Lleva las mancuernas a los lados con los brazos extendidos y las palmas orientadas hacia los muslos, en agarre neutro.",
+      "Manteniendo los brazos cerca del torso y los codos pegados, baja lentamente los brazos, extendidos pero con una ligera flexión de los codos, todo lo que puedas hacia el suelo. Cuando no puedas bajar más, fija los brazos en esa posición; esta será la posición inicial.",
+      "Mientras exhalas, comienza a flexionar lentamente los codos y gira simultáneamente las muñecas hasta que las palmas miren hacia arriba. Continúa hasta contraer por completo los bíceps y aprieta con fuerza arriba durante un segundo. Consejo: Solo deben moverse los antebrazos. Los brazos deben permanecer inmóviles y los codos pegados durante todo el movimiento.",
+      "Regresa muy lentamente a la posición inicial."
+    ]
+  },
+  "Lying_T-Bar_Row": {
+    "name": "Remo en T tumbado",
+    "instructions": [
+      "Carga la máquina de remo en T con el peso deseado y ajusta la altura de las piernas para que la parte superior del pecho quede en el borde superior del apoyo. Consejo: En algunas máquinas solo puedes colocarte sobre el escalón que permita situar la parte superior del pecho a esa altura.",
+      "Túmbate boca abajo sobre el apoyo y agarra las asas. Puedes usar un agarre con las palmas hacia abajo, hacia arriba o enfrentadas, según la zona de la espalda que quieras enfatizar.",
+      "Levanta la barra del soporte y extiende los brazos delante de ti. Esta será la posición inicial.",
+      "Mientras exhalas, tira lentamente del peso hacia arriba y contrae la espalda en la parte superior. Consejo: Mantén los brazos lo más cerca posible del torso durante todo el movimiento para implicar mejor la musculatura de la espalda. No levantes el cuerpo del apoyo ni utilices los bíceps para elevar el peso.",
+      "Después de mantener la contracción arriba durante un segundo, baja lentamente a la posición inicial mientras inhalas.",
+      "Repite el número recomendado de repeticiones."
+    ]
+  },
+  "Lying_Triceps_Press": {
+    "name": "Press de tríceps tumbado",
+    "instructions": [
+      "Túmbate en un banco plano con una barra EZ, preferiblemente, o una barra recta colocada en el suelo detrás de la cabeza y los pies apoyados en el suelo.",
+      "Agarra la barra detrás de ti con un agarre prono medio y elévala delante de ti con los brazos extendidos. Consejo: Los brazos deben quedar perpendiculares al torso y al suelo, con los codos pegados. Esta es la posición inicial.",
+      "Mientras inhalas, baja lentamente el peso hasta que la barra toque ligeramente la frente, manteniendo inmóviles los brazos y los codos.",
+      "Desde ahí, utiliza los tríceps para devolver el peso a la posición inicial mientras exhalas.",
+      "Repite el número recomendado de repeticiones."
+    ]
+  },
+  "Machine_Bench_Press": {
+    "name": "Press de pecho en máquina",
+    "instructions": [
+      "Siéntate en la máquina de press de pecho y selecciona el peso.",
+      "Pisa la palanca de la máquina para acercar las asas y poder agarrarlas con los brazos completamente extendidos.",
+      "Agarra las asas con las palmas hacia abajo y eleva los codos hasta que los brazos queden paralelos al suelo a los lados del torso. Consejo: Los antebrazos apuntarán hacia delante debido a la posición de las asas. Cuando lleves las asas al frente y extiendas los brazos, estarás en la posición inicial.",
+      "Lleva las asas hacia ti mientras inhalas.",
+      "Empuja las asas alejándolas mientras contraes los pectorales y exhalas. Mantén la contracción durante un segundo antes de volver a la posición inicial.",
+      "Repite el número recomendado de repeticiones.",
+      "Al terminar, vuelve a pisar la palanca y deja que las asas regresen lentamente a su posición original."
+    ]
+  },
+  "Machine_Bicep_Curl": {
+    "name": "Curl de bíceps en máquina",
+    "instructions": [
+      "Ajusta el asiento a la altura adecuada y selecciona el peso. Apoya los brazos contra las almohadillas y agarra las asas. Esta será la posición inicial.",
+      "Realiza el movimiento flexionando los codos y acercando los antebrazos a los brazos.",
+      "Haz una pausa en la parte superior y luego devuelve lentamente el peso a la posición inicial.",
+      "No dejes que el peso llegue por completo a los topes hasta terminar la serie, para mantener la tensión en los músculos trabajados."
+    ]
+  },
+  "Machine_Preacher_Curls": {
+    "name": "Curl predicador en máquina",
+    "instructions": [
+      "Siéntate en la máquina de curl predicador y selecciona el peso.",
+      "Apoya la parte posterior de los brazos, los tríceps, sobre la almohadilla y agarra las asas con un agarre supino, con las palmas hacia arriba. Consejo: Mantén los codos hacia dentro al apoyar los brazos. Esta será la posición inicial.",
+      "Eleva las asas mientras exhalas y contraes los bíceps. En la parte superior, mantén la contracción durante un segundo. Consejo: Solo deben moverse los antebrazos; los brazos deben permanecer inmóviles y apoyados en la almohadilla en todo momento.",
+      "Baja lentamente las asas hasta la posición inicial mientras inhalas.",
+      "Repite el número recomendado de repeticiones."
+    ]
+  },
+  "Machine_Shoulder_Military_Press": {
+    "name": "Press militar de hombros en máquina",
+    "instructions": [
+      "Siéntate en la máquina de press de hombros y selecciona el peso.",
+      "Agarra las asas a los lados manteniendo los codos flexionados y alineados con el torso. Esta será la posición inicial.",
+      "Eleva las asas mientras exhalas y extiende por completo los brazos. En la parte superior, mantén la contracción durante un segundo.",
+      "Baja lentamente las asas hasta la posición inicial mientras inhalas.",
+      "Repite el número recomendado de repeticiones."
+    ]
+  },
+  "Machine_Triceps_Extension": {
+    "name": "Extensión de tríceps en máquina",
+    "instructions": [
+      "Ajusta el asiento a la altura adecuada y selecciona el peso. Apoya los brazos contra las almohadillas y agarra las asas. Esta será la posición inicial.",
+      "Realiza el movimiento extendiendo los codos y alejando los antebrazos de los brazos.",
+      "Haz una pausa al completar el movimiento y luego devuelve lentamente el peso a la posición inicial.",
+      "No dejes que el peso llegue por completo a los topes hasta terminar la serie, para mantener la tensión en los músculos trabajados."
+    ]
+  },
+  "Medicine_Ball_Chest_Pass": {
+    "name": "Pase de pecho con balón medicinal",
+    "instructions": [
+      "Necesitarás un compañero para este ejercicio. Si no tienes uno, puedes realizar el movimiento contra una pared.",
+      "Colócate frente a tu compañero sosteniendo el balón medicinal delante del torso con ambas manos.",
+      "Lleva el balón al pecho y revierte el movimiento extendiendo los codos. Para aplicaciones deportivas, puedes dar un paso al lanzar.",
+      "Tu compañero debe atrapar el balón y devolvértelo.",
+      "Recibe el lanzamiento con ambas manos a la altura del pecho."
+    ]
+  },
+  "Medicine_Ball_Full_Twist": {
+    "name": "Giro completo con balón medicinal",
+    "instructions": [
+      "Necesitarás un balón medicinal y un compañero para este ejercicio. Colocaos de espaldas, separados entre 2 y 3 pies. Esta será la posición inicial.",
+      "Sostén el balón delante del tronco y abre las caderas mientras giras los hombros al mismo tiempo que tu compañero.",
+      "Realizad una rotación completa girando ambos en la misma dirección, por ejemplo, en sentido antihorario.",
+      "Pasa el balón a tu compañero; después, ambos girad en la dirección opuesta y repetid."
+    ]
+  },
+  "Medicine_Ball_Scoop_Throw": {
+    "name": "Lanzamiento de cuchara con balón medicinal",
+    "instructions": [
+      "Adopta una posición de media sentadilla sosteniendo un balón medicinal con ambas manos. Deja los brazos colgando de modo que el balón quede cerca de los pies.",
+      "Impulsa las caderas hacia delante, extiende las piernas y salta.",
+      "Balancea los brazos extendidos por encima de la cabeza y suelta el balón en el punto más alto. El objetivo es lograr la mayor distancia posible hacia atrás."
+    ]
+  },
+  "Middle_Back_Shrug": {
+    "name": "Encogimiento para la zona media de la espalda",
+    "instructions": [
+      "Túmbate boca abajo sobre un banco inclinado sosteniendo una mancuerna en cada mano. Deja los brazos completamente extendidos hacia el suelo con las palmas enfrentadas. Esta será la posición inicial.",
+      "Mientras exhalas, junta las escápulas y mantén la contracción durante un segundo. Consejo: El movimiento se asemeja a un abrazo inverso o a una elevación posterior, pero sin mover los brazos.",
+      "Regresa lentamente a la posición inicial mientras inhalas.",
+      "Repite el número recomendado de repeticiones."
+    ]
+  },
+  "Middle_Back_Stretch": {
+    "name": "Estiramiento de la zona media de la espalda",
+    "instructions": [
+      "Colócate de pie con los pies separados a la anchura de los hombros y las manos sobre las caderas.",
+      "Gira la cintura hasta notar un estiramiento. Mantén la posición durante 10-15 segundos y después gira hacia el otro lado."
+    ]
+  },
+  "Mixed_Grip_Chin": {
+    "name": "Dominada con agarre mixto",
+    "instructions": [
+      "Agarra una barra de dominadas con las manos separadas aproximadamente 1 pulgada más que la anchura de los hombros, con la palma de una mano orientada hacia delante y la de la otra hacia ti. Esta será la posición inicial.",
+      "Comienza a elevarte mientras exhalas. Consejo: Con el brazo cuya palma mira hacia ti, concéntrate en utilizar la musculatura de la espalda; el codo de ese brazo debe permanecer cerca del torso. Con el otro brazo, cuya palma mira hacia delante, el codo quedará separado pero alineado con el torso. Concéntrate en usar los dorsales para elevar el cuerpo.",
+      "Después de mantener la contracción arriba durante un segundo, desciende lentamente mientras inhalas.",
+      "Repite el número recomendado de repeticiones.",
+      "En la siguiente serie, intercambia los agarres. Por ejemplo, si la palma derecha miraba hacia ti y la izquierda hacia delante, en la siguiente serie coloca la derecha hacia delante y la izquierda hacia ti."
+    ]
+  },
+  "Monster_Walk": {
+    "name": "Caminata monstruo",
+    "instructions": [
+      "Coloca una banda alrededor de ambos tobillos y otra alrededor de ambas rodillas. Debe haber suficiente tensión para que queden tensas cuando los pies estén separados a la anchura de los hombros.",
+      "Para comenzar, da pasos cortos hacia delante alternando el pie izquierdo y el derecho.",
+      "Después de varios pasos, haz lo contrario y camina hacia atrás hasta regresar al punto de partida."
+    ]
+  },
+  "Mountain_Climbers": {
+    "name": "Escaladores",
+    "instructions": [
+      "Comienza en posición de flexión, con el peso apoyado sobre las manos y las puntas de los pies. Flexiona la rodilla y la cadera para adelantar una pierna hasta que la rodilla quede aproximadamente debajo de la cadera. Esta será la posición inicial.",
+      "Invierte de forma explosiva la posición de las piernas: extiende la pierna flexionada hasta dejarla recta y apoyada sobre la punta del pie, mientras adelantas la otra con la cadera y la rodilla flexionadas. Alterna durante 20-30 segundos."
+    ]
+  },
+  "Moving_Claw_Series": {
+    "name": "Serie de zarpazos en movimiento",
+    "instructions": [
+      "Este movimiento ayuda a preparar la técnica de carrera para mejorar el esprint. Mientras corres, flexiona la rodilla e intenta llevar el talón hacia los glúteos al extender la cadera.",
+      "Recarga el cuádriceps mientras la pierna vuelve hacia delante y ataca el suelo en el siguiente paso.",
+      "Durante la carrera, impulsa los brazos con un movimiento rápido de 1-2."
+    ]
+  },
+  "Muscle_Snatch": {
+    "name": "Arrancada muscular",
+    "instructions": [
+      "Comienza con una barra cargada sostenida a la altura de la mitad de los muslos con un agarre amplio. Los pies deben quedar directamente bajo las caderas y orientados hacia fuera según sea necesario. Baja las caderas, mantén el pecho elevado y la mirada al frente. Los hombros deben quedar ligeramente por delante de la barra. Esta será la posición inicial.",
+      "Inicia el tirón empujando con la parte delantera de los talones y elevando la barra. Pasa al segundo tirón extendiendo las caderas, las rodillas y los tobillos para impulsar la barra hacia arriba lo más rápido posible. La barra debe permanecer cerca del cuerpo.",
+      "Continúa elevando la barra hasta colocarla por encima de la cabeza, sin volver a flexionar las rodillas."
+    ]
+  },
+  "Muscle_Up": {
+    "name": "Muscle-up",
+    "instructions": [
+      "Agarra las anillas con agarre falso, apoyando la base de las palmas sobre ellas. Inicia una dominada llevando los codos hacia abajo y flexionándolos.",
+      "Al llegar a la parte superior de la dominada, lleva las anillas hacia las axilas mientras rotas los hombros hacia delante y permites que los codos se desplacen rectos hacia atrás. Esto te coloca en la posición adecuada para continuar con la fase de fondo.",
+      "Manteniendo el control y la estabilidad, extiende los codos para completar el movimiento.",
+      "Desciende al suelo con cuidado."
+    ]
+  },
+  "Narrow_Stance_Hack_Squats": {
+    "name": "Sentadilla hack con postura estrecha",
+    "instructions": [
+      "Apoya la espalda contra la almohadilla posterior de la máquina y coloca los hombros debajo de las almohadillas correspondientes.",
+      "Coloca los pies sobre la plataforma en una postura estrecha, a menos de la anchura de los hombros, con las puntas ligeramente hacia fuera. Los pies deben estar separados unas 3 pulgadas o menos. Consejo: Mantén siempre la cabeza elevada y la espalda apoyada.",
+      "Coloca las manos en las asas laterales y libera las barras de seguridad; en la mayoría de los diseños se hace girando las asas desde una posición frontal a una diagonal.",
+      "Estira las piernas sin bloquear las rodillas. Esta será la posición inicial.",
+      "Comienza a bajar lentamente la unidad flexionando las rodillas mientras mantienes una postura erguida, la cabeza elevada y la espalda apoyada. Desciende hasta que el ángulo entre los muslos y las pantorrillas sea ligeramente inferior a 90 grados, de modo que los muslos queden por debajo de la horizontal. Inhala durante esta fase.",
+      "Eleva la unidad mientras exhalas, empujando principalmente con los talones y extendiendo de nuevo las piernas hasta regresar a la posición inicial.",
+      "Repite el número recomendado de repeticiones."
+    ]
+  },
+  "Narrow_Stance_Leg_Press": {
+    "name": "Prensa de piernas con postura estrecha",
+    "instructions": [
+      "Siéntate en una máquina de prensa de piernas y coloca los pies en la plataforma frente a ti en una postura estrecha, a menos de la anchura de los hombros, con las puntas ligeramente hacia fuera. Los pies deben quedar separados unas 3 pulgadas o menos. Consejo: Mantén siempre la cabeza elevada y la espalda apoyada.",
+      "Libera las barras de seguridad que sujetan la plataforma y empújala hacia arriba hasta extender por completo las piernas frente a ti. Consejo: No bloquees las rodillas. El torso y las piernas deben formar un ángulo perfecto de 90 grados. Esta será la posición inicial.",
+      "Mientras inhalas, baja lentamente la plataforma hasta que los muslos y las piernas formen un ángulo de 90 grados.",
+      "Empujando principalmente con los talones y utilizando los cuádriceps, vuelve a la posición inicial mientras exhalas.",
+      "Repite el número recomendado de repeticiones y asegúrate de bloquear correctamente los pasadores de seguridad al terminar. No permitas que la plataforma cargada caiga sobre ti."
+    ]
+  },
+  "Narrow_Stance_Squats": {
+    "name": "Sentadilla con postura estrecha",
+    "instructions": [
+      "Por seguridad, este ejercicio se realiza mejor dentro de una jaula de sentadillas. Ajusta la barra en un soporte a una altura adecuada. Una vez elegida la altura y cargada la barra, colócate debajo y apóyala sobre la parte posterior de los hombros, ligeramente por debajo del cuello.",
+      "Sujeta la barra con ambas manos a los lados y sácala del soporte empujando primero con las piernas mientras enderezas el torso.",
+      "Aléjate del soporte y coloca los pies en una postura estrecha, a menos de la anchura de los hombros, con las puntas ligeramente hacia fuera. Los pies deben quedar separados entre 3 y 6 pulgadas. Mantén la cabeza elevada, ya que mirar hacia abajo puede desequilibrarte, y la espalda recta. Esta será la posición inicial. Nota: Para esta explicación se utiliza la postura media descrita, que favorece el desarrollo general; no obstante, puedes elegir cualquiera de las tres posturas tratadas en la sección correspondiente.",
+      "Comienza a bajar lentamente la barra flexionando las rodillas mientras mantienes el torso erguido y la cabeza elevada. Desciende hasta que el ángulo entre los muslos y las pantorrillas sea ligeramente inferior a 90 grados, con los muslos por debajo de la horizontal. Inhala durante esta fase. Consejo: Si ejecutas correctamente el ejercicio, la parte delantera de las rodillas debe formar una línea imaginaria perpendicular con las puntas de los pies. Si las rodillas las sobrepasan, estarás sometiendo la articulación a una tensión excesiva.",
+      "Eleva la barra mientras exhalas, empujando principalmente el suelo con los talones y extendiendo las piernas hasta regresar a la posición inicial.",
+      "Repite el número recomendado de repeticiones."
+    ]
+  },
+  "Natural_Glute_Ham_Raise": {
+    "name": "Elevación natural de glúteos e isquiotibiales",
+    "instructions": [
+      "Utiliza la almohadilla para piernas de una máquina de jalón al pecho o un banco predicador. Colócate con los tobillos bajo las almohadillas, las rodillas sobre el asiento y mirando en dirección opuesta a la máquina. Mantente erguido y con una postura correcta.",
+      "Esta será la posición inicial. Baja el cuerpo de forma controlada hasta que las rodillas estén casi completamente extendidas.",
+      "Sin perder el control, elévate de nuevo hasta la posición inicial.",
+      "Si no puedes completar una repetición, utiliza una banda, la ayuda de un compañero o impúlsate desde una caja."
+    ]
+  },
+  "Neck-SMR": {
+    "name": "Autoliberación miofascial del cuello",
+    "instructions": [
+      "Utiliza un rodillo muscular o un rodillo de cocina y colócalo detrás de la cabeza, contra el cuello. No lo apoyes directamente sobre la columna; gíralo ligeramente para presionarlo contra los músculos situados a ambos lados. Esta será la posición inicial.",
+      "Comenzando en la parte superior del cuello, rueda lentamente hacia abajo sobre la musculatura y haz una pausa de 10-30 segundos en los puntos de tensión."
+    ]
+  },
+  "Neck_Press": {
+    "name": "Press al cuello",
+    "instructions": [
+      "Túmbate en un banco plano. Con un agarre medio, que forme un ángulo de 90 grados entre los antebrazos y los brazos en la mitad del movimiento, saca la barra del soporte y sostenla directamente sobre el cuello con los brazos bloqueados. Esta será la posición inicial.",
+      "Mientras inhalas, baja lentamente hasta que la barra toque el cuello.",
+      "Después de una pausa de un segundo, devuelve la barra a la posición inicial mientras exhalas, empujando con los músculos del pecho. Bloquea los brazos y contrae el pecho, mantén un segundo y vuelve a bajar lentamente. Consejo: El descenso debe durar al menos el doble que la subida.",
+      "Repite el movimiento el número indicado de repeticiones.",
+      "Al terminar, vuelve a colocar la barra en el soporte."
+    ]
+  },
+  "Oblique_Crunches": {
+    "name": "Crunches oblicuos",
+    "instructions": [
+      "Túmbate boca arriba con la zona lumbar presionada contra el suelo. Coloca una mano junto a la cabeza y la otra extendida a un lado, apoyada en el suelo.",
+      "Asegúrate de que los pies estén elevados y apoyados sobre una superficie plana.",
+      "Eleva el hombro del lado de la mano que toca la cabeza.",
+      "Eleva el hombro y el cuerpo hasta tocar la rodilla. Por ejemplo, si la mano derecha está junto a la cabeza, eleva el cuerpo hasta que el codo derecho toque la rodilla izquierda. También puedes realizar la variante inversa, llevando el codo izquierdo a la rodilla derecha.",
+      "Después de que la rodilla y el codo se toquen, baja el cuerpo hasta regresar a la posición inicial.",
+      "Recuerda inhalar durante la fase excéntrica, al bajar, y exhalar durante la fase concéntrica, al subir.",
+      "Continúa alternando de esta manera hasta completar todas las repeticiones recomendadas en cada lado."
+    ]
+  },
+  "Oblique_Crunches_-_On_The_Floor": {
+    "name": "Crunches oblicuos en el suelo",
+    "instructions": [
+      "Comienza tumbado sobre el lado derecho con las piernas una encima de la otra y las rodillas ligeramente flexionadas.",
+      "Coloca la mano izquierda detrás de la cabeza.",
+      "Desde esta posición, eleva el codo izquierdo como en un crunch normal, pero concentrando el esfuerzo principalmente en los oblicuos.",
+      "Sube todo lo que puedas, mantén la contracción durante un segundo y baja lentamente hasta la posición inicial.",
+      "Recuerda inhalar durante la fase excéntrica, al bajar, y exhalar durante la fase concéntrica, al elevarte."
+    ]
+  },
+  "Olympic_Squat": {
+    "name": "Sentadilla olímpica",
+    "instructions": [
+      "Comienza con una barra apoyada sobre la parte superior de los trapecios. Mantén el pecho elevado y la mirada al frente. Adopta una postura con los pies separados a la anchura de las caderas y orientados hacia fuera según sea necesario.",
+      "Desciende flexionando las rodillas y evitando llevar las caderas hacia atrás más de lo necesario. Esto requiere que las rodillas avancen; asegúrate de que permanezcan alineadas con los pies. El objetivo es mantener el torso lo más vertical posible. Baja por completo manteniendo el peso sobre la parte delantera de los talones.",
+      "Cuando los muslos entren en contacto con las piernas, invierte el movimiento e impulsa el peso hacia arriba."
+    ]
+  },
+  "On-Your-Back_Quad_Stretch": {
+    "name": "Estiramiento de cuádriceps boca arriba",
+    "instructions": [
+      "Túmbate en un banco plano o un step y deja que una pierna y un brazo cuelguen por un lado.",
+      "Flexiona la rodilla y sujeta la parte superior del pie. Evita arquear la zona lumbar.",
+      "Lleva el ombligo hacia la columna para mantener una posición neutra. Presiona el pie hacia abajo y contra la mano. Para aumentar el estiramiento de la cadera, eleva hacia el techo la cadera de la pierna que estás sujetando.",
+      "Cambia de lado."
+    ]
+  },
+  "On_Your_Side_Quad_Stretch": {
+    "name": "Estiramiento de cuádriceps de lado",
+    "instructions": [
+      "Comienza tumbado sobre el lado derecho, con la rodilla derecha flexionada a 90 grados y apoyada en el suelo delante de ti para estabilizar el torso.",
+      "Flexiona la rodilla izquierda detrás de ti y sujeta el pie izquierdo con la mano izquierda. Para estirar el flexor de la cadera, empuja la cadera izquierda hacia delante mientras presionas el pie hacia atrás contra la mano. Cambia de lado."
+    ]
+  },
+  "One-Arm_Dumbbell_Row": {
+    "name": "Remo con mancuerna a una mano",
+    "instructions": [
+      "Elige un banco plano y coloca una mancuerna a cada lado.",
+      "Apoya la pierna derecha sobre un extremo del banco, inclina el torso hacia delante desde la cintura hasta que quede paralelo al suelo y apoya la mano derecha en el otro extremo del banco.",
+      "Recoge la mancuerna del suelo con la mano izquierda y sostenla manteniendo la zona lumbar recta. La palma debe mirar hacia el torso. Esta será la posición inicial.",
+      "Tira del peso en línea recta hacia el costado del pecho, manteniendo el brazo cerca del cuerpo y el torso inmóvil. Exhala durante esta fase. Consejo: Concéntrate en contraer la espalda al llegar a la posición de máxima contracción. La fuerza debe provenir de la musculatura de la espalda, no de los brazos. El torso debe permanecer inmóvil y solo debe moverse el brazo. Los antebrazos únicamente sostienen la mancuerna; no intentes tirar con ellos.",
+      "Baja el peso en línea recta hasta la posición inicial. Inhala durante esta fase.",
+      "Repite el movimiento el número indicado de repeticiones.",
+      "Cambia de lado y repite con el otro brazo."
+    ]
+  },
+  "One-Arm_Flat_Bench_Dumbbell_Flye": {
+    "name": "Apertura con mancuerna a una mano en banco plano",
+    "instructions": [
+      "Túmbate en un banco plano con una mancuerna en una mano apoyada sobre el muslo. La palma de la mano que sostiene la mancuerna debe estar en agarre neutro.",
+      "Utiliza el muslo para ayudarte a elevar la mancuerna hasta sostenerla delante de ti con el brazo completamente extendido. Mantén el agarre neutro. La mano libre debe sujetar el lateral del banco para ofrecer mayor estabilidad. Esta será la posición inicial.",
+      "Mantén una ligera flexión en el codo del brazo que sostiene el peso para evitar tensión en el tendón del bíceps. Baja el brazo en un arco amplio hacia el lado hasta sentir un estiramiento en el pecho. Inhala durante esta fase. Consejo: El brazo debe permanecer fijo y el movimiento debe producirse únicamente en la articulación del hombro.",
+      "Devuelve el brazo a la posición inicial siguiendo el mismo arco, contrae el pecho y exhala.",
+      "Mantén la contracción durante un segundo y repite el número indicado de repeticiones.",
+      "Cambia de brazo y repite el ejercicio."
+    ]
+  },
+  "One-Arm_High-Pulley_Cable_Side_Bends": {
+    "name": "Flexión lateral a una mano en polea alta",
+    "instructions": [
+      "Conecta un asa estándar a una torre y coloca el cable en la posición más alta.",
+      "Colócate de lado respecto a la polea. Alcanza el asa con una mano y agárrala en supinación.",
+      "Tira del cable hacia abajo hasta que el codo toque el costado y el asa quede junto al hombro.",
+      "Coloca los pies separados a la anchura de las caderas. Apoya la mano libre sobre la cadera para controlar el punto de flexión.",
+      "Mantén el brazo fijo. Contrae el oblicuo para llevar el peso hacia abajo mediante una flexión lateral.",
+      "Al alcanzar la contracción máxima, deja que el peso vuelva lentamente a la posición inicial. La pila de pesas nunca debe descargarse por completo durante el descanso; el objetivo es mantener tensión constante durante la serie.",
+      "Repite hasta el fallo.",
+      "Después, cambia de posición y repite la misma secuencia en el lado opuesto."
+    ]
+  },
+  "One-Arm_Incline_Lateral_Raise": {
+    "name": "Elevación lateral inclinada a una mano",
+    "instructions": [
+      "Túmbate de lado sobre un banco inclinado sosteniendo una mancuerna. Asegúrate de que el hombro esté apoyado contra el banco y de que el brazo cruce el cuerpo con la palma cerca del ombligo.",
+      "Sostén la mancuerna con el brazo superior extendido delante de ti y paralelo al suelo. Esta será la posición inicial.",
+      "Manteniendo la mancuerna paralela al suelo en todo momento, realiza una elevación lateral. El brazo debe subir en línea recta hasta apuntar al techo. Consejo: Exhala durante el movimiento y mantén la posición durante un segundo, notando la contracción en el hombro.",
+      "Mientras inhalas, baja el peso cruzando el cuerpo hasta la posición inicial.",
+      "Repite el número indicado de repeticiones.",
+      "Cambia de brazo y repite el movimiento."
+    ]
+  },
+  "One-Arm_Kettlebell_Clean": {
+    "name": "Clean con kettlebell a una mano",
+    "instructions": [
+      "Coloca una kettlebell entre los pies. Al agacharte para agarrarla, lleva los glúteos hacia atrás y mantén la mirada al frente.",
+      "Lleva la kettlebell al hombro extendiendo las piernas y las caderas mientras la elevas. Gira la muñeca durante el movimiento.",
+      "Devuelve el peso a la posición inicial."
+    ]
+  },
+  "One-Arm_Kettlebell_Clean_and_Jerk": {
+    "name": "Clean and jerk con kettlebell a una mano",
+    "instructions": [
+      "Sujeta una kettlebell por el asa.",
+      "Lleva la kettlebell al hombro extendiendo las piernas y las caderas mientras tiras de ella hacia arriba. Gira la muñeca para que la palma quede orientada hacia delante.",
+      "Desciende ligeramente flexionando las rodillas y manteniendo el torso erguido.",
+      "Invierte de inmediato la dirección, empuja con los talones y genera impulso como si saltaras. Al mismo tiempo, lleva la kettlebell por encima de la cabeza hasta bloquear el brazo, utilizando el impulso del cuerpo.",
+      "Recibe el peso por encima de la cabeza descendiendo de nuevo a una posición de sentadilla bajo él.",
+      "Manteniendo el peso arriba, vuelve a la posición de pie. Baja la kettlebell al suelo para realizar la siguiente repetición."
+    ]
+  },
+  "One-Arm_Kettlebell_Floor_Press": {
+    "name": "Press de suelo con kettlebell a una mano",
+    "instructions": [
+      "Túmbate en el suelo sosteniendo una kettlebell con una mano y con el brazo apoyado en el suelo. La palma debe mirar hacia dentro.",
+      "Empuja la kettlebell en línea recta hacia el techo mientras giras la muñeca.",
+      "Baja la kettlebell hasta la posición inicial y repite."
+    ]
+  },
+  "One-Arm_Kettlebell_Jerk": {
+    "name": "Jerk con kettlebell a una mano",
+    "instructions": [
+      "Sujeta una kettlebell por el asa. Llévala al hombro extendiendo las piernas y las caderas mientras tiras de ella hacia arriba. Gira la muñeca para que la palma quede orientada hacia delante. Esta será la posición inicial.",
+      "Desciende ligeramente flexionando las rodillas y manteniendo el torso erguido.",
+      "Invierte de inmediato la dirección, empuja con los talones y genera impulso como si saltaras. Al mismo tiempo, lleva la kettlebell por encima de la cabeza hasta bloquear el brazo utilizando el impulso del cuerpo. Recibe el peso descendiendo a una posición de sentadilla bajo él y, manteniéndolo arriba, vuelve a ponerte de pie.",
+      "Baja el peso para realizar la siguiente repetición."
+    ]
+  },
+  "One-Arm_Kettlebell_Military_Press_To_The_Side": {
+    "name": "Press militar lateral con kettlebell a una mano",
+    "instructions": [
+      "Lleva una kettlebell al hombro extendiendo las piernas y las caderas mientras tiras de ella hacia arriba. Gira la muñeca para que la palma quede orientada hacia dentro. Esta será la posición inicial.",
+      "Mira la kettlebell y empújala hacia arriba y hacia fuera hasta bloquearla por encima de la cabeza.",
+      "Baja la kettlebell de forma controlada hasta el hombro y repite. Contrae con fuerza el dorsal, los glúteos y el abdomen para aumentar la estabilidad y la fuerza."
+    ]
+  },
+  "One-Arm_Kettlebell_Para_Press": {
+    "name": "Press para con kettlebell a una mano",
+    "instructions": [
+      "Lleva una kettlebell al hombro extendiendo las piernas y las caderas mientras tiras de ella hacia arriba. Gira la muñeca para que la palma quede orientada hacia delante. Esta será la posición inicial.",
+      "Sostén la kettlebell con el codo hacia un lado y empújala hacia arriba y hacia fuera hasta bloquearla por encima de la cabeza.",
+      "Baja la kettlebell de forma controlada hasta el hombro y repite. Contrae con fuerza el dorsal, los glúteos y el abdomen para aumentar la estabilidad y la fuerza."
+    ]
+  }
+}

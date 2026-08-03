@@ -1,0 +1,509 @@
+{
+  "High_Cable_Curls": {
+    "name": "Curl en polea alta",
+    "instructions": [
+      "Colócate entre dos poleas altas y sujeta un asa con cada mano. Sitúa los brazos paralelos al suelo, con las palmas orientadas hacia ti. Esta será la posición inicial.",
+      "Flexiona los codos y acerca las asas hasta situarlas junto a las orejas. Contrae los bíceps y exhala durante el movimiento. Mantén inmóviles los brazos; solo deben moverse los antebrazos. Mantén la contracción durante un segundo apretando los bíceps.",
+      "Extiende lentamente los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Hip_Circles_prone": {
+    "name": "Círculos de cadera en cuadrupedia",
+    "instructions": [
+      "Colócate a cuatro apoyos sobre las manos y las rodillas. Manteniendo una buena postura, eleva del suelo una rodilla flexionada. Esta será la posición inicial.",
+      "Sin extender la rodilla, rota el fémur describiendo un arco e intenta dibujar un círculo grande con la rodilla.",
+      "Realiza el movimiento lentamente durante el número indicado de repeticiones y repite con el otro lado."
+    ]
+  },
+  "Hip_Extension_with_Bands": {
+    "name": "Extensión de cadera con banda",
+    "instructions": [
+      "Fija un extremo de la banda a la parte inferior de un poste y el otro a uno de tus tobillos.",
+      "Colócate frente al punto de anclaje y sujétate al poste para estabilizarte.",
+      "Mantén la cabeza y el pecho erguidos y lleva hacia atrás la pierna con resistencia todo lo posible, sin flexionar la rodilla.",
+      "Devuelve la pierna a la posición inicial."
+    ]
+  },
+  "Hip_Flexion_with_Band": {
+    "name": "Flexión de cadera con banda",
+    "instructions": [
+      "Fija un extremo de la banda a la parte inferior de un poste y el otro a uno de tus tobillos.",
+      "Colócate de espaldas al punto de anclaje de la banda.",
+      "Mantén la cabeza y el pecho erguidos, eleva la rodilla hasta 90 grados y haz una pausa.",
+      "Devuelve la pierna a la posición inicial."
+    ]
+  },
+  "Hip_Lift_with_Band": {
+    "name": "Elevación de cadera con banda",
+    "instructions": [
+      "Elige una banda adecuada, fíjala a ambos lados de la jaula y túmbate en el centro. Si la jaula no dispone de anclajes, puedes asegurar la banda con mancuernas pesadas u otros objetos similares, comprobando que no puedan moverse.",
+      "Ajusta la posición para que la banda quede directamente sobre las caderas. Flexiona las rodillas y apoya completamente los pies en el suelo. Puedes colocar las manos en el suelo o usarlas para mantener la banda en su sitio.",
+      "Sin despegar los hombros del suelo, empuja con los talones para elevar las caderas contra la resistencia de la banda todo lo posible.",
+      "Haz una pausa en la parte alta y vuelve a la posición inicial."
+    ]
+  },
+  "Hug_A_Ball": {
+    "name": "Abrazo al balón",
+    "instructions": [
+      "Siéntate en el suelo.",
+      "Coloca un balón de ejercicio entre las piernas y baja las caderas hacia el suelo.",
+      "Rodea el balón con los brazos para sostener el cuerpo. Ajusta las piernas para que los pies queden completamente apoyados y las rodillas alineadas sobre los tobillos. Sujeta bien el balón para evitar que ruede y te haga caer hacia atrás."
+    ]
+  },
+  "Hug_Knees_To_Chest": {
+    "name": "Rodillas al pecho",
+    "instructions": [
+      "Túmbate boca arriba y lleva ambas rodillas hacia el pecho.",
+      "Rodea las piernas con los brazos por debajo de las rodillas, no por encima, ya que ejercerías demasiada presión sobre las articulaciones.",
+      "Acerca lentamente las rodillas hacia los hombros. Este movimiento también estira los glúteos."
+    ]
+  },
+  "Hurdle_Hops": {
+    "name": "Saltos sobre vallas",
+    "instructions": [
+      "Coloca una fila de vallas u otros obstáculos pequeños, separados entre sí por unos cuantos pies.",
+      "Sitúate frente a la primera valla con los pies separados al ancho de los hombros. Esta será la posición inicial.",
+      "Salta con ambos pies por encima de la primera valla mientras balanceas los brazos.",
+      "Absorbe el impacto de la caída flexionando las rodillas y rebota inmediatamente para saltar la siguiente valla. Continúa hasta superar todas las vallas."
+    ]
+  },
+  "Hyperextensions_Back_Extensions": {
+    "name": "Hiperextensiones de espalda",
+    "instructions": [
+      "Túmbate boca abajo en un banco de hiperextensiones y fija bien los tobillos bajo las almohadillas.",
+      "Si es posible, ajusta la almohadilla superior para que la parte alta de los muslos quede apoyada sobre ella y dispongas de espacio suficiente para flexionar la cintura sin restricciones.",
+      "Con el cuerpo recto, cruza los brazos delante del pecho o colócalos detrás de la cabeza. Esta será la posición inicial. Consejo: también puedes sostener un disco delante del cuerpo, bajo los brazos cruzados, para añadir resistencia.",
+      "Flexiona lentamente el torso hacia delante desde la cintura todo lo posible, manteniendo la espalda recta. Inhala durante el descenso. Continúa hasta notar un buen estiramiento en los isquiotibiales o hasta el punto previo a que la espalda empiece a redondearse. Consejo: nunca redondees la espalda. La amplitud variará de una persona a otra; desciende solo hasta donde tu movilidad permita mantener la espalda recta.",
+      "Eleva lentamente el torso hasta volver a la posición inicial. Consejo: no hiperextiendas la espalda más allá de una línea recta ni balancees el torso, para evitar lesiones.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Hyperextensions_With_No_Hyperextension_Bench": {
+    "name": "Hiperextensiones sin banco de hiperextensión",
+    "instructions": [
+      "Pide a alguien que te sujete las piernas y deslízate hacia el borde de un banco plano hasta que las caderas queden fuera. Consejo: toda la parte superior del cuerpo debe colgar hacia el suelo. La posición es similar a la de un banco de hiperextensiones, aunque el recorrido será menor debido a la menor altura del banco plano.",
+      "Con el cuerpo recto, cruza los brazos delante del pecho o colócalos detrás de la cabeza. Esta será la posición inicial. Consejo: también puedes sostener un disco delante del cuerpo, bajo los brazos cruzados, para añadir resistencia.",
+      "Flexiona lentamente el torso hacia delante desde la cintura todo lo posible, manteniendo la espalda recta. Inhala durante el descenso. Continúa hasta casi tocar el suelo o hasta notar un buen estiramiento en los isquiotibiales, lo que ocurra primero. Consejo: nunca redondees la espalda.",
+      "Eleva lentamente el torso hasta volver a la posición inicial mientras exhalas. Consejo: no arquees la espalda más allá de una línea recta ni balancees el torso, para evitar lesiones.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "IT_Band_and_Glute_Stretch": {
+    "name": "Estiramiento de la banda iliotibial y glúteos",
+    "instructions": [
+      "Rodea un pie con un cinturón, una cuerda o una banda y cruza esa pierna extendida sobre el cuerpo hacia el lado contrario mientras permaneces tumbado. Esta será la posición inicial.",
+      "Sin apoyar el pie en el suelo, tira del cinturón para llevar los dedos hacia arriba. Mantén la posición durante 10-20 segundos y repite con el otro lado."
+    ]
+  },
+  "Iliotibial_Tract-SMR": {
+    "name": "Autoliberación miofascial del tracto iliotibial",
+    "instructions": [
+      "Túmbate de lado y coloca la pierna inferior sobre un rodillo de espuma, entre la cadera y la rodilla. Puedes cruzar la otra pierna por delante.",
+      "Apoya sobre la pierna inferior tanto peso como puedas tolerar; no es necesario que permanezca en contacto con el suelo. Relaja la musculatura de la pierna que estás trabajando.",
+      "Rueda sobre la espuma desde la cadera hasta la rodilla y mantén los puntos de tensión durante 10-30 segundos. Repite con la pierna contraria."
+    ]
+  },
+  "Inchworm": {
+    "name": "Gusano",
+    "instructions": [
+      "Ponte de pie con los pies juntos. Manteniendo las piernas rectas, inclínate y coloca las manos en el suelo directamente delante de ti. Esta será la posición inicial.",
+      "Avanza lentamente con las manos, alternando izquierda y derecha. Flexiona únicamente la cadera y mantén las piernas rectas.",
+      "Continúa hasta que el cuerpo quede paralelo al suelo en posición de flexión.",
+      "Mantén las manos fijas y avanza lentamente con pasos cortos, moviendo los pies solo unos centímetros cada vez.",
+      "Continúa hasta que los pies lleguen junto a las manos, manteniendo las piernas rectas."
+    ]
+  },
+  "Incline_Barbell_Triceps_Extension": {
+    "name": "Extensión de tríceps con barra en banco inclinado",
+    "instructions": [
+      "Sujeta una barra con agarre prono, algo más estrecho que el ancho de los hombros.",
+      "Túmbate en un banco inclinado ajustado a un ángulo de entre 45 y 75 grados.",
+      "Lleva la barra por encima de la cabeza con los brazos extendidos y los codos cerrados. Los brazos deben quedar alineados con el torso. Esta será la posición inicial.",
+      "Baja la barra con un movimiento semicircular detrás de la cabeza hasta que los antebrazos toquen los bíceps. Inhala durante el movimiento. Consejo: mantén los brazos inmóviles y cerca de la cabeza en todo momento; solo deben moverse los antebrazos.",
+      "Extiende los codos para volver a la posición inicial mientras exhalas y contraes los tríceps. Mantén la contracción durante un segundo.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Incline_Bench_Pull": {
+    "name": "Remo en banco inclinado",
+    "instructions": [
+      "Sujeta una mancuerna con cada mano y túmbate boca abajo en un banco inclinado a unos 30 grados.",
+      "Deja los brazos completamente extendidos y colgando hacia el suelo a ambos lados.",
+      "Gira las muñecas hasta adoptar un agarre prono, con las palmas hacia abajo.",
+      "Abre los codos hacia fuera. Esta será la posición inicial.",
+      "Exhala y tira de las mancuernas hacia arriba como si realizaras un press de banca invertido. Flexiona los codos y eleva los brazos mientras los antebrazos permanecen colgando. Continúa hasta que los brazos queden a la altura de la espalda. Consejo: los codos deben abrirse y, en la parte alta, los brazos y el torso deben formar una «T». Mantén la contracción durante un segundo.",
+      "Baja lentamente hasta la posición inicial mientras inhalas.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Incline_Cable_Chest_Press": {
+    "name": "Press de pecho inclinado en polea",
+    "instructions": [
+      "Ajusta un peso adecuado y siéntate sujetando las asas. Los brazos deben formar unos 45 grados con el torso, la cabeza y el pecho permanecer erguidos y los codos estar flexionados unos 90 grados. Esta será la posición inicial.",
+      "Extiende los codos y junta las asas directamente delante de ti. Mantén los omóplatos retraídos durante el movimiento.",
+      "Tras una pausa con los brazos completamente extendidos, vuelve a la posición inicial manteniendo tensión en los cables."
+    ]
+  },
+  "Incline_Cable_Flye": {
+    "name": "Aperturas inclinadas en polea",
+    "instructions": [
+      "Coloca las poleas a la altura del suelo, en la posición más baja posible por debajo del torso.",
+      "Sitúa un banco inclinado a 45 grados entre las poleas, selecciona el peso y sujeta un asa con cada mano.",
+      "Túmbate en el banco y junta las manos delante de la cara con los brazos extendidos. Esta será la posición inicial.",
+      "Con los codos ligeramente flexionados para reducir la tensión sobre el tendón del bíceps, abre los brazos lateralmente describiendo un arco amplio hasta notar un estiramiento en el pecho. Inhala durante esta fase. Consejo: mantén los brazos rígidos; el movimiento debe producirse únicamente en la articulación del hombro.",
+      "Contrae el pecho y lleva los brazos de nuevo a la posición inicial mientras exhalas. Mantén la contracción durante un segundo. Consejo: utiliza el mismo arco empleado durante el descenso.",
+      "Repite el movimiento el número de repeticiones indicado."
+    ]
+  },
+  "Incline_Dumbbell_Bench_With_Palms_Facing_In": {
+    "name": "Press inclinado con mancuernas y agarre neutro",
+    "instructions": [
+      "Túmbate en un banco inclinado con una mancuerna apoyada sobre cada muslo y las palmas enfrentadas.",
+      "Impulsa las mancuernas con los muslos, una cada vez, hasta colocarlas al ancho de los hombros.",
+      "Mantén un agarre neutro, con las palmas enfrentadas. Abre los codos y alinea los brazos con los hombros, perpendiculares al torso, formando un ángulo de 90 grados entre brazo y antebrazo. Esta será la posición inicial.",
+      "Baja lentamente las mancuernas hacia los lados mientras inhalas, manteniendo el control en todo momento.",
+      "Exhala y empuja las mancuernas hacia arriba con los pectorales. Extiende los brazos, mantén la contracción durante un segundo y desciende lentamente. Consejo: el descenso debe durar al menos el doble que la subida.",
+      "Repite el movimiento el número de repeticiones indicado.",
+      "Al terminar, devuelve las mancuernas a los muslos y después al suelo. Esta es la forma más segura de soltarlas."
+    ]
+  },
+  "Incline_Dumbbell_Curl": {
+    "name": "Curl inclinado con mancuernas",
+    "instructions": [
+      "Siéntate en un banco inclinado con una mancuerna en cada mano y los brazos extendidos. Mantén los codos cerca del torso y gira las palmas hacia delante. Esta será la posición inicial.",
+      "Sin mover los brazos, flexiona los codos y eleva las mancuernas mientras contraes los bíceps y exhalas. Solo deben moverse los antebrazos. Continúa hasta que los bíceps estén completamente contraídos y las mancuernas lleguen a la altura de los hombros. Mantén la contracción durante un segundo.",
+      "Baja lentamente las mancuernas hasta la posición inicial mientras inhalas.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Incline_Dumbbell_Flyes": {
+    "name": "Aperturas inclinadas con mancuernas",
+    "instructions": [
+      "Sujeta una mancuerna con cada mano y túmbate en un banco inclinado a no más de 30 grados.",
+      "Extiende los brazos sobre el cuerpo manteniendo una ligera flexión de los codos.",
+      "Gira las muñecas para que las palmas miren hacia ti. Consejo: los meñiques deben quedar juntos. Esta será la posición inicial.",
+      "Inhala y abre lentamente los brazos hacia los lados, manteniéndolos extendidos y girando las muñecas hasta que las palmas queden enfrentadas. Consejo: al final, los brazos estarán junto al cuerpo y las palmas orientadas hacia el techo.",
+      "Exhala y eleva las mancuernas invirtiendo el recorrido, girando las manos hasta volver a juntar los meñiques. Consejo: el movimiento solo debe producirse en los hombros y las muñecas; los codos no deben moverse.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Incline_Dumbbell_Flyes_-_With_A_Twist": {
+    "name": "Aperturas inclinadas con mancuernas y giro",
+    "instructions": [
+      "Sujeta una mancuerna con cada mano y túmbate en un banco inclinado a no más de 30 grados.",
+      "Extiende los brazos sobre el cuerpo manteniendo una ligera flexión de los codos.",
+      "Gira las muñecas para que las palmas miren hacia ti. Consejo: los meñiques deben quedar juntos. Esta será la posición inicial.",
+      "Inhala y abre lentamente los brazos hacia los lados, manteniéndolos extendidos y girando las muñecas hasta que las palmas queden enfrentadas. Consejo: al final, los brazos estarán junto al cuerpo y las palmas orientadas hacia el techo.",
+      "Exhala y eleva las mancuernas invirtiendo el recorrido, girando las manos hasta volver a juntar los meñiques. Consejo: el movimiento solo debe producirse en los hombros y las muñecas; los codos no deben moverse.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Incline_Dumbbell_Press": {
+    "name": "Press inclinado con mancuernas",
+    "instructions": [
+      "Túmbate en un banco inclinado con una mancuerna apoyada sobre cada muslo y las palmas enfrentadas.",
+      "Impulsa las mancuernas con los muslos, una cada vez, hasta colocarlas al ancho de los hombros.",
+      "Gira las muñecas hacia delante hasta que las palmas queden orientadas en sentido contrario a ti. Esta será la posición inicial.",
+      "Mantén el control de las mancuernas en todo momento. Exhala y empújalas hacia arriba con el pecho.",
+      "Extiende los brazos en la parte alta, mantén un segundo y baja lentamente. Consejo: el descenso debería durar aproximadamente el doble que la subida.",
+      "Repite el movimiento el número de repeticiones indicado.",
+      "Al terminar, devuelve las mancuernas a los muslos y después al suelo. Esta es la forma más segura de soltarlas."
+    ]
+  },
+  "Incline_Hammer_Curls": {
+    "name": "Curl martillo inclinado",
+    "instructions": [
+      "Siéntate en un banco inclinado con una mancuerna en cada mano, la espalda bien apoyada y los pies juntos. Deja que las mancuernas cuelguen a los lados con agarre neutro. Esta será la posición inicial.",
+      "Flexiona los codos intentando mantener inmóviles los brazos.",
+      "Continúa hasta la parte alta, haz una pausa y vuelve lentamente a la posición inicial."
+    ]
+  },
+  "Incline_Inner_Biceps_Curl": {
+    "name": "Curl inclinado para la porción interna del bíceps",
+    "instructions": [
+      "Sujeta una mancuerna con cada mano y túmbate en un banco inclinado.",
+      "Deja las mancuernas colgando a los lados con los brazos extendidos y las palmas hacia fuera. Esta será la posición inicial.",
+      "Exhala y flexiona los codos llevando las mancuernas hacia fuera y arriba, con los antebrazos alineados con los deltoides laterales. Continúa hasta que lleguen a la altura de los hombros, a ambos lados de los deltoides. Consejo: la posición final debe parecerse a una pose de doble bíceps.",
+      "Tras mantener la contracción durante un segundo, inhala y baja lentamente las mancuernas por el mismo recorrido.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Incline_Push-Up": {
+    "name": "Flexión inclinada",
+    "instructions": [
+      "Colócate frente a un banco o plataforma elevada y resistente. Apoya las manos en el borde, algo más separadas que el ancho de los hombros.",
+      "Retrocede con los pies hasta dejar los brazos y el cuerpo rectos. Los brazos deben quedar perpendiculares al cuerpo. Manteniendo el cuerpo alineado, flexiona los codos y baja el pecho hacia el borde.",
+      "Empuja el cuerpo hacia arriba hasta extender los brazos. Repite."
+    ]
+  },
+  "Incline_Push-Up_Close-Grip": {
+    "name": "Flexión inclinada con agarre cerrado",
+    "instructions": [
+      "Colócate frente a una barra de máquina Smith o una plataforma elevada y resistente a una altura adecuada.",
+      "Apoya las manos juntas sobre la barra.",
+      "Retrocede con los pies hasta dejar los brazos y el cuerpo rectos. Esta será la posición inicial.",
+      "Manteniendo el cuerpo alineado, flexiona los codos y baja el pecho hacia la barra.",
+      "Extiende los codos y empuja el cuerpo hacia arriba para volver a la posición inicial."
+    ]
+  },
+  "Incline_Push-Up_Depth_Jump": {
+    "name": "Flexión inclinada con salto de profundidad",
+    "instructions": [
+      "Para este ejercicio necesitas un cajón de unas 12 pulgadas de altura y dos colchonetas gruesas o steps de aeróbic.",
+      "Coloca los steps justo por fuera de los hombros y apoya los pies sobre el cajón, adoptando una posición de flexión inclinada con las manos entre los steps. Esta será la posición inicial.",
+      "Flexiona los codos para bajar el cuerpo y cambia rápidamente de dirección para impulsarte desde el suelo. Al despegar, mueve las manos sobre los steps y flexiona los codos para absorber el impacto.",
+      "Repite el movimiento en sentido inverso para volver a la posición inicial."
+    ]
+  },
+  "Incline_Push-Up_Medium": {
+    "name": "Flexión inclinada con agarre medio",
+    "instructions": [
+      "Colócate frente a una barra de máquina Smith o una plataforma elevada y resistente a una altura adecuada.",
+      "Apoya las manos sobre la barra, separadas aproximadamente al ancho de los hombros.",
+      "Retrocede con los pies hasta dejar los brazos y el cuerpo rectos. Esta será la posición inicial.",
+      "Manteniendo el cuerpo alineado, flexiona los codos y baja el pecho hacia la barra.",
+      "Extiende los codos y empuja el cuerpo hacia arriba para volver a la posición inicial."
+    ]
+  },
+  "Incline_Push-Up_Reverse_Grip": {
+    "name": "Flexión inclinada con agarre inverso",
+    "instructions": [
+      "Colócate frente a una barra de máquina Smith o una plataforma elevada y resistente a una altura adecuada.",
+      "Apoya las manos sobre la barra con las palmas hacia arriba, separadas aproximadamente al ancho de los hombros.",
+      "Retrocede con los pies hasta dejar los brazos y el cuerpo rectos. Esta será la posición inicial.",
+      "Manteniendo el cuerpo alineado, flexiona los codos y baja el pecho hacia la barra.",
+      "Extiende los codos y empuja el cuerpo hacia arriba para volver a la posición inicial."
+    ]
+  },
+  "Incline_Push-Up_Wide": {
+    "name": "Flexión inclinada con agarre ancho",
+    "instructions": [
+      "Colócate frente a una barra de máquina Smith o una plataforma elevada y resistente a una altura adecuada.",
+      "Apoya las manos sobre la barra, más separadas que el ancho de los hombros.",
+      "Retrocede con los pies hasta dejar los brazos y el cuerpo rectos. Los brazos deben quedar perpendiculares al cuerpo. Esta será la posición inicial.",
+      "Manteniendo el cuerpo alineado, flexiona los codos y baja el pecho hacia la barra.",
+      "Extiende los codos y empuja el cuerpo hacia arriba para volver a la posición inicial."
+    ]
+  },
+  "Intermediate_Groin_Stretch": {
+    "name": "Estiramiento intermedio de la ingle",
+    "instructions": [
+      "Túmbate boca arriba con las piernas extendidas. Rodea un pie con un cinturón, una cuerda o una banda y desplaza esa pierna lateralmente todo lo posible. Esta será la posición inicial.",
+      "Tira suavemente del cinturón para generar tensión en la ingle y los isquiotibiales. Mantén la posición durante 10-20 segundos y repite con el otro lado."
+    ]
+  },
+  "Intermediate_Hip_Flexor_and_Quad_Stretch": {
+    "name": "Estiramiento intermedio de flexores de cadera y cuádriceps",
+    "instructions": [
+      "Túmbate boca abajo en el suelo con una cuerda, cinturón o banda alrededor de un pie.",
+      "Flexiona la rodilla y extiende la cadera de la pierna que vas a estirar, tirando del cinturón con ambas manos. La rodilla y la cadera deben despegarse del suelo para generar tensión en los flexores de la cadera y el cuádriceps. Mantén el estiramiento durante 10-20 segundos y repite con la otra pierna."
+    ]
+  },
+  "Internal_Rotation_with_Band": {
+    "name": "Rotación interna con banda",
+    "instructions": [
+      "Fija la banda alrededor de un poste a la altura del codo. Colócate a unos dos pies de distancia con el lado derecho orientado hacia la banda.",
+      "Sujeta el extremo con la mano derecha y mantén el codo firmemente pegado al costado. Se recomienda colocar una almohadilla o un rodillo de espuma entre el codo y el cuerpo para mantenerlo estable.",
+      "Con el brazo en posición, flexiona el codo a 90 grados y orienta la mano alejándola del torso. Esta será la posición inicial.",
+      "Rota el brazo hacia dentro con un movimiento similar a un golpe de derecha, sin desplazar el codo.",
+      "Continúa todo lo que puedas, haz una pausa y vuelve a la posición inicial."
+    ]
+  },
+  "Inverted_Row": {
+    "name": "Remo invertido",
+    "instructions": [
+      "Coloca una barra en un rack aproximadamente a la altura de la cintura. También puedes usar una máquina Smith.",
+      "Agarra la barra con las manos más separadas que el ancho de los hombros y cuélgate por debajo. Mantén el cuerpo recto, los talones apoyados y los brazos completamente extendidos. Esta será la posición inicial.",
+      "Flexiona los codos y lleva el pecho hacia la barra, retrayendo los omóplatos durante el movimiento.",
+      "Haz una pausa en la parte alta y vuelve a la posición inicial.",
+      "Repite el número deseado de repeticiones."
+    ]
+  },
+  "Inverted_Row_with_Straps": {
+    "name": "Remo invertido con correas",
+    "instructions": [
+      "Cuelga una cuerda o unas correas de suspensión de un rack u otro objeto estable. Sujeta los extremos y colócate boca arriba, suspendido de las correas. Mantén el cuerpo recto, los talones apoyados y los brazos completamente extendidos. Esta será la posición inicial.",
+      "Flexiona los codos y lleva el pecho hacia las manos, retrayendo los omóplatos.",
+      "Haz una pausa en la parte alta y vuelve a la posición inicial.",
+      "Repite el número deseado de repeticiones."
+    ]
+  },
+  "Iron_Cross": {
+    "name": "Cruz de hierro",
+    "instructions": []
+  },
+  "Iron_Crosses_stretch": {
+    "name": "Cruces de hierro (estiramiento)",
+    "instructions": [
+      "Túmbate boca abajo con los brazos extendidos lateralmente y las palmas apoyadas en el suelo. Esta será la posición inicial.",
+      "Flexiona una rodilla y cruza esa pierna por detrás del cuerpo, intentando tocar el suelo cerca de la mano contraria.",
+      "Devuelve rápidamente la pierna a la posición inicial y repite con la otra. Continúa alternando durante 10-20 repeticiones."
+    ]
+  },
+  "Isometric_Chest_Squeezes": {
+    "name": "Compresiones isométricas de pecho",
+    "instructions": [
+      "Sentado o de pie, flexiona los brazos a 90 grados y junta las palmas delante del pecho. Consejo: mantén las manos abiertas, las palmas en contacto y los dedos orientados hacia delante, perpendiculares al torso.",
+      "Presiona ambas manos entre sí mientras contraes el pecho. Comienza con poca tensión y auméntala gradualmente. Respira con normalidad durante la contracción.",
+      "Mantén la posición el número de segundos recomendado.",
+      "Libera lentamente la tensión.",
+      "Descansa el tiempo recomendado y repite."
+    ]
+  },
+  "Isometric_Neck_Exercise_-_Front_And_Back": {
+    "name": "Ejercicio isométrico de cuello: delante y atrás",
+    "instructions": [
+      "Con la cabeza y el cuello en posición neutra, coloca ambas manos sobre la frente.",
+      "Empuja suavemente la cabeza hacia delante mientras contraes los músculos del cuello, pero impide cualquier movimiento con las manos. Comienza con poca tensión y auméntala gradualmente. Respira con normalidad.",
+      "Mantén la contracción el número de segundos recomendado.",
+      "Libera lentamente la tensión.",
+      "Descansa el tiempo recomendado y repite colocando las manos en la parte posterior de la cabeza."
+    ]
+  },
+  "Isometric_Neck_Exercise_-_Sides": {
+    "name": "Ejercicio isométrico de cuello: laterales",
+    "instructions": [
+      "Con la cabeza y el cuello en posición neutra, coloca la mano izquierda sobre el lado izquierdo de la cabeza.",
+      "Empuja suavemente hacia la izquierda mientras contraes los músculos de ese lado del cuello, pero evita que la cabeza se mueva. Comienza con poca tensión y auméntala gradualmente. Respira con normalidad.",
+      "Mantén la contracción el número de segundos recomendado.",
+      "Libera lentamente la tensión.",
+      "Descansa el tiempo recomendado y repite con la mano derecha sobre el lado derecho de la cabeza."
+    ]
+  },
+  "Isometric_Wipers": {
+    "name": "Limpiaparabrisas isométricos",
+    "instructions": [
+      "Adopta una posición de flexión apoyando el peso sobre las manos y los dedos de los pies, con el cuerpo recto. Coloca las manos algo más separadas que el ancho de los hombros. Esta será la posición inicial.",
+      "Desplaza el peso del cuerpo todo lo posible hacia un lado, permitiendo que el codo de ese lado se flexione mientras bajas.",
+      "Invierte el movimiento extendiendo el brazo flexionado, empújate hacia arriba y desciende hacia el lado contrario.",
+      "Repite el número deseado de repeticiones."
+    ]
+  },
+  "JM_Press": {
+    "name": "Press JM",
+    "instructions": [
+      "Comienza como en un press de banca con agarre cerrado. Túmbate en un banco plano sosteniendo una barra con los brazos completamente extendidos y los codos cerrados. En lugar de mantener los brazos perpendiculares al torso, sitúa la barra directamente sobre la parte superior del pecho. Esta será la posición inicial.",
+      "Desde la extensión completa, baja la barra como si realizaras una extensión de tríceps tumbado. Inhala durante el descenso. Al llegar a la mitad, desplaza la barra aproximadamente una pulgada hacia atrás llevando los brazos hacia las piernas hasta que queden perpendiculares al torso. Consejo: mantén constante la flexión de los codos mientras mueves los brazos.",
+      "Exhala y empuja la barra hacia arriba con los tríceps, como en un press de banca con agarre cerrado.",
+      "Vuelve a la posición inicial y repite la secuencia.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Jackknife_Sit-Up": {
+    "name": "Abdominal en navaja",
+    "instructions": [
+      "Túmbate boca arriba en el suelo o sobre una colchoneta, con los brazos extendidos detrás de la cabeza y las piernas también extendidas. Esta será la posición inicial.",
+      "Exhala y flexiona el torso mientras elevas simultáneamente las piernas y los brazos hasta juntarlos en una posición de navaja. Consejo: mantén las piernas extendidas y elevadas unos 35-45 grados respecto al suelo, y los brazos extendidos y paralelos a ellas. La parte superior del torso debe despegarse del suelo.",
+      "Inhala y baja los brazos y las piernas hasta la posición inicial.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Janda_Sit-Up": {
+    "name": "Abdominal Janda",
+    "instructions": [
+      "Adopta en el suelo la posición básica de abdominal: rodillas flexionadas a 90 grados, pies apoyados y brazos cruzados sobre el pecho o junto al cuerpo. Esta será la posición inicial.",
+      "Contrae con fuerza los glúteos y los isquiotibiales, llena los pulmones de aire y eleva lentamente el torso durante 3-6 segundos mientras exhalas. Consejo: contraer glúteos e isquiotibiales inhibe los flexores de la cadera mediante la inhibición recíproca, haciendo que los músculos opuestos se relajen.",
+      "Inhala y vuelve lentamente y de forma controlada a la posición inicial.",
+      "Repite el número de repeticiones recomendado."
+    ]
+  },
+  "Jefferson_Squats": {
+    "name": "Sentadilla Jefferson",
+    "instructions": [
+      "Coloca una barra en el suelo.",
+      "Sitúate en el centro de la barra, con un pie a cada lado de ella.",
+      "Flexiona las rodillas manteniendo la espalda recta y sujeta la parte delantera de la barra con la mano derecha. La palma debe mirar hacia dentro, hacia el lado izquierdo.",
+      "Sujeta la parte trasera de la barra con la mano izquierda, también con agarre neutro y la palma orientada hacia la derecha. Consejo: distribuye el agarre de forma uniforme. El torso debe quedar justo en el centro y a la misma distancia de ambas manos.",
+      "Levántate con el peso. Consejo: separa los pies al ancho de los hombros y orienta ligeramente los dedos hacia fuera.",
+      "Desciende en sentadilla flexionando las rodillas y manteniendo la espalda recta hasta que los muslos queden paralelos al suelo. Consejo: conserva el torso lo más vertical posible, la cabeza erguida y evita que las rodillas sobrepasen los dedos de los pies. Inhala durante el descenso.",
+      "Empuja con los pies para volver a la posición inicial. Consejo: deja la barra colgando con los brazos extendidos y los codos casi bloqueados. Los brazos actúan únicamente como ganchos; eleva el peso con los muslos, no con los brazos."
+    ]
+  },
+  "Jerk_Balance": {
+    "name": "Equilibrio de envión",
+    "instructions": [
+      "Este ejercicio enseña a descender lo suficiente durante el envión y corrige la tendencia a desplazarse hacia atrás. Comienza con la barra apoyada en posición de envión, los hombros adelantados, el torso erguido y los pies ligeramente separados en tijera.",
+      "Inicia el movimiento como en un envión normal: flexiona ligeramente las rodillas manteniendo el torso vertical y extiéndelas con fuerza. Usa el impulso de las piernas, no los brazos, para elevar la barra.",
+      "Mantén fijo el pie trasero y úsalo para impulsar el cuerpo hacia delante hasta adoptar una apertura completa mientras realizas el envión. Recupérate poniéndote de pie con la barra sobre la cabeza."
+    ]
+  },
+  "Jerk_Dip_Squat": {
+    "name": "Sentadilla de impulso para envión",
+    "instructions": [
+      "Este ejercicio fortalece la fase de descenso del envión. Comienza con la barra apoyada en la posición de envión, los hombros adelantados para crear una base y la barra tocando ligeramente la garganta. Coloca los pies directamente bajo las caderas y orientados hacia fuera de forma cómoda.",
+      "Mantén el torso vertical y flexiona las rodillas, permitiendo que avancen sin desplazar las caderas hacia atrás. El descenso debe ser corto. Extiende las piernas con fuerza para devolver la barra a la posición inicial."
+    ]
+  },
+  "Jogging_Treadmill": {
+    "name": "Trote en cinta",
+    "instructions": [
+      "Sube a la cinta y selecciona la opción deseada en el menú. La mayoría dispone de modo manual o programas predefinidos. Normalmente puedes introducir la edad y el peso para estimar las calorías consumidas. Ajusta la inclinación para modificar la intensidad.",
+      "La cinta ofrece comodidad y beneficios cardiovasculares, y suele producir menos impacto que correr al aire libre. Una persona de 150 lb quema casi 250 calorías trotando durante 30 minutos, frente a más de 450 al correr. Mantén una postura correcta y sujeta las asas solo cuando sea necesario, por ejemplo al bajar o comprobar la frecuencia cardíaca."
+    ]
+  },
+  "Keg_Load": {
+    "name": "Carga de barril",
+    "instructions": [
+      "Coloca el número deseado de barriles a cierta distancia de la plataforma de carga, normalmente entre 30 y 50 pies.",
+      "Sujeta el asa más cercana del primer barril, inclínalo sobre un costado y agarra el borde opuesto de la base. Elévalo hasta el pecho.",
+      "Cuanto más alto puedas colocar el barril, más rápido podrás desplazarte hacia la plataforma. Normalmente no se permite apoyarlo sobre el hombro. Sujétalo firmemente, avanza lo más rápido posible y cárgalo extendiendo caderas, rodillas y tobillos para elevarlo todo lo posible.",
+      "Vuelve al punto inicial para recoger el siguiente barril y repite hasta completar la prueba."
+    ]
+  },
+  "Kettlebell_Arnold_Press": {
+    "name": "Press Arnold con kettlebell",
+    "instructions": [
+      "Realiza una cargada con la kettlebell hasta el hombro extendiendo las piernas y las caderas mientras la elevas. La palma debe quedar orientada hacia dentro.",
+      "Mira al frente y presiona la kettlebell hacia fuera y por encima de la cabeza, girando la muñeca para que la palma quede hacia delante en la parte alta.",
+      "Devuelve la kettlebell a la posición inicial con la palma orientada hacia dentro."
+    ]
+  },
+  "Kettlebell_Dead_Clean": {
+    "name": "Cargada desde el suelo con kettlebell",
+    "instructions": [
+      "Coloca la kettlebell entre los pies. Lleva las caderas hacia atrás y mira al frente para adoptar la posición inicial.",
+      "Realiza una cargada hasta el hombro extendiendo las piernas y las caderas mientras elevas la kettlebell. Gira la muñeca durante el movimiento.",
+      "Baja la kettlebell manteniendo tensión en los isquiotibiales, la espalda recta y las caderas hacia atrás."
+    ]
+  },
+  "Kettlebell_Figure_8": {
+    "name": "Figura 8 con kettlebell",
+    "instructions": [
+      "Coloca una kettlebell entre las piernas y adopta una postura más ancha que los hombros. Inclínate llevando las caderas hacia atrás y manteniendo la espalda recta.",
+      "Levanta la kettlebell y pásala a la otra mano entre las piernas. La mano receptora debe entrar por detrás de ellas. Alterna el pase durante varias repeticiones."
+    ]
+  },
+  "Kettlebell_Hang_Clean": {
+    "name": "Cargada colgante con kettlebell",
+    "instructions": [
+      "Coloca la kettlebell entre los pies. Lleva las caderas hacia atrás y mira al frente para adoptar la posición inicial.",
+      "Realiza una cargada hasta el hombro extendiendo las piernas y las caderas mientras elevas la kettlebell. Gira la muñeca durante el movimiento.",
+      "Baja la kettlebell hasta una posición colgante entre las piernas, manteniendo tensión en los isquiotibiales y la cabeza erguida."
+    ]
+  },
+  "Kettlebell_One-Legged_Deadlift": {
+    "name": "Peso muerto a una pierna con kettlebell",
+    "instructions": [
+      "Sujeta una kettlebell por el asa con una mano y apóyate sobre la pierna del mismo lado.",
+      "Mantén esa rodilla ligeramente flexionada y realiza un peso muerto con piernas semirrígidas flexionando la cadera, mientras extiendes la pierna libre hacia atrás para equilibrarte.",
+      "Continúa bajando la kettlebell hasta que el torso quede paralelo al suelo y vuelve después a la posición erguida."
+    ]
+  },
+  "Kettlebell_Pass_Between_The_Legs": {
+    "name": "Pase de kettlebell entre las piernas",
+    "instructions": [
+      "Coloca una kettlebell entre las piernas y adopta una postura cómoda. Inclínate llevando las caderas hacia atrás y manteniendo la espalda recta.",
+      "Levanta la kettlebell y pásala de una mano a la otra entre las piernas, dibujando una «W». Alterna durante varias repeticiones."
+    ]
+  },
+  "Kettlebell_Pirate_Ships": {
+    "name": "Barcos pirata con kettlebell",
+    "instructions": [
+      "Adopta una postura amplia y sujeta una kettlebell con ambas manos. Déjala colgar a la altura de la cintura con los brazos extendidos. Esta será la posición inicial.",
+      "Gira hacia un lado mientras balanceas la kettlebell hasta la altura de la cabeza. Haz una breve pausa en la parte alta.",
+      "Deja que la kettlebell descienda mientras giras hacia el lado contrario y vuelve a elevarla hasta la altura de la cabeza.",
+      "Repite el número deseado de repeticiones."
+    ]
+  }
+}
