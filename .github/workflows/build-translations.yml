@@ -6,83 +6,70 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: build-translation-files
-  cancel-in-progress: false
-
 jobs:
   build-translations:
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.13"
+          python-version: "3.12"
 
       - name: Build German translation
         run: |
-          python scripts/build_translation.py \
-            --input translations/de/batches \
-            --output translations/de.json \
+          python build_translations.py \
             --language de \
             --expected-batches 47 \
             --expected-exercises 873
 
       - name: Build Spanish translation
         run: |
-          python scripts/build_translation.py \
-            --input translations/es/batches \
-            --output translations/es.json \
+          python build_translations.py \
             --language es \
             --expected-batches 16 \
             --expected-exercises 873
 
       - name: Build French translation
         run: |
-          python scripts/build_translation.py \
-            --input translations/fr/batches \
-            --output translations/fr.json \
+          python build_translations.py \
             --language fr \
             --expected-batches 16 \
             --expected-exercises 873
 
-      - name: Validate generated JSON files
+      - name: Build Dutch translation
         run: |
-          python -m json.tool translations/de.json > /dev/null
-          python -m json.tool translations/es.json > /dev/null
-          python -m json.tool translations/fr.json > /dev/null
+          python build_translations.py \
+            --language nl \
+            --expected-batches 16 \
+            --expected-exercises 873
 
-      - name: Show generated file status
+      - name: Show generated files
         run: |
-          git status --short -- \
-            translations/de.json \
-            translations/es.json \
-            translations/fr.json
-
-      - name: Stage generated translation files
-        run: |
-          git add \
-            translations/de.json \
-            translations/es.json \
-            translations/fr.json
+          ls -lh translations/de.json
+          ls -lh translations/es.json
+          ls -lh translations/fr.json
+          ls -lh translations/nl.json
 
       - name: Commit generated translation files
         run: |
-          if git diff --cached --quiet
-          then
-            echo "German, Spanish, and French translation files are already up to date."
-            exit 0
-          fi
-
           git config user.name "github-actions[bot]"
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git commit -m "Build German, Spanish, and French translations"
-          git push
+          git add \
+            translations/de.json \
+            translations/es.json \
+            translations/fr.json \
+            translations/nl.json
+
+          if git diff --cached --quiet; then
+            echo "No generated translation changes to commit."
+          else
+            git commit -m "Build translation files"
+            git push
+          fi
