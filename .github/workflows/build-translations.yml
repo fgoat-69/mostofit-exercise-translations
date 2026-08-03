@@ -31,7 +31,7 @@ jobs:
             --input translations/de/batches \
             --output translations/de.json \
             --language de \
-            --expected-batches 16 \
+            --expected-batches 47 \
             --expected-exercises 873
 
       - name: Build Spanish translation
