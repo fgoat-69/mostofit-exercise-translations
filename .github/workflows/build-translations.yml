@@ -43,24 +43,40 @@ jobs:
             --expected-batches 16 \
             --expected-exercises 873
 
+      - name: Build French translation
+        run: |
+          python scripts/build_translation.py \
+            --input translations/fr/batches \
+            --output translations/fr.json \
+            --language fr \
+            --expected-batches 16 \
+            --expected-exercises 873
+
       - name: Validate generated JSON files
         run: |
           python -m json.tool translations/de.json > /dev/null
           python -m json.tool translations/es.json > /dev/null
+          python -m json.tool translations/fr.json > /dev/null
 
       - name: Show generated file status
         run: |
           git status --short -- \
             translations/de.json \
-            translations/es.json
+            translations/es.json \
+            translations/fr.json
+
+      - name: Stage generated translation files
+        run: |
+          git add \
+            translations/de.json \
+            translations/es.json \
+            translations/fr.json
 
       - name: Commit generated translation files
         run: |
-          if git diff --quiet -- \
-            translations/de.json \
-            translations/es.json
+          if git diff --cached --quiet
           then
-            echo "German and Spanish translation files are already up to date."
+            echo "German, Spanish, and French translation files are already up to date."
             exit 0
           fi
 
@@ -68,9 +84,5 @@ jobs:
           git config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add \
-            translations/de.json \
-            translations/es.json
-
-          git commit -m "Build German and Spanish translations"
+          git commit -m "Build German, Spanish, and French translations"
           git push
