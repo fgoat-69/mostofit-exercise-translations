@@ -1,0 +1,42 @@
+name: Build translation files
+
+on:
+  push:
+    paths:
+      - "translations/**/batches/*.json"
+      - "scripts/build_translation.py"
+      - ".github/workflows/build-translations.yml"
+
+  pull_request:
+    paths:
+      - "translations/**/batches/*.json"
+      - "scripts/build_translation.py"
+      - ".github/workflows/build-translations.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-german:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Build German translation
+        run: |
+          python scripts/build_translation.py \
+            --input translations/de/batches \
+            --output translations/de.json
+
+      - name: Verify generated file is committed
+        run: |
+          git diff --exit-code -- translations/de.json
