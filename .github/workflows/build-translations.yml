@@ -19,7 +19,7 @@ permissions:
   contents: read
 
 jobs:
-  build-german:
+  build-spanish:
     runs-on: ubuntu-latest
 
     steps:
@@ -31,12 +31,12 @@ jobs:
         with:
           python-version: "3.13"
 
-      - name: Build German translation
+      - name: Build Spanish translation
         run: |
           python scripts/build_translation.py \
-            --input translations/de/batches \
-            --output translations/de.json
+            --input translations/es/batches \
+            --output translations/es.json
 
       - name: Verify generated file is committed
         run: |
-          git diff --exit-code -- translations/de.json
+          git diff --exit-code -- translations/es.json
