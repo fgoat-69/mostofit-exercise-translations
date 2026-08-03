@@ -1,0 +1,185 @@
+{
+  "Crucifix": {
+    "name": "Crucifix Hold",
+    "instructions": [
+      "Bei dieser Strongman-Übung werden Gewichte seitlich statisch gehalten. Du kannst mit Kurzhanteln trainieren, Wettkampfgeräte wie Äxte oder Hämmer fühlen sich jedoch anders an.",
+      "Stelle dich aufrecht hin und hebe die Gewichte mit gestreckten Armen seitlich auf Schulterhöhe. Halte die Arme parallel zum Boden so lange wie möglich. Wähle ein Gewicht, das du ungefähr 30 bis 60 Sekunden halten kannst."
+    ]
+  },
+  "Crunch_-_Hands_Overhead": {
+    "name": "Crunch mit Armen über dem Kopf",
+    "instructions": [
+      "Lege dich mit flachem Rücken auf den Boden und beuge die Knie ungefähr auf 60 Grad.",
+      "Stelle die Füße flach auf und strecke die Arme mit überkreuzten Handflächen über den Kopf. Das ist die Ausgangsposition.",
+      "Rolle den Oberkörper nach vorn und hebe die Schulterblätter knapp vom Boden ab. Halte Arme, Kopf und Schultern in einer Linie. Atme aus und halte die Spannung kurz.",
+      "Senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Crunch_-_Legs_On_Exercise_Ball": {
+    "name": "Crunch mit Beinen auf dem Gymnastikball",
+    "instructions": [
+      "Lege dich auf den Rücken, lege die Füße auf einen Gymnastikball und beuge die Knie auf 90 Grad.",
+      "Stelle die Füße etwa 8 bis 10 cm auseinander und drehe die Zehen leicht nach innen.",
+      "Lege die Hände locker seitlich an den Kopf und halte die Ellenbogen leicht nach innen. Verschränke die Finger nicht hinter dem Kopf.",
+      "Drücke den unteren Rücken in den Boden. Das ist die Ausgangsposition.",
+      "Rolle die Schultern beim Ausatmen wenige Zentimeter vom Boden ab. Halte den unteren Rücken am Boden, spanne die Bauchmuskulatur oben kurz an und vermeide Schwung.",
+      "Senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Crunches": {
+    "name": "Crunches",
+    "instructions": [
+      "Lege dich auf den Rücken und stelle die Füße auf den Boden oder lege die Unterschenkel mit 90 Grad gebeugten Knien auf eine Bank.",
+      "Lege die Hände locker seitlich an den Kopf und halte die Ellenbogen leicht nach innen. Verschränke die Finger nicht hinter dem Kopf.",
+      "Drücke den unteren Rücken in den Boden und rolle die Schultern nach oben.",
+      "Atme aus und hebe die Schulterblätter nur wenige Zentimeter an. Halte den unteren Rücken am Boden, spanne die Bauchmuskulatur oben kurz an und vermeide Schwung.",
+      "Senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cuban_Press": {
+    "name": "Cuban Press",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel im Obergriff. Hebe die Oberarme parallel zum Boden an und lasse die Unterarme nach unten hängen. Das ist die Ausgangsposition.",
+      "Halte die Oberarme auf Position und rotiere die Schultern nach außen, bis sich die Handgelenke über den Ellenbogen befinden.",
+      "Drücke die Kurzhanteln durch Strecken der Ellenbogen über den Kopf.",
+      "Kehre beim Einatmen in umgekehrter Reihenfolge in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dancers_Stretch": {
+    "name": "Drehdehnung im Sitzen",
+    "instructions": [
+      "Setze dich aufrecht auf den Boden.",
+      "Führe das rechte gebeugte Bein über das gestreckte linke Bein.",
+      "Lege den linken Arm an das rechte Bein und die rechte Hand hinter dir auf den Boden.",
+      "Drehe den Oberkörper nach rechts, halte die Position 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Dead_Bug": {
+    "name": "Dead Bug",
+    "instructions": [
+      "Lege dich auf den Rücken und strecke die Arme zur Decke.",
+      "Hebe Hüfte und Knie auf 90 Grad an.",
+      "Atme kräftig aus, senke den Rippenbogen und drücke den unteren Rücken in den Boden. Rolle das Becken leicht ein und spanne das Gesäß an. Das ist die Ausgangsposition.",
+      "Strecke ein Bein langsam aus, bis es knapp über dem Boden schwebt.",
+      "Halte unteren Rücken und Becken während der Bewegung stabil.",
+      "Bringe das arbeitende Bein kontrolliert zurück.",
+      "Wiederhole die Bewegung abwechselnd mit dem anderen Bein."
+    ]
+  },
+  "Deadlift_with_Bands": {
+    "name": "Kreuzheben mit Widerstandsbändern",
+    "instructions": [
+      "Lege kurze Bänder über die Stange und stelle dich hinein oder befestige lange Bänder sicher an schweren Kurzhanteln beziehungsweise einem Rack.",
+      "Stelle Füße und Griff ein, atme tief ein, senke die Hüfte und beuge die Knie, bis die Schienbeine die Stange berühren. Halte Brust und Rücken stabil und drücke dich über die Fersen nach oben. Ziehe die Stange nach dem Passieren der Knie eng zum Körper und strecke die Hüfte.",
+      "Senke die Stange durch Beugen der Hüfte kontrolliert zum Boden."
+    ]
+  },
+  "Deadlift_with_Chains": {
+    "name": "Kreuzheben mit Ketten",
+    "instructions": [
+      "Befestige die Ketten an den Hantelscheibenaufnahmen oder lege ihre Mitte über die Stange, sodass die Last beim Anheben zunimmt.",
+      "Stelle dich hüftbreit vor die Stange, greife sie etwa schulterbreit und atme tief ein. Senke die Hüfte und beuge die Knie, bis die Schienbeine die Stange berühren.",
+      "Halte Brust und Rücken stabil und drücke dich über die Fersen nach oben. Ziehe die Stange nach dem Passieren der Knie eng zum Körper und strecke die Hüfte.",
+      "Senke die Stange durch Beugen der Hüfte kontrolliert zum Boden."
+    ]
+  },
+  "Decline_Barbell_Bench_Press": {
+    "name": "Negativ-Bankdrücken mit Langhantel",
+    "instructions": [
+      "Fixiere die Beine an der Negativbank und lege dich langsam zurück.",
+      "Greife die Langhantel mittelbreit, hebe sie möglichst mit Hilfe eines Spotters aus der Ablage und halte sie mit gestreckten Armen senkrecht über dir. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen langsam zur unteren Brust.",
+      "Halte kurz und drücke die Stange beim Ausatmen mit der Brustmuskulatur nach oben. Spanne die Brust oben kurz an und senke die Stange anschließend kontrolliert ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Stange nach dem Satz sicher in der Ablage ab."
+    ]
+  },
+  "Decline_Close-Grip_Bench_To_Skull_Crusher": {
+    "name": "Enges Negativ-Bankdrücken mit Skull Crusher",
+    "instructions": [
+      "Fixiere die Beine an der Negativbank und lege dich langsam zurück.",
+      "Greife die Stange etwas enger als schulterbreit, hebe sie möglichst mit Hilfe eines Spotters aus der Ablage und halte sie mit gestreckten Armen über dir. Halte die Ellenbogen nah am Körper.",
+      "Senke die Stange beim Einatmen zur unteren Brust.",
+      "Drücke sie beim Ausatmen mit dem Trizeps zurück nach oben.",
+      "Halte die Oberarme ruhig und senke die Stange beim Einatmen in einem Bogen bis knapp zur Stirn.",
+      "Strecke die Ellenbogen beim Ausatmen und führe die Stange zurück nach oben.",
+      "Wiederhole beide Bewegungsphasen für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Decline_Crunch": {
+    "name": "Crunch auf der Negativbank",
+    "instructions": [
+      "Fixiere die Beine an der Negativbank und lege dich zurück.",
+      "Lege die Hände locker seitlich an den Kopf und halte die Ellenbogen leicht nach innen. Verschränke die Finger nicht hinter dem Kopf.",
+      "Drücke den unteren Rücken in die Bank und rolle die Schultern nach oben.",
+      "Atme aus und hebe die Schulterblätter nur wenige Zentimeter an. Halte den unteren Rücken an der Bank und spanne die Bauchmuskulatur oben kurz an.",
+      "Senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Decline_Dumbbell_Bench_Press": {
+    "name": "Negativ-Bankdrücken mit Kurzhanteln",
+    "instructions": [
+      "Fixiere die Beine an der Negativbank und lege dich mit je einer Kurzhantel auf den Oberschenkeln zurück. Die Handflächen zeigen zueinander.",
+      "Bringe die Kurzhanteln schulterbreit über die Brust.",
+      "Drehe die Handflächen nach vorn. Das ist die Ausgangsposition.",
+      "Senke die Kurzhanteln beim Einatmen kontrolliert seitlich ab. Halte die Unterarme möglichst senkrecht.",
+      "Drücke die Kurzhanteln beim Ausatmen mit der Brustmuskulatur nach oben, spanne die Brust oben kurz an und senke sie anschließend wieder langsam ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Decline_Dumbbell_Flyes": {
+    "name": "Fliegende auf der Negativbank",
+    "instructions": [
+      "Fixiere die Beine an der Negativbank und lege dich mit je einer Kurzhantel auf den Oberschenkeln zurück.",
+      "Bringe die Kurzhanteln mit gestreckten Armen und zueinander gerichteten Handflächen schulterbreit über die Brust. Das ist die Ausgangsposition.",
+      "Halte die Ellenbogen leicht gebeugt und senke die Arme beim Einatmen in einem weiten Bogen seitlich ab, bis du eine Dehnung in der Brust spürst.",
+      "Führe die Arme beim Ausatmen auf demselben Weg zurück und spanne die Brustmuskulatur an.",
+      "Halte die Endposition kurz und wiederhole die Bewegung."
+    ]
+  },
+  "Decline_Dumbbell_Triceps_Extension": {
+    "name": "Trizepsstrecken mit Kurzhanteln auf der Negativbank",
+    "instructions": [
+      "Fixiere die Beine an der Negativbank und lege dich mit je einer Kurzhantel auf den Oberschenkeln zurück.",
+      "Bringe die Kurzhanteln mit zueinander gerichteten Handflächen und gestreckten Armen schulterbreit über die Brust. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und die Ellenbogen eng. Senke die Kurzhanteln beim Einatmen in einem Bogen, bis sich die Daumen neben den Ohren befinden.",
+      "Strecke die Ellenbogen beim Ausatmen und führe die Hanteln zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Decline_EZ_Bar_Triceps_Extension": {
+    "name": "Trizepsstrecken mit SZ-Stange auf der Negativbank",
+    "instructions": [
+      "Fixiere die Beine an der Negativbank und lege dich langsam zurück.",
+      "Greife die SZ-Stange etwas enger als schulterbreit, hebe sie möglichst mit Hilfe eines Spotters aus der Ablage und halte sie mit gestreckten Armen über dir.",
+      "Halte die Oberarme ruhig und senke die Stange beim Einatmen in einem Bogen bis knapp zur Stirn.",
+      "Strecke die Ellenbogen beim Ausatmen und führe die Stange zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Decline_Oblique_Crunch": {
+    "name": "Schräger Crunch auf der Negativbank",
+    "instructions": [
+      "Fixiere die Beine an der Negativbank und lege dich langsam zurück.",
+      "Hebe den Oberkörper an, bis er ungefähr 35 bis 45 Grad zum Boden steht.",
+      "Lege eine Hand seitlich an den Kopf und die andere auf den Oberschenkel. Das ist die Ausgangsposition.",
+      "Hebe den Oberkörper langsam an und drehe ihn nach links, bis der rechte Ellenbogen das linke Knie erreicht. Atme aus und halte die Spannung kurz.",
+      "Senke dich beim Einatmen langsam zurück.",
+      "Führe den Satz auf einer Seite aus und wechsle anschließend zur anderen Seite."
+    ]
+  },
+  "Decline_Push-Up": {
+    "name": "Liegestütz mit erhöhten Füßen",
+    "instructions": [
+      "Gehe in eine Liegestützposition, stelle die Füße auf eine Box oder Bank und positioniere die Hände etwa schulterbreit. Das ist die Ausgangsposition.",
+      "Senke dich beim Einatmen ab, bis die Brust fast den Boden berührt.",
+      "Drücke dich beim Ausatmen zurück nach oben und spanne die Brustmuskulatur an.",
+      "Halte die obere Position kurz und wiederhole die Bewegung."
+    ]
+  }
+}

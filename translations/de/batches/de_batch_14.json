@@ -1,0 +1,175 @@
+{
+  "Dumbbell_Scaption": {
+    "name": "Scaption mit Kurzhanteln",
+    "instructions": [
+      "Halte in jeder Hand eine leichte Kurzhantel seitlich am Körper, die Daumen zeigen nach oben.",
+      "Hebe die gestreckten Arme etwa 30 Grad vor der seitlichen Ebene an.",
+      "Führe die Arme bis parallel zum Boden und senke sie anschließend kontrolliert zurück."
+    ]
+  },
+  "Dumbbell_Seated_Box_Jump": {
+    "name": "Sitzender Boxsprung mit Kurzhantel",
+    "instructions": [
+      "Stelle eine Box einige Schritte vor eine Bank. Halte eine Kurzhantel mit beiden Händen vor der Brust und setze dich mit Blick zur Box auf die Bank.",
+      "Stelle die Füße fest auf, neige dich nach vorn und strecke Hüfte und Knie explosiv, um nach vorn und oben zu springen.",
+      "Lande mit beiden Füßen auf der Box und fange den Aufprall durch Beugen von Hüfte und Knien ab.",
+      "Steige kontrolliert ab und kehre in die Ausgangsposition zurück."
+    ]
+  },
+  "Dumbbell_Seated_One-Leg_Calf_Raise": {
+    "name": "Sitzendes einbeiniges Wadenheben mit Kurzhantel",
+    "instructions": [
+      "Stelle etwa 30 cm vor einer Flachbank einen stabilen Block auf.",
+      "Setze dich auf die Bank und lege eine Kurzhantel auf den linken Oberschenkel, wenige Zentimeter oberhalb des Knies.",
+      "Stelle den linken Fußballen auf den Block. Das ist die Ausgangsposition.",
+      "Hebe die Ferse beim Ausatmen so hoch wie möglich an und spanne die Wade oben kurz an.",
+      "Senke die Ferse langsam und so weit wie kontrolliert möglich ab.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend das Bein."
+    ]
+  },
+  "Dumbbell_Shoulder_Press": {
+    "name": "Schulterdrücken mit Kurzhanteln",
+    "instructions": [
+      "Setze dich mit je einer Kurzhantel auf den Oberschenkeln auf eine Bank mit Rückenlehne.",
+      "Bringe die Kurzhanteln mithilfe der Oberschenkel nacheinander auf Schulterhöhe.",
+      "Drehe die Handflächen nach vorn. Das ist die Ausgangsposition.",
+      "Drücke die Kurzhanteln beim Ausatmen über den Kopf, bis sie sich oben beinahe berühren.",
+      "Halte kurz und senke die Gewichte beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Shrug": {
+    "name": "Schulterheben mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel mit gestreckten Armen seitlich am Körper.",
+      "Ziehe die Schultern beim Ausatmen so hoch wie möglich und halte die Anspannung kurz. Die Arme bleiben gestreckt und der Bizeps hilft nicht mit.",
+      "Senke die Schultern langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Side_Bend": {
+    "name": "Seitbeuge mit Kurzhantel",
+    "instructions": [
+      "Stelle dich schulterbreit hin und halte eine Kurzhantel in der linken Hand. Lege die rechte Hand an die Hüfte. Das ist die Ausgangsposition.",
+      "Halte Rücken und Kopf aufrecht und neige den Oberkörper beim Einatmen so weit wie möglich nach rechts. Halte kurz und kehre beim Ausatmen zurück.",
+      "Neige dich anschließend kontrolliert zur linken Seite und kehre zurück.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend die Hand."
+    ]
+  },
+  "Dumbbell_Squat": {
+    "name": "Kniebeuge mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel seitlich am Körper.",
+      "Stelle die Füße etwa schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte Kopf und Rücken stabil. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und senke dich langsam ab, bis die Oberschenkel ungefähr parallel zum Boden sind. Führe die Knie in Richtung der Zehen.",
+      "Drücke dich beim Ausatmen hauptsächlich über die Fersen zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Squat_To_A_Bench": {
+    "name": "Kniebeuge mit Kurzhanteln zur Bank",
+    "instructions": [
+      "Stelle dich mit einer Flachbank hinter dir aufrecht hin und halte in jeder Hand eine Kurzhantel seitlich am Körper.",
+      "Stelle die Füße etwa schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte Kopf und Rücken stabil. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und senke dich beim Einatmen langsam ab, bis du die Bank leicht berührst.",
+      "Drücke dich beim Ausatmen hauptsächlich über die Fersen zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Step_Ups": {
+    "name": "Aufsteigen mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel seitlich am Körper.",
+      "Setze den rechten Fuß vollständig auf die Plattform und drücke dich hauptsächlich über die Ferse nach oben. Stelle anschließend auch den linken Fuß auf die Plattform.",
+      "Steige beim Einatmen mit dem linken Fuß ab und führe anschließend den rechten Fuß zurück.",
+      "Führe die vorgesehenen Wiederholungen mit dem rechten Bein aus und wechsle danach zum linken Bein."
+    ]
+  },
+  "Dumbbell_Tricep_Extension_-Pronated_Grip": {
+    "name": "Liegendes Trizepsstrecken mit Kurzhanteln im Obergriff",
+    "instructions": [
+      "Lege dich auf eine Flachbank und halte zwei Kurzhanteln mit vollständig gestreckten Armen über den Schultern.",
+      "Die Handflächen zeigen nach vorn und die Ellenbogen bleiben eng. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke die Kurzhanteln beim Einatmen langsam bis neben die Ohren.",
+      "Strecke die Ellenbogen beim Ausatmen mit dem Trizeps zurück nach oben."
+    ]
+  },
+  "Dynamic_Back_Stretch": {
+    "name": "Dynamische Rückendehnung",
+    "instructions": [
+      "Stelle dich schulterbreit hin. Das ist die Ausgangsposition.",
+      "Halte die Arme gestreckt und schwinge sie 5 bis 10 Mal vor dem Körper nach oben. Vergrößere den Bewegungsumfang schrittweise, bis die Arme über dem Kopf stehen."
+    ]
+  },
+  "Dynamic_Chest_Stretch": {
+    "name": "Dynamische Brustdehnung",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte die gestreckten Arme mit zusammengeführten Händen vor dem Körper.",
+      "Führe die gestreckten Arme schnell so weit wie möglich nach hinten und wieder zusammen. Wiederhole die Bewegung 5 bis 10 Mal und steigere das Tempo allmählich."
+    ]
+  },
+  "EZ-Bar_Curl": {
+    "name": "SZ-Curl",
+    "instructions": [
+      "Stelle dich aufrecht hin und greife die äußeren Griffe der SZ-Stange im Untergriff. Halte die Ellenbogen nah am Oberkörper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen.",
+      "Führe die Stange bis auf Schulterhöhe und spanne den Bizeps oben kurz an.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "EZ-Bar_Skullcrusher": {
+    "name": "Skull Crusher mit SZ-Stange",
+    "instructions": [
+      "Lege dich auf eine Bank, greife die SZ-Stange eng und halte sie mit gestreckten Armen senkrecht über dir. Die Ellenbogen bleiben eng. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke die Stange beim Einatmen durch Beugen der Ellenbogen bis knapp über die Stirn.",
+      "Strecke die Ellenbogen beim Ausatmen zurück nach oben.",
+      "Wiederhole die Bewegung."
+    ]
+  },
+  "Elbow_Circles": {
+    "name": "Ellenbogenkreisen",
+    "instructions": [
+      "Setze oder stelle dich mit leicht auseinanderstehenden Füßen aufrecht hin.",
+      "Lege die Hände auf die Schultern und führe die Ellenbogen seitlich auf Schulterhöhe.",
+      "Führe mit den Ellenbogen langsam Kreise aus. Atme beim Beginn aus und beim Abschluss des Kreises ein."
+    ]
+  },
+  "Elbow_to_Knee": {
+    "name": "Ellenbogen zum Knie",
+    "instructions": [
+      "Lege dich auf den Rücken und lege den rechten Knöchel auf das gebeugte linke Knie. Verschränke die Hände hinter dem Kopf und lasse die Schulterblätter am Boden. Das ist die Ausgangsposition.",
+      "Hebe den Oberkörper an, drehe ihn und führe den linken Ellenbogen zum rechten Knie.",
+      "Kehre in die Ausgangsposition zurück, führe die vorgesehenen Wiederholungen aus und wechsle anschließend die Seite."
+    ]
+  },
+  "Elbows_Back": {
+    "name": "Ellenbogen nach hinten",
+    "instructions": [
+      "Stelle dich aufrecht hin.",
+      "Lege beide Hände mit nach unten zeigenden Fingern auf den unteren Rücken und führe die Ellenbogen nach außen.",
+      "Ziehe die Ellenbogen vorsichtig nach hinten und versuche, sie einander anzunähern."
+    ]
+  },
+  "Elevated_Back_Lunge": {
+    "name": "Erhöhter Rückwärtsausfallschritt mit Langhantel",
+    "instructions": [
+      "Positioniere eine passend beladene Langhantel auf Schulterhöhe in einem Rack und stelle eine niedrige Plattform dahinter.",
+      "Lege die Stange auf den oberen Rücken, halte den Rücken stabil und stelle dich mit beiden Füßen auf die Plattform. Das ist die Ausgangsposition.",
+      "Mache mit einem Bein einen Schritt nach hinten und senke die Hüfte, bis das hintere Knie den Boden berührt.",
+      "Halte kurz und strecke Hüfte und Knie, um vollständig auf die Plattform zurückzukehren. Wechsle anschließend die Seite."
+    ]
+  },
+  "Elevated_Cable_Rows": {
+    "name": "Erhöhtes sitzendes Kabelrudern",
+    "instructions": [
+      "Stelle eine etwa 10 bis 15 cm hohe Plattform bereit.",
+      "Lege sie auf den Sitz der Kabelrudermaschine.",
+      "Setze dich darauf und stelle die Füße auf die vordere Plattform oder Querstrebe. Die Knie bleiben leicht gebeugt.",
+      "Neige dich mit natürlicher Rückenhaltung nach vorn und greife den V-Griff.",
+      "Ziehe den Oberkörper mit gestreckten Armen zurück, bis er ungefähr im 90-Grad-Winkel zu den Beinen steht. Halte die Brust aufrecht und den Rücken leicht gestreckt. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und ziehe den Griff beim Ausatmen zum Bauch. Führe die Ellenbogen nah am Körper, spanne den Rücken kurz an und kehre beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

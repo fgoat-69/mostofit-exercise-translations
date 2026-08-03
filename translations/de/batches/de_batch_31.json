@@ -1,0 +1,159 @@
+{
+  "Prowler_Sprint": {
+    "name": "Prowler-Sprint",
+    "instructions": [
+      "Stelle den Schlitten auf eine geeignete Fläche und belade ihn so, dass deutlicher Widerstand entsteht, ohne deine Geschwindigkeit stark zu reduzieren.",
+      "Verwende die hohen oder niedrigen Griffe. Strecke die Arme, greife die Griffe und lehne dich in den Schlitten.",
+      "Drücke dich mit kurzen, abwechselnden Schritten kraftvoll vom Boden ab und bewege den Schlitten über eine kurze Strecke so schnell wie möglich."
+    ]
+  },
+  "Pull_Through": {
+    "name": "Cable Pull-through",
+    "instructions": [
+      "Stelle dich einige Schritte vor einen unteren Kabelzug mit Seilgriff, mit dem Rücken zur Maschine und dem Kabel zwischen den weit aufgestellten Beinen.",
+      "Greife zwischen den Beinen nach hinten, beuge die Hüfte weit und halte die Knie leicht gebeugt. Strecke anschließend die Hüfte und richte dich auf. Die Arme bleiben gestreckt; die Bewegung kommt vollständig aus der Hüfte."
+    ]
+  },
+  "Pullups": {
+    "name": "Klimmzüge",
+    "instructions": [
+      "Greife die Klimmzugstange im Obergriff. Ein weiter Griff liegt außerhalb der Schulterbreite, ein mittlerer ungefähr schulterbreit und ein enger innerhalb der Schulterbreite.",
+      "Hänge mit gestreckten Armen und lehne den Oberkörper etwa 30 Grad zurück. Hebe die Brust an und halte den unteren Rücken leicht gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen nach oben, bis die Stange die obere Brust berührt. Führe Schultern und Oberarme nach unten und hinten und spanne den Rücken oben kräftig an.",
+      "Halte kurz und senke dich beim Einatmen langsam bis zur vollständigen Armstreckung ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Push-Up_Wide": {
+    "name": "Breiter Liegestütz",
+    "instructions": [
+      "Gehe mit weit aufgestellten Händen in eine Liegestützposition. Stütze dich auf Händen und Zehen ab, strecke die Ellenbogen und halte den Körper gerade. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Einatmen und senke die Brust zum Boden.",
+      "Drücke dich beim Ausatmen mit der Brustmuskulatur zurück in die Ausgangsposition.",
+      "Halte oben kurz und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Push-Ups_-_Close_Triceps_Position": {
+    "name": "Enger Liegestütz für den Trizeps",
+    "instructions": [
+      "Gehe in Bauchlage und stelle die Hände enger als schulterbreit auf. Strecke die Arme und halte den Körper gerade.",
+      "Senke dich beim Einatmen ab, bis die Brust fast den Boden berührt.",
+      "Drücke dich beim Ausatmen mit Trizeps und Brust zurück nach oben und spanne die Brust kurz an.",
+      "Halte oben kurz und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Push-Ups_With_Feet_Elevated": {
+    "name": "Liegestütz mit erhöhten Füßen",
+    "instructions": [
+      "Gehe in Bauchlage und stelle die Hände etwa 90 cm auseinander auf. Strecke die Arme.",
+      "Lege die Zehen auf eine Flachbank. Je höher die Bank, desto größer der Widerstand.",
+      "Senke dich beim Einatmen ab, bis die Brust fast den Boden berührt.",
+      "Drücke dich beim Ausatmen mit der Brustmuskulatur zurück nach oben und spanne die Brust kurz an.",
+      "Halte oben kurz und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Push-Ups_With_Feet_On_An_Exercise_Ball": {
+    "name": "Liegestütz mit Füßen auf dem Gymnastikball",
+    "instructions": [
+      "Gehe in Bauchlage und stelle die Hände etwa 90 cm auseinander auf. Strecke die Arme.",
+      "Lege die Zehen auf einen Gymnastikball und halte den Körper stabil.",
+      "Senke dich beim Einatmen ab, bis die Brust fast den Boden berührt.",
+      "Drücke dich beim Ausatmen mit der Brustmuskulatur zurück nach oben und spanne die Brust kurz an.",
+      "Halte oben kurz und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Push_Press": {
+    "name": "Push Press",
+    "instructions": []
+  },
+  "Push_Press_-_Behind_the_Neck": {
+    "name": "Push Press hinter dem Nacken",
+    "instructions": [
+      "Halte die Langhantel auf dem oberen Rücken. Stelle die Füße unter die Hüfte, beuge die Knie kurz, ohne die Hüfte nach hinten zu schieben, und kehre die Bewegung explosiv um. Drücke dich über die Fersen ab und beschleunige die Stange senkrecht nach oben.",
+      "Nutze den Schwung der Beine und drücke die Langhantel durch Strecken der Arme über den Kopf.",
+      "Senke die Stange in die Ausgangsposition zurück und fange die Belastung mit den Beinen ab."
+    ]
+  },
+  "Push_Up_to_Side_Plank": {
+    "name": "Liegestütz zum Seitstütz",
+    "instructions": [
+      "Gehe mit den Händen etwas weiter als schulterbreit in eine Liegestützposition auf den Zehen.",
+      "Beuge die Ellenbogen und senke den Körper bei gerader Haltung ab.",
+      "Drücke dich nach oben, verlagere das Gewicht auf die linke Körperseite und drehe dich in einen Seitstütz, während du den rechten Arm zur Decke führst.",
+      "Setze die rechte Hand zurück auf den Boden, führe einen weiteren Liegestütz aus und drehe dich anschließend zur anderen Seite.",
+      "Fahre abwechselnd für mindestens 10 Wiederholungen fort."
+    ]
+  },
+  "Pushups": {
+    "name": "Liegestütze",
+    "instructions": [
+      "Gehe in Bauchlage, stelle die Hände etwa 90 cm auseinander auf und halte den Oberkörper mit gestreckten Armen.",
+      "Senke dich beim Einatmen ab, bis die Brust fast den Boden berührt.",
+      "Drücke dich beim Ausatmen zurück in die Ausgangsposition und spanne die Brust an.",
+      "Halte oben kurz und wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Pushups_Close_and_Wide_Hand_Positions": {
+    "name": "Liegestütze mit engem und breitem Griff",
+    "instructions": [
+      "Gehe in Bauchlage und halte den Körper gerade. Stelle die Hände für die breite Variante weiter als schulterbreit und für die enge Variante enger als schulterbreit auf. Strecke die Arme.",
+      "Senke dich beim Einatmen ab, bis die Brust fast den Boden berührt.",
+      "Drücke dich beim Ausatmen mit der Brustmuskulatur zurück nach oben und spanne die Brust kurz an.",
+      "Halte oben kurz und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Pyramid": {
+    "name": "Pyramidenhaltung auf dem Gymnastikball",
+    "instructions": [
+      "Rolle den Oberkörper nach vorn über den Ball, bis die Hüfte auf dem höchsten Punkt des Balls liegt.",
+      "Stütze Hände und Füße auf dem Boden ab. Arme und Beine können je nach Ballgröße, Beweglichkeit und Körperproportionen leicht gebeugt oder gestreckt sein. Die Position trainiert außerdem die Stabilität von Rumpf und Schultern."
+    ]
+  },
+  "Quad_Stretch": {
+    "name": "Quadrizepsdehnung mit Gurt",
+    "instructions": [
+      "Lege dich auf die Seite und lege einen Gurt, ein Seil oder ein Band um den oberen Fuß. Beuge das Knie, strecke die Hüfte und führe den Fuß in Richtung Gesäß. Das ist die Ausgangsposition.",
+      "Führe den Gurt über die Schulter oder über den Kopf und ziehe vorsichtig, um die Dehnung im Quadrizeps zu verstärken. Halte 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Quadriceps-SMR": {
+    "name": "Quadrizeps-Selbstmassage",
+    "instructions": [
+      "Lege dich bäuchlings auf den Boden und stütze dich auf Händen oder Unterarmen ab. Positioniere eine Faszienrolle unter einem Oberschenkel und halte den Fuß vom Boden ab. Entspanne das Bein so weit wie möglich.",
+      "Verlagere so viel Gewicht wie angenehm auf das Bein und rolle vom Bereich oberhalb des Knies bis unterhalb der Hüfte. Halte verspannte Punkte 10 bis 30 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Quick_Leap": {
+    "name": "Schneller Boxsprung",
+    "instructions": [
+      "Für diese Übung benötigst du eine Box.",
+      "Stelle dich etwa 30 bis 60 cm vor die Box.",
+      "Springe mithilfe der Hüfte auf die Box und lande mit beiden Füßen, gebeugten Knien und flach aufgestellten Füßen.",
+      "Strecke den gesamten Körper direkt nach der Landung explosiv und schwinge die Arme über den Kopf, um von der Box abzuspringen. Fange die Landung kontrolliert über die Beine ab."
+    ]
+  },
+  "Rack_Delivery": {
+    "name": "Rack Delivery",
+    "instructions": [
+      "Dieser Drill trainiert das schnelle Umsetzen der Langhantel auf die Schultern. Halte die Stange in der Scarecrow-Position mit parallel zum Boden stehenden Oberarmen und nach unten hängenden Unterarmen. Verwende einen Hakengriff.",
+      "Drehe die Ellenbogen schnell um die Stange und führe sie auf die Schultern. Locke dabei den Griff. Schiebe die Schultern nach vorn, um eine stabile Ablage zu bilden; die Stange berührt den Hals nur leicht.",
+      "Halte die Stange jederzeit eng am Körper. Steigere Geschwindigkeit und Gewicht erst, wenn die Bewegung flüssig und kontrolliert ist."
+    ]
+  },
+  "Rack_Pull_with_Bands": {
+    "name": "Rack Pull mit Widerstandsbändern",
+    "instructions": [
+      "Lege die Langhantel in einem Power Rack auf Sicherheitsablagen knapp unter oder über den Knien oder auf Höhe der Oberschenkelmitte. Befestige Widerstandsbänder am Rack oder an schweren Kurzhanteln und verbinde sie mit der Stange.",
+      "Nimm eine Kreuzhebenposition ein: Füße unter der Hüfte, Griff etwa schulterbreit, Rücken stabil und Hüfte nach hinten. Verwende bei hohem Gewicht bei Bedarf Wechselgriff, Hakengriff oder Zughilfen.",
+      "Strecke Hüfte und Knie und ziehe die Stange nach oben und hinten bis zur vollständigen Streckung. Ziehe am Ende die Schultern zurück. Senke das Gewicht anschließend kontrolliert auf die Ablagen zurück."
+    ]
+  },
+  "Rack_Pulls": {
+    "name": "Rack Pulls",
+    "instructions": [
+      "Lege die Langhantel in einem Power Rack auf Sicherheitsablagen knapp unter oder über den Knien oder auf Höhe der Oberschenkelmitte. Nimm eine Kreuzhebenposition ein: Füße unter der Hüfte, Griff etwa schulterbreit, Rücken stabil und Hüfte nach hinten. Verwende bei hohem Gewicht bei Bedarf Wechselgriff, Hakengriff oder Zughilfen.",
+      "Strecke Hüfte und Knie und ziehe die Stange nach oben und hinten bis zur vollständigen Streckung. Ziehe am Ende die Schultern zurück.",
+      "Senke das Gewicht kontrolliert auf die Sicherheitsablagen zurück und wiederhole die Bewegung."
+    ]
+  }
+}

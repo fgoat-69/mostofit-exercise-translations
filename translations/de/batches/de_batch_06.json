@@ -1,0 +1,178 @@
+{
+  "Bodyweight_Flyes": {
+    "name": "Fliegende mit dem eigenen Körpergewicht",
+    "instructions": [
+      "Lege zwei gleichmäßig beladene SZ-Stangen nebeneinander auf den Boden und stelle sicher, dass sie rollen können.",
+      "Gehe über den Stangen in eine Liegestützposition. Stütze dich auf Zehen und Händen ab, halte die Arme gestreckt und den Körper gerade.",
+      "Greife die Stangen. Das ist die Ausgangsposition.",
+      "Rolle die Stangen langsam und kontrolliert auseinander, indem du die Hände seitlich vom Körper wegführst. Atme dabei ein.",
+      "Rolle die Stangen anschließend beim Ausatmen wieder zusammen und kehre in die Ausgangsposition zurück."
+    ]
+  },
+  "Bodyweight_Mid_Row": {
+    "name": "Rudern mit dem eigenen Körpergewicht",
+    "instructions": [
+      "Greife eine Klimmzugvorrichtung mittelbreit bis breit im Obergriff. Ziehe aus dem Hang die Knie zur Brust, lehne dich zurück und bringe die Beine über deine Seite der Vorrichtung. Das ist die Ausgangsposition.",
+      "Beuge aus gestreckten Armen die Ellenbogen und ziehe die Schulterblätter zusammen, bis deine Beine die Vorrichtung berühren.",
+      "Halte kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Bodyweight_Squat": {
+    "name": "Kniebeuge mit dem eigenen Körpergewicht",
+    "instructions": [
+      "Stelle dich schulterbreit hin. Du kannst die Hände hinter dem Kopf halten. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und schiebe das Gesäß nach hinten.",
+      "Gehe so tief wie kontrolliert möglich und richte dich anschließend wieder auf. Halte Kopf und Brust aufrecht und führe die Knie nach außen."
+    ]
+  },
+  "Bodyweight_Walking_Lunge": {
+    "name": "Gehender Ausfallschritt mit dem eigenen Körpergewicht",
+    "instructions": [
+      "Stelle dich schulterbreit hin und lege die Hände an die Hüften.",
+      "Mache mit einem Bein einen Schritt nach vorn und senke die Hüfte ab, bis das hintere Knie fast den Boden berührt. Halte den Oberkörper aufrecht und das vordere Knie über dem Fuß.",
+      "Drücke dich über die Ferse des vorderen Fußes nach oben und strecke beide Knie.",
+      "Führe den hinteren Fuß nach vorn und wiederhole den Ausfallschritt mit dem anderen Bein."
+    ]
+  },
+  "Bosu_Ball_Cable_Crunch_With_Side_Bends": {
+    "name": "Kabel-Crunch auf dem Bosu-Ball mit Seitbeugen",
+    "instructions": [
+      "Befestige an beiden Armen eines Kabelzugs je einen Standardgriff und stelle die Rollen ganz nach unten.",
+      "Positioniere einen Bosu-Ball mittig vor dem Kabelzug.",
+      "Lege dich so auf den Bosu-Ball, dass sich dein unterer Rücken über den Ball wölbt. Das Gesäß bleibt knapp über dem Boden.",
+      "Greife hinter dir mit beiden Händen die Kabelgriffe.",
+      "Stelle die Füße weit auseinander und strecke die Arme zwischen den Knien nach vorn. Die Hände befinden sich ungefähr auf Kniehöhe.",
+      "Halte die Arme gestreckt und in Zugrichtung des Kabels. Hebe den Oberkörper mit einer Crunch-Bewegung an, ohne die Arme zu beugen oder abzusenken.",
+      "Senke den Oberkörper langsam zurück, bis sich der Rücken wieder über den Bosu-Ball wölbt und die Bauchmuskulatur gedehnt ist.",
+      "Wiederhole die Bewegung bis zum Muskelversagen.",
+      "Halte danach die Bauchmuskulatur angespannt und hebe den Oberkörper in eine stabile Position, sodass der Rücken nicht mehr auf dem Ball liegt.",
+      "Senke die gestreckten Arme seitlich ab und führe abwechselnde Seitbeugen zu den Fersen aus, um die schräge Bauchmuskulatur zu belasten."
+    ]
+  },
+  "Bottoms-Up_Clean_From_The_Hang_Position": {
+    "name": "Bottoms-up Clean aus dem Hang",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Kettlebell in einer Hand.",
+      "Schwinge die Kettlebell kraftvoll nach hinten und kehre die Bewegung explosiv um. Greife den Griff fest und führe die Kettlebell bis zur Schulter, sodass der Boden der Kugel nach oben zeigt."
+    ]
+  },
+  "Bottoms_Up": {
+    "name": "Beckenheben mit gestreckten Beinen",
+    "instructions": [
+      "Lege dich auf den Rücken. Die Beine sind gestreckt und die Arme liegen seitlich am Körper. Das ist die Ausgangsposition.",
+      "Ziehe die Knie zur Brust, strecke die Beine anschließend senkrecht nach oben und rolle das Becken ein, sodass sich das Gesäß vom Boden hebt.",
+      "Halte kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Box_Jump_Multiple_Response": {
+    "name": "Mehrfacher Boxsprung",
+    "instructions": [
+      "Stelle dich entspannt etwa eine Armlänge vor eine Box oder Plattform. Die Arme hängen seitlich und die Knie sind leicht gebeugt.",
+      "Springe mithilfe der Arme explosiv nach vorn und oben und lande mit beiden Füßen gleichzeitig auf der Box.",
+      "Springe oder steige sofort zurück in die Ausgangsposition und wiederhole die Bewegung."
+    ]
+  },
+  "Box_Skip": {
+    "name": "Sprunglauf über Boxen",
+    "instructions": [
+      "Stelle mehrere Boxen mit etwa 2,5 Metern Abstand hintereinander auf.",
+      "Stelle dich vor die erste Box, wobei ein Bein leicht hinter dem anderen steht.",
+      "Drücke dich kraftvoll über das hintere Bein ab und versuche, möglichst viel Höhe zu erreichen.",
+      "Springe unmittelbar nach der Landung auf der Box mit dem anderen Bein nach vorn und oben ab. Lande zwischen den ersten beiden Boxen auf demselben Bein, das zuvor auf der ersten Box gelandet ist.",
+      "Gehe zur nächsten Box und wiederhole die Abfolge."
+    ]
+  },
+  "Box_Squat": {
+    "name": "Box-Kniebeuge",
+    "instructions": [
+      "Stelle in einem Power Rack eine Box in geeigneter Höhe hinter dich. Wähle eine Höhe, die ungefähr eine parallele Kniebeuge ermöglicht, oder passe sie deinem Trainingsziel an.",
+      "Positioniere die Langhantel auf dem oberen Rücken, ziehe die Schulterblätter zusammen und hebe die Stange aus der Ablage. Stelle die Füße je nach Schwerpunkt breiter oder enger und richte den Blick nach vorn.",
+      "Halte Rücken, Schultern und Rumpf fest, führe Knie und Hüfte nach außen und setze dich kontrolliert auf die Box zurück. Die Schienbeine sollten möglichst senkrecht bleiben. Pausiere kurz, ohne von der Box abzufedern.",
+      "Drücke dich über die Fersen kraftvoll nach oben, führe Knie und Füße weiter nach außen und halte die Ganzkörperspannung."
+    ]
+  },
+  "Box_Squat_with_Bands": {
+    "name": "Box-Kniebeuge mit Widerstandsbändern",
+    "instructions": [
+      "Stelle in einem Power Rack eine Box in geeigneter Höhe hinter dich. Befestige die Bänder sicher an Bandstiften, Rack oder ausreichend schweren und fixierten Kurzhanteln. Stelle eine passende Bandspannung ein.",
+      "Positioniere die Langhantel auf dem oberen Rücken, ziehe die Schulterblätter zusammen und hebe die Stange aus der Ablage. Stelle die Füße passend zu deinem Trainingsschwerpunkt auf und richte den Blick nach vorn.",
+      "Halte Rücken, Schultern und Rumpf fest, führe Knie und Hüfte nach außen und setze dich kontrolliert auf die Box zurück. Pausiere kurz, ohne von der Box abzufedern.",
+      "Drücke dich über die Fersen kraftvoll nach oben und halte die Ganzkörperspannung. Lege die Stange anschließend vorsichtig zurück in die Ablage."
+    ]
+  },
+  "Box_Squat_with_Chains": {
+    "name": "Box-Kniebeuge mit Ketten",
+    "instructions": [
+      "Stelle in einem Power Rack eine Box in geeigneter Höhe hinter dich.",
+      "Lege die Führungsketten über die Hantelscheibenaufnahmen und befestige die schweren Ketten mit Karabinern. Stelle die Länge so ein, dass am oberen Punkt noch einige Kettenglieder den Boden berühren.",
+      "Positioniere die Langhantel auf dem oberen Rücken, ziehe die Schulterblätter zusammen und hebe die Stange aus der Ablage. Stelle die Füße passend zu deinem Trainingsschwerpunkt auf.",
+      "Halte Rücken, Schultern und Rumpf fest, führe Knie und Hüfte nach außen und setze dich kontrolliert auf die Box zurück. Pausiere kurz, ohne von der Box abzufedern.",
+      "Drücke dich über die Fersen kraftvoll nach oben und halte die Ganzkörperspannung."
+    ]
+  },
+  "Brachialis-SMR": {
+    "name": "Brachialis-Selbstmassage",
+    "instructions": [
+      "Lege dich auf die Seite und positioniere den Oberarm auf einer Faszienrolle. Der Arm liegt ungefähr in einer Linie mit dem Körper, wobei die Außenseite des Oberarms auf der Rolle aufliegt.",
+      "Hebe die Hüfte vom Boden ab und stütze dich über Arm und Füße. Halte empfindliche Punkte 10 bis 30 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Bradford_Rocky_Presses": {
+    "name": "Bradford-/Rocky-Press",
+    "instructions": [
+      "Setze dich an eine Schulterdrückbank und halte die Langhantel auf Schulterhöhe im Obergriff. Greife weiter als schulterbreit. Das ist die Ausgangsposition.",
+      "Drücke die Langhantel über den Kopf, bis die Arme gestreckt sind.",
+      "Senke die Stange beim Einatmen langsam hinter den Kopf ab.",
+      "Drücke sie beim Ausatmen wieder über den Kopf.",
+      "Senke sie anschließend beim Einatmen vor den Kopf zurück auf Schulterhöhe. Das zählt als eine Wiederholung.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen erreicht hast."
+    ]
+  },
+  "Butt-Ups": {
+    "name": "Hüftheben im Unterarmstütz",
+    "instructions": [
+      "Gehe in eine Unterarmstützposition. Die Ellenbogen liegen unter den Schultern und sind etwa 90 Grad gebeugt.",
+      "Halte den Rücken leicht gerundet statt vollständig gerade.",
+      "Hebe das Gesäß zur Decke und ziehe dabei Rippenbogen und Hüfte mithilfe der Bauchmuskulatur zusammen. Atme beim Anheben aus.",
+      "Senke die Hüfte beim Einatmen langsam zurück, ohne den Boden zu berühren.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Butt_Lift_Bridge": {
+    "name": "Gesäßbrücke",
+    "instructions": [
+      "Lege dich auf den Rücken, beuge die Knie und stelle die Füße etwa schulterbreit auf den Boden. Die Arme liegen seitlich am Körper.",
+      "Drücke dich über die Fersen ab und hebe die Hüfte an, bis Schultern, Hüfte und Knie eine gerade Linie bilden. Spanne das Gesäß oben kurz an.",
+      "Senke die Hüfte kontrolliert zurück in die Ausgangsposition."
+    ]
+  },
+  "Butterfly": {
+    "name": "Butterfly-Maschine",
+    "instructions": [
+      "Setze dich an die Butterfly-Maschine und stelle den Sitz so ein, dass sich die Griffe auf Brusthöhe befinden.",
+      "Greife die Griffe mit leicht gebeugten Ellenbogen. Das ist die Ausgangsposition.",
+      "Führe die Arme beim Ausatmen vor der Brust zusammen und spanne die Brustmuskulatur an.",
+      "Halte die Endposition kurz.",
+      "Führe die Arme beim Einatmen langsam und kontrolliert zurück."
+    ]
+  },
+  "Cable_Chest_Press": {
+    "name": "Brustdrücken am Kabelzug",
+    "instructions": [
+      "Stelle die Kabelzüge auf Brusthöhe ein, wähle ein geeignetes Gewicht und greife beide Griffe.",
+      "Stelle dich mittig zwischen die Türme, mache einen stabilen Ausfallschritt und halte die Griffe seitlich auf Brusthöhe. Das ist die Ausgangsposition.",
+      "Drücke die Griffe beim Ausatmen gerade nach vorn, bis die Arme fast vollständig gestreckt sind.",
+      "Halte kurz und kehre beim Einatmen kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Cable_Crossover": {
+    "name": "Kabelzug-Crossover",
+    "instructions": [
+      "Stelle die Rollen auf eine hohe Position, wähle das Gewicht und greife in jeder Hand einen Griff.",
+      "Mache einen Schritt nach vorn und neige den Oberkörper leicht nach vorn. Halte die Arme seitlich mit leicht gebeugten Ellenbogen. Das ist die Ausgangsposition.",
+      "Führe die Hände beim Ausatmen in einem weiten Bogen vor dem Körper zusammen. Die Bewegung erfolgt nur aus dem Schultergelenk.",
+      "Führe die Arme beim Einatmen auf demselben Bewegungsweg kontrolliert zurück.",
+      "Halte die Ausgangsposition kurz und wiederhole die Bewegung."
+    ]
+  }
+}

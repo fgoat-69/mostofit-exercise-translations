@@ -1,0 +1,184 @@
+{
+  "Inchworm": {
+    "name": "Inchworm",
+    "instructions": [
+      "Stelle dich mit eng zusammenstehenden Füßen hin. Halte die Beine möglichst gestreckt, beuge dich nach vorn und setze die Hände vor dir auf den Boden. Das ist die Ausgangsposition.",
+      "Wandere mit den Händen abwechselnd langsam nach vorn und beuge dich dabei nur aus der Hüfte.",
+      "Gehe weiter, bis du eine stabile Liegestützposition erreicht hast.",
+      "Halte die Hände am Boden und mache mit den Füßen kurze Schritte nach vorn.",
+      "Gehe weiter, bis sich die Füße wieder nahe an den Händen befinden."
+    ]
+  },
+  "Incline_Barbell_Triceps_Extension": {
+    "name": "Trizepsstrecken mit Langhantel auf der Schrägbank",
+    "instructions": [
+      "Greife eine Langhantel etwas enger als schulterbreit im Obergriff.",
+      "Lege dich auf eine 45 bis 75 Grad geneigte Bank.",
+      "Halte die Stange mit gestreckten Armen über dem Kopf und die Ellenbogen eng. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke die Stange beim Einatmen in einem Halbkreis hinter den Kopf, bis die Unterarme den Bizeps fast berühren.",
+      "Strecke die Ellenbogen beim Ausatmen zurück nach oben und spanne den Trizeps kurz an.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Incline_Bench_Pull": {
+    "name": "Reverse Row auf der Schrägbank",
+    "instructions": [
+      "Lege dich bäuchlings auf eine etwa 30 Grad geneigte Bank und halte in jeder Hand eine Kurzhantel.",
+      "Lasse die Arme vollständig gestreckt zum Boden hängen.",
+      "Drehe die Handflächen nach hinten beziehungsweise zum Boden.",
+      "Führe die Ellenbogen seitlich nach außen. Das ist die Ausgangsposition.",
+      "Ziehe die Kurzhanteln beim Ausatmen nach oben, bis die Oberarme auf Höhe des Rückens liegen und mit dem Oberkörper ein T bilden. Halte oben kurz.",
+      "Senke die Gewichte beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Incline_Cable_Chest_Press": {
+    "name": "Schräges Brustdrücken am Kabelzug",
+    "instructions": [
+      "Setze dich an die Maschine, wähle ein geeignetes Gewicht und greife die Griffe. Halte die Oberarme etwa 45 Grad zum Körper, Brust und Kopf aufrecht und die Ellenbogen ungefähr 90 Grad gebeugt. Das ist die Ausgangsposition.",
+      "Drücke die Griffe durch Strecken der Ellenbogen vor dem Körper zusammen. Halte die Schulterblätter zurückgezogen.",
+      "Halte die vollständige Streckung kurz und kehre unter Spannung kontrolliert zurück."
+    ]
+  },
+  "Incline_Cable_Flye": {
+    "name": "Fliegende am Kabelzug auf der Schrägbank",
+    "instructions": [
+      "Stelle beide Kabelrollen auf die niedrigste Position.",
+      "Positioniere eine etwa 45 Grad geneigte Bank zwischen den Rollen, wähle das Gewicht und greife beide Griffe.",
+      "Lege dich zurück und halte die Griffe mit gestreckten Armen vor dem Gesicht zusammen. Das ist die Ausgangsposition.",
+      "Halte die Ellenbogen leicht gebeugt und senke die Arme beim Einatmen in einem weiten Bogen seitlich ab, bis du eine Dehnung in der Brust spürst.",
+      "Führe die Arme beim Ausatmen auf demselben Weg zurück, spanne die Brust an und halte kurz.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Incline_Dumbbell_Bench_With_Palms_Facing_In": {
+    "name": "Schrägbankdrücken mit Kurzhanteln im neutralen Griff",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf den Oberschenkeln auf eine Schrägbank. Die Handflächen zeigen zueinander.",
+      "Nutze die Oberschenkel, um die Kurzhanteln nacheinander auf Schulterhöhe zu bringen.",
+      "Halte die Handflächen zueinander und die Ellenbogen seitlich auf Schulterhöhe. Ober- und Unterarm bilden ungefähr einen 90-Grad-Winkel. Das ist die Ausgangsposition.",
+      "Senke die Gewichte beim Einatmen langsam seitlich ab.",
+      "Drücke die Kurzhanteln beim Ausatmen mit der Brustmuskulatur nach oben. Strecke die Arme, halte kurz und senke die Gewichte anschließend langsam wieder ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Kurzhanteln nach dem Satz kontrolliert auf den Oberschenkeln und anschließend auf dem Boden ab."
+    ]
+  },
+  "Incline_Dumbbell_Curl": {
+    "name": "Kurzhantelcurl auf der Schrägbank",
+    "instructions": [
+      "Setze dich mit je einer Kurzhantel auf eine Schrägbank. Halte die Ellenbogen nah am Körper und drehe die Handflächen nach vorn. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen. Führe die Hanteln bis auf Schulterhöhe und spanne den Bizeps oben kurz an.",
+      "Senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Incline_Dumbbell_Flyes": {
+    "name": "Fliegende mit Kurzhanteln auf der Schrägbank",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf eine maximal 30 Grad geneigte Bank.",
+      "Halte die Arme mit leicht gebeugten Ellenbogen über der Brust.",
+      "Drehe die Handflächen zum Gesicht, sodass die kleinen Finger nebeneinanderliegen. Das ist die Ausgangsposition.",
+      "Senke die Arme beim Einatmen seitlich ab und drehe die Handgelenke, bis die Handflächen zueinander zeigen. Am unteren Punkt zeigen die Handflächen zur Decke.",
+      "Führe die Hanteln beim Ausatmen auf demselben Weg zurück und drehe die Hände wieder in die Ausgangsposition. Der Ellenbogenwinkel bleibt unverändert.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Incline_Dumbbell_Flyes_-_With_A_Twist": {
+    "name": "Fliegende mit Kurzhanteln und Drehung auf der Schrägbank",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf eine maximal 30 Grad geneigte Bank.",
+      "Halte die Arme mit leicht gebeugten Ellenbogen über der Brust.",
+      "Drehe die Handflächen zum Gesicht, sodass die kleinen Finger nebeneinanderliegen. Das ist die Ausgangsposition.",
+      "Senke die Arme beim Einatmen seitlich ab und drehe die Handgelenke, bis die Handflächen zueinander zeigen. Am unteren Punkt zeigen die Handflächen zur Decke.",
+      "Führe die Hanteln beim Ausatmen auf demselben Weg zurück und drehe die Hände wieder in die Ausgangsposition. Der Ellenbogenwinkel bleibt unverändert.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Incline_Dumbbell_Press": {
+    "name": "Schrägbankdrücken mit Kurzhanteln",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf den Oberschenkeln auf eine Schrägbank.",
+      "Nutze die Oberschenkel, um die Kurzhanteln nacheinander auf Schulterhöhe zu bringen.",
+      "Drehe die Handflächen nach vorn. Das ist die Ausgangsposition.",
+      "Drücke die Kurzhanteln beim Ausatmen mit der Brustmuskulatur nach oben.",
+      "Strecke die Arme, halte kurz und senke die Gewichte anschließend langsam ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Kurzhanteln nach dem Satz kontrolliert auf den Oberschenkeln und anschließend auf dem Boden ab."
+    ]
+  },
+  "Incline_Hammer_Curls": {
+    "name": "Hammercurls auf der Schrägbank",
+    "instructions": [
+      "Setze dich mit je einer Kurzhantel auf eine Schrägbank und lehne den Rücken fest an. Lasse die Arme mit neutralem Griff seitlich nach unten hängen. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen und halte die Oberarme möglichst ruhig.",
+      "Führe die Hanteln bis zum oberen Bewegungsende, halte kurz und senke sie anschließend langsam zurück."
+    ]
+  },
+  "Incline_Inner_Biceps_Curl": {
+    "name": "Bizepscurl nach außen auf der Schrägbank",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf eine Schrägbank.",
+      "Lasse die Arme seitlich hängen und drehe die Handflächen nach außen. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Ausatmen nach außen und oben, bis sich die Hanteln seitlich auf Schulterhöhe befinden. Die Endposition ähnelt einer Doppelbizeps-Pose.",
+      "Halte oben kurz und senke die Gewichte beim Einatmen auf demselben Weg zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Incline_Push-Up": {
+    "name": "Erhöhter Liegestütz",
+    "instructions": [
+      "Stelle dich vor eine stabile Bank oder erhöhte Plattform und platziere die Hände etwas weiter als schulterbreit auf der Kante.",
+      "Gehe mit den Füßen zurück, bis Arme und Körper gestreckt sind. Halte den Körper gerade und senke die Brust durch Beugen der Ellenbogen zur Kante ab.",
+      "Drücke dich bis zur vollständigen Armstreckung zurück nach oben und wiederhole die Bewegung."
+    ]
+  },
+  "Incline_Push-Up_Close-Grip": {
+    "name": "Enger erhöhter Liegestütz",
+    "instructions": [
+      "Stelle dich vor eine Smith-Maschine oder stabile erhöhte Plattform in geeigneter Höhe.",
+      "Platziere die Hände eng nebeneinander auf der Stange.",
+      "Gehe mit den Füßen zurück und halte Arme und Körper gestreckt. Das ist die Ausgangsposition.",
+      "Halte den Körper gerade und senke die Brust durch Beugen der Ellenbogen zur Stange.",
+      "Drücke dich durch Strecken der Ellenbogen zurück nach oben."
+    ]
+  },
+  "Incline_Push-Up_Depth_Jump": {
+    "name": "Plyometrischer Liegestütz mit erhöhten Füßen",
+    "instructions": [
+      "Stelle eine etwa 30 cm hohe Box sowie zwei dicke Matten oder Aerobic-Steps bereit.",
+      "Positioniere die Matten knapp außerhalb der Schultern und stelle die Füße auf die Box. Die Hände befinden sich zwischen den Matten. Das ist die Ausgangsposition.",
+      "Senke den Körper durch Beugen der Ellenbogen ab und drücke dich anschließend explosiv vom Boden weg. Setze die Hände in der Luft auf die erhöhten Matten und fange die Landung mit gebeugten Ellenbogen ab.",
+      "Drücke dich erneut explosiv ab und lande mit den Händen wieder zwischen den Matten."
+    ]
+  },
+  "Incline_Push-Up_Medium": {
+    "name": "Erhöhter Liegestütz mit mittlerem Griff",
+    "instructions": [
+      "Stelle dich vor eine Smith-Maschine oder stabile erhöhte Plattform in geeigneter Höhe.",
+      "Platziere die Hände etwa schulterbreit auf der Stange.",
+      "Gehe mit den Füßen zurück und halte Arme und Körper gestreckt. Das ist die Ausgangsposition.",
+      "Halte den Körper gerade und senke die Brust durch Beugen der Ellenbogen zur Stange.",
+      "Drücke dich durch Strecken der Ellenbogen zurück nach oben."
+    ]
+  },
+  "Incline_Push-Up_Reverse_Grip": {
+    "name": "Erhöhter Liegestütz im Untergriff",
+    "instructions": [
+      "Stelle dich vor eine Smith-Maschine oder stabile erhöhte Plattform in geeigneter Höhe.",
+      "Greife die Stange etwa schulterbreit im Untergriff, sodass die Handflächen nach oben zeigen.",
+      "Gehe mit den Füßen zurück und halte Arme und Körper gestreckt. Das ist die Ausgangsposition.",
+      "Halte den Körper gerade und senke die Brust durch Beugen der Ellenbogen zur Stange.",
+      "Drücke dich durch Strecken der Ellenbogen zurück nach oben."
+    ]
+  },
+  "Incline_Push-Up_Wide": {
+    "name": "Breiter erhöhter Liegestütz",
+    "instructions": [
+      "Stelle dich vor eine Smith-Maschine oder stabile erhöhte Plattform in geeigneter Höhe.",
+      "Platziere die Hände weiter als schulterbreit auf der Stange.",
+      "Gehe mit den Füßen zurück und halte Arme und Körper gestreckt. Das ist die Ausgangsposition.",
+      "Halte den Körper gerade und senke die Brust durch Beugen der Ellenbogen zur Stange.",
+      "Drücke dich durch Strecken der Ellenbogen zurück nach oben."
+    ]
+  }
+}

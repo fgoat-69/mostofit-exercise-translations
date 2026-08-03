@@ -1,0 +1,177 @@
+{
+  "Clean_and_Press": {
+    "name": "Umsetzen und Drücken",
+    "instructions": [
+      "Stelle dich schulterbreit hin, beuge Knie und Hüfte und greife die Langhantel etwas weiter als schulterbreit im Obergriff. Halte den Rücken flach, die Stange nahe an den Schienbeinen und die Schultern über oder leicht vor der Stange.",
+      "Strecke die Knie und führe Hüfte und Schultern gleichzeitig nach oben. Halte den Rückenwinkel konstant und die Stange eng am Körper.",
+      "Strecke nach dem Passieren der Knie Hüfte, Knie und Sprunggelenke explosiv. Ziehe die Schultern hoch und beschleunige die Stange eng am Körper.",
+      "Ziehe dich unter die Stange und gehe zum Auffangen in eine Kniebeuge.",
+      "Drehe die Ellenbogen schnell unter die Stange und fange sie auf den vorderen Schultern ab.",
+      "Stehe vollständig auf und halte die Stange in der Clean-Position.",
+      "Drücke die Stange beim Ausatmen ohne Fußbewegung über den Kopf und senke sie anschließend kontrolliert ab."
+    ]
+  },
+  "Clean_from_Blocks": {
+    "name": "Umsetzen von Blöcken",
+    "instructions": [
+      "Lege die Langhantel auf Blöcke oder Ablagen in gewünschter Höhe. Greife sie knapp außerhalb der Beine im Ober- oder Hakengriff. Senke die Hüfte, halte Rücken und Brust stabil und positioniere die Schultern leicht vor der Stange.",
+      "Drücke dich über die Fersen ab und strecke die Knie. Halte Rückenwinkel und Arme stabil.",
+      "Ziehe nach vollständiger Streckung die Schultern kraftvoll hoch, beuge die Arme und ziehe dich unter die Stange. Drehe die Ellenbogen nach vorn und fange die Stange in einer Frontkniebeuge auf.",
+      "Stehe über die Fersen vollständig auf und lege die Stange für die nächste Wiederholung kontrolliert auf den Blöcken ab."
+    ]
+  },
+  "Clock_Push-Up": {
+    "name": "Uhrzeiger-Liegestütz",
+    "instructions": [
+      "Gehe in eine Liegestützposition und stütze dich auf Händen und Zehen ab.",
+      "Halte die Arme gestreckt, die Hände etwa schulterbreit und den Körper während der gesamten Bewegung gerade. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen und senke die Brust in Richtung Boden.",
+      "Drücke dich am unteren Punkt so explosiv wie möglich nach oben, bis die Hände den Boden verlassen. Springe dabei etwa 30 bis 45 cm seitlich.",
+      "Bewege den äußeren Fuß von der Sprungrichtung weg und drehe den Körper in der Luft ungefähr 30 Grad.",
+      "Lande stabil und wiederhole die Übung, bis du einen vollständigen Kreis ausgeführt hast."
+    ]
+  },
+  "Close-Grip_Barbell_Bench_Press": {
+    "name": "Enges Langhantel-Bankdrücken",
+    "instructions": [
+      "Lege dich auf eine Flachbank, greife die Stange ungefähr schulterbreit und hebe sie mit gestreckten Armen aus der Ablage. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen langsam zur mittleren Brust. Halte die Ellenbogen während der gesamten Bewegung nah am Oberkörper.",
+      "Drücke die Stange beim Ausatmen mit dem Trizeps nach oben. Strecke die Arme, halte kurz und senke die Stange anschließend langsam wieder ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Stange nach dem Satz sicher in der Ablage ab."
+    ]
+  },
+  "Close-Grip_Dumbbell_Press": {
+    "name": "Enges Kurzhanteldrücken",
+    "instructions": [
+      "Stelle eine Kurzhantel aufrecht auf eine Flachbank.",
+      "Lege dich quer auf die Bank, sodass nur die Schultern aufliegen. Die Hüfte bleibt unterhalb der Bank, die Knie sind gebeugt und die Füße stehen fest auf dem Boden.",
+      "Greife die Kurzhantel mit beiden Händen und halte sie mit gestreckten Armen über der Brust. Beide Handflächen drücken gegen die Unterseite einer Hantelseite. Das ist die Ausgangsposition.",
+      "Senke die Kurzhantel kontrolliert zur Brust ab.",
+      "Drücke sie durch Strecken der Ellenbogen zurück in die Ausgangsposition."
+    ]
+  },
+  "Close-Grip_EZ-Bar_Curl_with_Band": {
+    "name": "Enger SZ-Curl mit Widerstandsband",
+    "instructions": [
+      "Befestige an beiden Enden der SZ-Stange ein Band und stelle einen Fuß mittig darauf. Halte die Stange eng im Untergriff und die Ellenbogen nah am Körper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen.",
+      "Führe die Stange bis auf Schulterhöhe, spanne den Bizeps vollständig an und halte kurz.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Close-Grip_EZ-Bar_Press": {
+    "name": "Enges Drücken mit der SZ-Stange",
+    "instructions": [
+      "Lege dich mit einer passend beladenen SZ-Stange auf eine Flachbank.",
+      "Greife die Stange eng, halte die Ellenbogen nah am Körper und positioniere sie mit gestreckten Armen über dem Oberkörper. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen zur unteren Brust und halte die Ellenbogen eng.",
+      "Drücke die Stange beim Ausatmen mit dem Trizeps zurück nach oben.",
+      "Wiederhole die Bewegung."
+    ]
+  },
+  "Close-Grip_EZ_Bar_Curl": {
+    "name": "Enger SZ-Curl",
+    "instructions": [
+      "Stelle dich aufrecht hin und greife die inneren Griffe der SZ-Stange im Untergriff. Halte die Ellenbogen nah am Oberkörper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen.",
+      "Führe die Stange bis auf Schulterhöhe, spanne den Bizeps vollständig an und halte kurz.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Close-Grip_Front_Lat_Pulldown": {
+    "name": "Enger Latzug zur Brust",
+    "instructions": [
+      "Setze dich an den Latzug und stelle das Kniepolster passend ein.",
+      "Greife die Stange eng im Obergriff, also enger als schulterbreit.",
+      "Lehne den Oberkörper leicht zurück, halte die Brust aufrecht und den unteren Rücken stabil. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen zur oberen Brust, indem du Schultern und Oberarme nach unten und hinten führst. Halte den Oberkörper ruhig.",
+      "Halte die untere Position kurz und lasse die Stange beim Einatmen langsam bis zur vollständigen Armstreckung zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Close-Grip_Push-Up_off_of_a_Dumbbell": {
+    "name": "Enger Liegestütz auf einer Kurzhantel",
+    "instructions": [
+      "Stelle eine Kurzhantel sicher aufrecht auf den Boden und lege beide Hände darauf. Gehe in eine Liegestützposition, halte den Körper steif und die Ellenbogen nah am Oberkörper. Das ist die Ausgangsposition.",
+      "Beuge beim Einatmen die Ellenbogen und senke den Körper ab. Halte Hüfte und Oberkörper in einer Linie.",
+      "Drücke dich beim Ausatmen durch Strecken der Ellenbogen zurück nach oben.",
+      "Halte die obere Position kurz und wiederhole die Bewegung."
+    ]
+  },
+  "Close-Grip_Standing_Barbell_Curl": {
+    "name": "Stehender enger Langhantelcurl",
+    "instructions": [
+      "Halte eine Langhantel mit engem Untergriff vor dem Körper.",
+      "Stelle dich aufrecht und schulterbreit hin. Halte Kopf und Brust aufrecht sowie die Ellenbogen nah am Oberkörper. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen in einem Halbkreis, bis die Unterarme den Bizeps fast berühren. Atme aus, spanne den Bizeps oben kurz an und vermeide Schwung.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cocoons": {
+    "name": "Cocoons",
+    "instructions": [
+      "Lege dich auf den Rücken, strecke die Beine aus und führe die Arme hinter den Kopf. Das ist die Ausgangsposition.",
+      "Ziehe die Knie zur Brust, rolle das Becken ein und hebe das Gesäß leicht an. Beuge gleichzeitig die Wirbelsäule und führe die Arme über den Kopf nach vorn.",
+      "Halte kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Conans_Wheel": {
+    "name": "Conan's Wheel",
+    "instructions": [
+      "Greife das beladene Gerät im Zercher-Griff. Lege die Stange in die Ellenbeuge und halte das eigene Handgelenk fest. Vermeide unnötigen Druck auf die Unterarme.",
+      "Hebe das Gewicht vom Boden an und gehe mit aufrechtem, angespanntem Oberkörper in kurzen, schnellen Schritten im Kreis. Halte den Blick nach oben und außen und atme während der Belastung weiter."
+    ]
+  },
+  "Concentration_Curls": {
+    "name": "Konzentrationscurl",
+    "instructions": [
+      "Setze dich mit gespreizten Beinen auf eine Flachbank und stelle eine Kurzhantel zwischen die Füße.",
+      "Nimm die Hantel mit dem rechten Arm auf und lege die Rückseite des Oberarms an die Innenseite des rechten Oberschenkels. Drehe die Handfläche nach vorn. Das ist die Ausgangsposition.",
+      "Halte den Oberarm ruhig und beuge die Ellenbogen beim Ausatmen. Führe die Hantel bis zur Schulter, drehe den kleinen Finger leicht nach oben und spanne den Bizeps kurz an.",
+      "Senke die Hantel beim Einatmen langsam zurück und vermeide Schwung.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Cross-Body_Crunch": {
+    "name": "Überkreuz-Crunch",
+    "instructions": [
+      "Lege dich auf den Rücken und beuge die Knie ungefähr auf 60 Grad.",
+      "Stelle die Füße flach auf und lege die Hände locker hinter den Kopf. Das ist die Ausgangsposition.",
+      "Hebe den Oberkörper an und führe rechte Schulter und rechten Ellenbogen zum linken Knie, während du dieses zur Schulter ziehst. Atme aus und konzentriere dich auf die Bauchspannung.",
+      "Kehre beim Einatmen zurück und wiederhole die Bewegung mit linker Schulter und rechtem Knie.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen erreicht hast."
+    ]
+  },
+  "Cross_Body_Hammer_Curl": {
+    "name": "Überkreuz-Hammercurl",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel mit den Handflächen zum Körper.",
+      "Halte die Hand neutral und führe die rechte Hantel beim Ausatmen zur linken Schulter. Halte die Endposition kurz.",
+      "Senke die Hantel beim Einatmen auf demselben Weg zurück und wiederhole die Bewegung mit dem linken Arm.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen pro Arm erreicht hast."
+    ]
+  },
+  "Cross_Over_-_With_Bands": {
+    "name": "Crossover mit Widerstandsbändern",
+    "instructions": [
+      "Befestige ein Widerstandsband an einem stabilen Pfosten.",
+      "Stelle dich vom Pfosten weg, greife beide Enden und gehe so weit nach vorn, bis das Band unter Spannung steht.",
+      "Hebe die Arme seitlich auf Schulterhöhe an. Halte sie fast gestreckt, die Handflächen zeigen nach vorn. Das ist die Ausgangsposition.",
+      "Führe die Arme beim Ausatmen in einem Halbkreis vor der Brust zusammen und spanne die Brustmuskulatur an.",
+      "Kehre beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Crossover_Reverse_Lunge": {
+    "name": "Überkreuzter Rückwärtsausfallschritt",
+    "instructions": [
+      "Stelle dich schulterbreit hin. Das ist die Ausgangsposition.",
+      "Mache mit einem Fuß einen Schritt nach hinten, beuge Hüfte und vorderes Knie und drehe den Oberkörper über das vordere Bein.",
+      "Halte kurz, kehre in die Ausgangsposition zurück und wiederhole die Bewegung abwechselnd auf der anderen Seite."
+    ]
+  }
+}

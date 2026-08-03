@@ -1,0 +1,175 @@
+{
+  "Intermediate_Groin_Stretch": {
+    "name": "Fortgeschrittene Leistendehnung",
+    "instructions": [
+      "Lege dich mit gestreckten Beinen auf den Rücken. Lege einen Gurt, ein Seil oder ein Band um einen Fuß und führe das Bein so weit wie möglich seitlich nach außen. Das ist die Ausgangsposition.",
+      "Ziehe vorsichtig am Gurt, bis du eine Dehnung in Leiste und hinterem Oberschenkel spürst. Halte die Position 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Intermediate_Hip_Flexor_and_Quad_Stretch": {
+    "name": "Fortgeschrittene Hüftbeuger- und Quadrizepsdehnung",
+    "instructions": [
+      "Lege dich bäuchlings auf den Boden und befestige einen Gurt, ein Seil oder ein Band an einem Fuß.",
+      "Beuge das Knie und strecke die Hüfte des zu dehnenden Beins, während du mit beiden Händen am Gurt ziehst. Knie und Hüfte heben sich leicht vom Boden ab. Halte die Dehnung 10 bis 20 Sekunden und wechsle anschließend das Bein."
+    ]
+  },
+  "Internal_Rotation_with_Band": {
+    "name": "Innenrotation mit Widerstandsband",
+    "instructions": [
+      "Befestige das Band auf Ellenbogenhöhe an einem stabilen Pfosten und stelle dich mit der rechten Seite zum Band.",
+      "Greife das Band mit der rechten Hand und drücke den Ellenbogen fest an den Körper. Ein kleines Polster zwischen Ellenbogen und Oberkörper kann helfen.",
+      "Beuge den Ellenbogen auf 90 Grad und halte die Hand vom Oberkörper weg. Das ist die Ausgangsposition.",
+      "Drehe den Unterarm nach innen vor den Körper, während der Ellenbogen an seiner Position bleibt.",
+      "Führe die Bewegung so weit wie kontrolliert möglich aus, halte kurz und kehre langsam zurück."
+    ]
+  },
+  "Inverted_Row": {
+    "name": "Umgekehrtes Rudern",
+    "instructions": [
+      "Positioniere eine Stange ungefähr auf Hüfthöhe in einem Rack oder einer Smith-Maschine.",
+      "Greife die Stange weiter als schulterbreit und hänge dich mit gestrecktem Körper darunter. Die Fersen stehen am Boden und die Arme sind vollständig gestreckt. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen, ziehe die Brust zur Stange und führe die Schulterblätter zusammen.",
+      "Halte oben kurz und senke dich kontrolliert zurück.",
+      "Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Inverted_Row_with_Straps": {
+    "name": "Umgekehrtes Rudern an Schlingengurten",
+    "instructions": [
+      "Befestige ein Seil oder Schlingengurte an einem stabilen Gegenstand. Greife die Enden und lehne dich mit gestrecktem Körper zurück. Die Fersen bleiben am Boden und die Arme sind vollständig gestreckt. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen, ziehe die Brust zu den Händen und führe die Schulterblätter zusammen.",
+      "Halte oben kurz und senke dich kontrolliert zurück.",
+      "Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Iron_Cross": {
+    "name": "Iron Cross",
+    "instructions": []
+  },
+  "Iron_Crosses_stretch": {
+    "name": "Iron-Cross-Dehnung",
+    "instructions": [
+      "Lege dich bäuchlings auf den Boden, strecke die Arme seitlich aus und drücke die Handflächen in den Boden. Das ist die Ausgangsposition.",
+      "Beuge ein Knie und führe das Bein hinter dem Körper zur gegenüberliegenden Hand, möglichst bis in Bodennähe.",
+      "Bringe das Bein zügig zurück und wiederhole die Bewegung mit der anderen Seite. Fahre 10 bis 20 Wiederholungen lang abwechselnd fort."
+    ]
+  },
+  "Isometric_Chest_Squeezes": {
+    "name": "Isometrisches Brustdrücken",
+    "instructions": [
+      "Setze oder stelle dich aufrecht hin, beuge die Ellenbogen auf 90 Grad und lege die Handflächen vor der Brust zusammen. Die Finger zeigen nach vorn.",
+      "Drücke beide Hände gegeneinander und spanne die Brustmuskulatur an. Steigere die Spannung langsam und atme normal weiter.",
+      "Halte die Spannung für die vorgesehene Dauer.",
+      "Löse den Druck langsam.",
+      "Pausiere für die vorgesehene Zeit und wiederhole die Übung."
+    ]
+  },
+  "Isometric_Neck_Exercise_-_Front_And_Back": {
+    "name": "Isometrische Nackenübung nach vorn und hinten",
+    "instructions": [
+      "Halte Kopf und Nacken neutral und lege beide Hände an die Stirn.",
+      "Drücke den Kopf vorsichtig nach vorn gegen die Hände, ohne eine Bewegung zuzulassen. Steigere die Spannung langsam und atme normal weiter.",
+      "Halte die Spannung für die vorgesehene Dauer.",
+      "Löse den Druck langsam.",
+      "Pausiere und wiederhole die Übung anschließend mit den Händen am Hinterkopf."
+    ]
+  },
+  "Isometric_Neck_Exercise_-_Sides": {
+    "name": "Isometrische Nackenübung seitlich",
+    "instructions": [
+      "Halte Kopf und Nacken neutral und lege die linke Hand an die linke Kopfseite.",
+      "Drücke den Kopf vorsichtig nach links gegen die Hand, ohne eine Bewegung zuzulassen. Steigere die Spannung langsam und atme normal weiter.",
+      "Halte die Spannung für die vorgesehene Dauer.",
+      "Löse den Druck langsam.",
+      "Pausiere und wiederhole die Übung anschließend auf der rechten Seite."
+    ]
+  },
+  "Isometric_Wipers": {
+    "name": "Isometrische Liegestütz-Wischer",
+    "instructions": [
+      "Gehe in eine Liegestützposition und halte den Körper gerade. Die Hände stehen etwas weiter als schulterbreit. Das ist die Ausgangsposition.",
+      "Verlagere das Körpergewicht so weit wie möglich zu einer Seite, beuge dort den Ellenbogen und senke den Körper ab.",
+      "Drücke dich über den gebeugten Arm nach oben und verlagere das Gewicht anschließend zur anderen Seite.",
+      "Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "JM_Press": {
+    "name": "JM Press",
+    "instructions": [
+      "Lege dich wie beim engen Bankdrücken auf eine Flachbank und halte die Langhantel mit gestreckten Armen und engen Ellenbogen direkt über der oberen Brust. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen wie beim liegenden Trizepsstrecken ab. Bewege am halben Weg die Oberarme leicht in Richtung Beine, bis sie senkrecht zum Oberkörper stehen, ohne den Ellenbogenwinkel zu verändern.",
+      "Drücke die Stange beim Ausatmen mit dem Trizeps wie beim engen Bankdrücken nach oben.",
+      "Kehre in die Ausgangsposition zurück und beginne die nächste Wiederholung.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Jackknife_Sit-Up": {
+    "name": "Klappmesser-Sit-up",
+    "instructions": [
+      "Lege dich auf den Rücken und strecke Arme und Beine vollständig aus. Die Arme liegen hinter dem Kopf. Das ist die Ausgangsposition.",
+      "Beuge den Oberkörper beim Ausatmen und hebe gleichzeitig gestreckte Arme und Beine an, bis sie sich in einer Klappmesserposition annähern. Beine und Arme sollten ungefähr 35 bis 45 Grad über dem Boden liegen.",
+      "Senke Arme und Beine beim Einatmen kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Janda_Sit-Up": {
+    "name": "Janda-Sit-up",
+    "instructions": [
+      "Lege dich mit 90 Grad gebeugten Knien und flach aufgestellten Füßen auf den Rücken. Verschränke die Arme vor der Brust oder halte sie seitlich. Das ist die Ausgangsposition.",
+      "Spanne Gesäß und hintere Oberschenkel kräftig an. Atme tief ein und rolle den Oberkörper langsam über drei bis sechs Sekunden auf, während du ausatmest.",
+      "Senke dich beim Einatmen langsam und kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Jefferson_Squats": {
+    "name": "Jefferson-Kniebeuge",
+    "instructions": [
+      "Lege eine Langhantel auf den Boden.",
+      "Stelle dich längs über die Mitte der Stange.",
+      "Beuge Knie und Hüfte, halte den Rücken gerade und greife das vordere Ende mit der rechten Hand im neutralen Griff.",
+      "Greife das hintere Ende mit der linken Hand ebenfalls neutral. Positioniere den Oberkörper mittig zwischen beiden Händen und halte den Griff gleichmäßig.",
+      "Richte dich mit dem Gewicht auf. Stelle die Füße schulterbreit und leicht nach außen gedreht auf.",
+      "Beuge die Knie beim Einatmen und gehe mit möglichst aufrechtem Rücken in die Kniebeuge, bis die Oberschenkel ungefähr parallel zum Boden stehen.",
+      "Drücke dich über die Füße zurück nach oben. Halte die Arme während der gesamten Bewegung nahezu gestreckt; die Arbeit erfolgt aus den Beinen."
+    ]
+  },
+  "Jerk_Balance": {
+    "name": "Jerk Balance",
+    "instructions": [
+      "Diese Übung trainiert das tiefe Untertauchen beim Stoßen. Halte die Langhantel in der Jerk-Position auf den vorderen Schultern, den Oberkörper aufrecht und die Füße leicht versetzt.",
+      "Beuge die Knie kurz und strecke sie anschließend explosiv. Nutze den Schwung der Beine, nicht die Arme, um die Stange anzuheben.",
+      "Halte den hinteren Fuß am Boden und bewege den Körper in einen vollständigen Ausfallschritt nach vorn, während du die Stange über den Kopf stößt. Stehe anschließend mit der Stange über dem Kopf auf."
+    ]
+  },
+  "Jerk_Dip_Squat": {
+    "name": "Jerk Dip Squat",
+    "instructions": [
+      "Halte die Langhantel in der Jerk-Position auf den vorderen Schultern. Schiebe die Schultern nach vorn, halte den Oberkörper aufrecht und stelle die Füße direkt unter die Hüfte.",
+      "Beuge die Knie bei senkrechtem Oberkörper kurz nach vorn, ohne die Hüfte nach hinten zu schieben. Drücke dich anschließend kraftvoll über die Füße zurück in die Ausgangsposition."
+    ]
+  },
+  "Jogging_Treadmill": {
+    "name": "Joggen auf dem Laufband",
+    "instructions": [
+      "Steige auf das Laufband und wähle das gewünschte Programm oder den manuellen Modus. Bei vielen Geräten kannst du Alter und Gewicht eingeben, um den Kalorienverbrauch zu schätzen. Passe Steigung und Geschwindigkeit an dein Trainingsziel an.",
+      "Halte beim Joggen eine aufrechte Haltung ein und nutze die Griffe nur bei Bedarf, etwa beim Absteigen oder zur Pulsmessung."
+    ]
+  },
+  "Keg_Load": {
+    "name": "Fassverladen",
+    "instructions": [
+      "Stelle die gewünschte Anzahl an Fässern etwa 9 bis 15 Meter von der Ladeplattform entfernt auf.",
+      "Greife den nahen Griff des ersten Fasses, kippe es auf die Seite und greife die gegenüberliegende Unterkante. Hebe das Fass zur Brust.",
+      "Halte das Fass sicher fest und bewege dich so schnell wie möglich zur Plattform. Strecke Hüfte, Knie und Sprunggelenke explosiv, um es auf die Ablage zu laden.",
+      "Kehre zum Ausgangspunkt zurück, hole das nächste Fass und wiederhole den Ablauf."
+    ]
+  },
+  "Kettlebell_Arnold_Press": {
+    "name": "Arnold-Schulterdrücken mit Kettlebell",
+    "instructions": [
+      "Setze eine Kettlebell durch kraftvolles Strecken von Hüfte und Beinen zur Schulter um. Die Handfläche zeigt zum Körper.",
+      "Drücke die Kettlebell nach vorn und über den Kopf und drehe dabei das Handgelenk, bis die Handfläche oben nach vorn zeigt.",
+      "Senke die Kettlebell kontrolliert zurück zur Schulter und drehe die Handfläche wieder zum Körper."
+    ]
+  }
+}

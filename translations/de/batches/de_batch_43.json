@@ -1,0 +1,172 @@
+{
+  "Standing_Rope_Crunch": {
+    "name": "Stehender Kabel-Crunch mit Seil",
+    "instructions": [
+      "Befestige ein Seil am hohen Kabelzug und wähle ein geeignetes Gewicht.",
+      "Stelle dich mit dem Rücken zur Maschine und halte das Seil über den Schultern an der oberen Brust. Das ist die Ausgangsposition.",
+      "Beuge die Wirbelsäule und ziehe den Oberkörper so weit wie kontrolliert möglich nach unten.",
+      "Halte die maximale Bauchspannung kurz und kehre kontrolliert zurück."
+    ]
+  },
+  "Standing_Soleus_And_Achilles_Stretch": {
+    "name": "Stehende Soleus- und Achillessehnendehnung",
+    "instructions": [
+      "Stelle dich hüftbreit hin und setze einen Fuß leicht nach vorn.",
+      "Beuge beide Knie und halte die hintere Ferse am Boden. Wechsle anschließend die Seite."
+    ]
+  },
+  "Standing_Toe_Touches": {
+    "name": "Stehende Zehenberührung",
+    "instructions": [
+      "Stelle dich mit ausreichend Platz vor und hinter dir aufrecht hin.",
+      "Beuge dich bei gestreckten Beinen aus der Hüfte nach vorn und lass Oberkörper, Arme und Hände locker nach unten hängen. Halte die Position 10 bis 20 Sekunden."
+    ]
+  },
+  "Standing_Towel_Triceps_Extension": {
+    "name": "Stehendes Trizepsstrecken mit Handtuch",
+    "instructions": [
+      "Stelle dich schulterbreit hin und halte ein Ende eines Handtuchs mit beiden Händen und gestreckten Armen über dem Kopf. Die Ellenbogen zeigen nach oben und die Handflächen zueinander. Das ist die Ausgangsposition.",
+      "Ein Trainingspartner hält das andere Ende und gibt Widerstand. Halte die Oberarme ruhig und senke die Hände beim Einatmen in einem Halbkreis hinter den Kopf.",
+      "Strecke die Ellenbogen beim Ausatmen mit dem Trizeps zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Standing_Two-Arm_Overhead_Throw": {
+    "name": "Beidarmiger Überkopfwurf im Stand",
+    "instructions": [
+      "Stelle dich schulterbreit hin und halte einen Medizinball mit beiden Händen. Führe den Ball weit hinter den Kopf, beuge die Knie leicht und lehne dich etwas zurück.",
+      "Wirf den Ball explosiv nach vorn und beuge dabei Hüfte und Oberkörper. Nutze den gesamten Körper.",
+      "Wirf den Ball zu einem Partner oder gegen eine stabile Wand und fange ihn kontrolliert auf."
+    ]
+  },
+  "Star_Jump": {
+    "name": "Sternsprung",
+    "instructions": [
+      "Stelle dich locker und schulterbreit hin und halte die Arme nah am Körper.",
+      "Gehe bis zur halben Kniebeuge hinunter und springe anschließend explosiv nach oben. Strecke den gesamten Körper und spreize Arme und Beine seitlich.",
+      "Führe Arme und Beine vor der Landung wieder zusammen und fange den Aufprall kontrolliert über die Beine ab."
+    ]
+  },
+  "Step-up_with_Knee_Raise": {
+    "name": "Aufsteigen mit Knieheben",
+    "instructions": [
+      "Stelle dich mit geschlossenen Füßen vor eine Box oder Bank geeigneter Höhe. Das ist die Ausgangsposition.",
+      "Setze den linken Fuß auf die Box und drücke dich über Hüfte und Knie nach oben. Hebe im Stand das rechte Knie so hoch wie möglich an.",
+      "Steige kontrolliert ab und wiederhole die Bewegung anschließend mit dem anderen Bein."
+    ]
+  },
+  "Step_Mill": {
+    "name": "Stepmill",
+    "instructions": [
+      "Steige auf die Stepmill und wähle den manuellen Modus oder ein Programm. Gib bei Bedarf Alter und Gewicht ein. Halte dich zur Sicherheit an den Griffen fest und achte auf einen sicheren Tritt.",
+      "Eine Stepmill bietet intensives, gelenkschonendes Ausdauertraining. Eine etwa 68 kg schwere Person verbrennt in 30 Minuten häufig mehr als 300 kcal."
+    ]
+  },
+  "Stiff-Legged_Barbell_Deadlift": {
+    "name": "Kreuzheben mit gestreckten Beinen und Langhantel",
+    "instructions": [
+      "Greife die Langhantel im Obergriff. Verwende bei hohem Gewicht bei Bedarf Zughilfen.",
+      "Stelle dich schulterbreit oder enger hin, halte den Oberkörper aufrecht und die Knie leicht gebeugt. Das ist die Ausgangsposition.",
+      "Halte die Knie ruhig und senke die Stange beim Einatmen durch Beugen der Hüfte in Richtung Füße. Der Rücken bleibt gerade. Stoppe, sobald du eine deutliche Dehnung in den hinteren Oberschenkeln spürst.",
+      "Strecke die Hüfte beim Ausatmen und richte den Oberkörper wieder auf.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Stiff-Legged_Dumbbell_Deadlift": {
+    "name": "Kreuzheben mit gestreckten Beinen und Kurzhanteln",
+    "instructions": [
+      "Halte in jeder Hand eine Kurzhantel mit gestreckten Armen seitlich am Körper.",
+      "Stelle dich schulterbreit oder enger hin, halte den Oberkörper aufrecht und die Knie leicht gebeugt. Das ist die Ausgangsposition.",
+      "Halte die Knie ruhig und senke die Kurzhanteln beim Einatmen durch Beugen der Hüfte in Richtung Füße. Der Rücken bleibt gerade. Stoppe, sobald du eine deutliche Dehnung in den hinteren Oberschenkeln spürst.",
+      "Strecke die Hüfte beim Ausatmen und richte den Oberkörper wieder auf.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Stiff_Leg_Barbell_Good_Morning": {
+    "name": "Good Morning mit nahezu gestreckten Beinen",
+    "instructions": [
+      "Stelle die Langhantel aus Sicherheitsgründen in einem Kniebeugenständer auf passende Höhe ein und positioniere sie auf dem oberen Rücken.",
+      "Greife die Stange und hebe sie durch Strecken der Beine aus der Ablage.",
+      "Gehe einen Schritt zurück, stelle die Füße schulterbreit auf und halte Kopf und Rücken aufrecht. Das ist die Ausgangsposition.",
+      "Halte die Beine ruhig und neige den Oberkörper beim Einatmen aus der Hüfte nach vorn, bis er ungefähr parallel zum Boden ist.",
+      "Richte den Oberkörper beim Ausatmen zurück in die Ausgangsposition auf.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Stomach_Vacuum": {
+    "name": "Bauch-Vakuum",
+    "instructions": [
+      "Stelle dich schulterbreit hin und lege die Hände an die Hüften. Das ist die Ausgangsposition.",
+      "Atme tief ein und anschließend möglichst vollständig aus. Ziehe den Bauch so weit wie möglich ein, als würdest du den Bauchnabel zur Wirbelsäule bewegen.",
+      "Halte die isometrische Spannung etwa 20 Sekunden und atme dabei möglichst ruhig. Löse anschließend die Spannung.",
+      "Steigere die Haltezeit mit zunehmender Übung schrittweise auf 40 bis 60 Sekunden.",
+      "Wiederhole die Übung für die vorgesehene Anzahl an Sätzen."
+    ]
+  },
+  "Straight-Arm_Dumbbell_Pullover": {
+    "name": "Kurzhantel-Pullover mit gestreckten Armen",
+    "instructions": [
+      "Stelle eine Kurzhantel aufrecht auf eine Flachbank.",
+      "Lege dich quer zur Bank, sodass nur die Schultern aufliegen. Die Hüfte bleibt unterhalb der Bankhöhe, die Knie sind gebeugt und die Füße fest aufgestellt.",
+      "Greife die Kurzhantel mit beiden Händen an einer Hantelseite und halte sie mit gestreckten Armen über der Brust. Das ist die Ausgangsposition. Achtung: Verwende nur eine sicher verschraubte Kurzhantel; lose Hantelscheiben können sich lösen und schwere Verletzungen verursachen.",
+      "Halte die Arme nahezu gestreckt und senke die Hantel beim Einatmen in einem Bogen hinter den Kopf, bis du eine Dehnung in der Brust spürst.",
+      "Führe die Kurzhantel beim Ausatmen auf demselben Weg zurück.",
+      "Halte oben kurz und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Straight-Arm_Pulldown": {
+    "name": "Latziehen mit gestreckten Armen",
+    "instructions": [
+      "Greife die breite Stange eines hohen Kabelzugs weiter als schulterbreit im Obergriff und gehe etwa 60 cm zurück.",
+      "Neige den Oberkörper ungefähr 30 Grad nach vorn und halte die Arme mit leicht gebeugten Ellenbogen vollständig ausgestreckt. Spanne den Latissimus an. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen mit gestreckten Armen bis neben die Oberschenkel.",
+      "Führe die Stange beim Einatmen kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Straight_Bar_Bench_Mid_Rows": {
+    "name": "Langhantelrudern auf der Bank",
+    "instructions": [
+      "Lege eine beladene Langhantel an das Ende einer Bank. Stelle dich dahinter auf die Bank, greife die Stange mittelbreit im Obergriff, schiebe die Hüfte nach hinten und halte Brust und Rücken aufrecht. Das ist die Ausgangsposition.",
+      "Ziehe die Stange durch Zurückführen der Schulterblätter und Beugen der Ellenbogen zum Oberkörper. Vermeide ruckartige Bewegungen.",
+      "Halte kurz und senke die Stange kontrolliert bis zur vollständigen Armstreckung zurück."
+    ]
+  },
+  "Straight_Raises_on_Incline_Bench": {
+    "name": "Frontheben mit Langhantel auf der Schrägbank",
+    "instructions": [
+      "Lege eine Langhantel hinter dem Kopfende einer Schrägbank auf den Boden.",
+      "Lege dich bäuchlings auf die Bank, greife die Stange im Obergriff und lass sie mit gestreckten Armen nach unten hängen. Das ist die Ausgangsposition.",
+      "Hebe die Langhantel mit gestreckten Armen vor den Kopf.",
+      "Senke die Stange kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Stride_Jump_Crossover": {
+    "name": "Seitlicher Box-Wechselsprung",
+    "instructions": [
+      "Stelle dich seitlich neben eine Box und setze den inneren Fuß nahe an der Kante darauf.",
+      "Schwinge die Arme nach oben und drücke dich über das obere Bein so explosiv wie möglich ab. Ziehe das gegenüberliegende Knie nach oben.",
+      "Lande auf der anderen Seite der Box: Der zuvor obere Fuß steht nun am Boden und der andere Fuß auf der Box.",
+      "Springe anschließend auf dieselbe Weise zurück zur Ausgangsseite."
+    ]
+  },
+  "Sumo_Deadlift": {
+    "name": "Sumo-Kreuzheben",
+    "instructions": [
+      "Stelle dich sehr weit mit den Füßen nahe an den Hantelscheibenaufnahmen auf. Positioniere die Stange über der Fußmitte und greife sie innerhalb der Beine im Ober-, Wechsel- oder Hakengriff. Die Arme befinden sich direkt unter den Schultern.",
+      "Atme ein, senke die Hüfte und halte Brust und Kopf aufrecht. Drücke die Füße nach außen in den Boden und strecke Hüfte und Knie.",
+      "Lehne dich nach dem Passieren der Knie leicht zurück, schiebe die Hüfte zur Stange und ziehe die Schulterblätter zusammen.",
+      "Senke das Gewicht durch Beugen der Hüfte kontrolliert zum Boden."
+    ]
+  },
+  "Sumo_Deadlift_with_Bands": {
+    "name": "Sumo-Kreuzheben mit Widerstandsbändern",
+    "instructions": [
+      "Lege kurze Widerstandsbänder über die Stange und stelle dich so darauf, dass sie unter der hinteren Fußhälfte verlaufen.",
+      "Stelle dich sehr weit mit den Füßen nahe an den Hantelscheibenaufnahmen auf. Greife die Stange innerhalb der Beine im Ober-, Wechsel- oder Hakengriff.",
+      "Atme ein, senke die Hüfte und halte Brust und Kopf aufrecht. Drücke die Füße nach außen in den Boden und strecke Hüfte und Knie.",
+      "Lehne dich nach dem Passieren der Knie leicht zurück, schiebe die Hüfte zur Stange und ziehe die Schulterblätter zusammen.",
+      "Senke das Gewicht durch Beugen der Hüfte kontrolliert zum Boden."
+    ]
+  }
+}

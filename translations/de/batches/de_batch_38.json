@@ -1,0 +1,173 @@
+{
+  "Sled_Overhead_Backward_Walk": {
+    "name": "Rückwärtsgehen mit Schlitten über Kopf",
+    "instructions": [
+      "Befestige zwei Griffe über ein Seil oder eine Kette am Schlitten und belade ihn leicht.",
+      "Stelle dich mit Blick zum Schlitten und gehe zurück, bis das Seil gespannt ist. Halte die Hände mit gestreckten Ellenbogen direkt über dem Kopf. Das ist die Ausgangsposition.",
+      "Gehe rückwärts und halte die Arme über dem Kopf. Vermeide ruckartige Bewegungen."
+    ]
+  },
+  "Sled_Overhead_Triceps_Extension": {
+    "name": "Überkopf-Trizepsstrecken am Schlitten",
+    "instructions": [
+      "Befestige zwei Griffe über eine Kette oder ein Seil am Schlitten und belade ihn passend.",
+      "Stelle dich mit dem Rücken zum Schlitten und gehe nach vorn, bis das Seil gespannt ist. Halte die Hände über dem Kopf zusammen, die Handflächen zueinander und die Ellenbogen gebeugt nach oben gerichtet. Das ist die Ausgangsposition.",
+      "Strecke die Ellenbogen vollständig und halte die Oberarme ruhig, um den Trizeps zu isolieren.",
+      "Gehe nach vollständiger Streckung einen Schritt nach vorn, um das Seil erneut zu spannen. Ein versetzter Stand verbessert die Stabilität."
+    ]
+  },
+  "Sled_Push": {
+    "name": "Schlitten schieben",
+    "instructions": [
+      "Belade den Schlitten mit dem gewünschten Gewicht.",
+      "Nimm eine athletische Haltung ein, lehne dich mit vollständig gestreckten Armen in den Schlitten und greife die Griffe. Schiebe ihn so schnell wie möglich und strecke Hüfte und Knie bei jedem Schritt kraftvoll."
+    ]
+  },
+  "Sled_Reverse_Flye": {
+    "name": "Reverse Fly am Schlitten",
+    "instructions": [
+      "Befestige zwei Griffe über ein Seil oder eine Kette am Schlitten und belade ihn leicht.",
+      "Stelle dich mit Blick zum Schlitten und gehe zurück, bis das Seil gespannt ist. Halte die Griffe mit gestreckten Armen auf Hüfthöhe, beuge die Knie leicht und halte Brust und Kopf aufrecht. Das ist die Ausgangsposition.",
+      "Halte die Ellenbogen nahezu gestreckt und ziehe die Griffe nach oben und außen. Drehe die Schultern leicht nach außen, sodass die Handflächen nach vorn zeigen.",
+      "Kehre in die Ausgangsposition zurück und gehe einige Schritte zurück, um das Seil erneut zu spannen."
+    ]
+  },
+  "Sled_Row": {
+    "name": "Rudern am Schlitten",
+    "instructions": [
+      "Befestige zwei Griffe über ein Seil oder eine Kette am Schlitten und belade ihn passend. Stelle dich mit Blick zum Schlitten und gehe zurück, bis das Seil gespannt ist.",
+      "Halte in jeder Hand einen Griff, beuge die Knie leicht, halte Kopf und Brust aufrecht und strecke die Arme.",
+      "Beuge die Ellenbogen, ziehe die Schulterblätter zurück und bewege den Schlitten zu dir.",
+      "Gehe ein bis zwei Schritte zurück, spanne das Seil erneut und wiederhole die Bewegung."
+    ]
+  },
+  "Sledgehammer_Swings": {
+    "name": "Vorschlaghammerschläge",
+    "instructions": [
+      "Stelle dich mit versetztem Stand etwa 60 cm vor einen Reifen und greife einen Vorschlaghammer.",
+      "Als Rechtshänder hältst du die linke Hand am Griffende und die rechte Hand näher am Hammerkopf.",
+      "Führe den Hammer nach oben, wobei die rechte Hand zum Kopf gleitet. Beim Abwärtsschlag gleitet sie zur linken Hand. Schlage so kraftvoll wie möglich auf den Reifen und kontrolliere den Rückprall.",
+      "Wiederhole die Bewegung auf der anderen Seite."
+    ]
+  },
+  "Smith_Incline_Shoulder_Raise": {
+    "name": "Schulterblattheben auf der Schrägbank an der Smith-Maschine",
+    "instructions": [
+      "Stelle eine Schrägbank unter die Smith-Maschine und positioniere die Stange so, dass du sie mit fast gestreckten Armen erreichen kannst. Lege dich hin und richte die Schultern direkt unter der Stange aus.",
+      "Greife die Stange etwa schulterbreit im Obergriff, entriegele sie und halte sie mit leicht gebeugten Ellenbogen über dir. Das ist die Ausgangsposition.",
+      "Hebe die Stange beim Ausatmen durch Anheben der Schultern nach oben, bis die Arme vollständig gestreckt sind.",
+      "Halte kurz und senke die Schultern beim Einatmen zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Verriegele die Stange nach dem Satz sicher."
+    ]
+  },
+  "Smith_Machine_Behind_the_Back_Shrug": {
+    "name": "Schulterheben hinter dem Rücken an der Smith-Maschine",
+    "instructions": [
+      "Stelle die Stange auf Oberschenkelhöhe ein und belade sie passend.",
+      "Stelle dich mit dem Rücken zur Stange, greife sie schulterbreit im Obergriff und entriegele sie. Halte Kopf und Brust aufrecht und die Arme gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe die Schultern gerade nach oben. Beuge weder Ellenbogen noch Handgelenke.",
+      "Halte kurz und senke die Schultern kontrolliert zurück.",
+      "Wiederhole die Bewegung und verriegele die Stange anschließend sicher."
+    ]
+  },
+  "Smith_Machine_Bench_Press": {
+    "name": "Bankdrücken an der Smith-Maschine",
+    "instructions": [
+      "Stelle eine Flachbank unter die Smith-Maschine und die Stange so ein, dass du sie mit fast gestreckten Armen erreichst. Lege dich hin, greife die Stange weiter als schulterbreit im Obergriff, entriegele sie und halte sie über der Brust. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen langsam zur mittleren Brust.",
+      "Drücke die Stange nach kurzer Pause beim Ausatmen mit der Brustmuskulatur zurück nach oben. Strecke die Arme, halte kurz und senke sie anschließend kontrolliert ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Verriegele die Stange nach dem Satz sicher."
+    ]
+  },
+  "Smith_Machine_Bent_Over_Row": {
+    "name": "Vorgebeugtes Rudern an der Smith-Maschine",
+    "instructions": [
+      "Stelle die Smith-Stange etwa 5 cm unterhalb der Knie ein.",
+      "Beuge die Knie leicht und neige den Oberkörper bei geradem Rücken fast parallel zum Boden. Halte den Kopf aufrecht.",
+      "Greife die Stange im Obergriff, entriegele sie und lass sie mit gestreckten Armen senkrecht nach unten hängen. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und ziehe die Stange beim Ausatmen mit engen Ellenbogen zum Körper. Spanne den Rücken oben kurz an.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Smith_Machine_Calf_Raise": {
+    "name": "Wadenheben an der Smith-Maschine",
+    "instructions": [
+      "Lege einen Block oder Hantelscheiben unter die Stange und stelle sie passend ein. Stelle die Fußballen auf die Erhöhung und positioniere die Stange auf dem oberen Rücken.",
+      "Greife die Stange, drehe sie aus der Verriegelung und richte dich auf. Das ist die Ausgangsposition.",
+      "Hebe die Fersen über die Fußballen so hoch wie möglich an und spanne die Waden oben kurz an. Halte die Knie gestreckt.",
+      "Senke die Fersen beim Einatmen langsam ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Smith_Machine_Close-Grip_Bench_Press": {
+    "name": "Enges Bankdrücken an der Smith-Maschine",
+    "instructions": [
+      "Stelle eine Flachbank unter die Smith-Maschine und die Stange so ein, dass du sie mit fast gestreckten Armen erreichst. Lege dich hin, greife die Stange etwa schulterbreit im Obergriff, entriegele sie und halte sie über der Brust. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen langsam zur mittleren Brust. Halte die Ellenbogen nah am Oberkörper, um den Trizeps stärker zu belasten.",
+      "Drücke die Stange nach kurzer Pause beim Ausatmen mit dem Trizeps zurück nach oben. Strecke die Arme, halte kurz und senke sie anschließend kontrolliert ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Verriegele die Stange nach dem Satz sicher."
+    ]
+  },
+  "Smith_Machine_Decline_Press": {
+    "name": "Negativ-Bankdrücken an der Smith-Maschine",
+    "instructions": [
+      "Stelle eine Negativbank so in die Smith-Maschine, dass sich die Stange über der Brust befindet. Belade sie passend und lege dich auf die Bank.",
+      "Entriegele die Stange und strecke die Arme vollständig. Halte den Rücken leicht gewölbt und die Schulterblätter zusammengezogen. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen und senke die Stange zur Brust.",
+      "Halte kurz und drücke die Stange durch Strecken der Arme zurück nach oben.",
+      "Verriegele die Stange nach der gewünschten Anzahl an Wiederholungen sicher."
+    ]
+  },
+  "Smith_Machine_Hang_Power_Clean": {
+    "name": "Hang Power Clean an der Smith-Maschine",
+    "instructions": [
+      "Stelle die Stange auf Kniehöhe ein und belade sie passend.",
+      "Greife die Stange weiter als schulterbreit im Obergriff und entriegele sie. Halte die Arme gestreckt, Kopf und Brust aufrecht, die Ellenbogen nach außen und die Schultern zurück. Schiebe die Hüfte nach hinten und belaste die hinteren Oberschenkel. Das ist die Ausgangsposition.",
+      "Strecke Hüfte und Knie explosiv und beschleunige die Stange. Halte die Arme während dieser Phase gestreckt.",
+      "Beuge nach vollständiger Streckung Hüfte und Knie erneut, um dich unter die Stange zu bewegen.",
+      "Beuge die Arme und drehe die Ellenbogen schnell um die Stange, um sie auf den Schultern aufzufangen.",
+      "Strecke Hüfte und Knie und richte dich mit der Stange auf den Schultern vollständig auf."
+    ]
+  },
+  "Smith_Machine_Hip_Raise": {
+    "name": "Beckenheben an der Smith-Maschine",
+    "instructions": [
+      "Stelle eine Bank in die Smith-Maschine und belade die Stange passend. Lege dich auf die Bank, stelle die Fußsohlen gegen die Stange, entriegele sie und strecke die Beine. Nutze bei Bedarf die Hände zur Unterstützung und greife zur Stabilisierung den Rahmen. Das ist die Ausgangsposition.",
+      "Rolle das Becken ein und beuge die Wirbelsäule, um die Hüfte von der Bank zu heben. Halte die Knie leicht gebeugt.",
+      "Halte kurz und senke die Hüfte wieder auf die Bank.",
+      "Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Smith_Machine_Incline_Bench_Press": {
+    "name": "Schrägbankdrücken an der Smith-Maschine",
+    "instructions": [
+      "Stelle eine Schrägbank unter die Smith-Maschine und die Stange so ein, dass du sie mit fast gestreckten Armen erreichst. Lege dich hin, richte die obere Brust unter der Stange aus, greife sie weiter als schulterbreit im Obergriff und entriegele sie. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen langsam zur oberen Brust.",
+      "Drücke die Stange nach kurzer Pause beim Ausatmen mit der Brustmuskulatur zurück nach oben. Strecke die Arme, halte kurz und senke sie anschließend kontrolliert ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Verriegele die Stange nach dem Satz sicher."
+    ]
+  },
+  "Smith_Machine_Leg_Press": {
+    "name": "Beinpresse an der Smith-Maschine",
+    "instructions": [
+      "Stelle die Smith-Stange einige Zentimeter über dem Boden auf die Sicherheitsablagen und belade sie passend. Lege dich darunter und stelle die Fußmitten gegen die Stange, während die Knie zur Brust gezogen sind. Das ist die Ausgangsposition.",
+      "Drücke die Stange über die Füße nach oben und strecke Hüfte und Knie, ohne die Knie zu verriegeln.",
+      "Halte oben kurz und senke die Stange kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Smith_Machine_One-Arm_Upright_Row": {
+    "name": "Einarmiges aufrechtes Rudern an der Smith-Maschine",
+    "instructions": [
+      "Stelle die Stange auf Oberschenkelhöhe ein und belade sie passend.",
+      "Greife die Stange weit, entriegele sie und nimm die freie Hand von der Stange. Halte den arbeitenden Arm gestreckt, Kopf und Brust aufrecht. Das ist die Ausgangsposition.",
+      "Beuge den Ellenbogen und führe ihn seitlich nach oben, bis der Oberarm parallel zum Boden steht.",
+      "Halte kurz und senke die Stange kontrolliert zurück.",
+      "Wiederhole die Bewegung und verriegele die Stange anschließend sicher."
+    ]
+  }
+}

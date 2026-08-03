@@ -1,0 +1,174 @@
+{
+  "Rear_Leg_Raises": {
+    "name": "Beinheben nach hinten im Vierfüßlerstand",
+    "instructions": [
+      "Gehe auf einer Trainingsmatte in den Vierfüßlerstand. Richte den Blick nach vorn und beuge die Knie auf etwa 90 Grad. Das ist die Ausgangsposition.",
+      "Strecke ein Bein nach oben und hinten und strecke dabei Knie und Hüfte. Führe 5 bis 10 Wiederholungen aus und wechsle anschließend die Seite."
+    ]
+  },
+  "Recumbent_Bike": {
+    "name": "Liegeergometer",
+    "instructions": [
+      "Setze dich auf das Liegeergometer und stelle den Sitz passend zu deiner Körpergröße ein.",
+      "Wähle das gewünschte Programm oder den manuellen Modus. Bei manchen Geräten musst du zunächst mit dem Treten beginnen. Stelle den Widerstand passend ein und nutze bei Bedarf die Handpulssensoren zur Kontrolle der Trainingsintensität.",
+      "Ein Liegeergometer bietet gelenkschonendes Ausdauertraining. Eine 68 kg schwere Person verbrennt bei moderatem Tempo in 30 Minuten ungefähr 230 kcal, während beim Laufen im gleichen Zeitraum etwa 450 kcal oder mehr möglich sind."
+    ]
+  },
+  "Return_Push_from_Stance": {
+    "name": "Medizinball-Rückpass aus der Startposition",
+    "instructions": [
+      "Für diesen Drill benötigst du einen Trainingspartner.",
+      "Beginne in einer athletischen Zwei- oder Dreipunktposition.",
+      "Bewege dich auf ein Signal hin in die Position, in der du den Pass deines Partners empfangen kannst.",
+      "Fange den Medizinball mit beiden Händen und wirf ihn sofort zu deinem Partner zurück.",
+      "Du kannst den Drill durch unterschiedliche Laufwege variieren."
+    ]
+  },
+  "Reverse_Band_Bench_Press": {
+    "name": "Bankdrücken mit entlastenden Widerstandsbändern",
+    "instructions": [
+      "Stelle eine Bank in ein Power Rack und die Langhantel auf passende Höhe. Befestige Widerstandsbänder oben am Rack und das andere Ende an der Langhantel, sodass die Stange in der unteren Position stärker entlastet wird.",
+      "Lege dich auf die Bank, ziehe die Füße unter den Körper, bilde ein kontrolliertes Hohlkreuz und ziehe die Schulterblätter zusammen. Drücke den oberen Rücken mit den Füßen fest in die Bank und halte diese Ganzkörperspannung.",
+      "Hebe die Stange aus der Ablage, ohne die Schultern nach vorn zu schieben. Senke sie zur unteren Brust oder zum oberen Bauch und halte Stange, Handgelenk und Ellenbogen möglichst in einer Linie.",
+      "Halte kurz, sobald die Stange den Oberkörper berührt, und drücke sie anschließend so kraftvoll wie möglich nach oben. Halte die Ellenbogen bis zur vollständigen Streckung nah am Körper."
+    ]
+  },
+  "Reverse_Band_Box_Squat": {
+    "name": "Box-Kniebeuge mit entlastenden Widerstandsbändern",
+    "instructions": [
+      "Stelle eine Box passender Höhe in ein Power Rack und befestige die Widerstandsbänder oben am Rack direkt über der Langhantel. Verbinde die anderen Enden mit der Stange.",
+      "Lege die Stange auf den oberen Rücken, ziehe die Schulterblätter zusammen und hebe sie aus der Ablage. Wähle einen breiteren Stand für mehr Belastung von Rücken, Gesäß, Adduktoren und hinteren Oberschenkeln oder einen engeren Stand für mehr Quadrizepsbelastung.",
+      "Halte Rücken, Schultern und Rumpf fest, führe Knie und Hüfte nach außen und setze dich kontrolliert auf die Box zurück. Die Schienbeine bleiben möglichst senkrecht. Pausiere kurz und fedre nicht von der Box ab.",
+      "Drücke dich über die Fersen kraftvoll nach oben, halte Knie und Füße nach außen gerichtet und bewahre die Ganzkörperspannung. Lege die Stange anschließend vorsichtig zurück."
+    ]
+  },
+  "Reverse_Band_Deadlift": {
+    "name": "Kreuzheben mit entlastenden Widerstandsbändern",
+    "instructions": [
+      "Stelle die Langhantel in einem Power Rack auf und befestige Widerstandsbänder oben am Rack sowie an der Stange.",
+      "Positioniere die Stange mittig über den Füßen. Stelle dich hüftbreit hin und greife sie etwa schulterbreit. Bei schweren Sätzen kannst du Obergriff oder Wechselgriff verwenden.",
+      "Atme tief ein, senke die Hüfte und beuge die Knie, bis die Schienbeine die Stange berühren. Halte Brust und Rücken stabil und drücke dich über die Fersen nach oben.",
+      "Ziehe die Stange nach dem Passieren der Knie kraftvoll zum Körper, führe die Schulterblätter zusammen und strecke die Hüfte nach vorn.",
+      "Senke die Stange durch Beugen der Hüfte kontrolliert zum Boden."
+    ]
+  },
+  "Reverse_Band_Power_Squat": {
+    "name": "Power-Kniebeuge mit entlastenden Widerstandsbändern",
+    "instructions": [
+      "Stelle Langhantel und Sicherheitsablagen im Power Rack passend ein. Befestige Widerstandsbänder oben am Rack und an der Stange.",
+      "Lege die Stange auf den oberen Rücken, ziehe die Schulterblätter zusammen und hebe sie aus der Ablage. Stelle die Füße weit auf, um Rücken, Gesäß, Adduktoren und hintere Oberschenkel stärker zu belasten.",
+      "Halte Rücken, Schultern und Rumpf fest und setze die Hüfte weit nach hinten. Führe die Knie nach außen, halte die Schienbeine möglichst senkrecht und senke dich ab, bis die Hüftfalte mindestens auf Höhe der Knie liegt.",
+      "Drücke dich über die Fersen kraftvoll nach oben, führe Knie und Füße weiter nach außen und halte die Ganzkörperspannung bis zur Ausgangsposition."
+    ]
+  },
+  "Reverse_Band_Sumo_Deadlift": {
+    "name": "Sumo-Kreuzheben mit entlastenden Widerstandsbändern",
+    "instructions": [
+      "Lege eine beladene Langhantel im Power Rack auf den Boden und befestige Widerstandsbänder oben am Rack sowie an der Stange.",
+      "Stelle die Füße sehr weit nahe an den Hantelscheibenaufnahmen auf. Greife die Stange innerhalb der Beine im Ober-, Wechsel- oder Hakengriff. Halte die Arme unter den Schultern und entspanne die Schultern.",
+      "Atme ein, senke die Hüfte und halte Brust und Kopf aufrecht. Drücke die Füße nach außen in den Boden und strecke Hüfte und Knie.",
+      "Lehne dich nach dem Passieren der Knie leicht zurück, schiebe die Hüfte zur Stange und ziehe die Schulterblätter zusammen.",
+      "Senke das Gewicht durch Beugen der Hüfte kontrolliert zum Boden zurück."
+    ]
+  },
+  "Reverse_Barbell_Curl": {
+    "name": "Langhantelcurl im Obergriff",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Langhantel etwa schulterbreit im Obergriff. Die Ellenbogen bleiben nah am Oberkörper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen, bis die Stange Schulterhöhe erreicht. Spanne den Bizeps oben kurz an.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Barbell_Preacher_Curls": {
+    "name": "Scott-Curl mit SZ-Stange im Obergriff",
+    "instructions": [
+      "Greife eine SZ-Stange etwa schulterbreit im Obergriff.",
+      "Lege beide Oberarme auf das Polster der Scottbank und strecke die Arme aus. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Ausatmen, bis die Stange Schulterhöhe erreicht. Spanne den Bizeps oben kräftig an.",
+      "Senke die Stange beim Einatmen langsam ab, bis die Arme nahezu vollständig gestreckt sind.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Cable_Curl": {
+    "name": "Kabelcurl im Obergriff",
+    "instructions": [
+      "Stelle dich aufrecht vor einen unteren Kabelzug und greife die Stange etwa schulterbreit im Obergriff. Halte die Ellenbogen nah am Oberkörper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen, bis die Stange Schulterhöhe erreicht. Spanne den Bizeps oben kurz an.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Crunch": {
+    "name": "Reverse Crunch",
+    "instructions": [
+      "Lege dich mit gestreckten Beinen auf den Rücken und positioniere die Arme mit den Handflächen nach unten seitlich am Körper.",
+      "Hebe die Beine an, bis die Oberschenkel senkrecht und die Unterschenkel parallel zum Boden stehen. Die Füße bleiben zusammen. Das ist die Ausgangsposition.",
+      "Ziehe die Beine zum Oberkörper, rolle das Becken nach hinten und hebe die Hüfte vom Boden ab, bis die Knie nahe an der Brust sind.",
+      "Halte die Anspannung kurz und führe die Beine kontrolliert in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Flyes": {
+    "name": "Reverse Flys auf der Schrägbank",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Schrägbank und halte in jeder Hand eine Kurzhantel im neutralen Griff.",
+      "Strecke die Arme senkrecht zur Bank nach vorn. Halte die Beine ruhig und drücke die Fußballen in den Boden. Das ist die Ausgangsposition.",
+      "Halte die Ellenbogen leicht gebeugt und führe die Gewichte beim Ausatmen in einem weiten Bogen seitlich auseinander. Ziehe die Schulterblätter zusammen.",
+      "Hebe die Arme bis parallel zum Boden an.",
+      "Halte die Anspannung kurz und senke die Gewichte beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Flyes_With_External_Rotation": {
+    "name": "Reverse Flys mit Außenrotation",
+    "instructions": [
+      "Lege dich bäuchlings auf eine etwa 30 Grad geneigte Bank.",
+      "Halte in jeder Hand eine Kurzhantel mit nach unten gerichteten Handflächen. Strecke die Arme senkrecht zur Bank nach vorn und beuge die Ellenbogen leicht. Drücke die Fußballen in den Boden. Das ist die Ausgangsposition.",
+      "Führe die Gewichte beim Ausatmen mit leicht gebeugten Ellenbogen in einem weiten Bogen seitlich auseinander.",
+      "Drehe die Handgelenke beim Anheben um etwa 90 Grad nach außen, sodass die Handflächen am oberen Punkt zueinander zeigen. Ziehe die Schulterblätter zusammen.",
+      "Hebe die Arme bis ungefähr auf Kopfhöhe an.",
+      "Halte die Anspannung kurz und senke die Gewichte beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Grip_Bent-Over_Rows": {
+    "name": "Vorgebeugtes Langhantelrudern im Untergriff",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Langhantel im Untergriff.",
+      "Beuge die Knie leicht und neige den Oberkörper bei geradem Rücken aus der Hüfte nach vorn, bis er fast parallel zum Boden ist. Die Stange hängt mit gestreckten Armen senkrecht nach unten. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und ziehe die Langhantel beim Ausatmen mit engen Ellenbogen zum Körper. Spanne den Rücken oben kurz an.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Grip_Triceps_Pushdown": {
+    "name": "Trizepsdrücken am Kabelzug im Untergriff",
+    "instructions": [
+      "Befestige eine gerade oder SZ-Stange an einem hohen Kabelzug.",
+      "Greife die Stange etwa schulterbreit im Untergriff und ziehe sie mithilfe des Latissimus nach unten, bis die Arme seitlich gestreckt sind. Halte die Ellenbogen eng am Körper. Das ist die Ausgangsposition.",
+      "Führe die Stange beim Einatmen langsam bis auf Brusthöhe nach oben. Nur die Unterarme bewegen sich.",
+      "Drücke die Stange beim Ausatmen zurück nach unten und spanne den Trizeps kräftig an.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Hyperextension": {
+    "name": "Reverse Hyperextension",
+    "instructions": [
+      "Belade die Maschine passend, positioniere die Füße zwischen den Polstern und lege den Oberkörper auf das obere Polster. Die Hüfte ragt über das Ende hinaus. Greife die Griffe zur Stabilisierung.",
+      "Beuge die Hüfte und führe die Beine nach vorn.",
+      "Kehre die Bewegung um und strecke die Hüfte, indem du die Beine nach hinten führst. Vermeide eine Überstreckung und stoppe knapp vor dem maximalen Bewegungsumfang.",
+      "Beuge die Hüfte erneut und führe den Schlitten so weit wie kontrolliert möglich nach vorn.",
+      "Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Reverse_Machine_Flyes": {
+    "name": "Reverse Fly an der Maschine",
+    "instructions": [
+      "Stelle die Griffe vollständig nach hinten, wähle ein geeignetes Gewicht und passe die Sitzhöhe so an, dass sich die Griffe auf Schulterhöhe befinden. Greife sie mit zueinander gerichteten Handflächen. Das ist die Ausgangsposition.",
+      "Führe die Hände in einem Halbkreis seitlich nach außen und hinten und spanne die hinteren Schultern an.",
+      "Halte die Arme während der gesamten Bewegung leicht gebeugt. Die Bewegung erfolgt ausschließlich aus den Schultergelenken.",
+      "Halte die hintere Position kurz und führe das Gewicht langsam in die Ausgangsposition zurück."
+    ]
+  }
+}

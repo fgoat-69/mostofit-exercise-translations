@@ -1,0 +1,166 @@
+{
+  "Seated_Side_Lateral_Raise": {
+    "name": "Sitzendes Seitheben",
+    "instructions": [
+      "Setze dich mit je einer Kurzhantel auf das Ende einer Flachbank und stelle die Füße fest auf den Boden. Halte die Hanteln mit zueinander gerichteten Handflächen und gestreckten Armen seitlich am Körper. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und hebe die Kurzhanteln mit leicht gebeugten Ellenbogen seitlich an. Neige die Hände leicht nach vorn, als würdest du Wasser ausgießen. Führe die Arme bis parallel zum Boden, atme aus und halte oben kurz.",
+      "Senke die Kurzhanteln beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Triceps_Press": {
+    "name": "Sitzendes Trizepsstrecken mit Kurzhantel",
+    "instructions": [
+      "Setze dich auf eine Bank mit Rückenlehne und halte eine Kurzhantel mit beiden Händen über dem Kopf. Lass dir ein schweres Gewicht möglichst anreichen. Halte die Hantel sicher in den Handflächen, die Daumen umfassen sie. Das ist die Ausgangsposition.",
+      "Halte die Oberarme nah am Kopf und senkrecht zum Boden. Beuge die Ellenbogen beim Einatmen und senke die Hantel in einem Halbkreis hinter den Kopf, bis die Unterarme den Bizeps fast berühren. Nur die Unterarme bewegen sich.",
+      "Strecke die Ellenbogen beim Ausatmen mit dem Trizeps zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl": {
+    "name": "Sitzender beidarmiger Handgelenkcurl am unteren Kabelzug im Untergriff",
+    "instructions": [
+      "Stelle eine Bank vor einen unteren Kabelzug mit gerader oder SZ-Stange.",
+      "Positioniere die Bank so weit entfernt, dass das Kabel bereits unter Spannung steht, wenn die Stange auf den Oberschenkeln liegt.",
+      "Greife die Stange mit beiden Händen etwa schulterbreit im Untergriff.",
+      "Gehe zurück, setze dich auf die Bank und stelle die Füße etwa schulterbreit fest auf den Boden.",
+      "Lehne dich vor und lege die Unterarme auf den Oberschenkeln ab. Die Handgelenke ragen über die Knie hinaus. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen so weit wie kontrolliert möglich ab und halte sie sicher fest.",
+      "Beuge die Handgelenke so weit wie möglich nach oben und spanne die Unterarme an. Nur die Handgelenke bewegen sich.",
+      "Halte oben kurz und kehre beim Einatmen in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "See-Saw_Press_Alternating_Side_Press": {
+    "name": "Abwechselndes Seitdrücken mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel.",
+      "Setze die Kurzhanteln zu Brust beziehungsweise Schultern um und drehe die Handflächen zum Körper, wie in der Ausgangsposition eines Arnold Press.",
+      "Drücke den linken Arm über den Kopf und drehe die Handfläche dabei nach vorn. Führe den Ellenbogen nach außen und neige den Oberkörper gleichzeitig aus der Hüfte zur rechten Seite. Atme dabei aus.",
+      "Halte die linke Hantel oben gestreckt, atme ein und beginne die Bewegung anschließend zur linken Seite mit dem rechten Arm.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen erreicht hast."
+    ]
+  },
+  "Shotgun_Row": {
+    "name": "Shotgun Row",
+    "instructions": [
+      "Befestige einen Einzelgriff an einem unteren Kabelzug.",
+      "Wähle ein geeignetes Gewicht und stelle dich mit weitem, versetztem Stand einige Schritte zurück. Der Arm ist gestreckt und die Schulter leicht nach vorn geführt. Das ist die Ausgangsposition.",
+      "Ziehe das Schulterblatt zurück und beuge den Ellenbogen. Drehe das Handgelenk beim Ziehen in den Untergriff, sodass die Handfläche nach oben zeigt.",
+      "Halte kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Shoulder_Circles": {
+    "name": "Schulterkreisen",
+    "instructions": [
+      "Lass die Schultern entspannt und die Arme locker seitlich hängen oder im Sitzen auf dem Schoß ruhen. Kreise die Schultern langsam nach vorn, oben, hinten und unten.",
+      "Wechsle anschließend die Richtung. Du kannst beide Schultern gleichzeitig oder abwechselnd bewegen."
+    ]
+  },
+  "Shoulder_Press_-_With_Bands": {
+    "name": "Schulterdrücken mit Widerstandsbändern",
+    "instructions": [
+      "Stelle dich auf ein Widerstandsband, sodass es bei gestreckten Armen bereits unter Spannung steht. Greife die Griffe und führe die Hände seitlich auf Schulterhöhe.",
+      "Drehe die Handflächen nach vorn. Die Ellenbogen sind gebeugt und Ober- sowie Unterarme befinden sich in einer Linie mit dem Oberkörper. Das ist die Ausgangsposition.",
+      "Drücke die Griffe beim Ausatmen über den Kopf, bis die Arme vollständig gestreckt sind."
+    ]
+  },
+  "Shoulder_Raise": {
+    "name": "Schulterheben",
+    "instructions": [
+      "Lass die Arme locker seitlich hängen, ziehe die Schultern in Richtung Ohren und senke sie anschließend wieder ab."
+    ]
+  },
+  "Shoulder_Stretch": {
+    "name": "Schulterdehnung",
+    "instructions": [
+      "Führe den linken Arm gestreckt vor dem Körper zur rechten Seite."
+    ]
+  },
+  "Side-Lying_Floor_Stretch": {
+    "name": "Seitliche Ganzkörperdehnung in Seitenlage",
+    "instructions": [
+      "Lege dich auf die linke Seite und beuge das linke Knie vor dem Körper, um den Oberkörper zu stabilisieren.",
+      "Strecke das rechte Bein aus und stelle den rechten Fuß hinter dem linken Bein auf. Führe den rechten Arm über den Kopf und ziehe vorsichtig am rechten Handgelenk, um die gesamte rechte Körperseite zu dehnen. Wechsle anschließend die Seite."
+    ]
+  },
+  "Side_Bridge": {
+    "name": "Seitstütz",
+    "instructions": []
+  },
+  "Side_Hop-Sprint": {
+    "name": "Seitliche Sprünge mit anschließendem Sprint",
+    "instructions": [
+      "Stelle dich seitlich neben ein Hütchen oder eine Hürde.",
+      "Springe seitlich über das Hindernis und fedre unmittelbar zurück in die Ausgangsposition.",
+      "Führe die vorgesehene Anzahl an Sprüngen so schnell wie möglich aus und sprinte nach dem letzten Sprung eine kurze Strecke."
+    ]
+  },
+  "Side_Jackknife": {
+    "name": "Seitliches Klappmesser",
+    "instructions": []
+  },
+  "Side_Lateral_Raise": {
+    "name": "Seitheben mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel mit gestreckten Armen seitlich am Körper. Die Handflächen zeigen zum Körper. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und hebe die Kurzhanteln mit leicht gebeugten Ellenbogen seitlich an. Neige die Hände leicht nach vorn, als würdest du Wasser ausgießen. Führe die Arme bis parallel zum Boden, atme aus und halte oben kurz.",
+      "Senke die Kurzhanteln beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Side_Laterals_to_Front_Raise": {
+    "name": "Seitheben mit Übergang zum Frontheben",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel seitlich am Körper. Das ist die Ausgangsposition.",
+      "Hebe die Gewichte mit leicht gebeugten Ellenbogen ohne Schwung seitlich bis auf Schulterhöhe an.",
+      "Führe die gestreckten Arme am oberen Punkt vor den Körper.",
+      "Senke die Gewichte kontrolliert ab.",
+      "Hebe die Gewichte bei der nächsten Wiederholung vor dem Körper bis auf Schulterhöhe an und führe sie anschließend seitlich auseinander.",
+      "Senke die Gewichte kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Side_Leg_Raises": {
+    "name": "Seitliches Beinschwingen",
+    "instructions": [
+      "Stelle dich neben einen Stuhl und halte dich bei Bedarf fest. Stehe auf einem Bein. Das ist die Ausgangsposition.",
+      "Halte das freie Bein gestreckt, schwinge es so weit wie möglich seitlich nach außen und anschließend kontrolliert vor dem Standbein vorbei.",
+      "Wiederhole die Bewegung 5 bis 10 Mal und vergrößere den Bewegungsumfang schrittweise."
+    ]
+  },
+  "Side_Lying_Groin_Stretch": {
+    "name": "Leistendehnung in Seitenlage",
+    "instructions": [
+      "Lege dich auf die rechte Seite und beuge das rechte Knie vor dem Körper, um den Oberkörper zu stabilisieren.",
+      "Lege den Kopf auf die rechte Hand oder Schulter. Hebe das linke Bein an und greife es hinter dem Knie oder am Fuß.",
+      "Ziehe das linke Knie zur linken Schulter und drücke Fuß oder Knie gleichzeitig in Richtung Boden. Strecke das linke Bein für eine intensivere Dehnung. Wechsle anschließend die Seite."
+    ]
+  },
+  "Side_Neck_Stretch": {
+    "name": "Seitliche Nackendehnung",
+    "instructions": [
+      "Lass die Schultern entspannt und neige den Kopf vorsichtig zu einer Schulter.",
+      "Verstärke die Dehnung bei Bedarf mit einem leichten Zug an der Kopfseite."
+    ]
+  },
+  "Side_Standing_Long_Jump": {
+    "name": "Seitlicher Weitsprung aus dem Stand",
+    "instructions": [
+      "Stelle dich hüftbreit in eine athletische Haltung. Halte Kopf und Brust aufrecht und beuge Knie und Hüfte leicht. Das ist die Ausgangsposition.",
+      "Lehne dich nach rechts und strecke Hüfte, Knie und Sprunggelenke explosiv, um so weit wie möglich nach rechts zu springen. Nutze die Arme aktiv.",
+      "Lande in derselben Blickrichtung mit hüftbreitem Stand und fange den Aufprall über die Beine ab."
+    ]
+  },
+  "Side_To_Side_Chins": {
+    "name": "Seitlich wechselnde Klimmzüge",
+    "instructions": [
+      "Greife die Klimmzugstange weit im Obergriff.",
+      "Hänge mit gestreckten Armen und lehne den Oberkörper etwa 30 Grad zurück. Hebe die Brust an und halte den unteren Rücken leicht gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen zur linken Seite nach oben, bis die Stange fast die obere Brust berührt. Führe Schultern und Oberarme nach unten und hinten und spanne den Rücken kräftig an. Vermeide Schwung.",
+      "Halte kurz und senke dich beim Einatmen in die Ausgangsposition zurück.",
+      "Ziehe dich anschließend beim Ausatmen zur rechten Seite nach oben, bis die Stange fast die obere Brust berührt. Führe Schultern und Oberarme nach unten und hinten.",
+      "Halte kurz und senke dich beim Einatmen erneut in die Ausgangsposition zurück.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen pro Seite erreicht hast."
+    ]
+  }
+}

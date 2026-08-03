@@ -1,0 +1,186 @@
+{
+  "Low_Cable_Crossover": {
+    "name": "Kabelzug-Crossover von unten",
+    "instructions": [
+      "Stelle beide Kabelrollen auf die unterste Position, wähle den Widerstand und greife in jeder Hand einen Griff.",
+      "Mache einen Schritt nach vorn, bis die Kabel unter Spannung stehen. Die Handflächen zeigen nach vorn, die Hände befinden sich unterhalb der Hüfte und die Arme sind nahezu gestreckt. Das ist die Ausgangsposition.",
+      "Halte die Ellenbogen leicht gebeugt und führe die Hände nach oben und zur Körpermitte, bis sie sich mit nach oben gerichteten Handflächen vor der Brust treffen.",
+      "Halte kurz und führe die Arme kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Low_Cable_Triceps_Extension": {
+    "name": "Liegendes Trizepsstrecken am unteren Kabelzug",
+    "instructions": [
+      "Wähle das Gewicht und lege dich mit dem Gesicht nach oben auf die Bank einer Kabelrudermaschine mit Seilgriff. Der Kopf zeigt zum Kabelzug.",
+      "Greife die Seilenden außen im neutralen Griff.",
+      "Beuge die Ellenbogen auf 90 Grad. Die Oberarme stehen senkrecht zum Oberkörper und zeigen zur Decke, die Unterarme zum Kabelzug. Das ist die Ausgangsposition.",
+      "Halte Oberarme und Ellenbogen ruhig und strecke die Unterarme beim Ausatmen vollständig. Spanne den Trizeps kurz an.",
+      "Kehre beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Low_Pulley_Row_To_Neck": {
+    "name": "Rudern am unteren Kabelzug zum Nacken",
+    "instructions": [
+      "Setze dich an einen unteren Kabelzug mit Seilgriff.",
+      "Greife die Seilenden im Obergriff, halte den Rücken aufrecht, die Knie leicht gebeugt und die Arme vollständig gestreckt. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig, führe die Ellenbogen nach außen und ziehe das Seil beim Ausatmen in Richtung Nacken. Die Oberarme bleiben parallel zum Boden, bis sich die Hände ungefähr neben den Ohren befinden.",
+      "Halte die Endposition kurz und kehre beim Einatmen langsam zurück. Der Oberkörper bleibt während der gesamten Bewegung ruhig.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lower_Back-SMR": {
+    "name": "Selbstmassage des unteren Rückens",
+    "instructions": [
+      "Setze dich auf den Boden und positioniere eine Faszienrolle unter dem unteren Rücken. Verschränke die Arme vor der Brust und ziehe die Schultern leicht nach vorn. Das ist die Ausgangsposition.",
+      "Hebe die Hüfte an und lehne dich zurück. Verlagere das Gewicht leicht zu einer Seite, damit der Druck auf der Muskulatur neben der Wirbelsäule liegt. Rolle langsam über den unteren Rücken, halte verspannte Punkte 10 bis 30 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Lower_Back_Curl": {
+    "name": "Rückenstrecken in Bauchlage",
+    "instructions": [
+      "Lege dich bäuchlings auf den Boden und strecke die Arme seitlich aus. Das ist die Ausgangsposition.",
+      "Hebe die Brust mithilfe der unteren Rückenmuskulatur vom Boden ab. Drücke dich nicht mit den Armen hoch und halte den Kopf aufrecht. Führe 10 bis 20 Wiederholungen aus."
+    ]
+  },
+  "Lunge_Pass_Through": {
+    "name": "Ausfallschritt mit Kettlebell-Übergabe",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Kettlebell in der rechten Hand. Das ist die Ausgangsposition.",
+      "Mache mit dem linken Fuß einen Schritt nach vorn und senke den Körper durch Beugen von Hüfte und Knie ab. Halte den Oberkörper aufrecht und das hintere Knie knapp über dem Boden.",
+      "Führe die Kettlebell während des Ausfallschritts unter dem vorderen Bein zur anderen Hand.",
+      "Drücke dich über die Ferse des vorderen Fußes zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung abwechselnd mit beiden Beinen."
+    ]
+  },
+  "Lunge_Sprint": {
+    "name": "Sprungausfallschritt an der Smith-Maschine",
+    "instructions": [
+      "Stelle die Stange der Smith-Maschine passend ein, positioniere sie auf dem oberen Rücken und entriegele sie. Nimm eine Schrittstellung mit einem Fuß vorn und einem hinten ein. Das ist die Ausgangsposition.",
+      "Senke das hintere Knie fast bis zum Boden ab und beuge dabei beide Knie und die Hüfte.",
+      "Drücke dich am unteren Punkt explosiv über die Ferse des vorderen Fußes ab, springe hoch und wechsle in der Luft die Beinstellung.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Bent_Leg_Groin": {
+    "name": "Leistendehnung in Rückenlage mit gebeugten Beinen",
+    "instructions": [
+      "Lege dich auf den Rücken, beuge die Knie und führe die Fußsohlen zusammen. Ein Trainingspartner hält deine Knie. Das ist die Ausgangsposition.",
+      "Versuche, die Knie zusammenzuführen, während dein Trainingspartner jede Bewegung verhindert.",
+      "Entspanne nach 10 bis 20 Sekunden, während dein Partner die Knie vorsichtig in Richtung Boden drückt. Gib rechtzeitig Bescheid, um eine Überdehnung zu vermeiden."
+    ]
+  },
+  "Lying_Cable_Curl": {
+    "name": "Liegender Bizepscurl am Kabelzug",
+    "instructions": [
+      "Greife eine gerade oder SZ-Stange am unteren Kabelzug etwa schulterbreit im Untergriff.",
+      "Lege dich vor dem Gewichtsstapel auf den Rücken, strecke die Beine aus und stelle die Füße gegen den Rahmen der Maschine.",
+      "Halte die Arme nahezu gestreckt und die Ellenbogen nah am Körper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und ziehe die Stange beim Ausatmen langsam zur Brust. Spanne den Bizeps an.",
+      "Halte oben kurz und kehre kontrolliert in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Cambered_Barbell_Row": {
+    "name": "Rudern in Bauchlage mit gebogener Langhantel",
+    "instructions": [
+      "Positioniere eine gebogene Langhantel unter einer Trainingsbank.",
+      "Lege dich bäuchlings auf die Bank und greife die Stange weiter als schulterbreit im Obergriff. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen mit engen Ellenbogen zur Brust, um den oberen Rücken zu betonen, oder zum Bauch, um den Latissimus stärker zu belasten.",
+      "Halte oben kurz und senke die Stange beim Einatmen langsam zurück."
+    ]
+  },
+  "Lying_Close-Grip_Bar_Curl_On_High_Pulley": {
+    "name": "Liegender enger Bizepscurl am hohen Kabelzug",
+    "instructions": [
+      "Stelle eine Flachbank vor einen hohen Kabelzug oder Latzug.",
+      "Greife die gerade Stange etwa schulterbreit im Untergriff.",
+      "Lege dich auf den Rücken, sodass der Kopf über das Bankende hinausragt.",
+      "Strecke die Arme senkrecht über die Schultern und halte die Ellenbogen eng. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und ziehe die Stange beim Ausatmen in einem Halbkreis bis zum Kinn. Spanne den Bizeps oben kurz an.",
+      "Kehre langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head": {
+    "name": "Liegendes Trizepsstrecken hinter dem Kopf mit Langhantel",
+    "instructions": [
+      "Lege dich mit einer Langhantel oder SZ-Stange auf eine Flachbank. Greife eine Langhantel schulterbreit oder eine SZ-Stange an den inneren Griffen im Obergriff.",
+      "Strecke die Arme über der Brust aus und führe die Stange mit nahezu gestreckten Armen in einem Halbkreis über den Kopf, bis die Arme parallel zum Boden liegen. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke die Stange beim Einatmen durch Beugen der Ellenbogen ab, bis die Unterarme senkrecht zum Boden stehen.",
+      "Strecke die Ellenbogen beim Ausatmen in einem Halbkreis zurück in die Ausgangsposition und spanne den Trizeps kurz an.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin": {
+    "name": "Liegendes enges Trizepsdrücken zum Kinn",
+    "instructions": [
+      "Lege dich mit einer Langhantel oder SZ-Stange auf eine Flachbank, sodass der Kopf leicht über das Bankende hinausragt. Greife die Stange im Obergriff.",
+      "Halte die Stange mit gestreckten Armen senkrecht über der Brust. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke die Stange beim Einatmen in einem Halbkreis ab, bis sie das Kinn leicht berührt.",
+      "Drücke die Stange beim Ausatmen auf demselben Weg zurück und spanne den Trizeps oben kurz an.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Crossover": {
+    "name": "Überkreuzdehnung in Rückenlage",
+    "instructions": [
+      "Lege dich mit gestreckten Beinen auf den Rücken.",
+      "Führe ein gebeugtes Bein über den Körper und versuche, das Knie zum Boden zu bringen. Ein Trainingspartner stabilisiert die gegenüberliegende Schulter und kontrolliert das überkreuzte Bein. Das ist die Ausgangsposition.",
+      "Versuche, das gebeugte Knie anzuheben, während dein Partner jede Bewegung verhindert.",
+      "Entspanne nach 10 bis 20 Sekunden, während dein Partner das Knie vorsichtig weiter zum Boden drückt. Wechsle anschließend die Seite."
+    ]
+  },
+  "Lying_Dumbbell_Tricep_Extension": {
+    "name": "Liegendes Trizepsstrecken mit Kurzhanteln",
+    "instructions": [
+      "Lege dich auf eine Flachbank und halte zwei Kurzhanteln mit gestreckten Armen senkrecht über der Brust. Die Handflächen zeigen zueinander und die Ellenbogen bleiben eng. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke die Kurzhanteln beim Einatmen langsam bis neben die Ohren.",
+      "Strecke die Ellenbogen beim Ausatmen mit dem Trizeps zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Face_Down_Plate_Neck_Resistance": {
+    "name": "Nackenheben in Bauchlage mit Hantelscheibe",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Flachbank, sodass der Kopf über das Bankende hinausragt. Halte eine leichte Hantelscheibe sicher am Hinterkopf.",
+      "Senke den Kopf beim Einatmen langsam ab, bis der Nacken vollständig gebeugt ist.",
+      "Hebe den Kopf beim Ausatmen kontrolliert an, bis er wieder in einer neutralen Position liegt.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Face_Up_Plate_Neck_Resistance": {
+    "name": "Nackenbeugen in Rückenlage mit Hantelscheibe",
+    "instructions": [
+      "Lege dich auf den Rücken auf eine Flachbank, sodass der Kopf über das Bankende hinausragt. Halte eine leichte Hantelscheibe sicher auf der Stirn.",
+      "Senke den Kopf beim Einatmen langsam nach hinten ab.",
+      "Beuge den Nacken beim Ausatmen und führe das Kinn kontrolliert in Richtung Brust.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Glute": {
+    "name": "Gesäßdehnung in Rückenlage",
+    "instructions": [
+      "Lege dich auf den Rücken und beuge beide Knie.",
+      "Lege einen Knöchel auf das gegenüberliegende Knie.",
+      "Greife den Oberschenkel des unteren Beins und ziehe beide Beine vorsichtig zur Brust, bis du eine Dehnung im Gesäß spürst. Halte die Position und wechsle anschließend die Seite."
+    ]
+  },
+  "Lying_Hamstring": {
+    "name": "Dehnung der hinteren Oberschenkel in Rückenlage",
+    "instructions": [
+      "Lege dich auf den Rücken und strecke beide Beine aus.",
+      "Hebe ein Bein an und greife es hinter dem Oberschenkel oder an der Wade.",
+      "Ziehe das Bein vorsichtig zum Oberkörper, während das Knie möglichst gestreckt bleibt. Halte die Dehnung und wechsle anschließend die Seite."
+    ]
+  },
+  "Lying_High_Bench_Barbell_Curl": {
+    "name": "Langhantelcurl in Bauchlage auf hoher Bank",
+    "instructions": [
+      "Lege dich bäuchlings auf eine hohe Bank und lasse die Arme senkrecht zum Boden hängen. Greife eine Langhantel etwa schulterbreit im Untergriff.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen, bis die Stange möglichst nahe an die Schultern kommt.",
+      "Spanne den Bizeps oben kurz an und senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

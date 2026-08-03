@@ -1,0 +1,169 @@
+{
+  "Bench_Press_with_Chains": {
+    "name": "Bankdrücken mit Ketten",
+    "instructions": [
+      "Stelle die Führungsketten auf die gewünschte Länge ein und befestige die Ketten an den Hantelscheibenaufnahmen der Langhantel.",
+      "Lege dich auf die Bank, möglichst mit dem Kopf leicht hinter der Stange. Ziehe die Füße unter den Körper, bilde ein kontrolliertes Hohlkreuz und ziehe die Schulterblätter zusammen. Drücke den oberen Rücken mit Hilfe der Beine fest in die Bank und halte diese Ganzkörperspannung während des gesamten Satzes.",
+      "Hebe die Stange aus der Ablage, ohne die Schultern nach vorn zu schieben. Greife die Stange fest, senke sie zur unteren Brust oder zum oberen Bauch und halte Stange, Handgelenk und Ellenbogen möglichst in einer Linie.",
+      "Halte kurz, sobald die Stange den Oberkörper berührt, und drücke sie anschließend so kraftvoll wie möglich nach oben. Die Ellenbogen bleiben bis kurz vor der vollständigen Streckung nah am Körper."
+    ]
+  },
+  "Bench_Sprint": {
+    "name": "Schnelle Bankwechsel",
+    "instructions": [
+      "Stelle dich vor eine Bank oder Box und platziere einen Fuß mit der Ferse nahe an der Kante darauf.",
+      "Drücke dich über den aufgestellten Fuß ab und strecke Hüfte und Knie.",
+      "Lande mit dem anderen Fuß auf der Bank, während der erste Fuß zum Boden zurückkehrt.",
+      "Wechsle die Füße schnell und gleichmäßig ab, bis der Satz abgeschlossen ist."
+    ]
+  },
+  "Bent-Arm_Barbell_Pullover": {
+    "name": "Langhantel-Pullover mit gebeugten Armen",
+    "instructions": [
+      "Lege dich auf eine Flachbank und greife die Langhantel etwa schulterbreit.",
+      "Halte die Stange mit leicht gebeugten Armen über der Brust. Das ist die Ausgangsposition.",
+      "Halte den Ellenbogenwinkel stabil und senke die Langhantel beim Einatmen in einem Bogen langsam hinter den Kopf, bis du eine Dehnung in Brust und Latissimus spürst.",
+      "Führe die Stange auf demselben Weg beim Ausatmen zurück in die Ausgangsposition.",
+      "Halte die Stange kurz über der Brust und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Bent-Arm_Dumbbell_Pullover": {
+    "name": "Kurzhantel-Pullover mit gebeugten Armen",
+    "instructions": [
+      "Stelle eine Kurzhantel aufrecht auf eine Flachbank.",
+      "Lege dich quer auf die Bank, sodass nur die Schulterblätter aufliegen. Die Hüfte bleibt unterhalb der Bank, die Füße stehen fest auf dem Boden und die Knie sind gebeugt.",
+      "Greife die Kurzhantel mit beiden Händen an einer Scheibenseite und halte sie mit leicht gebeugten Armen über der Brust. Verwende nur eine sicher montierte Kurzhantel, damit sich keine Scheiben lösen können. Das ist die Ausgangsposition.",
+      "Halte den Ellenbogenwinkel stabil und senke die Kurzhantel beim Einatmen in einem Bogen langsam hinter den Kopf, bis du eine Dehnung in Brust und Latissimus spürst.",
+      "Führe die Kurzhantel auf demselben Weg beim Ausatmen zurück in die Ausgangsposition.",
+      "Halte die obere Position kurz und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Bent-Knee_Hip_Raise": {
+    "name": "Hüftheben mit gebeugten Knien",
+    "instructions": [
+      "Lege dich flach auf den Boden und positioniere die Arme seitlich neben dem Körper.",
+      "Beuge die Knie ungefähr auf 75 Grad und hebe die Füße wenige Zentimeter vom Boden ab.",
+      "Ziehe die Knie mit der unteren Bauchmuskulatur in Richtung Brust, ohne den Kniebeugewinkel wesentlich zu verändern. Rolle das Becken nach hinten und hebe die Hüfte vom Boden ab. Atme dabei aus.",
+      "Spanne die Bauchmuskulatur oben kurz an und kehre beim Einatmen langsam und kontrolliert in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Bent_Over_Barbell_Row": {
+    "name": "Vorgebeugtes Langhantelrudern",
+    "instructions": [
+      "Halte eine Langhantel im Obergriff. Beuge die Knie leicht und neige den Oberkörper bei stabilem Rücken aus der Hüfte nach vorn, bis er fast parallel zum Boden ist. Die Stange hängt mit gestreckten Armen senkrecht unter den Schultern. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und ziehe die Langhantel beim Ausatmen zum Körper. Führe die Ellenbogen nah am Körper und spanne in der oberen Position die Rückenmuskulatur an.",
+      "Senke die Langhantel beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench": {
+    "name": "Vorgebeugtes Reverse Fly mit Kopfstütze",
+    "instructions": [
+      "Stelle dich mit einer Kurzhantel in jeder Hand vor eine Schrägbank.",
+      "Neige den Oberkörper bei stabilem Rücken nach vorn, bis die Stirn die Bank berührt. Die Arme hängen senkrecht nach unten, die Handflächen zeigen zueinander und der Oberkörper ist nahezu parallel zum Boden. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und hebe die nahezu gestreckten Arme seitlich an, bis sie parallel zum Boden sind. Atme dabei aus. Vermeide Schwung und führe die Hanteln wirklich zur Seite, nicht nach hinten.",
+      "Halte die obere Position kurz und senke die Kurzhanteln langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Bent_Over_Low-Pulley_Side_Lateral": {
+    "name": "Vorgebeugtes Seitheben am unteren Kabelzug",
+    "instructions": [
+      "Wähle ein geeignetes Gewicht und greife den Griff des unteren Kabelzugs mit der rechten Hand.",
+      "Neige den Oberkörper aus der Hüfte nach vorn, bis er fast parallel zum Boden ist. Beuge die Beine leicht und stütze die linke Hand auf dem linken Oberschenkel ab. Der rechte Arm hängt mit leicht gebeugtem Ellenbogen nach unten. Das ist die Ausgangsposition.",
+      "Hebe den rechten Arm seitlich an, bis er parallel zum Boden und ungefähr auf Höhe des rechten Ohrs ist. Atme dabei aus.",
+      "Senke das Gewicht beim Einatmen langsam zurück.",
+      "Führe die vorgesehene Anzahl an Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Bent_Over_One-Arm_Long_Bar_Row": {
+    "name": "Einarmiges T-Bar-Rudern",
+    "instructions": [
+      "Belade ein Ende einer olympischen Langhantel und fixiere das andere Ende sicher in einer Ecke oder mit einer geeigneten Vorrichtung, damit die Stange nicht verrutscht.",
+      "Neige den Oberkörper bei leicht gebeugten Knien so weit wie möglich nach vorn und halte den Rücken stabil.",
+      "Greife das beladene Ende direkt hinter den Scheiben mit einer Hand. Stütze die andere Hand auf dem Knie ab. Das ist die Ausgangsposition.",
+      "Ziehe die Stange mit engem Ellenbogen nach oben, bis die Scheiben die untere Brust erreichen. Spanne die Rückenmuskulatur an, halte kurz und atme dabei aus. Vermeide Schwung aus dem Oberkörper.",
+      "Senke die Stange langsam ab, ohne die Scheiben auf dem Boden abzusetzen, und dehne den Latissimus kontrolliert.",
+      "Führe die vorgesehene Anzahl an Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Bent_Over_Two-Arm_Long_Bar_Row": {
+    "name": "Beidarmiges T-Bar-Rudern",
+    "instructions": [
+      "Belade ein Ende einer olympischen Langhantel und fixiere das andere Ende sicher in einer Ecke oder mit einer geeigneten Vorrichtung, damit die Stange nicht verrutscht.",
+      "Neige den Oberkörper bei leicht gebeugten Knien so weit wie möglich nach vorn und halte den Rücken stabil.",
+      "Greife das beladene Ende direkt hinter den Scheiben mit beiden Händen oder verwende einen geeigneten Parallelgriff. Das ist die Ausgangsposition.",
+      "Ziehe die Stange mit engen Ellenbogen nach oben, bis die Scheiben die untere Brust erreichen. Spanne die Rückenmuskulatur an, halte kurz und atme dabei aus.",
+      "Senke die Stange langsam ab, ohne die Scheiben auf dem Boden abzusetzen, und dehne den Latissimus kontrolliert.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Bent_Over_Two-Dumbbell_Row": {
+    "name": "Vorgebeugtes Rudern mit zwei Kurzhanteln",
+    "instructions": [
+      "Halte in jeder Hand eine Kurzhantel, die Handflächen zeigen zum Körper. Beuge die Knie leicht und neige den Oberkörper bei stabilem Rücken aus der Hüfte nach vorn, bis er fast parallel zum Boden ist. Die Gewichte hängen senkrecht unter den Schultern. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und ziehe die Kurzhanteln beim Ausatmen seitlich zum Körper. Führe die Ellenbogen nah am Oberkörper und spanne den Rücken in der oberen Position kurz an.",
+      "Senke die Gewichte beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Bent_Over_Two-Dumbbell_Row_With_Palms_In": {
+    "name": "Vorgebeugtes Kurzhantelrudern mit neutralem Griff",
+    "instructions": [
+      "Halte in jeder Hand eine Kurzhantel, die Handflächen zeigen zueinander. Beuge die Knie leicht und neige den Oberkörper bei stabilem Rücken aus der Hüfte nach vorn, bis er fast parallel zum Boden ist. Die Gewichte hängen senkrecht unter den Schultern. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und ziehe die Kurzhanteln beim Ausatmen seitlich zum Körper. Ziehe die Schulterblätter zusammen und spanne den Rücken in der oberen Position kurz an.",
+      "Senke die Gewichte beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Bent_Press": {
+    "name": "Bent Press mit Kettlebell",
+    "instructions": [
+      "Setze eine Kettlebell zur Schulter um, indem du Beine und Hüfte kraftvoll streckst und das Handgelenk während der Bewegung eindrehst. Das ist die Ausgangsposition.",
+      "Neige den Oberkörper zur gegenüberliegenden Seite und senke dich so weit ab, bis du mit der freien Hand den Boden berühren kannst. Behalte die Kettlebell im Blick und drücke sie durch Strecken des Ellenbogens senkrecht nach oben. Der belastete Arm bleibt möglichst senkrecht zum Boden.",
+      "Richte dich mit der Kettlebell über dem Kopf wieder auf. Senke sie anschließend zur Schulter ab und wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Bicycling": {
+    "name": "Radfahren",
+    "instructions": [
+      "Setze dich auf das Fahrrad und stelle die Sattelhöhe passend zu deiner Körpergröße ein."
+    ]
+  },
+  "Bicycling_Stationary": {
+    "name": "Ergometerfahren",
+    "instructions": [
+      "Setze dich auf das Ergometer und stelle die Sattelhöhe passend zu deiner Körpergröße ein.",
+      "Wähle das gewünschte Programm oder den manuellen Modus. Bei manchen Geräten musst du zunächst mit dem Treten beginnen. Stelle den Widerstand passend zu deinem Trainingsziel ein und passe ihn bei Bedarf während der Einheit an. Falls vorhanden, kannst du Alter und Gewicht zur Schätzung des Kalorienverbrauchs eingeben und die Handpulssensoren zur Kontrolle der Trainingsintensität nutzen."
+    ]
+  },
+  "Board_Press": {
+    "name": "Board Press",
+    "instructions": [
+      "Lege dich auf die Bank. Lege je nach gewünschter Bewegungsverkürzung ein bis fünf stabile Bretter auf die Brust und lass sie von einem Trainingspartner, Bändern oder unter dem Shirt sicher fixieren.",
+      "Ziehe die Füße unter den Körper, bilde ein kontrolliertes Hohlkreuz und ziehe die Schulterblätter zusammen. Drücke den oberen Rücken mit Hilfe der Beine fest in die Bank und halte diese Ganzkörperspannung.",
+      "Greife die Stange in normaler Bankdrückbreite oder etwa schulterbreit, wenn du den Trizeps stärker betonen möchtest. Hebe sie aus der Ablage, ohne die Schultern nach vorn zu schieben. Halte Stange, Handgelenk und Ellenbogen möglichst in einer Linie.",
+      "Senke die Stange bis auf die Bretter ab und drücke sie anschließend so kraftvoll wie möglich nach oben. Die Ellenbogen bleiben bis kurz vor der vollständigen Streckung nah am Körper."
+    ]
+  },
+  "Body-Up": {
+    "name": "Unterarmstütz zum Liegestütz",
+    "instructions": [
+      "Gehe in eine Unterarmstützposition. Stütze dich auf Zehen und Unterarmen ab, halte den Körper gerade und positioniere die Unterarme etwa schulterbreit. Das ist die Ausgangsposition.",
+      "Drücke die Handflächen fest in den Boden und strecke die Ellenbogen, um den Oberkörper anzuheben. Halte den Rumpf während der Bewegung stabil.",
+      "Beuge die Ellenbogen kontrolliert und senke die Unterarme wieder zum Boden ab.",
+      "Wiederhole die Bewegung."
+    ]
+  },
+  "Body_Tricep_Press": {
+    "name": "Trizepsdrücken mit dem eigenen Körpergewicht",
+    "instructions": [
+      "Positioniere eine Stange in einem Rack ungefähr auf Brusthöhe.",
+      "Greife die Stange etwa schulterbreit, gehe ein bis zwei Schritte zurück und halte die Füße zusammen. Strecke die Arme und lehne dich mit geradem Körper gegen die Stange. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen und senke den Kopf beziehungsweise Oberkörper kontrolliert in Richtung Stange.",
+      "Halte kurz und drücke dich durch Strecken der Ellenbogen zurück in die Ausgangsposition.",
+      "Zur Steigerung kannst du später Ketten über die Schultern legen."
+    ]
+  }
+}

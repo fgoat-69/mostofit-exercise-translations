@@ -1,0 +1,162 @@
+{
+  "Side_Wrist_Pull": {
+    "name": "Seitliche Handgelenk- und Latissimusdehnung",
+    "instructions": [
+      "Stelle dich aufrecht hin, führe den linken Arm vor dem Körper nach rechts und halte das linke Handgelenk mit der rechten Hand auf Hüfthöhe. Beginne mit gebeugtem linken Arm.",
+      "Strecke den linken Arm langsam, ziehe ihn zur Seite und hebe ihn bis auf Schulterhöhe an. Die Dehnung sollte aus dem Rücken kommen, nicht aus dem Schultergelenk. Wechsle anschließend die Seite."
+    ]
+  },
+  "Side_to_Side_Box_Shuffle": {
+    "name": "Seitlicher Box-Wechselsprung",
+    "instructions": [
+      "Stelle dich seitlich neben eine Box und setze den linken Fuß mittig darauf.",
+      "Springe über die Box zur anderen Seite, lande mit dem rechten Fuß auf der Box und dem linken Fuß auf dem Boden. Nutze die Arme aktiv.",
+      "Fahre zügig abwechselnd von Seite zu Seite fort."
+    ]
+  },
+  "Single-Arm_Cable_Crossover": {
+    "name": "Einarmiger Kabelzug-Crossover",
+    "instructions": [
+      "Stelle beide Kabelrollen hoch ein, wähle den Widerstand und greife in jeder Hand einen Griff.",
+      "Mache einen Schritt nach vorn, führe die gestreckten Arme vor dem Körper zusammen und halte Kopf und Brust aufrecht. Stelle die Füße versetzt auf und neige den Oberkörper leicht nach vorn. Das ist die Ausgangsposition.",
+      "Halte den linken Arm auf Position und führe den rechten Arm mit leicht gebeugtem Ellenbogen seitlich auf Schulterhöhe zurück.",
+      "Ziehe den rechten Arm wieder zur Körpermitte.",
+      "Halte kurz und wiederhole die Bewegung mit der anderen Seite. Fahre abwechselnd fort."
+    ]
+  },
+  "Single-Arm_Linear_Jammer": {
+    "name": "Einarmiger Landmine Linear Jammer",
+    "instructions": [
+      "Fixiere eine Langhantel in einer Landmine oder sicher in einer Ecke und belade sie passend.",
+      "Hebe das freie Ende mit einer oder beiden Händen zur Schulter und stelle die Füße weit auf. Das ist die Ausgangsposition.",
+      "Drücke das Gewicht explosiv durch Strecken des Ellenbogens nach oben. Strecke Hüfte und Knie vollständig, um maximale Kraft zu erzeugen.",
+      "Kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Single-Arm_Push-Up": {
+    "name": "Einarmiger Liegestütz",
+    "instructions": [
+      "Gehe in Bauchlage und stütze dich auf den Zehen und einer Hand ab. Positioniere die arbeitende Hand direkt unter der Schulter und strecke den Arm vollständig. Stelle die Füße für mehr Stabilität weiter auseinander als bei einem normalen Liegestütz.",
+      "Halte den Körper stabil und lege die freie Hand hinter den Rücken. Das ist die Ausgangsposition.",
+      "Beuge den Ellenbogen und senke dich kontrolliert ab, bis der Oberkörper den Boden berührt.",
+      "Drücke dich durch Strecken des Arms zurück in die Ausgangsposition."
+    ]
+  },
+  "Single-Cone_Sprint_Drill": {
+    "name": "Sprintdrill um ein Hütchen",
+    "instructions": [
+      "Dieser Drill trainiert schnelle Fußarbeit. Stelle dich neben ein einzelnes Hütchen, wobei ein Arm vorn und der andere hinten ist.",
+      "Bewege die Füße so schnell wie möglich, arbeite die Arme kräftig mit und umrunde das Hütchen mit hohen Knien.",
+      "Pausiere nach drei vollständigen Runden."
+    ]
+  },
+  "Single-Leg_High_Box_Squat": {
+    "name": "Einbeinige Kniebeuge auf hoher Box",
+    "instructions": [
+      "Stelle eine Box in ein Rack und befestige darüber ein Widerstandsband oder Seil.",
+      "Stelle dich davor, steige mit einem Bein vollständig auf die Box und lass das andere Bein frei hängen. Halte das Band zur Balance fest.",
+      "Steige mit demselben Bein wiederholt auf und ab und wechsle anschließend die Seite."
+    ]
+  },
+  "Single-Leg_Hop_Progression": {
+    "name": "Einbeinige Sprungfolge über Hütchen",
+    "instructions": [
+      "Stelle mehrere Hütchen in einer Reihe auf. Stehe locker auf einem Bein und hebe das Knie des freien Beins an. Das ist die Ausgangsposition.",
+      "Springe vorwärts über das erste Hütchen und lande auf demselben Bein.",
+      "Nutze eine kurze Gegenbewegung, um von Hütchen zu Hütchen weiterzuspringen.",
+      "Drehe am Ende um und springe auf dem anderen Bein zurück."
+    ]
+  },
+  "Single-Leg_Lateral_Hop": {
+    "name": "Einbeiniger seitlicher Sprung",
+    "instructions": [
+      "Stelle dich seitlich neben ein Hütchen oder eine Hürde auf ein Bein und beuge das Knie leicht.",
+      "Nutze eine kurze Gegenbewegung und springe seitlich über das Hindernis.",
+      "Lande auf demselben Bein und springe unmittelbar zurück in die Ausgangsposition.",
+      "Fahre zügig hin und her fort."
+    ]
+  },
+  "Single-Leg_Leg_Extension": {
+    "name": "Einbeiniges Beinstrecken an der Maschine",
+    "instructions": [
+      "Setze dich an die Maschine und stelle Sitz sowie Polster passend ein. Das Polster liegt am unteren Schienbein, nicht am Sprunggelenk, und der Drehpunkt der Maschine befindet sich auf Höhe des Knies. Wähle ein geeignetes Gewicht.",
+      "Halte den Oberkörper aufrecht und strecke ein Bein vollständig. Halte oben kurz.",
+      "Senke das Bein kontrolliert zurück, ohne das Gewicht vollständig abzusetzen.",
+      "Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Single-Leg_Stride_Jump": {
+    "name": "Einbeiniger Boxsprung aus seitlicher Position",
+    "instructions": [
+      "Stelle dich seitlich neben eine Box und setze den inneren Fuß nahe an der Kante darauf.",
+      "Schwinge die Arme nach oben und drücke dich über das obere Bein so explosiv wie möglich ab. Ziehe das gegenüberliegende Knie nach oben.",
+      "Lande in der Ausgangsposition und fange den Aufprall mit dem inneren Bein kontrolliert ab."
+    ]
+  },
+  "Single_Dumbbell_Raise": {
+    "name": "Frontheben mit einer Kurzhantel",
+    "instructions": [
+      "Stelle dich weit hin und halte eine Kurzhantel mit beiden Händen an einer Hantelseite, nicht am Griff. Die Arme hängen gestreckt vor dem Körper. Das ist die Ausgangsposition.",
+      "Hebe die Kurzhantel mit gestreckten Armen bis über Schulterhöhe an. Oberkörper und Hüfte bleiben ruhig.",
+      "Senke das Gewicht kontrolliert zurück und wiederhole die Bewegung."
+    ]
+  },
+  "Single_Leg_Butt_Kick": {
+    "name": "Einbeiniger Fersen-zum-Gesäß-Sprung",
+    "instructions": [
+      "Stehe auf einem Bein und hebe das gebeugte Knie des freien Beins an. Das ist die Ausgangsposition.",
+      "Nutze eine Gegenbewegung und springe durch explosives Strecken von Hüfte, Knie und Sprunggelenk des Standbeins nach oben.",
+      "Beuge das Knie des Sprungbeins sofort und versuche, die Ferse zum Gesäß zu führen.",
+      "Bringe das Bein unter die Hüfte zurück und lande mit leicht gebeugtem Knie. Das freie Bein bleibt möglichst unverändert."
+    ]
+  },
+  "Single_Leg_Glute_Bridge": {
+    "name": "Einbeinige Gesäßbrücke",
+    "instructions": [
+      "Lege dich mit gebeugten Knien und flach aufgestellten Füßen auf den Rücken.",
+      "Hebe ein Bein an und ziehe das Knie zur Brust. Das ist die Ausgangsposition.",
+      "Drücke dich über die Ferse des Standbeins ab und strecke die Hüfte, bis sich das Gesäß vom Boden hebt.",
+      "Strecke die Hüfte so weit wie kontrolliert möglich, halte kurz und senke sie wieder ab."
+    ]
+  },
+  "Single_Leg_Push-off": {
+    "name": "Einbeiniger Box-Abdruck",
+    "instructions": [
+      "Stelle dich vor eine Box und setze einen Fuß mit der Ferse nahe an der Kante darauf.",
+      "Drücke dich über den Fuß auf der Box ab und springe durch Strecken von Hüfte und Knie so hoch wie möglich.",
+      "Lande mit demselben Fuß auf der Box und führe den anderen Fuß zurück in die Ausgangsposition."
+    ]
+  },
+  "Sit-Up": {
+    "name": "Sit-up",
+    "instructions": [
+      "Lege dich auf den Rücken und fixiere die Füße unter einem stabilen Gegenstand oder lass sie von einem Trainingspartner halten. Beuge die Knie.",
+      "Lege die Hände hinter den Kopf und verschränke die Finger. Das ist die Ausgangsposition.",
+      "Hebe den Oberkörper beim Ausatmen an, bis er mit den Oberschenkeln eine V-Form bildet.",
+      "Halte die Anspannung kurz und senke den Oberkörper beim Einatmen kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Sit_Squats": {
+    "name": "Teilkniebeugen",
+    "instructions": [
+      "Stelle dich schulterbreit hin. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und schiebe das Gesäß nach hinten.",
+      "Senke dich nur teilweise und oberhalb der Parallelen ab. Kehre die Bewegung zügig um und richte dich wieder auf. Führe 5 bis 10 Wiederholungen aus."
+    ]
+  },
+  "Skating": {
+    "name": "Rollschuhlaufen",
+    "instructions": [
+      "Rollschuhlaufen kann Ausdauer und muskuläre Belastbarkeit verbessern, erfordert jedoch gutes Gleichgewicht und Koordination. Lerne zuerst Bremsen und Kurvenfahren und trage geeignete Schutzausrüstung.",
+      "Fahre 30 Minuten in angenehmem Tempo oder nutze Intervalle: zwei Minuten schnell und drei Minuten locker. Eine etwa 68 kg schwere Person verbrennt bei moderatem Tempo in 30 Minuten ungefähr 175 kcal."
+    ]
+  },
+  "Sled_Drag_-_Harness": {
+    "name": "Schlittenziehen mit Zuggeschirr",
+    "instructions": [
+      "Belade den Schlitten passend und befestige den Zuggurt. Du kannst Griffe, ein Zuggeschirr oder einen Gewichthebergürtel verwenden.",
+      "Lehne dich beim Vorwärts- oder Rückwärtsziehen in Bewegungsrichtung und bewege den Schlitten durch kraftvolles Strecken von Hüfte und Knien."
+    ]
+  }
+}

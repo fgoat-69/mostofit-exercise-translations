@@ -1,0 +1,166 @@
+{
+  "Knee_Tuck_Jump": {
+    "name": "Hocksprung",
+    "instructions": [
+      "Stelle dich bequem hin, beuge die Knie leicht und halte die Hände mit nach unten gerichteten Handflächen auf Brusthöhe vor dem Körper. Das ist die Ausgangsposition.",
+      "Gehe kurz in eine Viertelkniebeuge und springe unmittelbar explosiv nach oben. Ziehe die Knie zur Brust und versuche, sie zu den Handflächen zu führen.",
+      "Springe so hoch wie möglich und strecke die Beine vor der Landung wieder aus. Fange den Aufprall durch erneutes Beugen der Knie ab."
+    ]
+  },
+  "Kneeling_Arm_Drill": {
+    "name": "Kniender Armschwung-Drill",
+    "instructions": [
+      "Knie dich mit dem linken Fuß vorn und dem rechten Knie am Boden hin. Drücke über die vordere Ferse, um Gesäß und hintere Oberschenkel zu aktivieren.",
+      "Beginne mit langen, pendelnden Armschwüngen. Verkürze den Armwinkel schrittweise und wechsle vom Jogging- zum Lauf- und schließlich zum Sprintarmschwung.",
+      "Beschleunige die Hände nach vorn, sobald sie die Hüfte passieren.",
+      "Wechsle die Beinstellung und wiederhole die Übung."
+    ]
+  },
+  "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists": {
+    "name": "Kniender Kabel-Crunch mit abwechselnder Rotation",
+    "instructions": [
+      "Befestige einen Seilgriff am hohen Kabelzug und lege eine Matte davor.",
+      "Greife das Seil mit beiden Händen und knie dich etwa 60 cm vor die Maschine.",
+      "Halte das Seil hinter dem Kopf und die Hände neben den Ohren.",
+      "Halte die Hände auf Position, spanne die Bauchmuskulatur an und rolle den Oberkörper nach unten, bis die Ellenbogen die Knie erreichen.",
+      "Halte unten kurz und richte dich langsam und kontrolliert wieder auf.",
+      "Führe die nächste Wiederholung bis zur Hälfte aus und drehe dann einen Ellenbogen zum gegenüberliegenden Knie.",
+      "Halte unten kurz und kehre kontrolliert zurück.",
+      "Wiederhole die Bewegung mit dem anderen Ellenbogen zum gegenüberliegenden Knie.",
+      "Fahre mit dieser Abfolge bis zum Muskelversagen fort."
+    ]
+  },
+  "Kneeling_Cable_Triceps_Extension": {
+    "name": "Kniendes Trizepsstrecken am Kabelzug",
+    "instructions": [
+      "Stelle eine Bank quer vor einen hohen Kabelzug.",
+      "Greife die gerade Stange etwa 15 cm breit im Obergriff und halte sie über dem Kopf.",
+      "Wende dich von der Maschine ab und knie dich hin.",
+      "Lege Kopf und Oberarme auf die Bank. Die Ellenbogen sind gebeugt und die Unterarme zeigen zum Kabelzug. Das ist die Ausgangsposition.",
+      "Halte die Oberarme nah am Kopf und strecke die Ellenbogen beim Ausatmen in einem Halbkreis, bis die Arme parallel zum Boden sind. Spanne den Trizeps kurz an.",
+      "Kehre beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Kneeling_Forearm_Stretch": {
+    "name": "Kniende Unterarmdehnung",
+    "instructions": [
+      "Knie dich auf eine Matte und lege die Handflächen flach auf den Boden. Die Finger zeigen zu den Knien.",
+      "Lehne dich langsam zurück, während die Handflächen am Boden bleiben. Halte die Dehnung in Handgelenken und Unterarmen 20 bis 30 Sekunden."
+    ]
+  },
+  "Kneeling_High_Pulley_Row": {
+    "name": "Kniendes Rudern am hohen Kabelzug",
+    "instructions": [
+      "Befestige einen Seilgriff an einem hohen Kabelzug, wähle ein geeignetes Gewicht und knie dich einige Schritte entfernt hin. Halte die Arme vor dir gestreckt. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen, ziehe die Schulterblätter vollständig zurück und führe das Seil mit außen gehaltenen Ellenbogen zur oberen Brust.",
+      "Halte kurz und kehre langsam in die Ausgangsposition zurück."
+    ]
+  },
+  "Kneeling_Hip_Flexor": {
+    "name": "Kniende Hüftbeugerdehnung",
+    "instructions": [
+      "Knie dich auf eine Matte. Stelle den rechten Fuß vor dir auf und strecke das linke Bein nach hinten, sodass der Fußrücken am Boden liegt.",
+      "Verlagere das Gewicht nach vorn, bis du eine Dehnung in der Hüfte spürst. Halte 15 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Kneeling_Jump_Squat": {
+    "name": "Kniende Sprungkniebeuge",
+    "instructions": [
+      "Knie dich mit einer Langhantel auf dem oberen Rücken auf den Boden. Alternativ kannst du die Übung ohne Zusatzgewicht ausführen.",
+      "Setze die Hüfte nach hinten, bis das Gesäß die Fersen berührt. Halte Kopf und Brust aufrecht.",
+      "Strecke die Hüfte explosiv und bringe die Füße unter den Körper, sodass du flach auf ihnen landest.",
+      "Drücke dich anschließend über die Fersen aus der Kniebeuge in den aufrechten Stand."
+    ]
+  },
+  "Kneeling_Single-Arm_High_Pulley_Row": {
+    "name": "Einarmiges kniendes Rudern am hohen Kabelzug",
+    "instructions": [
+      "Befestige einen Einzelgriff an einem hohen Kabelzug und wähle das Gewicht.",
+      "Knie dich vor die Maschine und halte den Griff mit gestrecktem Arm. Das ist die Ausgangsposition.",
+      "Beginne mit nach vorn gerichteter Handfläche. Ziehe den Griff durch Beugen des Ellenbogens und Zurückziehen des Schulterblatts zum Oberkörper. Drehe das Handgelenk, sodass die Handfläche am Ende zu dir zeigt.",
+      "Halte kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Kneeling_Squat": {
+    "name": "Kniende Kniebeuge",
+    "instructions": [
+      "Stelle die Langhantel in einem Rack auf passende Höhe ein. Knie dich mit einer Matte hinter die Stange, lege sie auf den oberen Rücken und ziehe die Schulterblätter zusammen. Hebe die Stange aus der Ablage.",
+      "Halte den Blick nach vorn und setze das Gesäß nach hinten, bis es die Waden berührt.",
+      "Strecke die Hüfte und richte den Oberkörper wieder auf."
+    ]
+  },
+  "Landmine_180s": {
+    "name": "Landmine 180",
+    "instructions": [
+      "Fixiere eine Langhantel in einer Landmine oder sicher in einer Ecke und belade sie passend.",
+      "Hebe das freie Ende mit beiden Händen auf Schulterhöhe. Halte die Arme gestreckt und stelle dich breit hin. Das ist die Ausgangsposition.",
+      "Drehe Oberkörper und Hüfte und führe die Stange mit gestreckten Armen vollständig zu einer Seite nach unten.",
+      "Kehre die Bewegung um und führe die Stange zur gegenüberliegenden Seite.",
+      "Fahre abwechselnd fort, bis der Satz abgeschlossen ist."
+    ]
+  },
+  "Landmine_Linear_Jammer": {
+    "name": "Landmine Linear Jammer",
+    "instructions": [
+      "Fixiere eine Langhantel in einer Landmine oder sicher in einer Ecke, belade sie und befestige einen geeigneten Griff.",
+      "Hebe die Griffe zu den Schultern. Das ist die Ausgangsposition.",
+      "Gehe in eine athletische Kniebeuge, beuge Hüfte und Knie und schiebe die Hüfte nach hinten.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und drücke gleichzeitig die Stange durch Strecken der Ellenbogen nach vorn.",
+      "Kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Lateral_Bound": {
+    "name": "Seitlicher Weitsprung",
+    "instructions": [
+      "Nimm eine halbe Kniebeuge ein und stelle dich seitlich zur Bewegungsrichtung. Das ist die Ausgangsposition.",
+      "Führe mit dem inneren Bein eine kurze Gegenbewegung aus und verlagere das Gewicht auf das äußere Bein.",
+      "Drücke dich sofort kraftvoll ab und springe so weit wie möglich zur Seite.",
+      "Drücke dich nach der Landung unmittelbar in die Gegenrichtung ab.",
+      "Fahre mehrere Wiederholungen lang hin und her fort."
+    ]
+  },
+  "Lateral_Box_Jump": {
+    "name": "Seitlicher Boxsprung",
+    "instructions": [
+      "Stelle dich bequem neben eine niedrige Box. Das ist die Ausgangsposition.",
+      "Gehe kurz in eine Viertelkniebeuge und springe unmittelbar nach oben und zur Seite.",
+      "Ziehe die Knie hoch genug an, damit die Füße die Box sicher überwinden.",
+      "Lande mittig auf der Box und fange den Aufprall über die Beine ab.",
+      "Springe vorsichtig auf der anderen Seite herunter und fahre abwechselnd fort."
+    ]
+  },
+  "Lateral_Cone_Hops": {
+    "name": "Seitliche Hütchensprünge",
+    "instructions": [
+      "Stelle mehrere Hütchen mit einigen Schritten Abstand in einer Reihe auf.",
+      "Stelle dich seitlich neben das erste Hütchen. Das ist die Ausgangsposition.",
+      "Beuge die Knie kurz und springe unmittelbar nach oben und seitlich über das Hütchen.",
+      "Fange die Landung über die Beine ab und springe direkt über das nächste Hütchen weiter."
+    ]
+  },
+  "Lateral_Raise_-_With_Bands": {
+    "name": "Seitheben mit Widerstandsband",
+    "instructions": [
+      "Stelle dich auf ein Widerstandsband und greife die Griffe im Obergriff. Halte sie seitlich an den Oberschenkeln, die Arme nahezu gestreckt und den Rücken aufrecht. Das ist die Ausgangsposition.",
+      "Hebe die Griffe beim Ausatmen seitlich bis etwas über Schulterhöhe an. Halte den Oberkörper ruhig und die Arme nahezu gestreckt. Halte oben kurz.",
+      "Senke die Griffe beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Latissimus_Dorsi-SMR": {
+    "name": "Latissimus-Selbstmassage",
+    "instructions": [
+      "Lege dich auf den Boden und positioniere eine Faszienrolle seitlich unter dem oberen Rücken, knapp hinter der Achsel.",
+      "Führe den Arm der behandelten Seite nach hinten und verlagere das Gewicht auf den Latissimus. Halte empfindliche Punkte 10 bis 30 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Leg-Over_Floor_Press": {
+    "name": "Kettlebell-Bodendrücken mit überkreuztem Bein",
+    "instructions": [
+      "Lege dich auf den Boden und halte eine Kettlebell am Griff auf der Brust. Führe das Bein der arbeitenden Seite über das andere Bein. Strecke den freien Arm seitlich zur Stabilisierung aus.",
+      "Drücke die Kettlebell bis zur vollständigen Armstreckung nach oben.",
+      "Senke das Gewicht ab, bis der Ellenbogen den Boden berührt. Halte die Kettlebell dabei über dem Ellenbogen und wiederhole die Bewegung."
+    ]
+  }
+}

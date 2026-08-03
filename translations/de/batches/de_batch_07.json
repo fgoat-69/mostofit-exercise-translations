@@ -1,0 +1,203 @@
+{
+  "Cable_Crunch": {
+    "name": "Kabel-Crunch",
+    "instructions": [
+      "Knie dich unter einen hohen Kabelzug mit Seilgriff.",
+      "Greife das Seil und ziehe es nach unten, bis sich die Hände neben deinem Gesicht befinden.",
+      "Beuge die Hüfte leicht und lass das Gewicht den unteren Rücken vorsichtig strecken. Das ist die Ausgangsposition.",
+      "Halte die Hüfte ruhig und beuge den Oberkörper aus der Taille nach vorn, bis sich die Ellenbogen in Richtung Oberschenkelmitte bewegen. Atme aus und halte die Anspannung kurz.",
+      "Kehre beim Einatmen langsam zurück und halte die Bauchmuskulatur unter Spannung. Wähle kein Gewicht, bei dem der untere Rücken die Hauptarbeit übernimmt.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Deadlifts": {
+    "name": "Kreuzheben am Kabelzug",
+    "instructions": [
+      "Stelle beide Kabelzüge ganz nach unten, wähle ein geeignetes Gewicht und stelle dich mittig zwischen die Türme.",
+      "Beuge Hüfte und Knie, bis du die Griffe erreichen kannst.",
+      "Greife die Griffe und richte dich über die Fersen auf. Strecke Hüfte und Knie, während die Arme seitlich nach unten hängen. Halte Kopf und Brust aufrecht.",
+      "Kehre nach vollständiger Aufrichtung kontrolliert in die Ausgangsposition zurück und wiederhole die Bewegung."
+    ]
+  },
+  "Cable_Hammer_Curls_-_Rope_Attachment": {
+    "name": "Hammercurl am Kabelzug mit Seil",
+    "instructions": [
+      "Befestige einen Seilgriff am unteren Kabelzug und stelle dich etwa 30 cm vor die Maschine.",
+      "Greife das Seil neutral, sodass die Handflächen zueinander zeigen, und stelle dich aufrecht hin.",
+      "Halte die Ellenbogen eng am Körper und während der gesamten Bewegung ruhig. Nur die Unterarme bewegen sich. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Ausatmen, bis die Unterarme den Bizeps fast berühren.",
+      "Spanne den Bizeps oben kurz an und senke das Gewicht anschließend langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Hip_Adduction": {
+    "name": "Hüftadduktion am Kabelzug",
+    "instructions": [
+      "Stelle dich seitlich neben einen unteren Kabelzug, sodass ein Bein näher an der Rolle steht.",
+      "Befestige die Fußschlaufe am Knöchel des kabelnahen Beins.",
+      "Gehe mit breitem Stand seitlich vom Gewichtsstapel weg und halte dich bei Bedarf an der Maschine fest.",
+      "Verlagere das Gewicht auf das äußere Bein und lass das befestigte Bein leicht in Richtung Kabelzug ziehen. Das ist die Ausgangsposition.",
+      "Führe das befestigte Bein beim Ausatmen vor dem Standbein über die Körpermitte. Nutze dafür die Muskulatur der Oberschenkelinnenseite.",
+      "Kehre beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Führe die vorgesehene Anzahl an Wiederholungen aus und wechsle anschließend das Bein."
+    ]
+  },
+  "Cable_Incline_Pushdown": {
+    "name": "Lat-Pulldown auf der Schrägbank",
+    "instructions": [
+      "Lege dich mit dem Rücken zur Maschine auf eine Schrägbank vor einem hohen Kabelzug mit gerader Stange.",
+      "Greife die Stange über dem Kopf etwa schulterbreit im Obergriff und strecke die Arme nach vorn, bis sich die Stange knapp über den Oberschenkeln befindet. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und führe die gestreckten Arme beim Einatmen in einem Halbkreis zurück, bis sich die Stange über dem Kopf befindet.",
+      "Ziehe die Stange mit dem Latissimus beim Ausatmen auf demselben Weg zurück zu den Oberschenkeln und halte die Endposition kurz.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Incline_Triceps_Extension": {
+    "name": "Trizepsstrecken am Kabelzug auf der Schrägbank",
+    "instructions": [
+      "Lege dich mit dem Rücken zur Maschine auf eine Schrägbank vor einem hohen Kabelzug mit gerader Stange.",
+      "Greife die Stange eng im Obergriff über dem Kopf. Halte die Ellenbogen nah am Kopf und die Oberarme in einem leichten Winkel zum Boden.",
+      "Halte die Oberarme ruhig und strecke die Ellenbogen beim Ausatmen vollständig. Spanne den Trizeps oben kurz an.",
+      "Kehre langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Internal_Rotation": {
+    "name": "Innenrotation am Kabelzug",
+    "instructions": [
+      "Setze dich seitlich neben einen unteren Kabelzug und greife den Einzelgriff mit dem kabelnahen Arm.",
+      "Lege den Ellenbogen an den Körper, beuge ihn auf 90 Grad und richte den Unterarm zum Kabelzug. Das ist die Ausgangsposition.",
+      "Drehe die Schulter nach innen und ziehe den Griff in einem Halbkreis vor den Bauch. Halte den Unterarm währenddessen möglichst rechtwinklig zum Oberkörper.",
+      "Kehre langsam in die Ausgangsposition zurück.",
+      "Führe die vorgesehene Anzahl an Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Cable_Iron_Cross": {
+    "name": "Iron Cross am Kabelzug",
+    "instructions": [
+      "Stelle beide Rollen hoch ein, wähle das Gewicht und greife in jeder Hand einen Griff.",
+      "Stelle dich mittig zwischen die Türme und strecke die Arme seitlich aus, sodass dein Körper ein T bildet. Halte Kopf und Brust aufrecht. Das ist die Ausgangsposition.",
+      "Halte die Ellenbogen gestreckt und ziehe die Arme gerade nach unten an die Körperseiten.",
+      "Halte die Endposition kurz und führe die Arme kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Judo_Flip": {
+    "name": "Judo-Crunch am Kabelzug",
+    "instructions": [
+      "Befestige einen Seilgriff am unteren Kabelzug. Stelle dich mit breitem Stand seitlich zur Maschine und greife das Seil mit beiden Händen.",
+      "Drehe den Oberkörper vom Kabelzug weg und führe das Seil über die Schulter, ähnlich wie bei einem Judowurf.",
+      "Verlagere das Gewicht zwischen den Füßen, drehe den Oberkörper und beuge ihn nach vorn, während du das Kabel nach unten ziehst.",
+      "Kehre in die Ausgangsposition zurück und wiederhole die Bewegung bis zum Muskelversagen.",
+      "Wechsle anschließend die Seite."
+    ]
+  },
+  "Cable_Lying_Triceps_Extension": {
+    "name": "Liegendes Trizepsstrecken am Kabelzug",
+    "instructions": [
+      "Lege dich auf eine Flachbank und greife die gerade Stange eines unteren Kabelzugs eng im Obergriff. Lass dir die Stange bei Bedarf von einem Trainingspartner anreichen.",
+      "Halte die Arme gestreckt über dem Oberkörper, sodass sie ungefähr im 90-Grad-Winkel zum Rumpf stehen. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen, bis die Stange leicht die Stirn berührt. Atme dabei ein.",
+      "Strecke die Ellenbogen beim Ausatmen und spanne den Trizeps an.",
+      "Halte oben kurz und wiederhole die Bewegung."
+    ]
+  },
+  "Cable_One_Arm_Tricep_Extension": {
+    "name": "Einarmiges Trizepsdrücken am Kabelzug",
+    "instructions": [
+      "Greife mit der rechten Hand einen Einzelgriff am hohen Kabelzug im Untergriff und stelle dich direkt vor den Gewichtsstapel.",
+      "Ziehe den Griff nach unten, bis Oberarm und Ellenbogen eng am Körper liegen. Der Ellenbogen ist stärker als 90 Grad gebeugt. Stelle die Füße für mehr Stabilität versetzt auf. Das ist die Ausgangsposition.",
+      "Halte den Oberarm ruhig und strecke den Ellenbogen beim Ausatmen, bis der Arm seitlich vollständig gestreckt ist.",
+      "Spanne den Trizeps in der Endposition kurz an.",
+      "Führe den Griff langsam zurück.",
+      "Führe die vorgesehene Anzahl an Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Cable_Preacher_Curl": {
+    "name": "Scott-Curl am Kabelzug",
+    "instructions": [
+      "Stelle eine Scottbank etwa 60 cm vor einen Kabelzug.",
+      "Befestige eine gerade Stange am unteren Kabelzug.",
+      "Setze dich an die Bank und lege Ellenbogen und Oberarme fest auf das Polster. Lass dir die Stange bei Bedarf anreichen.",
+      "Greife die Stange und strecke die Arme über dem Polster vollständig aus. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen und ziehe das Gewicht beim Ausatmen in Richtung Schultern. Spanne den Bizeps oben kräftig an und halte kurz.",
+      "Senke das Gewicht langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Rear_Delt_Fly": {
+    "name": "Reverse Fly am Kabelzug",
+    "instructions": [
+      "Stelle die Rollen oberhalb des Kopfes auf die passende Höhe und wähle ein geeignetes Gewicht.",
+      "Greife den linken Griff mit der rechten Hand und den rechten Griff mit der linken Hand, sodass sich die Kabel vor dir kreuzen. Das ist die Ausgangsposition.",
+      "Führe die gestreckten Arme nach hinten und außen.",
+      "Halte die Endposition kurz und führe die Griffe kontrolliert zurück."
+    ]
+  },
+  "Cable_Reverse_Crunch": {
+    "name": "Reverse Crunch am Kabelzug",
+    "instructions": [
+      "Befestige Fußschlaufen am unteren Kabelzug und lege eine Matte davor.",
+      "Setze dich mit den Füßen zum Kabelzug und befestige die Schlaufen an den Knöcheln.",
+      "Lege dich hin, hebe die Beine an und beuge die Knie auf 90 Grad. Beine und Kabel sollten in einer Linie liegen.",
+      "Lege die Hände hinter den Kopf, ziehe die Knie zum Oberkörper und hebe die Hüfte vom Boden ab.",
+      "Halte kurz und senke Hüfte und Beine langsam zurück in den 90-Grad-Winkel. Halte die Bauchmuskulatur auch unten unter Spannung.",
+      "Wiederhole die Bewegung bis zum Muskelversagen."
+    ]
+  },
+  "Cable_Rope_Overhead_Triceps_Extension": {
+    "name": "Überkopf-Trizepsstrecken am Kabelzug mit Seil",
+    "instructions": [
+      "Befestige einen Seilgriff am unteren Kabelzug.",
+      "Greife das Seil neutral mit beiden Händen und strecke die Arme über den Kopf. Halte die Ellenbogen eng am Kopf und die Oberarme senkrecht zum Boden. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke das Seil beim Einatmen langsam hinter den Kopf, bis der Trizeps vollständig gedehnt ist.",
+      "Strecke die Ellenbogen beim Ausatmen zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Rope_Rear-Delt_Rows": {
+    "name": "Rudern am Kabelzug mit Seil für die hintere Schulter",
+    "instructions": [
+      "Setze dich wie beim sitzenden Kabelrudern an einen unteren Kabelzug.",
+      "Befestige einen Seilgriff und greife ihn im Obergriff. Strecke die Arme parallel zum Boden aus und führe die Ellenbogen seitlich nach außen.",
+      "Halte den unteren Rücken aufrecht und ziehe den Seilgriff in Richtung obere Brust.",
+      "Führe die Ellenbogen nach außen und hinten und spanne die hintere Schulter sowie den oberen Rücken an.",
+      "Halte die Endposition kurz und kehre kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Russian_Twists": {
+    "name": "Russian Twist am Kabelzug",
+    "instructions": [
+      "Befestige einen Griff am Kabelzug und stelle die Rolle ungefähr auf Brusthöhe.",
+      "Stelle dich seitlich zur Maschine und greife den Griff mit beiden Händen.",
+      "Strecke die Arme vor dem Körper aus und stelle die Füße etwas weiter als schulterbreit. Das ist die Ausgangsposition.",
+      "Drehe den Oberkörper vom Kabelzug weg, ohne die Arme zu beugen.",
+      "Verlagere das Gewicht kontrolliert und halte Hüfte und Beine möglichst stabil.",
+      "Kehre langsam in die Ausgangsposition zurück.",
+      "Führe die vorgesehene Anzahl an Wiederholungen aus und wechsle anschließend die Seite."
+    ]
+  },
+  "Cable_Seated_Crunch": {
+    "name": "Sitzender Kabel-Crunch",
+    "instructions": [
+      "Setze dich mit dem Rücken zu einem hohen Kabelzug und greife den Seilgriff neben deinem Kopf.",
+      "Stelle die Füße fest auf und halte die Hüfte stabil. Das ist die Ausgangsposition.",
+      "Beuge den Oberkörper beim Ausatmen nach vorn und spanne die Bauchmuskulatur an.",
+      "Halte die untere Position kurz.",
+      "Kehre beim Einatmen langsam in die Ausgangsposition zurück."
+    ]
+  },
+  "Cable_Seated_Lateral_Raise": {
+    "name": "Sitzendes Seitheben am Kabelzug",
+    "instructions": [
+      "Stelle eine Flachbank zwischen zwei untere Kabelzüge und wähle ein geeignetes Gewicht.",
+      "Greife den linken Griff mit der rechten Hand und den rechten Griff mit der linken Hand.",
+      "Setze dich aufrecht hin und halte die Griffe seitlich unterhalb der Bank. Das ist die Ausgangsposition.",
+      "Hebe die Arme mit leicht gebeugten Ellenbogen seitlich an, bis sie ungefähr parallel zum Boden sind.",
+      "Spanne die Schultermuskulatur oben kurz an.",
+      "Senke die Arme beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung und halte Oberarme und Ellenbogenwinkel während des gesamten Satzes stabil."
+    ]
+  }
+}

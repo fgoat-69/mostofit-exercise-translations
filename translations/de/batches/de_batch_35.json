@@ -1,0 +1,196 @@
+{
+  "Seated_Dumbbell_Inner_Biceps_Curl": {
+    "name": "Sitzender innerer Bizepscurl mit Kurzhanteln",
+    "instructions": [
+      "Setze dich auf das Ende einer Flachbank und halte in jeder Hand eine Kurzhantel mit gestreckten Armen. Die Ellenbogen bleiben nah am Oberkörper.",
+      "Drehe die Handflächen nach innen in einen neutralen Griff. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und führe die Kurzhanteln nach außen und oben. Drehe dabei die Handflächen nach außen und halte die Unterarme in einer Linie mit den äußeren Schultern.",
+      "Nur die Unterarme bewegen sich. Beuge die Ellenbogen bis zur vollständigen Bizepsanspannung und halte die Hanteln auf Schulterhöhe kurz.",
+      "Senke die Kurzhanteln beim Einatmen langsam zurück und drehe die Hände wieder in den neutralen Griff.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Dumbbell_Palms-Down_Wrist_Curl": {
+    "name": "Sitzender Kurzhantel-Handgelenkcurl im Obergriff",
+    "instructions": [
+      "Stelle zwei Kurzhanteln vor eine Flachbank auf den Boden.",
+      "Setze dich auf die Bank, stelle die Füße fest auf und halte die Beine etwa schulterbreit.",
+      "Greife die Kurzhanteln im Obergriff und lege die Unterarme auf den Oberschenkeln ab. Die Handgelenke ragen über die Knie hinaus.",
+      "Strecke die Handgelenke beim Ausatmen nach oben.",
+      "Senke die Handgelenke beim Einatmen langsam zurück. Die Unterarme bleiben ruhig.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Kurzhanteln nach dem Satz kontrolliert auf dem Boden ab."
+    ]
+  },
+  "Seated_Dumbbell_Palms-Up_Wrist_Curl": {
+    "name": "Sitzender Kurzhantel-Handgelenkcurl im Untergriff",
+    "instructions": [
+      "Stelle zwei Kurzhanteln vor eine Flachbank auf den Boden.",
+      "Setze dich auf die Bank, stelle die Füße fest auf und halte die Beine etwa schulterbreit.",
+      "Greife die Kurzhanteln im Untergriff und lege die Unterarme auf den Oberschenkeln ab. Die Handgelenke ragen über die Knie hinaus.",
+      "Beuge die Handgelenke beim Ausatmen nach oben.",
+      "Senke die Handgelenke beim Einatmen langsam zurück. Die Unterarme bleiben ruhig.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Kurzhanteln nach dem Satz kontrolliert auf dem Boden ab."
+    ]
+  },
+  "Seated_Dumbbell_Press": {
+    "name": "Sitzendes Schulterdrücken mit Kurzhanteln",
+    "instructions": [
+      "Setze dich mit je einer Kurzhantel auf den Oberschenkeln auf eine Bank mit Rückenlehne.",
+      "Bringe die Kurzhanteln mithilfe der Oberschenkel nacheinander auf Schulterhöhe.",
+      "Drehe die Handflächen nach vorn. Das ist die Ausgangsposition.",
+      "Drücke die Kurzhanteln beim Ausatmen über den Kopf, bis sie sich oben beinahe berühren.",
+      "Halte kurz und senke die Gewichte beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Flat_Bench_Leg_Pull-In": {
+    "name": "Sitzendes Knieanziehen auf der Flachbank",
+    "instructions": [
+      "Setze dich auf eine Bank, strecke die Beine leicht unterhalb der Parallelen nach vorn und halte dich seitlich fest. Lehne den Oberkörper etwa 45 Grad zurück. Das ist die Ausgangsposition.",
+      "Ziehe die Knie beim Ausatmen zum Oberkörper und bewege den Oberkörper gleichzeitig zu den Knien.",
+      "Halte kurz und kehre beim Einatmen in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Floor_Hamstring_Stretch": {
+    "name": "Sitzende Dehnung der hinteren Oberschenkel",
+    "instructions": [
+      "Setze dich auf eine Matte, strecke das rechte Bein nach vorn und lege den linken Fuß an die Innenseite des rechten Oberschenkels.",
+      "Beuge dich aus der Hüfte nach vorn und greife in Richtung Knöchel, bis du eine Dehnung spürst. Halte 15 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Seated_Front_Deltoid": {
+    "name": "Sitzende Dehnung der vorderen Schulter mit Partner",
+    "instructions": [
+      "Setze dich mit gebeugten Beinen aufrecht hin. Strecke die Arme mit nach unten gerichteten Handflächen seitlich aus und führe sie so weit wie möglich nach hinten, während dein Partner die Handgelenke hält. Das ist die Ausgangsposition.",
+      "Versuche 10 bis 20 Sekunden lang, die gestreckten Arme nach vorn zu führen, während dein Partner jede Bewegung verhindert.",
+      "Entspanne anschließend und lass deinen Partner die Dehnung von Schultern und Brust vorsichtig verstärken. Halte weitere 10 bis 20 Sekunden."
+    ]
+  },
+  "Seated_Glute": {
+    "name": "Sitzende Gesäßdehnung mit Partner",
+    "instructions": [
+      "Setze dich mit gebeugten Knien hin und lege einen Knöchel auf das gegenüberliegende Knie. Lehne dich nach vorn, während dein Partner die Schultern stabilisiert. Das ist die Ausgangsposition.",
+      "Versuche 10 bis 20 Sekunden lang, den Oberkörper zurückzudrücken, während dein Partner jede Bewegung verhindert.",
+      "Entspanne anschließend und lass deinen Partner den Oberkörper 10 bis 20 Sekunden vorsichtig weiter nach vorn drücken."
+    ]
+  },
+  "Seated_Good_Mornings": {
+    "name": "Sitzende Good Mornings",
+    "instructions": [
+      "Stelle eine Box in ein Power Rack und die Sicherheitsablagen auf passende Höhe. Lege die Langhantel auf den oberen Rücken, ziehe die Schulterblätter zusammen und halte die Ellenbogen nach vorn.",
+      "Hebe die Stange aus der Ablage, halte Rücken und Rumpf fest und setze dich kontrolliert auf die Box. Das ist die Ausgangsposition.",
+      "Halte die Stange stabil und neige den Oberkörper aus der Hüfte so weit wie kontrolliert möglich nach vorn. Die Sicherheitsablagen markieren den tiefsten Punkt.",
+      "Halte knapp über den Ablagen kurz und richte den Oberkörper anschließend wieder vollständig auf."
+    ]
+  },
+  "Seated_Hamstring": {
+    "name": "Sitzende Hamstring-Dehnung mit Partner",
+    "instructions": [
+      "Setze dich mit gestreckten Beinen hin und lehne dich nach vorn, während dein Trainingspartner die Schultern stabilisiert. Das ist die Ausgangsposition.",
+      "Versuche 10 bis 20 Sekunden lang, den Oberkörper zurückzudrücken, während dein Partner jede Bewegung verhindert.",
+      "Entspanne anschließend und lass deinen Partner den Oberkörper 10 bis 20 Sekunden vorsichtig weiter nach vorn drücken."
+    ]
+  },
+  "Seated_Hamstring_and_Calf_Stretch": {
+    "name": "Sitzende Hamstring- und Wadendehnung",
+    "instructions": [
+      "Lege einen Gurt, ein Seil oder ein Band um einen Fuß und setze dich mit gestreckten Beinen hin. Das ist die Ausgangsposition.",
+      "Lehne dich leicht nach vorn und ziehe die Fußspitze mithilfe des Bands zu dir. Halte die Position 10 bis 20 Sekunden und wechsle anschließend das Bein."
+    ]
+  },
+  "Seated_Head_Harness_Neck_Resistance": {
+    "name": "Sitzendes Nackentraining mit Kopfgeschirr",
+    "instructions": [
+      "Lege das Kopfgeschirr vor eine Flachbank, wähle das Gewicht und setze dich mit weiter als schulterbreitem Stand auf das Bankende. Drehe die Zehen leicht nach außen.",
+      "Neige den Oberkörper fast parallel zum Boden, setze das Kopfgeschirr sicher auf und lasse das Gewicht zunächst am Boden. Richte den Oberkörper anschließend fast auf und halte Kopf und Rumpf leicht nach vorn geneigt.",
+      "Lege beide Hände auf die Knie. Das ist die Ausgangsposition.",
+      "Senke den Kopf beim Einatmen langsam ab, bis das Kinn die obere Brust berührt.",
+      "Hebe den Kopf beim Ausatmen kontrolliert in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Leg_Curl": {
+    "name": "Sitzender Beinbeuger an der Maschine",
+    "instructions": [
+      "Stelle die Maschine passend zu deiner Körpergröße ein und setze dich mit dem Rücken an das Polster.",
+      "Lege die Rückseite der Unterschenkel auf das Rollenpolster, fixiere das Oberschenkelpolster knapp oberhalb der Knie und greife die seitlichen Griffe. Strecke die Beine vollständig. Das ist die Ausgangsposition.",
+      "Beuge die Knie beim Ausatmen so weit wie möglich und ziehe das Polster unter die Oberschenkel. Halte den Oberkörper ruhig und die Endposition kurz.",
+      "Kehre beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Leg_Tucks": {
+    "name": "Sitzendes Knieanziehen",
+    "instructions": [
+      "Setze dich auf eine Bank, strecke die Beine leicht unterhalb der Parallelen nach vorn und halte dich seitlich fest. Lehne den Oberkörper etwa 45 Grad zurück. Das ist die Ausgangsposition.",
+      "Ziehe die Knie beim Ausatmen zum Oberkörper und bewege den Oberkörper gleichzeitig zu den Knien.",
+      "Halte kurz und kehre beim Einatmen in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl": {
+    "name": "Sitzender einarmiger Handgelenkcurl im Obergriff",
+    "instructions": [
+      "Setze dich mit einer Kurzhantel in der rechten Hand auf eine Flachbank.",
+      "Stelle die Füße etwas weiter als schulterbreit flach auf den Boden.",
+      "Lehne dich vor und lege den rechten Unterarm mit nach unten gerichteter Handfläche auf dem rechten Oberschenkel ab. Das Handgelenk ragt über das Knie hinaus. Das ist die Ausgangsposition.",
+      "Senke die Kurzhantel beim Einatmen so weit wie kontrolliert möglich ab und halte sie sicher fest.",
+      "Strecke das Handgelenk beim Ausatmen so hoch wie möglich und halte die Anspannung kurz. Nur das Handgelenk bewegt sich.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl": {
+    "name": "Sitzender einarmiger Handgelenkcurl im Untergriff",
+    "instructions": [
+      "Setze dich mit einer Kurzhantel in der rechten Hand auf eine Flachbank.",
+      "Stelle die Füße etwas weiter als schulterbreit flach auf den Boden.",
+      "Lehne dich vor und lege den rechten Unterarm mit nach oben gerichteter Handfläche auf dem rechten Oberschenkel ab. Das Handgelenk ragt über das Knie hinaus. Das ist die Ausgangsposition.",
+      "Senke die Kurzhantel beim Einatmen so weit wie kontrolliert möglich ab und halte sie sicher fest.",
+      "Beuge das Handgelenk beim Ausatmen so hoch wie möglich und halte die Anspannung kurz. Nur das Handgelenk bewegt sich.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Seated_One-arm_Cable_Pulley_Rows": {
+    "name": "Einarmiges sitzendes Kabelrudern",
+    "instructions": [
+      "Setze dich an den unteren Kabelzug, stelle die Füße auf die Plattform und halte die Knie leicht gebeugt.",
+      "Neige dich mit natürlicher Rückenhaltung nach vorn und greife den Einzelgriff mit der linken Hand im Obergriff.",
+      "Ziehe den Oberkörper mit gestrecktem Arm zurück, bis er ungefähr rechtwinklig zu den Beinen steht. Halte Brust und Rücken aufrecht. Der rechte Arm kann an der Hüfte bleiben. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und ziehe den Griff zum Bauch. Drehe das Handgelenk dabei in einen neutralen Griff und spanne den Rücken an.",
+      "Halte kurz und kehre beim Einatmen langsam zurück. Drehe die Hand beim Zurückführen wieder in den Obergriff.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Seated_Overhead_Stretch": {
+    "name": "Sitzende Überkopf-Seitdehnung",
+    "instructions": [
+      "Setze dich aufrecht auf eine Trainingsmatte.",
+      "Führe die Fußsohlen etwa 15 bis 20 cm vor der Hüfte zusammen.",
+      "Stütze eine Hand seitlich am Boden ab und lege die andere Hand hinter den Kopf.",
+      "Führe den Ellenbogen zur Decke und neige den Oberkörper zur Gegenseite. Halte 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Seated_Palm-Up_Barbell_Wrist_Curl": {
+    "name": "Sitzender Langhantel-Handgelenkcurl im Untergriff",
+    "instructions": [
+      "Halte eine Langhantel etwa schulterbreit im Untergriff.",
+      "Stelle die Füße etwas weiter als schulterbreit flach auf den Boden.",
+      "Lehne dich vor und lege die Unterarme mit nach oben gerichteten Handflächen auf den Oberschenkeln ab. Die Handgelenke ragen über die Knie hinaus. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen so weit wie kontrolliert möglich ab und halte sie sicher fest.",
+      "Beuge die Handgelenke beim Ausatmen so hoch wie möglich und halte die Anspannung kurz. Nur die Handgelenke bewegen sich."
+    ]
+  },
+  "Seated_Palms-Down_Barbell_Wrist_Curl": {
+    "name": "Sitzender Langhantel-Handgelenkcurl im Obergriff",
+    "instructions": [
+      "Halte eine Langhantel etwa schulterbreit im Obergriff.",
+      "Stelle die Füße etwas weiter als schulterbreit flach auf den Boden.",
+      "Lehne dich vor und lege die Unterarme mit nach unten gerichteten Handflächen auf den Oberschenkeln ab. Die Handgelenke ragen über die Knie hinaus. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen so weit wie kontrolliert möglich ab und halte sie sicher fest.",
+      "Strecke die Handgelenke beim Ausatmen so hoch wie möglich und halte die Anspannung kurz. Nur die Handgelenke bewegen sich."
+    ]
+  }
+}

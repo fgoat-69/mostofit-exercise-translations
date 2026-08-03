@@ -1,0 +1,189 @@
+{
+  "Dumbbell_Bench_Press": {
+    "name": "Kurzhantel-Bankdrücken",
+    "instructions": [
+      "Lege dich auf eine Flachbank und halte in jeder Hand eine Kurzhantel auf den Oberschenkeln. Die Handflächen zeigen zueinander.",
+      "Nutze die Oberschenkel, um die Kurzhanteln nacheinander auf Schulterhöhe zu bringen.",
+      "Drehe die Handflächen nach vorn. Halte die Hanteln seitlich an der Brust, sodass Ober- und Unterarm ungefähr einen 90-Grad-Winkel bilden. Das ist die Ausgangsposition.",
+      "Drücke die Kurzhanteln beim Ausatmen mit der Brustmuskulatur nach oben. Strecke die Arme, spanne die Brust kurz an und senke die Gewichte anschließend langsam ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Bench_Press_with_Neutral_Grip": {
+    "name": "Kurzhantel-Bankdrücken mit neutralem Griff",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf eine Flachbank. Stelle die Füße fest auf und ziehe die Schulterblätter zusammen.",
+      "Halte die Kurzhanteln mit zueinander gerichteten Handflächen und gestreckten Armen über der Brust. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen und senke die Oberarme seitlich ab, bis sich die Hanteln auf Höhe des Oberkörpers befinden.",
+      "Halte kurz und drücke die Gewichte durch Strecken der Ellenbogen zurück nach oben."
+    ]
+  },
+  "Dumbbell_Bicep_Curl": {
+    "name": "Kurzhantel-Bizepscurl",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel. Die Ellenbogen bleiben nah am Oberkörper und die Handflächen zeigen nach vorn. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen. Führe die Hanteln bis auf Schulterhöhe und spanne den Bizeps oben kurz an.",
+      "Senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Clean": {
+    "name": "Umsetzen mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich schulterbreit hin und halte in jeder Hand eine Kurzhantel.",
+      "Beuge Hüfte und Knie und schiebe das Gesäß nach hinten, bis die Hanteln den Boden erreichen. Das ist die Ausgangsposition.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und beschleunige die Hanteln nach oben. Halte die Arme bis zur vollständigen Körperstreckung gerade.",
+      "Beuge anschließend Hüfte und Knie erneut, ziehe dich unter die Gewichte und führe die Kurzhanteln zu den Schultern.",
+      "Richte dich aus der Kniebeuge vollständig auf und beende die Bewegung mit den Hanteln an den Schultern."
+    ]
+  },
+  "Dumbbell_Floor_Press": {
+    "name": "Kurzhantel-Bodendrücken",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf den Boden. Die Knie können gebeugt sein. Halte die Gewichte mit gestreckten Armen über der Brust.",
+      "Senke die Hanteln ab, bis die Oberarme den Boden berühren. Halte die Ellenbogen enger für mehr Trizepsbelastung oder weiter außen für mehr Brustbelastung.",
+      "Halte unten kurz und drücke die Gewichte durch Strecken der Ellenbogen wieder zusammen nach oben."
+    ]
+  },
+  "Dumbbell_Flyes": {
+    "name": "Fliegende mit Kurzhanteln",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf den Oberschenkeln auf eine Flachbank.",
+      "Bringe die Kurzhanteln mit zueinander gerichteten Handflächen und fast gestreckten Armen schulterbreit über die Brust. Das ist die Ausgangsposition.",
+      "Halte die Ellenbogen leicht gebeugt und senke die Arme beim Einatmen in einem weiten Bogen seitlich ab, bis du eine Dehnung in der Brust spürst.",
+      "Führe die Arme beim Ausatmen auf demselben Weg zurück und spanne die Brustmuskulatur an.",
+      "Halte die Endposition kurz und wiederhole die Bewegung."
+    ]
+  },
+  "Dumbbell_Incline_Row": {
+    "name": "Kurzhantelrudern auf der Schrägbank",
+    "instructions": [
+      "Lehne dich mit neutralem Griff gegen eine Schrägbank.",
+      "Halte in jeder Hand eine Kurzhantel und lasse die Arme gestreckt nach unten hängen. Das ist die Ausgangsposition.",
+      "Ziehe die Schulterblätter zusammen, beuge die Ellenbogen und rudere die Hanteln seitlich zum Körper.",
+      "Halte oben kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Dumbbell_Incline_Shoulder_Raise": {
+    "name": "Schulterblattheben mit Kurzhanteln auf der Schrägbank",
+    "instructions": [
+      "Setze dich auf eine Schrägbank und halte in jeder Hand eine Kurzhantel auf den Oberschenkeln.",
+      "Bringe die Gewichte mithilfe der Beine über die Schultern und lehne dich zurück. Halte die Arme senkrecht und gestreckt, die Handflächen zeigen nach vorn. Das ist die Ausgangsposition.",
+      "Halte die Arme gestreckt und hebe die Schultern beim Ausatmen von der Bank ab.",
+      "Senke die Schultern beim Einatmen zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Lunges": {
+    "name": "Ausfallschritte mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel seitlich am Körper.",
+      "Mache mit dem rechten Bein einen großen Schritt nach vorn und senke die Hüfte ab. Halte den Oberkörper aufrecht und das vordere Schienbein möglichst senkrecht. Atme beim Absenken ein.",
+      "Drücke dich beim Ausatmen hauptsächlich über die Ferse des vorderen Fußes zurück.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend zum linken Bein."
+    ]
+  },
+  "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise": {
+    "name": "Einarmiges Reverse Fly in Bauchlage",
+    "instructions": [
+      "Lege dich bäuchlings auf eine leicht geneigte Bank und halte in einer Hand eine Kurzhantel. Die freie Hand kann die Bank stabilisieren.",
+      "Halte den Arm nahezu gestreckt und die Handfläche zum Oberkörper. Das ist die Ausgangsposition.",
+      "Hebe den Arm beim Ausatmen seitlich an, bis der Ellenbogen ungefähr auf Schulterhöhe liegt. Halte den Arm quer zum Oberkörper und die Endposition kurz.",
+      "Senke die Kurzhantel beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Lying_Pronation": {
+    "name": "Liegende Unterarmpronation mit Kurzhantel",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Flachbank. Halte in einer Hand eine Kurzhantel und stütze den Kopf auf dem anderen Arm ab.",
+      "Beuge den Ellenbogen des belasteten Arms auf 90 Grad.",
+      "Hebe den Oberarm seitlich an, sodass er parallel zum Boden und rechtwinklig zum Oberkörper liegt. Der Unterarm zeigt zum Boden. Das ist die Ausgangsposition.",
+      "Drehe den Unterarm beim Ausatmen nach vorn und oben, bis er parallel zum Boden steht. Halte die Endposition kurz.",
+      "Kehre beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Lying_Rear_Lateral_Raise": {
+    "name": "Reverse Fly in Bauchlage mit Kurzhanteln",
+    "instructions": [
+      "Lege dich bäuchlings auf eine leicht geneigte Bank und halte in jeder Hand eine Kurzhantel.",
+      "Halte die Arme nahezu gestreckt und die Handflächen zum Oberkörper. Das ist die Ausgangsposition.",
+      "Hebe beide Arme beim Ausatmen seitlich an, bis die Ellenbogen ungefähr auf Schulterhöhe liegen. Halte die Arme quer zum Oberkörper und die Endposition kurz.",
+      "Senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Lying_Supination": {
+    "name": "Liegende Unterarmsupination mit Kurzhantel",
+    "instructions": [
+      "Lege dich seitlich auf eine Flachbank. Halte in einer Hand eine Kurzhantel und stütze den Kopf auf dem anderen Arm ab.",
+      "Beuge den Ellenbogen des belasteten Arms auf 90 Grad.",
+      "Halte den Oberarm am Körper und den Unterarm parallel zum Boden vor dir. Das ist die Ausgangsposition.",
+      "Drehe den Unterarm beim Ausatmen in einem Halbkreis nach oben, bis er senkrecht zum Boden zeigt. Halte die Endposition kurz.",
+      "Kehre beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung und wechsle anschließend den Arm."
+    ]
+  },
+  "Dumbbell_One-Arm_Shoulder_Press": {
+    "name": "Einarmiges Schulterdrücken mit Kurzhantel",
+    "instructions": [
+      "Setze dich auf eine Bank mit Rückenlehne oder stelle dich aufrecht hin und halte eine Kurzhantel.",
+      "Setze die Kurzhantel zur Schulter um. Die freie Hand kann seitlich gehalten oder zur Stabilisierung verwendet werden.",
+      "Drehe die Handfläche nach vorn. Das ist die Ausgangsposition.",
+      "Drücke die Kurzhantel beim Ausatmen über den Kopf, bis der Arm vollständig gestreckt ist.",
+      "Halte oben kurz und senke die Hantel beim Einatmen langsam zurück.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Dumbbell_One-Arm_Triceps_Extension": {
+    "name": "Einarmiges Trizepsstrecken mit Kurzhantel",
+    "instructions": [
+      "Setze dich auf eine Bank mit Rückenlehne oder stelle dich aufrecht hin und halte eine Kurzhantel.",
+      "Bringe die Hantel zur Schulter und strecke den Arm senkrecht über den Kopf. Die freie Hand kann den Oberarm stabilisieren.",
+      "Drehe die Handfläche nach vorn, sodass der kleine Finger zur Decke zeigt. Das ist die Ausgangsposition.",
+      "Halte den Oberarm ruhig und senke die Kurzhantel beim Einatmen langsam hinter den Kopf, bis der Trizeps gedehnt ist.",
+      "Strecke den Ellenbogen beim Ausatmen zurück nach oben. Nur der Unterarm bewegt sich.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Dumbbell_One-Arm_Upright_Row": {
+    "name": "Einarmiges aufrechtes Rudern mit Kurzhantel",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Kurzhantel mit leicht gebeugtem Arm vor dem Oberschenkel. Das ist die Ausgangsposition.",
+      "Halte die freie Hand seitlich, an der Hüfte oder an einer festen Fläche.",
+      "Ziehe die Kurzhantel beim Ausatmen eng am Körper bis ungefähr auf Kinnhöhe. Führe die Bewegung mit dem Ellenbogen an und halte ihn höher als den Unterarm.",
+      "Senke die Hantel beim Einatmen langsam zurück.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Dumbbell_Prone_Incline_Curl": {
+    "name": "Kurzhantelcurl in Bauchlage auf der Schrägbank",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Schrägbank und halte in jeder Hand eine Kurzhantel.",
+      "Lasse die Arme senkrecht nach unten hängen.",
+      "Halte die Ellenbogen eng am Körper und drehe die Handflächen nach vorn. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Ausatmen, bis die Arme vollständig gebeugt sind. Nur die Unterarme bewegen sich.",
+      "Senke die Hanteln bis zur vollständigen Armstreckung zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Raise": {
+    "name": "Aufrechtes Rudern mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel seitlich vor den Oberschenkeln. Die Handflächen zeigen nach hinten. Das ist die Ausgangsposition.",
+      "Ziehe die Hanteln beim Ausatmen seitlich am Körper nach oben, bis sie ungefähr auf Kinnhöhe liegen. Führe die Bewegung mit den Ellenbogen an und halte sie höher als die Unterarme.",
+      "Senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dumbbell_Rear_Lunge": {
+    "name": "Rückwärtsausfallschritt mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel seitlich am Körper.",
+      "Mache mit dem rechten Bein einen großen Schritt nach hinten und senke die Hüfte ab. Halte den Oberkörper aufrecht und das vordere Schienbein möglichst senkrecht. Atme beim Absenken ein.",
+      "Drücke dich beim Ausatmen zurück in die Ausgangsposition. Nutze die Ferse stärker für den Gesäßmuskel oder den Fußballen stärker für den Quadrizeps.",
+      "Wiederhole die Bewegung mit dem anderen Bein."
+    ]
+  }
+}

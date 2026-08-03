@@ -1,0 +1,178 @@
+{
+  "Upright_Barbell_Row": {
+    "name": "Aufrechtes Rudern mit Langhantel",
+    "instructions": [
+      "Greife eine Langhantel etwas enger als schulterbreit im Obergriff. Halte sie mit gestreckten Armen vor den Oberschenkeln und beuge die Ellenbogen leicht. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen eng am Körper bis knapp unter das Kinn. Führe die Bewegung mit den Ellenbogen an und halte sie höher als die Unterarme.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Upright_Cable_Row": {
+    "name": "Aufrechtes Rudern am Kabelzug",
+    "instructions": [
+      "Greife die Stange eines unteren Kabelzugs etwas enger als schulterbreit im Obergriff und halte sie mit gestreckten Armen vor den Oberschenkeln. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen eng am Körper bis knapp unter das Kinn. Führe die Bewegung mit den Ellenbogen an und halte sie höher als die Unterarme.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Upright_Row_-_With_Bands": {
+    "name": "Aufrechtes Rudern mit Widerstandsband",
+    "instructions": [
+      "Stelle dich auf ein Widerstandsband und greife die Griffe etwas enger als schulterbreit im Obergriff. Halte sie mit gestreckten Armen vor den Oberschenkeln. Das ist die Ausgangsposition.",
+      "Ziehe die Griffe beim Ausatmen eng am Körper bis knapp unter das Kinn. Führe die Bewegung mit den Ellenbogen an und halte sie höher als die Unterarme.",
+      "Senke die Griffe beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Upward_Stretch": {
+    "name": "Überkopf-Dehnung",
+    "instructions": [
+      "Strecke beide Arme über den Kopf und lege die Handflächen aneinander.",
+      "Schiebe die Hände langsam nach oben und leicht nach hinten, während der Rücken aufrecht bleibt."
+    ]
+  },
+  "V-Bar_Pulldown": {
+    "name": "Latzug mit V-Griff",
+    "instructions": [
+      "Setze dich an einen Latzug mit V-Griff.",
+      "Stelle das Kniepolster passend ein, damit der Körper während der Bewegung fixiert bleibt.",
+      "Greife den V-Griff neutral, hebe die Brust an und lehne den Oberkörper etwa 30 Grad zurück. Das ist die Ausgangsposition.",
+      "Ziehe den Griff beim Ausatmen mit dem Latissimus zur Brust und führe die Schulterblätter zusammen.",
+      "Halte unten kurz und führe den Griff beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "V-Bar_Pullup": {
+    "name": "Klimmzug mit V-Griff",
+    "instructions": [
+      "Lege einen V-Griff sicher über eine Klimmzugstange, sodass die Griffe nach unten zeigen.",
+      "Greife beide Seiten, hänge dich daran, hebe die Brust an und lehne den Oberkörper leicht zurück. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen mit dem Latissimus nach oben, bis die Brust fast den V-Griff berührt.",
+      "Halte oben kurz und senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Vertical_Swing": {
+    "name": "Vertikaler Kurzhantel-Swing",
+    "instructions": [
+      "Halte eine Kurzhantel mit beiden Händen und lasse sie mit gestreckten Armen zwischen den Beinen hängen. Halte Rücken und Kopf aufrecht.",
+      "Schwinge die Kurzhantel durch Beugen von Hüfte und Knien zwischen den Beinen nach hinten.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und schwinge die Kurzhantel über den Kopf.",
+      "Fange die Landung über die Beine ab und führe die Hantel vor der nächsten Wiederholung zum Oberkörper."
+    ]
+  },
+  "Walking_Treadmill": {
+    "name": "Gehen auf dem Laufband",
+    "instructions": [
+      "Steige auf das Laufband und wähle den manuellen Modus oder ein Programm. Gib bei Bedarf Alter und Gewicht ein und passe die Steigung an die gewünschte Intensität an.",
+      "Gehe in moderatem bis schnellem Tempo und halte eine aufrechte Haltung. Eine etwa 68 kg schwere Person verbrennt bei 6,4 km/h in 30 Minuten ungefähr 175 kcal."
+    ]
+  },
+  "Weighted_Ball_Hyperextension": {
+    "name": "Hyperextension auf dem Gymnastikball mit Gewicht",
+    "instructions": [
+      "Lege dich bäuchlings auf einen Gymnastikball, sodass der Oberkörper parallel zum Boden liegt. Stelle die Fußballen fest auf und halte eine Hantelscheibe unter dem Kinn oder hinter dem Nacken. Das ist die Ausgangsposition.",
+      "Hebe den Oberkörper beim Ausatmen kontrolliert an.",
+      "Halte die Spannung im unteren Rücken kurz und senke den Oberkörper beim Einatmen zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Weighted_Ball_Side_Bend": {
+    "name": "Seitbeuge auf dem Gymnastikball mit Gewicht",
+    "instructions": [
+      "Lege dich mit der linken Körperseite auf einen Gymnastikball.",
+      "Stelle die Füße überkreuzt auf den Boden und halte eine Hantelscheibe mit der rechten Hand seitlich am Kopf.",
+      "Lege den linken Arm quer über den Oberkörper. Das ist die Ausgangsposition.",
+      "Hebe den Oberkörper beim Ausatmen seitlich an.",
+      "Halte oben kurz und senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Wechsle anschließend die Seite."
+    ]
+  },
+  "Weighted_Bench_Dip": {
+    "name": "Bank-Dip mit Zusatzgewicht",
+    "instructions": [
+      "Stelle eine Bank hinter und eine weitere vor dir auf. Greife die hintere Bank schulterbreit und halte die Arme gestreckt.",
+      "Lege die gestreckten Beine auf die vordere Bank und lass dir von einem Trainingspartner eine Kurzhantel auf den Schoß legen. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Einatmen und senke den Körper kontrolliert ab, bis der Ellenbogenwinkel etwas kleiner als 90 Grad ist.",
+      "Drücke dich beim Ausatmen mit dem Trizeps zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Weighted_Crunches": {
+    "name": "Crunches mit Zusatzgewicht",
+    "instructions": [
+      "Lege dich mit gebeugten Knien auf den Rücken und stelle die Füße auf oder lege sie auf einer Bank ab.",
+      "Halte ein Gewicht an der Brust oder mit gestreckten Armen über dem Oberkörper. Das ist die Ausgangsposition.",
+      "Rolle die Schultern beim Ausatmen etwa 10 cm vom Boden ab. Der untere Rücken bleibt am Boden.",
+      "Spanne die Bauchmuskulatur oben kurz an.",
+      "Senke dich beim Einatmen langsam zurück."
+    ]
+  },
+  "Weighted_Jump_Squat": {
+    "name": "Sprungkniebeuge mit Zusatzgewicht",
+    "instructions": [
+      "Positioniere eine leicht beladene Langhantel auf dem oberen Rücken. Alternativ kannst du eine Gewichtsweste oder einen Sandsack verwenden.",
+      "Wähle ein Gewicht, das deine Sprunggeschwindigkeit kaum reduziert. Stelle die Füße etwas weiter als schulterbreit auf und halte Brust und Kopf aufrecht. Das ist die Ausgangsposition.",
+      "Gehe kurz in eine Teilkniebeuge und springe durch explosives Strecken von Hüfte, Knien und Sprunggelenken nach oben.",
+      "Fange die Landung kontrolliert über die Beine ab."
+    ]
+  },
+  "Weighted_Pull_Ups": {
+    "name": "Klimmzüge mit Zusatzgewicht",
+    "instructions": [
+      "Befestige ein Gewicht an einem Dip-Gürtel und greife die Klimmzugstange schulterbreit im Obergriff. Hänge mit gestreckten Armen.",
+      "Lehne den Oberkörper etwa 30 Grad zurück, hebe die Brust an und halte den unteren Rücken leicht gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen nach oben, bis der Kopf über den Händen liegt. Führe die Schulterblätter nach hinten und unten.",
+      "Halte oben kurz und senke dich beim Einatmen langsam bis zur vollständigen Armstreckung ab."
+    ]
+  },
+  "Weighted_Sissy_Squat": {
+    "name": "Sissy Squat mit Zusatzgewicht",
+    "instructions": [
+      "Stelle dich schulterbreit auf die Zehen, halte dich mit einer Hand am Rack fest und eine Hantelscheibe mit der anderen Hand vor der Brust. Das ist die Ausgangsposition.",
+      "Beuge die Knie und führe Becken und Knie nach vorn, während du den Oberkörper kontrolliert absenkst. Stoppe, wenn Ober- und Unterschenkel fast einen 90-Grad-Winkel bilden.",
+      "Halte unten kurz und richte dich beim Ausatmen mit dem Quadrizeps wieder auf.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Weighted_Sit-Ups_-_With_Bands": {
+    "name": "Sit-ups mit Widerstandsband",
+    "instructions": [
+      "Befestige ein Widerstandsband hinter dir und halte die Enden an Brust oder Schultern. Lege dich mit gebeugten Knien auf den Rücken.",
+      "Spanne den Bauch an und rolle den Oberkörper beim Ausatmen gegen den Bandwiderstand nach oben.",
+      "Halte oben kurz und senke dich beim Einatmen kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Weighted_Squat": {
+    "name": "Kniebeuge mit Zusatzgewicht",
+    "instructions": [
+      "Halte eine Hantelscheibe, Kurzhantel oder Kettlebell sicher vor der Brust.",
+      "Stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und senke dich kontrolliert ab, bis die Oberschenkel mindestens parallel zum Boden stehen.",
+      "Drücke dich über die Fersen zurück in den Stand.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wide-Grip_Barbell_Bench_Press": {
+    "name": "Langhantel-Bankdrücken mit weitem Griff",
+    "instructions": [
+      "Lege dich auf eine Flachbank und greife die Langhantel deutlich weiter als schulterbreit im Obergriff. Hebe sie mit gestreckten Armen aus der Ablage. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen langsam zur mittleren Brust.",
+      "Drücke die Stange beim Ausatmen mit der Brustmuskulatur zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wide-Grip_Decline_Barbell_Bench_Press": {
+    "name": "Negativ-Bankdrücken mit weitem Griff",
+    "instructions": [
+      "Lege dich auf eine Negativbank, fixiere die Beine und greife die Langhantel deutlich weiter als schulterbreit im Obergriff. Hebe sie mit gestreckten Armen aus der Ablage. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen langsam zur unteren Brust.",
+      "Drücke die Stange beim Ausatmen mit der Brustmuskulatur zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

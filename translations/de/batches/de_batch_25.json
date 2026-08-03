@@ -1,0 +1,185 @@
+{
+  "Lying_Leg_Curls": {
+    "name": "Beinbeuger in Bauchlage",
+    "instructions": [
+      "Stelle die Maschine passend zu deiner Körpergröße ein und lege dich bäuchlings darauf. Das Polster liegt einige Zentimeter unterhalb der Waden.",
+      "Halte den Oberkörper flach auf der Bank, strecke die Beine vollständig und greife die seitlichen Griffe. Das ist die Ausgangsposition.",
+      "Beuge die Knie beim Ausatmen so weit wie möglich, ohne die Oberschenkel vom Polster abzuheben. Halte die Endposition kurz.",
+      "Senke die Beine beim Einatmen kontrolliert zurück und wiederhole die Bewegung."
+    ]
+  },
+  "Lying_Machine_Squat": {
+    "name": "Liegende Kniebeuge an der Maschine",
+    "instructions": [
+      "Stelle die Maschine so ein, dass du mit gebeugten Knien und leicht unter parallelen Oberschenkeln hineinpasst.",
+      "Lege dich mit Rücken und Kopf an das Polster, positioniere die Schultern unter den Schulterpolstern und achte darauf, dass die Knie nicht deutlich über die Zehen hinausragen.",
+      "Greife die Griffe und stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf. Das ist die Ausgangsposition.",
+      "Drücke dich beim Ausatmen über die Fußballen nach oben, bis der Körper gestreckt ist. Spanne den Quadrizeps oben kurz an.",
+      "Senke dich beim Einatmen kontrolliert ab und stoppe, sobald die Oberschenkel ungefähr parallel zur Plattform stehen.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_One-Arm_Lateral_Raise": {
+    "name": "Einarmiges Seitheben in Bauchlage",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Flachbank und halte in einer Hand eine Kurzhantel. Die freie Hand kann die Bank stabilisieren.",
+      "Halte die Hand neutral und den Arm mit leicht gebeugtem Ellenbogen gestreckt. Das ist die Ausgangsposition.",
+      "Hebe den Arm beim Ausatmen seitlich an, bis der Ellenbogen auf Schulterhöhe liegt. Halte den Arm quer zum Oberkörper und die obere Position kurz.",
+      "Senke die Kurzhantel beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Prone_Quadriceps": {
+    "name": "Quadrizepsdehnung in Bauchlage",
+    "instructions": [
+      "Lege dich bäuchlings auf den Boden. Ein Trainingspartner kniet neben dir. Beuge ein Knie und führe den Fuß in Richtung Gesäß. Dein Partner hält Knie und Knöchel. Das ist die Ausgangsposition.",
+      "Versuche, das Knie zu strecken, während dein Partner jede Bewegung verhindert.",
+      "Entspanne nach 10 bis 20 Sekunden, während dein Partner den Fuß vorsichtig weiter zum Gesäß führt.",
+      "Halte weitere 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Lying_Rear_Delt_Raise": {
+    "name": "Reverse Fly in Bauchlage",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Flachbank und halte in jeder Hand eine Kurzhantel.",
+      "Halte die Handflächen zum Körper und die Arme mit leicht gebeugten Ellenbogen nahezu gestreckt. Das ist die Ausgangsposition.",
+      "Hebe beide Arme beim Ausatmen seitlich an, bis die Ellenbogen auf Schulterhöhe liegen. Halte die obere Position kurz.",
+      "Senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Supine_Dumbbell_Curl": {
+    "name": "Kurzhantelcurl in Rückenlage",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf den Oberschenkeln auf eine Flachbank.",
+      "Führe die Arme seitlich nach unten und halte die Hanteln im neutralen Griff.",
+      "Senke die nahezu gestreckten Arme so weit wie kontrolliert möglich zum Boden. Fixiere die Oberarme dort. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Ausatmen und drehe die Handflächen nach oben. Führe die Hanteln bis zur vollständigen Bizepsanspannung und halte oben kurz.",
+      "Senke die Kurzhanteln sehr langsam in die Ausgangsposition zurück."
+    ]
+  },
+  "Lying_T-Bar_Row": {
+    "name": "T-Bar-Rudern in Bauchlage",
+    "instructions": [
+      "Belade die T-Bar-Rudermaschine und stelle die Höhe so ein, dass die obere Brust am oberen Rand des Polsters liegt.",
+      "Lege dich bäuchlings auf das Polster und greife die Griffe im Ober-, Unter- oder neutralen Griff.",
+      "Hebe das Gewicht aus der Ablage und strecke die Arme. Das ist die Ausgangsposition.",
+      "Ziehe das Gewicht beim Ausatmen nach oben und spanne den Rücken in der Endposition an. Halte die Oberarme möglichst nah am Körper und den Oberkörper am Polster.",
+      "Senke das Gewicht beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Lying_Triceps_Press": {
+    "name": "Liegendes Trizepsdrücken",
+    "instructions": [
+      "Lege dich auf eine Flachbank. Positioniere eine SZ- oder gerade Stange hinter dem Kopf auf dem Boden und stelle die Füße fest auf.",
+      "Greife die Stange mittelbreit im Obergriff und halte sie mit gestreckten Armen senkrecht über der Brust. Die Ellenbogen bleiben eng. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke die Stange beim Einatmen langsam bis knapp zur Stirn.",
+      "Strecke die Ellenbogen beim Ausatmen mit dem Trizeps zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Machine_Bench_Press": {
+    "name": "Brustdrücken an der Maschine",
+    "instructions": [
+      "Setze dich an die Brustpresse und wähle das Gewicht.",
+      "Betätige den Starthebel, falls vorhanden, um die Griffe nach vorn zu bringen.",
+      "Greife die Griffe im Obergriff und hebe die Ellenbogen seitlich auf Schulterhöhe. Strecke die Arme nach vorn. Das ist die Ausgangsposition.",
+      "Führe die Griffe beim Einatmen kontrolliert zurück.",
+      "Drücke sie beim Ausatmen nach vorn und spanne die Brust oben kurz an.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Betätige nach dem Satz den Hebel erneut und führe die Griffe kontrolliert in die Ablage zurück."
+    ]
+  },
+  "Machine_Bicep_Curl": {
+    "name": "Bizepscurl an der Maschine",
+    "instructions": [
+      "Stelle den Sitz passend ein, wähle das Gewicht und lege die Oberarme auf die Polster. Greife die Griffe. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen und ziehe die Unterarme in Richtung Oberarme.",
+      "Halte oben kurz und senke das Gewicht langsam zurück.",
+      "Setze das Gewicht zwischen den Wiederholungen nicht vollständig ab, damit der Bizeps unter Spannung bleibt."
+    ]
+  },
+  "Machine_Preacher_Curls": {
+    "name": "Scott-Curl an der Maschine",
+    "instructions": [
+      "Setze dich an die Scott-Curl-Maschine und wähle das Gewicht.",
+      "Lege die Rückseiten der Oberarme auf das Polster und greife die Griffe im Untergriff. Halte die Ellenbogen eng. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Ausatmen und spanne den Bizeps oben kurz an. Nur die Unterarme bewegen sich.",
+      "Senke die Griffe beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Machine_Shoulder_Military_Press": {
+    "name": "Schulterdrücken an der Maschine",
+    "instructions": [
+      "Setze dich an die Schulterpresse und wähle das Gewicht.",
+      "Greife die seitlichen Griffe, halte die Ellenbogen gebeugt und in einer Linie mit dem Oberkörper. Das ist die Ausgangsposition.",
+      "Drücke die Griffe beim Ausatmen nach oben, bis die Arme nahezu vollständig gestreckt sind. Halte oben kurz.",
+      "Senke die Griffe beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Machine_Triceps_Extension": {
+    "name": "Trizepsstrecken an der Maschine",
+    "instructions": [
+      "Stelle den Sitz passend ein, wähle das Gewicht und lege die Oberarme auf die Polster. Greife die Griffe. Das ist die Ausgangsposition.",
+      "Strecke die Ellenbogen und führe die Unterarme von den Oberarmen weg.",
+      "Halte die Endposition kurz und kehre langsam zurück.",
+      "Setze das Gewicht zwischen den Wiederholungen nicht vollständig ab, damit der Trizeps unter Spannung bleibt."
+    ]
+  },
+  "Medicine_Ball_Chest_Pass": {
+    "name": "Medizinball-Brustpass",
+    "instructions": [
+      "Führe die Übung mit einem Partner oder gegen eine stabile Wand aus.",
+      "Stelle dich deinem Partner gegenüber und halte den Medizinball mit beiden Händen vor dem Oberkörper.",
+      "Ziehe den Ball zur Brust und stoße ihn durch schnelles Strecken der Ellenbogen nach vorn. Für eine sportartspezifische Variante kannst du beim Wurf einen Schritt machen.",
+      "Dein Partner fängt den Ball und wirft ihn zurück.",
+      "Fange den Ball mit beiden Händen auf Brusthöhe."
+    ]
+  },
+  "Medicine_Ball_Full_Twist": {
+    "name": "Medizinball-Drehpass",
+    "instructions": [
+      "Stelle dich mit einem Partner Rücken an Rücken und etwa 60 bis 90 cm voneinander entfernt auf. Halte einen Medizinball vor dem Oberkörper. Das ist die Ausgangsposition.",
+      "Drehe Hüfte und Schultern gemeinsam mit deinem Partner.",
+      "Dreht euch für eine vollständige Rotation beide in dieselbe Richtung.",
+      "Übergib den Ball an deinen Partner und dreht euch anschließend in die Gegenrichtung zurück."
+    ]
+  },
+  "Medicine_Ball_Scoop_Throw": {
+    "name": "Medizinball-Schleuderwurf",
+    "instructions": [
+      "Nimm mit einem Medizinball in den Händen eine halbe Kniebeuge ein. Die Arme hängen nach unten, sodass sich der Ball nahe an den Füßen befindet.",
+      "Strecke Hüfte und Beine explosiv und springe nach oben.",
+      "Schwinge gleichzeitig die gestreckten Arme über den Kopf und lasse den Ball am höchsten Punkt los. Ziel ist ein möglichst weiter Wurf nach hinten."
+    ]
+  },
+  "Middle_Back_Shrug": {
+    "name": "Schulterblattheben auf der Schrägbank",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Schrägbank und halte in jeder Hand eine Kurzhantel. Die Arme hängen gestreckt zum Boden und die Handflächen zeigen zueinander. Das ist die Ausgangsposition.",
+      "Ziehe die Schulterblätter beim Ausatmen kräftig zusammen und halte die Anspannung eine Sekunde.",
+      "Kehre beim Einatmen in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Middle_Back_Stretch": {
+    "name": "Dehnung des mittleren Rückens",
+    "instructions": [
+      "Stelle dich schulterbreit hin und lege die Hände an die Hüften.",
+      "Drehe den Oberkörper aus der Taille, bis du eine Dehnung spürst. Halte 10 bis 15 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Mixed_Grip_Chin": {
+    "name": "Klimmzug im Wechselgriff",
+    "instructions": [
+      "Greife eine Klimmzugstange etwas weiter als schulterbreit. Eine Hand greift im Obergriff, die andere im Untergriff. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen nach oben. Halte den Ellenbogen der Untergriffseite nah am Körper und führe den Ellenbogen der Obergriffseite seitlich nach unten.",
+      "Halte oben kurz und senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Wechsle im nächsten Satz die Griffseiten."
+    ]
+  }
+}

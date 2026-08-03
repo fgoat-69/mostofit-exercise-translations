@@ -1,0 +1,165 @@
+{
+  "Decline_Reverse_Crunch": {
+    "name": "Reverse Crunch auf der Negativbank",
+    "instructions": [
+      "Lege dich auf den Rücken auf eine Negativbank und halte dich mit beiden Händen am oberen Ende fest. Verhindere, dass dein Körper nach unten rutscht.",
+      "Halte die Beine mithilfe der Bauchmuskulatur parallel zum Boden. Knie und Füße bleiben zusammen, die Beine sind fast vollständig gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe die Beine beim Ausatmen zum Oberkörper, rolle das Becken nach hinten und hebe die Hüfte von der Bank ab. Am Ende befinden sich die Knie nahe an der Brust.",
+      "Halte die Anspannung kurz und führe die Beine beim Einatmen zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Decline_Smith_Press": {
+    "name": "Negativ-Bankdrücken an der Smith-Maschine",
+    "instructions": [
+      "Stelle eine Negativbank unter die Smith-Maschine und positioniere die Stange so, dass du sie mit fast gestreckten Armen erreichen kannst. Greife sie weiter als schulterbreit im Obergriff, entriegele sie und halte sie über dir. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen kontrolliert ab, bis sie den unteren Brustbereich leicht berührt.",
+      "Halte kurz und drücke die Stange beim Ausatmen durch Strecken der Ellenbogen zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Verriegele die Stange nach dem Satz sicher in der Halterung."
+    ]
+  },
+  "Deficit_Deadlift": {
+    "name": "Defizit-Kreuzheben",
+    "instructions": [
+      "Stelle dich auf eine stabile, etwa 2,5 bis 7,5 cm hohe Plattform. Positioniere die Langhantel mittig über den Füßen, stelle dich hüftbreit hin und greife die Stange etwa schulterbreit.",
+      "Atme tief ein, senke die Hüfte und beuge die Knie, bis die Schienbeine die Stange berühren. Halte Brust und Rücken stabil und drücke dich über die Fersen nach oben. Ziehe die Stange nach dem Passieren der Knie eng zum Körper und strecke die Hüfte.",
+      "Senke die Stange durch Beugen der Hüfte kontrolliert zum Boden."
+    ]
+  },
+  "Depth_Jump_Leap": {
+    "name": "Tiefsprung auf eine höhere Box",
+    "instructions": [
+      "Stelle eine 30 bis 40 cm hohe und eine 55 bis 65 cm hohe Box bereit.",
+      "Stelle dich mit geschlossenen Füßen an die Kante der niedrigeren Box. Positioniere die höhere Box etwa 60 bis 90 cm davor.",
+      "Lass dich von der ersten Box fallen, lande mit beiden Füßen und springe unmittelbar wieder ab.",
+      "Springe so explosiv wie möglich nach vorn und oben auf die höhere Box. Nutze die Arme und strecke den gesamten Körper. Lande weich mit gebeugten Beinen."
+    ]
+  },
+  "Dip_Machine": {
+    "name": "Dips an der Maschine",
+    "instructions": [
+      "Setze dich sicher in die Dip-Maschine, wähle ein geeignetes Gewicht und greife die Griffe fest.",
+      "Halte die Ellenbogen eng am Körper und ungefähr im 90-Grad-Winkel, um den Trizeps stärker zu belasten.",
+      "Drücke die Griffe beim Ausatmen nach unten, indem du die Ellenbogen streckst. Behalte unten eine leichte Beugung, damit der Trizeps unter Spannung bleibt.",
+      "Lass die Arme beim Einatmen langsam zurück in die Ausgangsposition kommen.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dips_-_Chest_Version": {
+    "name": "Dips für die Brust",
+    "instructions": [
+      "Stütze dich mit nahezu gestreckten Armen über den Parallelbarren ab.",
+      "Senke dich beim Einatmen langsam ab. Lehne den Oberkörper etwa 30 Grad nach vorn und führe die Ellenbogen leicht nach außen, bis du eine Dehnung in der Brust spürst.",
+      "Drücke dich beim Ausatmen mit der Brustmuskulatur zurück nach oben und spanne die Brust oben kurz an.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Dips_-_Triceps_Version": {
+    "name": "Dips für den Trizeps",
+    "instructions": [
+      "Stütze dich mit nahezu gestreckten Armen über den Parallelbarren ab.",
+      "Halte den Oberkörper aufrecht und die Ellenbogen eng am Körper. Senke dich beim Einatmen langsam ab, bis Ober- und Unterarm ungefähr einen 90-Grad-Winkel bilden.",
+      "Drücke dich beim Ausatmen mit dem Trizeps zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Donkey_Calf_Raises": {
+    "name": "Donkey-Wadenheben",
+    "instructions": [
+      "Positioniere unteren Rücken und Hüfte unter dem Polster einer Donkey-Wadenmaschine.",
+      "Greife die seitlichen Griffe und stelle die Fußballen auf den Block, sodass die Fersen frei hängen. Strecke die Knie, ohne sie zu verriegeln. Das ist die Ausgangsposition.",
+      "Hebe die Fersen beim Ausatmen so hoch wie möglich an und spanne die Waden kräftig an. Halte die Knie ruhig und die Endposition kurz.",
+      "Senke die Fersen beim Einatmen langsam ab, bis die Waden gedehnt sind.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Double_Kettlebell_Alternating_Hang_Clean": {
+    "name": "Abwechselnder Hang Clean mit zwei Kettlebells",
+    "instructions": [
+      "Stelle zwei Kettlebells zwischen die Füße, schiebe die Hüfte nach hinten und richte den Blick nach vorn.",
+      "Setze eine Kettlebell zur Schulter um, während die andere in der hängenden Position bleibt.",
+      "Senke die obere Kettlebell fließend ab und führe gleichzeitig die andere Kettlebell explosiv zur Schulter."
+    ]
+  },
+  "Double_Kettlebell_Jerk": {
+    "name": "Jerk mit zwei Kettlebells",
+    "instructions": [
+      "Halte in jeder Hand eine Kettlebell am Griff.",
+      "Setze beide Kettlebells durch kraftvolles Strecken von Hüfte und Beinen zu den Schultern um. Drehe die Handgelenke ein. Das ist die Ausgangsposition.",
+      "Beuge die Knie leicht und halte den Oberkörper aufrecht.",
+      "Drücke dich sofort explosiv über die Fersen ab.",
+      "Nutze den Schwung, um beide Kettlebells über den Kopf zu bringen und die Arme vollständig zu strecken.",
+      "Lande in einer Schrittstellung mit einem Fuß vorn und einem hinten.",
+      "Halte die Kettlebells über dem Kopf, stelle die Füße zusammen und senke die Gewichte anschließend für die nächste Wiederholung ab."
+    ]
+  },
+  "Double_Kettlebell_Push_Press": {
+    "name": "Push Press mit zwei Kettlebells",
+    "instructions": [
+      "Setze zwei Kettlebells zu den Schultern um.",
+      "Gehe wenige Zentimeter in die Knie und strecke die Beine sofort explosiv. Nutze den Schwung, um beide Kettlebells über den Kopf zu drücken.",
+      "Senke die Kettlebells nach vollständiger Armstreckung zurück zu den Schultern und wiederhole die Bewegung."
+    ]
+  },
+  "Double_Kettlebell_Snatch": {
+    "name": "Reißen mit zwei Kettlebells",
+    "instructions": [
+      "Stelle zwei Kettlebells hinter die Füße, beuge Knie und Hüfte und greife beide Gewichte.",
+      "Schwinge die Kettlebells kraftvoll zwischen den Beinen nach vorn.",
+      "Strecke die Hüfte explosiv und führe beide Kettlebells in einer fließenden Bewegung bis zur vollständigen Armstreckung über den Kopf."
+    ]
+  },
+  "Double_Kettlebell_Windmill": {
+    "name": "Windmill mit zwei Kettlebells",
+    "instructions": [
+      "Stelle eine Kettlebell vor den vorderen Fuß und setze die andere mit dem gegenüberliegenden Arm zur Schulter um und drücke sie über den Kopf.",
+      "Halte die obere Kettlebell vollständig gestreckt. Schiebe die Hüfte zu ihrer Seite und drehe die Füße etwa 45 Grad von diesem Arm weg.",
+      "Beuge dich seitlich aus der Hüfte ab und greife die Kettlebell am Boden. Behalte die obere Kettlebell ständig im Blick.",
+      "Halte kurz und richte dich kontrolliert wieder auf."
+    ]
+  },
+  "Double_Leg_Butt_Kick": {
+    "name": "Beidbeiniger Fersen-zum-Gesäß-Sprung",
+    "instructions": [
+      "Stelle dich mit leicht gebeugten Knien aufrecht hin.",
+      "Gehe kurz in die Knie und springe durch explosives Strecken von Hüfte, Knien und Sprunggelenken so hoch wie möglich.",
+      "Beuge in der Luft die Knie und versuche, die Fersen zum Gesäß zu führen.",
+      "Lande mit leicht gebeugten Knien und fange den Aufprall kontrolliert über die Beine ab."
+    ]
+  },
+  "Downward_Facing_Balance": {
+    "name": "Bauchlage-Balance auf dem Gymnastikball",
+    "instructions": [
+      "Lege dich bäuchlings auf einen Gymnastikball.",
+      "Stütze dich mit den Händen auf dem Boden ab, wandere nach vorn und hebe die Beine an. Strecke Ellenbogen und Knie und halte den Körper stabil."
+    ]
+  },
+  "Drag_Curl": {
+    "name": "Drag Curl",
+    "instructions": [
+      "Greife eine Langhantel im Untergriff und halte die Ellenbogen nah am Körper und leicht nach hinten. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen am Oberkörper entlang nach oben. Führe die Ellenbogen dabei nach hinten und halte die Schultern unten.",
+      "Senke die Stange langsam und weiterhin in Kontakt mit dem Oberkörper zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Drop_Push": {
+    "name": "Drop Push-up",
+    "instructions": [
+      "Stelle zwei niedrige Boxen oder Plattformen etwa 60 bis 90 cm voneinander entfernt auf.",
+      "Gehe dazwischen in eine Liegestützposition und stütze die Hände auf den Boxen ab.",
+      "Drücke dich von den Plattformen ab, lande mit den Händen schulterbreit auf dem Boden und fange den Aufprall durch kontrolliertes Beugen der Arme ab."
+    ]
+  },
+  "Dumbbell_Alternate_Bicep_Curl": {
+    "name": "Abwechselnder Kurzhantelcurl",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel. Die Ellenbogen bleiben nah am Oberkörper und die Handflächen zeigen zu den Oberschenkeln.",
+      "Halte den rechten Oberarm ruhig, beuge den Ellenbogen und drehe die Handfläche nach vorn. Führe die Hantel beim Ausatmen bis auf Schulterhöhe und spanne den Bizeps kurz an.",
+      "Senke die Hantel beim Einatmen langsam ab und drehe die Handfläche zurück zum Oberschenkel.",
+      "Wiederhole die Bewegung mit dem linken Arm. Beide Seiten zusammen zählen als eine Wiederholung.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen erreicht hast."
+    ]
+  }
+}

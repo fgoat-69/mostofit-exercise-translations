@@ -1,0 +1,182 @@
+{
+  "Elliptical_Trainer": {
+    "name": "Crosstrainer",
+    "instructions": [
+      "Steige auf den Crosstrainer und wähle das gewünschte Programm oder den manuellen Modus. Bei vielen Geräten kannst du Alter und Gewicht eingeben, um den Kalorienverbrauch zu schätzen. Passe Steigung und Widerstand an dein Trainingsziel an.",
+      "Nutze bei Bedarf die Handgriffe mit Pulssensoren, um deine Herzfrequenz und Trainingsintensität zu kontrollieren."
+    ]
+  },
+  "Exercise_Ball_Crunch": {
+    "name": "Crunch auf dem Gymnastikball",
+    "instructions": [
+      "Lege dich mit dem unteren Rücken auf einen Gymnastikball. Stelle die Füße fest auf den Boden und beuge die Knie. Der obere Oberkörper ragt über den Ball hinaus. Halte die Arme seitlich am Körper oder verschränke sie vor der Brust, um den Nacken zu entlasten.",
+      "Senke den Oberkörper kontrolliert in eine gedehnte Position und halte den Nacken neutral. Das ist die Ausgangsposition.",
+      "Halte die Hüfte ruhig und rolle Schultern und Oberkörper durch Anspannen der Bauchmuskulatur nach oben. Der untere Rücken bleibt am Ball. Atme aus und halte die Anspannung kurz.",
+      "Kehre beim Einatmen in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Exercise_Ball_Pull-In": {
+    "name": "Knieanziehen auf dem Gymnastikball",
+    "instructions": [
+      "Lege einen Gymnastikball hinter dich und gehe davor in eine Liegestützposition mit schulterbreit aufgestellten Händen.",
+      "Lege die unteren Schienbeine auf den Ball. Die Beine sind gestreckt und der Oberkörper wird von den gestreckten Armen getragen. Das ist die Ausgangsposition.",
+      "Halte Rücken und Oberkörper stabil und ziehe die Knie beim Ausatmen zur Brust. Rolle den Ball dabei unter den Knöcheln nach vorn. Spanne die Bauchmuskulatur an und halte kurz.",
+      "Strecke die Beine beim Einatmen langsam und rolle den Ball zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Extended_Range_One-Arm_Kettlebell_Floor_Press": {
+    "name": "Einarmiges Kettlebell-Bodendrücken mit erweitertem Bewegungsumfang",
+    "instructions": [
+      "Lege dich auf den Boden und halte eine Kettlebell am Griff. Beuge das Bein auf der belasteten Seite und führe das Knie über die Körpermitte.",
+      "Drücke die Kettlebell durch Strecken des Ellenbogens und Heranführen des Arms über den Körper nach oben. Kehre anschließend kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "External_Rotation": {
+    "name": "Außenrotation mit Kurzhantel",
+    "instructions": [
+      "Lege dich seitlich auf eine Flachbank. Halte in einer Hand eine Kurzhantel und stütze den Kopf auf dem anderen Arm ab.",
+      "Beuge den belasteten Ellenbogen auf 90 Grad und halte den Oberarm parallel zum Oberkörper.",
+      "Halte den Oberarm ruhig am Körper und positioniere den Unterarm parallel zum Boden vor dir. Das ist die Ausgangsposition.",
+      "Drehe den Unterarm beim Ausatmen in einem Halbkreis nach oben, ohne den Ellenbogenwinkel zu verändern. Führe die Bewegung fort, bis der Unterarm senkrecht zum Boden zeigt, und halte kurz.",
+      "Kehre beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "External_Rotation_with_Band": {
+    "name": "Außenrotation mit Widerstandsband",
+    "instructions": [
+      "Befestige das Band auf Ellenbogenhöhe an einem stabilen Pfosten und stelle dich mit der linken Seite zum Band.",
+      "Greife das Band mit der rechten Hand und drücke den Ellenbogen fest an den Körper. Ein kleines Polster zwischen Ellenbogen und Oberkörper kann helfen.",
+      "Beuge den Ellenbogen auf 90 Grad und führe die Hand vor den Oberkörper. Das ist die Ausgangsposition.",
+      "Drehe den Unterarm nach außen, während der Ellenbogen an seiner Position bleibt.",
+      "Führe die Bewegung so weit wie kontrolliert möglich aus, halte kurz und kehre langsam zurück."
+    ]
+  },
+  "External_Rotation_with_Cable": {
+    "name": "Außenrotation am Kabelzug",
+    "instructions": [
+      "Stelle den Kabelzug auf Ellenbogenhöhe ein und positioniere dich mit der linken Seite zur Maschine.",
+      "Greife den Griff mit der rechten Hand und drücke den Ellenbogen fest an den Körper. Ein kleines Polster kann die Position stabilisieren.",
+      "Beuge den Ellenbogen auf 90 Grad und führe die Hand vor den Oberkörper. Das ist die Ausgangsposition.",
+      "Drehe den Unterarm nach außen, ohne den Ellenbogen vom Körper zu lösen."
+    ]
+  },
+  "Face_Pull": {
+    "name": "Face Pull",
+    "instructions": [
+      "Stelle dich vor einen hohen Kabelzug mit Seil- oder Doppelgriff. Ziehe den Griff direkt zum Gesicht und führe die Hände dabei auseinander. Halte die Oberarme parallel zum Boden."
+    ]
+  },
+  "Farmers_Walk": {
+    "name": "Farmer's Walk",
+    "instructions": [
+      "Stelle dich zwischen die Farmer's-Walk-Griffe. Alternativ kannst du schwere Kurzhanteln oder kurze Langhanteln verwenden.",
+      "Greife die Griffe und richte dich über die Fersen auf. Halte Rücken und Kopf stabil.",
+      "Gehe mit kurzen, schnellen Schritten über die vorgegebene Strecke und atme gleichmäßig weiter."
+    ]
+  },
+  "Fast_Skipping": {
+    "name": "Schneller Sprunglauf",
+    "instructions": [
+      "Nimm eine lockere Ausgangsposition ein, wobei ein Bein leicht vorn steht.",
+      "Führe einen schnellen Schritt-Hüpf-Rhythmus aus: rechts-rechts-Schritt, dann links-links-Schritt und so weiter.",
+      "Bleibe möglichst bodennah, reduziere die Flugzeit und bewege dich so schnell wie möglich."
+    ]
+  },
+  "Finger_Curls": {
+    "name": "Finger-Curls mit Langhantel",
+    "instructions": [
+      "Halte eine Langhantel etwa schulterbreit im Untergriff.",
+      "Stelle die Füße etwas weiter als schulterbreit auf. Das ist die Ausgangsposition.",
+      "Öffne die Finger kontrolliert und lasse die Stange bis zu den letzten Fingergliedern hinabrollen.",
+      "Schließe die Hände beim Ausatmen und rolle die Stange so weit wie möglich zurück in die Handflächen. Halte die obere Position kurz."
+    ]
+  },
+  "Flat_Bench_Cable_Flyes": {
+    "name": "Fliegende am Kabelzug auf der Flachbank",
+    "instructions": [
+      "Stelle eine Flachbank mittig zwischen zwei untere Kabelzüge, sodass die Rollen auf Höhe der Brust liegen.",
+      "Lege dich flach auf die Bank und stelle die Füße fest auf den Boden.",
+      "Lass dir die Einzelgriffe anreichen und greife sie mit nach oben gerichteten Handflächen.",
+      "Strecke die Arme seitlich mit leicht gebeugten Ellenbogen aus. Halte diesen Ellenbogenwinkel während der gesamten Bewegung. Das ist die Ausgangsposition.",
+      "Führe die Arme beim Ausatmen in einem Halbkreis über der Brust zusammen. Spanne die Brust oben kurz an.",
+      "Senke die Arme langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Flat_Bench_Leg_Pull-In": {
+    "name": "Knieanziehen auf der Flachbank",
+    "instructions": [
+      "Lege dich auf eine Matte oder Flachbank und lasse die Beine über das Ende hinausragen.",
+      "Lege die Hände unter das Gesäß oder halte dich seitlich an der Bank fest. Strecke die Beine nach vorn aus. Das ist die Ausgangsposition.",
+      "Beuge die Knie beim Ausatmen und ziehe die Oberschenkel zur Körpermitte, bis sich die Knie nahe an der Brust befinden. Halte kurz.",
+      "Strecke die Beine beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Flat_Bench_Lying_Leg_Raise": {
+    "name": "Beinheben auf der Flachbank",
+    "instructions": [
+      "Lege dich mit dem Rücken auf eine Flachbank und strecke die Beine über das Bankende hinaus.",
+      "Lege die Hände unter das Gesäß oder halte dich seitlich an der Bank fest. Das ist die Ausgangsposition.",
+      "Halte die Beine nahezu gestreckt und hebe sie beim Ausatmen bis ungefähr senkrecht zum Boden an. Halte die obere Position kurz.",
+      "Senke die Beine beim Einatmen langsam zurück."
+    ]
+  },
+  "Flexor_Incline_Dumbbell_Curls": {
+    "name": "Schrägbankcurl mit zurückgezogenen Handgelenken",
+    "instructions": [
+      "Greife die Kurzhanteln leicht außermittig, sodass auf der Daumenseite etwas mehr Gewicht liegt. Halte die Handgelenke während der Bewegung leicht nach hinten gezogen.",
+      "Setze dich mit je einer Kurzhantel auf eine etwa 45 Grad geneigte Bank.",
+      "Lasse die Arme seitlich hängen, halte die Ellenbogen eng und drehe die Handflächen nach vorn. Das ist die Ausgangsposition.",
+      "Beuge beide Ellenbogen gleichzeitig beim Ausatmen, ohne Schwung zu verwenden. Spanne den Bizeps oben kurz an.",
+      "Senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Floor_Glute-Ham_Raise": {
+    "name": "Glute-Ham Raise am Boden",
+    "instructions": [
+      "Lass deine Füße von einem Trainingspartner festhalten oder fixiere sie unter einem stabilen Gegenstand.",
+      "Knie dich aufrecht hin, sodass Oberschenkel und Oberkörper eine Linie bilden. Das ist die Ausgangsposition.",
+      "Senke den Körper durch langsames Strecken der Knie nach vorn ab. Halte die Hüfte dabei gestreckt.",
+      "Fange dich am Boden mit den Händen ab und drücke dich nur so stark wie nötig zurück, um mithilfe der hinteren Oberschenkelmuskulatur in die Ausgangsposition zu kommen."
+    ]
+  },
+  "Floor_Press": {
+    "name": "Langhantel-Bodendrücken",
+    "instructions": [
+      "Lege dich auf den Boden und positioniere dich unter einer Langhantel. Ziehe die Schulterblätter zusammen und stelle die Füße fest auf.",
+      "Hebe die Stange aus der Ablage und senke sie kontrolliert ab, bis die Oberarme den Boden berühren.",
+      "Halte kurz und drücke die Langhantel durch Strecken der Ellenbogen zurück nach oben."
+    ]
+  },
+  "Floor_Press_with_Chains": {
+    "name": "Langhantel-Bodendrücken mit Ketten",
+    "instructions": [
+      "Befestige die Ketten an den Hantelscheibenaufnahmen und stelle die Länge so ein, dass am oberen Punkt nur wenige Kettenglieder den Boden berühren.",
+      "Lege dich auf den Boden, ziehe die Schulterblätter zusammen und stelle die Füße fest auf.",
+      "Hebe die Stange aus der Ablage und senke sie kontrolliert ab, bis die Oberarme den Boden berühren.",
+      "Halte kurz und drücke die Langhantel so kraftvoll wie möglich nach oben."
+    ]
+  },
+  "Flutter_Kicks": {
+    "name": "Flatterkicks",
+    "instructions": [
+      "Lege dich auf den Rücken und positioniere die Hände seitlich oder unter dem Gesäß.",
+      "Strecke die Beine vollständig aus und hebe die Fersen wenige Zentimeter vom Boden ab.",
+      "Hebe ein Bein etwa 30 bis 45 Grad an, während das andere knapp über dem Boden bleibt.",
+      "Senke das obere Bein ab und hebe gleichzeitig das andere Bein an.",
+      "Fahre in einem schnellen, kontrollierten Wechselrhythmus fort."
+    ]
+  },
+  "Foot-SMR": {
+    "name": "Fußsohlen-Selbstmassage",
+    "instructions": [
+      "Stelle dich aufrecht hin und platziere einen kleinen Ball oder eine Rolle unter einer Fußsohle.",
+      "Rolle langsam von der Ferse bis zu den Zehen und halte empfindliche Stellen 10 bis 30 Sekunden. Wechsle anschließend den Fuß."
+    ]
+  }
+}

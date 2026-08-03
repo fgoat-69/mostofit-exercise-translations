@@ -1,0 +1,168 @@
+{
+  "Toe_Touchers": {
+    "name": "Zehenberührer",
+    "instructions": [
+      "Lege dich auf den Rücken und drücke den unteren Rücken in den Boden. Die Arme liegen seitlich mit den Handflächen nach unten.",
+      "Halte die Beine zusammen und hebe sie langsam an, bis sie fast senkrecht zum Boden stehen. Beuge die Knie leicht und halte die Füße parallel zum Boden.",
+      "Strecke die Arme in einem Winkel von etwa 45 Grad nach vorn. Das ist die Ausgangsposition.",
+      "Halte den unteren Rücken am Boden und hebe den Oberkörper beim Ausatmen an. Versuche, mit den Händen die Zehen zu berühren.",
+      "Senke Oberkörper und Arme beim Einatmen langsam zurück. Die Arme bleiben zu den Zehen ausgerichtet.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Torso_Rotation": {
+    "name": "Rumpfdrehung mit Gymnastikball",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte einen Gymnastikball mit gestreckten Armen vor dem Körper. Das ist die Ausgangsposition.",
+      "Drehe den Oberkörper zu einer Seite und folge dem Ball mit den Augen. Drehe anschließend kontrolliert zur anderen Seite. Führe 10 bis 20 Wiederholungen aus."
+    ]
+  },
+  "Trail_Running_Walking": {
+    "name": "Trailrunning oder Wandern",
+    "instructions": [
+      "Laufen oder Wandern auf unebenem Gelände fordert Herz-Kreislauf-System und Beinmuskulatur. Trage geeignetes Schuhwerk. Gehe bergab mit kürzeren Schritten, leicht gebeugten Knien und reduziertem Tempo, um Belastung und Sturzrisiko zu verringern.",
+      "Eine etwa 68 kg schwere Person verbrennt beim 30-minütigen Bergaufgehen über 200 kcal, auf flachem Untergrund etwa 175 kcal. Beim Trailrunning können es in 30 Minuten deutlich über 500 kcal sein."
+    ]
+  },
+  "Trap_Bar_Deadlift": {
+    "name": "Kreuzheben mit Trap Bar",
+    "instructions": [
+      "Belade eine Trap Bar oder Hex Bar passend, stelle dich mittig hinein und greife beide Griffe.",
+      "Senke die Hüfte, halte Brust und Kopf aufrecht und richte den Blick nach vorn.",
+      "Drücke dich über die Fersen ab und strecke Hüfte und Knie. Runde den Rücken nicht.",
+      "Senke das Gewicht anschließend kontrolliert zum Boden zurück."
+    ]
+  },
+  "Tricep_Dumbbell_Kickback": {
+    "name": "Trizeps-Kickback mit Kurzhanteln",
+    "instructions": [
+      "Halte in jeder Hand eine Kurzhantel im neutralen Griff. Beuge die Knie leicht und neige den Oberkörper bei geradem Rücken fast parallel zum Boden. Die Oberarme bleiben eng am Körper und parallel zum Boden, die Ellenbogen sind etwa 90 Grad gebeugt. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und strecke die Ellenbogen beim Ausatmen vollständig.",
+      "Halte oben kurz und senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Tricep_Side_Stretch": {
+    "name": "Seitliche Trizepsdehnung",
+    "instructions": [
+      "Führe den rechten Arm über die linke Schulter quer vor den Körper und ziehe den Ellenbogen mit der linken Hand vorsichtig heran, bis du eine Dehnung im Trizeps spürst. Wechsle anschließend die Seite."
+    ]
+  },
+  "Triceps_Overhead_Extension_with_Rope": {
+    "name": "Überkopf-Trizepsstrecken mit Seil",
+    "instructions": [
+      "Befestige ein Seil am unteren Kabelzug, wähle ein geeignetes Gewicht und stelle dich mit dem Rücken zur Maschine.",
+      "Halte die Hände hinter dem Kopf, die Ellenbogen zeigen nach oben. Ein versetzter Stand und leichtes Vorlehnen erhöhen die Stabilität. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und strecke die Ellenbogen, bis sich die Hände über dem Kopf befinden.",
+      "Spanne den Trizeps oben kurz an und senke das Gewicht langsam zurück."
+    ]
+  },
+  "Triceps_Pushdown": {
+    "name": "Trizepsdrücken am Kabelzug",
+    "instructions": [
+      "Befestige eine gerade oder abgewinkelte Stange am hohen Kabelzug und greife sie etwa schulterbreit im Obergriff.",
+      "Stelle dich aufrecht mit leichter Vorlage hin. Halte die Oberarme eng am Körper und senkrecht zum Boden, die Unterarme zeigen nach oben. Das ist die Ausgangsposition.",
+      "Drücke die Stange beim Ausatmen nach unten, bis die Arme vollständig gestreckt sind. Nur die Unterarme bewegen sich.",
+      "Halte unten kurz und führe die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Triceps_Pushdown_-_Rope_Attachment": {
+    "name": "Trizepsdrücken mit Seil",
+    "instructions": [
+      "Befestige ein Seil am hohen Kabelzug und greife es im neutralen Griff.",
+      "Stelle dich aufrecht mit leichter Vorlage hin. Halte die Oberarme eng am Körper und senkrecht zum Boden. Das ist die Ausgangsposition.",
+      "Drücke das Seil beim Ausatmen nach unten und führe die Enden seitlich an den Oberschenkeln vorbei, bis die Arme vollständig gestreckt sind.",
+      "Halte unten kurz und führe das Seil beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Triceps_Pushdown_-_V-Bar_Attachment": {
+    "name": "Trizepsdrücken mit V-Griff",
+    "instructions": [
+      "Befestige einen V-Griff am hohen Kabelzug und greife ihn etwa schulterbreit im Obergriff.",
+      "Stelle dich aufrecht mit leichter Vorlage hin. Halte die Oberarme eng am Körper und senkrecht zum Boden. Die Daumen liegen höher als die kleinen Finger. Das ist die Ausgangsposition.",
+      "Drücke den Griff beim Ausatmen nach unten, bis die Arme vollständig gestreckt sind. Nur die Unterarme bewegen sich.",
+      "Halte unten kurz und führe den Griff beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Triceps_Stretch": {
+    "name": "Trizepsdehnung",
+    "instructions": [
+      "Führe eine Hand hinter den Kopf, greife den Ellenbogen mit der anderen Hand und ziehe ihn vorsichtig nach hinten und unten. Halte 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Tuck_Crunch": {
+    "name": "Tuck Crunch",
+    "instructions": [
+      "Lege dich auf den Rücken und drücke den unteren Rücken in den Boden. Die Arme liegen seitlich mit den Handflächen nach unten.",
+      "Überkreuze die Beine an den Knöcheln und hebe sie an, bis die Oberschenkel senkrecht zum Boden stehen. Die Knie sind leicht gebeugt und parallel zum Boden.",
+      "Verschränke die Arme vor der Brust. Das ist die Ausgangsposition.",
+      "Halte den unteren Rücken am Boden und hebe den Oberkörper beim Ausatmen langsam an.",
+      "Senke den Oberkörper beim Einatmen kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Two-Arm_Dumbbell_Preacher_Curl": {
+    "name": "Beidarmiger Scott-Curl mit Kurzhanteln",
+    "instructions": [
+      "Lege beide Oberarme auf das Polster einer Scott- oder Schrägbank und halte in jeder Hand eine Kurzhantel auf Schulterhöhe. Das ist die Ausgangsposition.",
+      "Senke die Kurzhanteln beim Einatmen langsam ab, bis die Arme nahezu vollständig gestreckt und die Bizeps gedehnt sind.",
+      "Beuge die Ellenbogen beim Ausatmen, bis die Hanteln Schulterhöhe erreichen.",
+      "Spanne den Bizeps oben kurz an und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Two-Arm_Kettlebell_Clean": {
+    "name": "Beidarmiger Kettlebell-Clean",
+    "instructions": [
+      "Stelle zwei Kettlebells zwischen die Füße, schiebe die Hüfte nach hinten und richte den Blick nach vorn.",
+      "Setze beide Kettlebells durch kraftvolles Strecken von Hüfte und Beinen zu den Schultern um. Drehe dabei die Handgelenke ein.",
+      "Senke die Kettlebells kontrolliert in die Ausgangsposition zurück und wiederhole die Bewegung."
+    ]
+  },
+  "Two-Arm_Kettlebell_Jerk": {
+    "name": "Beidarmiger Kettlebell-Jerk",
+    "instructions": [
+      "Setze zwei Kettlebells zu den Schultern um. Beuge die Knie kurz und strecke sie explosiv, um beide Kettlebells über den Kopf zu stoßen. Ziehe dich sofort unter die Gewichte, fange sie mit gestreckten Armen ab und richte dich anschließend vollständig auf."
+    ]
+  },
+  "Two-Arm_Kettlebell_Military_Press": {
+    "name": "Beidarmiges Kettlebell-Schulterdrücken",
+    "instructions": [
+      "Setze zwei Kettlebells durch kraftvolles Strecken von Hüfte und Beinen zu den Schultern um und drehe die Handflächen nach vorn.",
+      "Drücke die Kettlebells nach oben und leicht außen. Führe den Kopf zwischen die Arme und stabilisiere den Körper durch Anspannen von Latissimus, Gesäß und Bauch."
+    ]
+  },
+  "Two-Arm_Kettlebell_Row": {
+    "name": "Beidarmiges Kettlebell-Rudern",
+    "instructions": [
+      "Stelle zwei Kettlebells vor die Füße, beuge die Knie leicht, schiebe die Hüfte nach hinten und neige den Oberkörper bei stabilem Rücken nach vorn.",
+      "Greife beide Kettlebells und ziehe sie durch Zurückführen der Schulterblätter und Beugen der Ellenbogen zum Bauch."
+    ]
+  },
+  "Underhand_Cable_Pulldowns": {
+    "name": "Latzug im Untergriff",
+    "instructions": [
+      "Setze dich an einen Latzug und stelle das Kniepolster passend ein.",
+      "Greife die Stange etwas enger als schulterbreit im Untergriff.",
+      "Lehne den Oberkörper etwa 30 Grad zurück, hebe die Brust an und halte den unteren Rücken leicht gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen zur oberen Brust und führe Schultern und Oberarme nach unten und hinten.",
+      "Halte unten kurz und führe die Stange beim Einatmen langsam bis zur vollständigen Armstreckung zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Upper_Back-Leg_Grab": {
+    "name": "Oberer Rücken mit Beingriff",
+    "instructions": [
+      "Setze dich auf den Boden, beuge ein Knie und greife den Fuß mit beiden Händen.",
+      "Runde den oberen Rücken, ziehe das Knie leicht zur Brust und senke das Kinn, bis du eine Dehnung zwischen den Schulterblättern spürst."
+    ]
+  },
+  "Upper_Back_Stretch": {
+    "name": "Dehnung des oberen Rückens",
+    "instructions": [
+      "Strecke die Arme vor dem Körper aus, verschränke die Finger und schiebe die Hände nach vorn, während du den oberen Rücken rundest und die Schulterblätter auseinanderziehst."
+    ]
+  }
+}

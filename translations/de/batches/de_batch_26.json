@@ -1,0 +1,183 @@
+{
+  "Monster_Walk": {
+    "name": "Monster Walk",
+    "instructions": [
+      "Lege ein Widerstandsband um beide Knöchel und ein weiteres um beide Knie. Die Bänder sollten bereits bei schulterbreitem Stand unter Spannung stehen.",
+      "Mache abwechselnd mit links und rechts kurze Schritte nach vorn.",
+      "Gehe nach mehreren Schritten auf dieselbe Weise rückwärts zur Ausgangsposition zurück."
+    ]
+  },
+  "Mountain_Climbers": {
+    "name": "Mountain Climbers",
+    "instructions": [
+      "Gehe in eine Liegestützposition. Stütze dich auf Händen und Zehen ab und ziehe ein Knie ungefähr unter die Hüfte. Das ist die Ausgangsposition.",
+      "Wechsle die Beinposition explosiv: Strecke das gebeugte Bein zurück und ziehe gleichzeitig das andere Knie nach vorn. Fahre 20 bis 30 Sekunden lang abwechselnd fort."
+    ]
+  },
+  "Moving_Claw_Series": {
+    "name": "Moving-Claw-Laufdrill",
+    "instructions": [
+      "Dieser Drill verbessert die Beinarbeit beim Sprinten. Beuge während des Laufens das Knie und führe die Ferse beim Strecken der Hüfte in Richtung Gesäß.",
+      "Führe den Oberschenkel anschließend schnell nach vorn und setze den Fuß aktiv unter dem Körper auf.",
+      "Arbeite die Arme in einem schnellen, kraftvollen Wechselrhythmus mit."
+    ]
+  },
+  "Muscle_Snatch": {
+    "name": "Muscle Snatch",
+    "instructions": [
+      "Halte eine beladene Langhantel im weiten Griff auf Höhe der Oberschenkelmitte. Die Füße stehen unter der Hüfte, Brust und Kopf sind aufrecht und die Schultern leicht vor der Stange. Das ist die Ausgangsposition.",
+      "Drücke dich über den vorderen Bereich der Fersen ab und beschleunige die Stange. Strecke Hüfte, Knie und Sprunggelenke explosiv und halte die Stange eng am Körper.",
+      "Führe die Stange ohne erneutes Beugen der Knie vollständig über den Kopf."
+    ]
+  },
+  "Muscle_Up": {
+    "name": "Muscle-up",
+    "instructions": [
+      "Greife die Ringe im False Grip und beginne einen Klimmzug, indem du die Ellenbogen nach unten ziehst.",
+      "Ziehe die Ringe am oberen Punkt zu den Achseln, rolle die Schultern nach vorn und führe die Ellenbogen hinter den Körper, um in die Dip-Position zu gelangen.",
+      "Strecke die Ellenbogen kontrolliert, um die Bewegung abzuschließen.",
+      "Senke dich vorsichtig zurück."
+    ]
+  },
+  "Narrow_Stance_Hack_Squats": {
+    "name": "Hackenschmidt-Kniebeuge mit engem Stand",
+    "instructions": [
+      "Lehne den Rücken an das Polster und positioniere die Schultern unter den Schulterpolstern.",
+      "Stelle die Füße enger als schulterbreit und etwa 8 cm oder weniger auseinander auf die Plattform. Drehe die Zehen leicht nach außen und halte den Rücken am Polster.",
+      "Greife die seitlichen Griffe und löse die Sicherheitsverriegelung.",
+      "Strecke die Beine, ohne die Knie zu verriegeln. Das ist die Ausgangsposition.",
+      "Senke dich beim Einatmen kontrolliert ab, bis die Oberschenkel etwas unter parallel stehen.",
+      "Drücke dich beim Ausatmen hauptsächlich über die Fersen nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Narrow_Stance_Leg_Press": {
+    "name": "Beinpresse mit engem Stand",
+    "instructions": [
+      "Setze dich an die Beinpresse und stelle die Füße enger als schulterbreit und etwa 8 cm oder weniger auseinander auf die Plattform. Drehe die Zehen leicht nach außen.",
+      "Löse die Sicherung und drücke die Plattform nach oben, bis die Beine nahezu gestreckt sind. Verriegele die Knie nicht. Das ist die Ausgangsposition.",
+      "Senke die Plattform beim Einatmen langsam ab, bis Ober- und Unterschenkel ungefähr einen 90-Grad-Winkel bilden.",
+      "Drücke die Plattform beim Ausatmen hauptsächlich über die Fersen zurück nach oben.",
+      "Wiederhole die Bewegung und sichere die Plattform nach dem Satz vollständig."
+    ]
+  },
+  "Narrow_Stance_Squats": {
+    "name": "Langhantel-Kniebeuge mit engem Stand",
+    "instructions": [
+      "Stelle die Langhantel in einem Kniebeugenständer passend ein, belade sie und positioniere sie auf dem oberen Rücken.",
+      "Greife die Stange und hebe sie durch Strecken der Beine aus der Ablage.",
+      "Gehe einen Schritt zurück und stelle die Füße etwa 8 bis 15 cm auseinander mit leicht nach außen gedrehten Zehen auf. Halte Kopf und Rücken stabil. Das ist die Ausgangsposition.",
+      "Beuge die Knie beim Einatmen und senke dich kontrolliert ab, bis die Oberschenkel etwas unter parallel stehen. Führe die Knie in Richtung der Zehen.",
+      "Drücke dich beim Ausatmen hauptsächlich über die Fersen zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Natural_Glute_Ham_Raise": {
+    "name": "Natural Glute-Ham Raise",
+    "instructions": [
+      "Fixiere die Knöchel unter dem Polster einer Latzugmaschine oder Scottbank und knie dich mit aufrechtem Oberkörper auf die Sitzfläche.",
+      "Senke den geraden Körper kontrolliert nach vorn ab, bis die Knie nahezu vollständig gestreckt sind.",
+      "Ziehe dich mithilfe der hinteren Oberschenkel kontrolliert in die Ausgangsposition zurück.",
+      "Verwende bei Bedarf ein Band, einen Trainingspartner oder einen leichten Abdruck von einer Box als Unterstützung."
+    ]
+  },
+  "Neck-SMR": {
+    "name": "Nacken-Selbstmassage",
+    "instructions": [
+      "Lege eine Massagerolle hinter den Kopf an den Nacken. Positioniere sie nicht direkt auf der Wirbelsäule, sondern leicht seitlich auf der Nackenmuskulatur.",
+      "Rolle langsam vom oberen Nacken nach unten und halte verspannte Punkte jeweils 10 bis 30 Sekunden."
+    ]
+  },
+  "Neck_Press": {
+    "name": "Guillotine-Bankdrücken zum Hals",
+    "instructions": [
+      "Lege dich auf eine Flachbank, greife die Langhantel mittelbreit und halte sie mit gestreckten Armen über dem Halsbereich. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen langsam bis knapp an den Hals ab.",
+      "Halte kurz und drücke die Stange beim Ausatmen mit der Brustmuskulatur zurück nach oben. Spanne die Brust oben kurz an und senke die Stange anschließend langsam wieder ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Stange nach dem Satz sicher in der Ablage ab."
+    ]
+  },
+  "Oblique_Crunches": {
+    "name": "Schräge Crunches",
+    "instructions": [
+      "Lege dich auf den Rücken und drücke den unteren Rücken in den Boden. Lege eine Hand seitlich an den Kopf und die andere auf den Boden.",
+      "Lege die Füße erhöht auf einer stabilen Fläche ab.",
+      "Hebe die Schulter der Seite an, deren Hand am Kopf liegt.",
+      "Führe den Ellenbogen zum gegenüberliegenden Knie, zum Beispiel den rechten Ellenbogen zum linken Knie.",
+      "Senke den Oberkörper kontrolliert zurück.",
+      "Atme beim Absenken ein und beim Anheben aus.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen pro Seite erreicht hast."
+    ]
+  },
+  "Oblique_Crunches_-_On_The_Floor": {
+    "name": "Seitliche Crunches am Boden",
+    "instructions": [
+      "Lege dich auf die rechte Seite, stapel die Beine übereinander und beuge die Knie leicht.",
+      "Lege die linke Hand hinter den Kopf.",
+      "Hebe den linken Ellenbogen wie bei einem Crunch nach oben und konzentriere dich auf die seitliche Bauchmuskulatur.",
+      "Hebe den Oberkörper so weit wie kontrolliert möglich an, halte kurz und senke ihn langsam zurück.",
+      "Atme beim Absenken ein und beim Anheben aus."
+    ]
+  },
+  "Olympic_Squat": {
+    "name": "Olympische Kniebeuge",
+    "instructions": [
+      "Positioniere die Langhantel auf dem oberen Trapezmuskel. Halte Brust und Kopf aufrecht und stelle die Füße etwa hüftbreit mit leicht nach außen gedrehten Zehen auf.",
+      "Beuge die Knie und senke dich mit möglichst aufrechtem Oberkörper tief ab. Schiebe die Hüfte nur wenig nach hinten und halte die Knie in einer Linie mit den Füßen.",
+      "Drücke dich kraftvoll nach oben, sobald die hinteren Oberschenkel die Waden berühren."
+    ]
+  },
+  "On-Your-Back_Quad_Stretch": {
+    "name": "Quadrizepsdehnung in Rückenlage",
+    "instructions": [
+      "Lege dich auf eine Flachbank oder Stufe und lasse ein Bein und den gleichseitigen Arm seitlich herunterhängen.",
+      "Beuge das Knie und greife den Fußrücken. Vermeide ein Hohlkreuz.",
+      "Ziehe den Bauchnabel leicht zur Wirbelsäule, drücke den Fuß in die Hand und hebe für eine stärkere Hüftdehnung die Hüfte der gehaltenen Seite leicht an.",
+      "Wechsle anschließend die Seite."
+    ]
+  },
+  "On_Your_Side_Quad_Stretch": {
+    "name": "Quadrizepsdehnung in Seitenlage",
+    "instructions": [
+      "Lege dich auf die rechte Seite und beuge das rechte Knie vor dem Körper auf etwa 90 Grad, um den Oberkörper zu stabilisieren.",
+      "Beuge das linke Knie nach hinten und greife den linken Fuß. Schiebe die linke Hüfte nach vorn und drücke den Fuß leicht in die Hand. Wechsle anschließend die Seite."
+    ]
+  },
+  "One-Arm_Dumbbell_Row": {
+    "name": "Einarmiges Kurzhantelrudern",
+    "instructions": [
+      "Stelle eine Kurzhantel neben eine Flachbank.",
+      "Lege das rechte Knie und die rechte Hand auf die Bank und neige den Oberkörper mit stabilem Rücken nahezu parallel zum Boden.",
+      "Greife die Kurzhantel mit der linken Hand im neutralen Griff. Das ist die Ausgangsposition.",
+      "Ziehe die Hantel beim Ausatmen seitlich zur Brust. Halte den Oberarm nah am Körper und den Oberkörper ruhig. Spanne die Rückenmuskulatur oben kurz an.",
+      "Senke die Hantel beim Einatmen kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Wechsle anschließend die Seite."
+    ]
+  },
+  "One-Arm_Flat_Bench_Dumbbell_Flye": {
+    "name": "Einarmiges Kurzhantel-Fly auf der Flachbank",
+    "instructions": [
+      "Lege dich mit einer Kurzhantel auf dem Oberschenkel auf eine Flachbank. Halte die Hantel im neutralen Griff.",
+      "Bringe die Kurzhantel mithilfe des Oberschenkels mit gestrecktem Arm über die Brust. Die freie Hand hält die Bank zur Stabilisierung. Das ist die Ausgangsposition.",
+      "Halte den Ellenbogen leicht gebeugt und senke den Arm beim Einatmen in einem weiten Bogen seitlich ab, bis du eine Dehnung in der Brust spürst.",
+      "Führe den Arm beim Ausatmen auf demselben Weg zurück und spanne die Brust an.",
+      "Halte oben kurz und wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Wechsle anschließend den Arm."
+    ]
+  },
+  "One-Arm_High-Pulley_Cable_Side_Bends": {
+    "name": "Einarmige Seitbeuge am hohen Kabelzug",
+    "instructions": [
+      "Befestige einen Einzelgriff am höchsten Punkt des Kabelzugs.",
+      "Stelle dich seitlich zur Maschine und greife den Griff mit der kabelnahen Hand im Untergriff.",
+      "Ziehe den Griff nach unten, bis der Ellenbogen am Körper liegt und sich der Griff neben der Schulter befindet.",
+      "Stelle die Füße hüftbreit auf und lege die freie Hand an die Hüfte.",
+      "Halte den Arm ruhig und beuge den Oberkörper mithilfe der seitlichen Bauchmuskulatur zur Kabelseite.",
+      "Halte die maximale Anspannung kurz und kehre langsam zurück. Setze das Gewicht zwischen den Wiederholungen nicht ab.",
+      "Wiederhole die Bewegung bis zum Muskelversagen.",
+      "Wechsle anschließend die Seite."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "Chair_Lower_Back_Stretch": {
+    "name": "Seitliche Rückenstreckung auf dem Stuhl",
+    "instructions": [
+      "Setze dich aufrecht auf einen Stuhl.",
+      "Neige dich zu einer Seite und führe den Arm über den Kopf. Mit der freien Hand kannst du dich am Stuhl festhalten.",
+      "Halte die Position 10 Sekunden und wiederhole die Dehnung auf der anderen Seite."
+    ]
+  },
+  "Chair_Squat": {
+    "name": "Kniebeuge an der geführten Maschine",
+    "instructions": [
+      "Stelle die Stange passend zu deiner Körpergröße ein. Belade sie, gehe darunter und positioniere sie auf dem oberen Rücken.",
+      "Greife die Stange, entriegele sie und hebe sie durch Strecken der Beine aus der Halterung.",
+      "Stelle die Füße etwa 45 cm vor die Stange, ungefähr schulterbreit und mit leicht nach außen gedrehten Zehen. Halte den Blick nach vorn und die Wirbelsäule neutral oder leicht gestreckt. Das ist die Ausgangsposition.",
+      "Beuge die Knie und senke dich langsam ab, während der Oberkörper aufrecht bleibt. Gehe so tief, bis der Winkel zwischen Ober- und Unterschenkel kleiner als 90 Grad ist.",
+      "Drücke dich beim Ausatmen über die Fersen nach oben, strecke die Knie und kehre in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Chair_Upper_Body_Stretch": {
+    "name": "Oberkörperdehnung am Stuhl",
+    "instructions": [
+      "Setze dich an die Vorderkante eines Stuhls und greife die Rückenlehne.",
+      "Strecke die Arme, halte den Rücken gerade und bewege den Oberkörper nach vorn, bis du eine Dehnung spürst. Halte die Position 20 bis 30 Sekunden."
+    ]
+  },
+  "Chest_And_Front_Of_Shoulder_Stretch": {
+    "name": "Brust- und vordere Schulterdehnung",
+    "instructions": [
+      "Stelle dich mit geschlossenen Beinen aufrecht hin und halte einen Bodybar oder Besenstiel.",
+      "Greife die Stange etwas weiter als schulterbreit im Obergriff und halte sie vor dem Körper.",
+      "Hebe die Stange vorsichtig über den Kopf und so weit wie angenehm hinter den Körper."
+    ]
+  },
+  "Chest_Push_from_3_point_stance": {
+    "name": "Medizinball-Bruststoß aus dem Dreipunktstand",
+    "instructions": [
+      "Gehe in einen tiefen Dreipunktstand mit flachem Rücken und einer Hand am Boden. Lege den Medizinball direkt vor dich.",
+      "Mache den ersten Schritt und ziehe den Ball gleichzeitig mit beiden Händen zur Brust.",
+      "Stoße den Ball beim zweiten Schritt so explosiv und kraftvoll wie möglich nach vorn."
+    ]
+  },
+  "Chest_Push_multiple_response": {
+    "name": "Mehrfacher Medizinball-Bruststoß",
+    "instructions": [
+      "Knie dich vor eine Wand oder einen Trainingspartner und halte den Medizinball eng mit beiden Händen vor der Brust.",
+      "Strecke Hüfte und Oberkörper explosiv nach vorn und stoße den Ball so kraftvoll wie möglich weg.",
+      "Lass dich nach vorn fallen und fange dich mit den Händen ab.",
+      "Richte dich sofort wieder auf und wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Chest_Push_single_response": {
+    "name": "Einmaliger Medizinball-Bruststoß",
+    "instructions": [
+      "Knie dich hin und halte den Medizinball eng mit beiden Händen vor der Brust.",
+      "Strecke Hüfte und Oberkörper explosiv nach vorn und stoße den Ball so weit wie möglich weg.",
+      "Lass dich kontrolliert nach vorn fallen und fange dich mit den Händen ab."
+    ]
+  },
+  "Chest_Push_with_Run_Release": {
+    "name": "Medizinball-Bruststoß mit anschließendem Sprint",
+    "instructions": [
+      "Nimm eine athletische Ausgangsposition mit gebeugten Knien, nach hinten geschobener Hüfte und flachem Rücken ein. Halte den Medizinball nahe an den Beinen.",
+      "Ziehe den Medizinball beim ersten Schritt zur Brust.",
+      "Stoße den Ball beim zweiten Schritt explosiv nach vorn und sprinte unmittelbar danach etwa 9 Meter."
+    ]
+  },
+  "Chest_Stretch_on_Stability_Ball": {
+    "name": "Brustdehnung auf dem Gymnastikball",
+    "instructions": [
+      "Gehe neben einem Gymnastikball in den Vierfüßlerstand.",
+      "Lege einen Ellenbogen auf den Ball und führe den Oberarm seitlich vom Körper weg. Das ist die Ausgangsposition.",
+      "Senke den Oberkörper zum Boden, während der Ellenbogen auf dem Ball bleibt. Halte die Dehnung 20 bis 30 Sekunden und wechsle anschließend den Arm."
+    ]
+  },
+  "Childs_Pose": {
+    "name": "Kindhaltung",
+    "instructions": [
+      "Gehe in den Vierfüßlerstand und wandere mit den Händen nach vorn.",
+      "Schiebe das Gesäß nach hinten auf die Fersen und lasse die Arme über den Boden nach vorn gleiten, um die Wirbelsäule zu dehnen.",
+      "Lege die Hände neben die Füße, entspanne den Rücken und lege die Stirn auf den Boden. Vermeide diese Position bei Knieproblemen."
+    ]
+  },
+  "Chin-Up": {
+    "name": "Klimmzug im Untergriff",
+    "instructions": [
+      "Greife die Klimmzugstange enger als schulterbreit im Untergriff, sodass die Handflächen zu dir zeigen.",
+      "Hänge mit gestreckten Armen und möglichst aufrechtem Oberkörper. Hebe die Brust leicht an. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen nach oben, bis sich der Kopf ungefähr auf Höhe der Stange befindet. Halte die Ellenbogen nah am Körper und konzentriere dich auf Bizeps und Latissimus.",
+      "Halte die obere Position kurz und senke dich beim Einatmen langsam bis zur vollständigen Armstreckung ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Chin_To_Chest_Stretch": {
+    "name": "Nackendehnung mit Kinn zur Brust",
+    "instructions": [
+      "Setze dich auf den Boden.",
+      "Verschränke die Finger am Hinterkopf, richte die Ellenbogen nach vorn und ziehe den Kopf langsam in Richtung Brust. Halte die Position 20 bis 30 Sekunden."
+    ]
+  },
+  "Circus_Bell": {
+    "name": "Circus Dumbbell",
+    "instructions": [
+      "Die Circus Dumbbell ist eine übergroße Kurzhantel mit dickem Griff. Stelle sie zwischen deine Füße und greife den Griff mit beiden Händen.",
+      "Setze die Hantel durch kraftvolles Strecken von Hüfte und Knien zur gewünschten Schulter um und löse anschließend die unterstützende Hand.",
+      "Positioniere einen Hantelkopf hinter der Schulter, um das Gleichgewicht zu halten. Beuge die Knie leicht und drücke die Hantel anschließend explosiv über den Kopf, während du dich etwas von ihr wegneigst.",
+      "Führe die Hantel kontrolliert zum Boden zurück. Verwende möglichst eine dicke Gummimatte."
+    ]
+  },
+  "Clean": {
+    "name": "Umsetzen",
+    "instructions": [
+      "Stelle dich mit der Langhantel nahe an den Schienbeinen auf. Greife sie knapp außerhalb der Beine im Ober- oder Hakengriff. Senke die Hüfte, halte Rücken und Brust stabil und positioniere die Schultern leicht vor der Stange. Das ist die Ausgangsposition.",
+      "Drücke dich für den ersten Zug über die Fersen ab und strecke die Knie. Halte den Rückenwinkel konstant und die Arme gestreckt, bis die Stange die Knie passiert.",
+      "Strecke beim zweiten Zug Hüfte, Knie und Sprunggelenke explosiv wie bei einem Sprung. Beschleunige die Stange eng am Körper nach oben, ohne aktiv mit den Armen zu ziehen.",
+      "Ziehe nach vollständiger Streckung die Schultern kraftvoll hoch, beuge die Arme und ziehe dich unter die Stange. Drehe die Ellenbogen schnell nach vorn und fange die Stange in einer Frontkniebeuge auf den vorderen Schultern.",
+      "Stehe unmittelbar über die Fersen auf, halte den Oberkörper aufrecht und die Ellenbogen hoch.",
+      "Beende die Wiederholung im stabilen aufrechten Stand."
+    ]
+  },
+  "Clean_Deadlift": {
+    "name": "Clean-Kreuzheben",
+    "instructions": [
+      "Stelle dich mit hüftbreiten Füßen und leicht nach außen gedrehten Zehen vor die Langhantel. Greife sie etwa schulterbreit im doppelten Ober- oder Hakengriff. Senke dich zur Stange, halte die Wirbelsäule gestreckt und die Schultern leicht vor der Stange.",
+      "Drücke den Boden über den vorderen Bereich der Fersen weg. Halte den Rückenwinkel konstant und führe die Knie seitlich nach außen, damit die Stange frei passieren kann.",
+      "Strecke nach dem Passieren der Knie Hüfte und Knie vollständig und führe die Hüfte zur Stange."
+    ]
+  },
+  "Clean_Pull": {
+    "name": "Clean Pull",
+    "instructions": [
+      "Stelle dich mit der Langhantel nahe an den Schienbeinen auf. Greife sie knapp außerhalb der Beine im Ober- oder Hakengriff. Senke die Hüfte, halte Rücken und Brust stabil und positioniere die Schultern leicht vor der Stange. Das ist die Ausgangsposition.",
+      "Drücke dich über die Fersen ab und strecke die Knie. Halte Rückenwinkel und Arme stabil, während die Stange kontrolliert bis über die Knie steigt.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv, sobald die Stange die Oberschenkelmitte erreicht. Beschleunige die Stange eng am Körper nach oben und beende die Bewegung mit einer kurzen, kraftvollen Ganzkörperstreckung."
+    ]
+  },
+  "Clean_Shrug": {
+    "name": "Clean Shrug",
+    "instructions": [
+      "Halte die Langhantel etwa schulterbreit im doppelten Ober- oder Hakengriff auf Höhe der Oberschenkelmitte. Halte den Rücken gerade und leicht nach vorn geneigt.",
+      "Ziehe die Schultern explosiv in Richtung Ohren. Verwende nur so viel Gewicht, dass die Bewegung schnell und sauber bleibt."
+    ]
+  },
+  "Clean_and_Jerk": {
+    "name": "Umsetzen und Stoßen",
+    "instructions": [
+      "Stelle dich mit der Langhantel nahe an den Schienbeinen auf. Greife sie knapp außerhalb der Beine im Ober- oder Hakengriff. Senke die Hüfte, halte Rücken und Brust stabil und positioniere die Schultern leicht vor der Stange.",
+      "Drücke dich über die Fersen ab und strecke die Knie. Halte Rückenwinkel und Arme stabil, bis die Stange die Knie passiert.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und beschleunige die Stange eng am Körper nach oben.",
+      "Ziehe dich unter die Stange, drehe die Ellenbogen schnell nach vorn und fange sie in einer Frontkniebeuge auf den vorderen Schultern.",
+      "Stehe über die Fersen auf, halte den Oberkörper aufrecht und die Ellenbogen hoch.",
+      "Beginne das Stoßen mit einer kurzen, geraden Kniebeuge. Die Füße stehen unter der Hüfte und die Hüfte bleibt unter dem Oberkörper.",
+      "Drücke dich maximal kraftvoll über die Fersen ab und beschleunige die Stange von den Schultern nach oben. Bewege den Kopf aus dem Weg.",
+      "Setze die Füße schnell in eine Schrittstellung, während du dich unter die Stange drückst. Fange sie mit vollständig gestreckten Armen über dem Kopf und kehre anschließend kontrolliert in den aufrechten Stand zurück."
+    ]
+  }
+}

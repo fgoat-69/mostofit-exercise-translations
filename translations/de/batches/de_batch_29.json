@@ -1,0 +1,184 @@
+{
+  "Overhead_Slam": {
+    "name": "Medizinball-Slam über Kopf",
+    "instructions": [
+      "Halte einen Medizinball mit beiden Händen und stelle die Füße schulterbreit auf. Das ist die Ausgangsposition.",
+      "Hebe den Ball über den Kopf und strecke den gesamten Körper.",
+      "Kehre die Bewegung explosiv um und schleudere den Ball direkt vor dir so kraftvoll wie möglich auf den Boden.",
+      "Fange den zurückspringenden Ball mit beiden Händen und wiederhole die Bewegung."
+    ]
+  },
+  "Overhead_Squat": {
+    "name": "Überkopf-Kniebeuge",
+    "instructions": [
+      "Lege eine Langhantel vor dir auf den Boden und stelle die Füße weiter als schulterbreit auf.",
+      "Beuge die Knie und greife die Stange weit im Obergriff. Hebe sie an und bringe sie zunächst zur Brust.",
+      "Führe die Langhantel über und leicht hinter den Kopf und strecke die Arme vollständig. Halte den Kopf aufrecht, den Rücken stabil und die Schulterblätter zurückgezogen. Das ist die Ausgangsposition.",
+      "Beuge die Knie beim Einatmen und senke dich kontrolliert ab, bis die Oberschenkel ungefähr parallel zum Boden stehen. Halte die Arme während der gesamten Bewegung gestreckt über dem Kopf.",
+      "Drücke dich beim Ausatmen über Füße und Beine zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Overhead_Stretch": {
+    "name": "Überkopf-Ganzkörperdehnung",
+    "instructions": [
+      "Stelle dich aufrecht hin, verschränke die Finger und drehe die Handflächen zur Decke. Halte die Schultern unten und strecke die Arme nach oben.",
+      "Ziehe das Steißbein nach unten und stabilisiere den Oberkörper, um die Vorder- und Rückseite des Rumpfs vollständig zu dehnen."
+    ]
+  },
+  "Overhead_Triceps": {
+    "name": "Trizepsdehnung über Kopf mit Partner",
+    "instructions": [
+      "Setze dich aufrecht auf den Boden. Dein Trainingspartner steht hinter dir. Strecke einen Arm nach oben, beuge den Ellenbogen und führe die Hand zum Rücken. Dein Partner hält Ellenbogen und Handgelenk. Das ist die Ausgangsposition.",
+      "Versuche, den Arm nach oben zu strecken, während dein Partner jede Bewegung verhindert.",
+      "Entspanne nach 10 bis 20 Sekunden und lass deinen Partner durch sanften Druck am Handgelenk die Trizepsdehnung vertiefen. Halte weitere 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Pallof_Press": {
+    "name": "Pallof Press",
+    "instructions": [
+      "Befestige einen Einzelgriff am Kabelzug und stelle die Rolle möglichst auf Schulterhöhe ein. Alternativ kann ein unterer Kabelzug verwendet werden.",
+      "Stelle dich seitlich zur Maschine, greife den Griff mit beiden Händen und gehe etwa eine Armlänge vom Kabelzug weg.",
+      "Stelle die Füße hüftbreit auf, beuge die Knie leicht und halte den Griff mittig vor der Brust. Das ist die Ausgangsposition.",
+      "Drücke den Griff von der Brust weg und strecke beide Arme vollständig. Halte den Rumpf fest und verhindere eine Drehung.",
+      "Halte die Position mehrere Sekunden und führe den Griff anschließend kontrolliert zurück.",
+      "Wechsle nach dem Satz die Seite."
+    ]
+  },
+  "Pallof_Press_With_Rotation": {
+    "name": "Pallof Press mit Rotation",
+    "instructions": [
+      "Befestige einen Einzelgriff am Kabelzug und stelle die Rolle auf Schulterhöhe ein.",
+      "Stelle dich seitlich zur Maschine, greife den Griff mit einer Hand und gehe etwa eine Armlänge vom Kabelzug weg. Richte den gestreckten Arm in einer Linie mit dem Kabel aus.",
+      "Stelle die Füße hüftbreit auf, ziehe den Griff zur Brust und greife ihn zusätzlich mit der anderen Hand.",
+      "Richte den Blick nach vorn und drücke den Griff von der Brust weg. Halte den Rumpf fest.",
+      "Halte die Hüfte gerade und drehe den Oberkörper etwa um eine Vierteldrehung vom Kabelzug weg.",
+      "Halte Arme und Standposition stabil und kehre langsam in die neutrale Position zurück.",
+      "Ziehe die Hände zur Brust und drücke sie unmittelbar wieder vollständig nach vorn. Das zählt als eine Wiederholung.",
+      "Wiederhole die Bewegung bis zum Muskelversagen.",
+      "Wechsle anschließend die Seite."
+    ]
+  },
+  "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench": {
+    "name": "Kurzhantel-Handgelenkcurl im Obergriff über der Bank",
+    "instructions": [
+      "Lege zwei Kurzhanteln neben eine Flachbank.",
+      "Knie dich vor die Bank.",
+      "Greife beide Kurzhanteln im Obergriff und lege die Unterarme auf der Bank ab. Die Handgelenke ragen über die Kante hinaus.",
+      "Strecke die Handgelenke beim Ausatmen nach oben.",
+      "Senke die Handgelenke beim Einatmen langsam zurück.",
+      "Halte die Unterarme während der gesamten Bewegung ruhig. Nur die Handgelenke bewegen sich.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Palms-Down_Wrist_Curl_Over_A_Bench": {
+    "name": "Langhantel-Handgelenkcurl im Obergriff über der Bank",
+    "instructions": [
+      "Lege eine Langhantel neben eine Flachbank.",
+      "Knie dich vor die Bank.",
+      "Greife die Langhantel im Obergriff und lege die Unterarme auf der Bank ab. Die Handgelenke ragen über die Kante hinaus.",
+      "Strecke die Handgelenke beim Ausatmen nach oben.",
+      "Senke die Handgelenke beim Einatmen langsam zurück.",
+      "Halte die Unterarme während der gesamten Bewegung ruhig. Nur die Handgelenke bewegen sich.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench": {
+    "name": "Langhantel-Handgelenkcurl im Untergriff über der Bank",
+    "instructions": [
+      "Lege eine Langhantel neben eine Flachbank.",
+      "Knie dich vor die Bank.",
+      "Greife die Langhantel im Untergriff und lege die Unterarme auf der Bank ab. Die Handgelenke ragen über die Kante hinaus.",
+      "Beuge die Handgelenke beim Ausatmen nach oben.",
+      "Senke die Handgelenke beim Einatmen langsam zurück.",
+      "Halte die Unterarme während der gesamten Bewegung ruhig. Nur die Handgelenke bewegen sich.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench": {
+    "name": "Kurzhantel-Handgelenkcurl im Untergriff über der Bank",
+    "instructions": [
+      "Lege zwei Kurzhanteln neben eine Flachbank.",
+      "Knie dich vor die Bank.",
+      "Greife beide Kurzhanteln im Untergriff und lege die Unterarme auf der Bank ab. Die Handgelenke ragen über die Kante hinaus.",
+      "Beuge die Handgelenke beim Ausatmen nach oben.",
+      "Senke die Handgelenke beim Einatmen langsam zurück.",
+      "Halte die Unterarme während der gesamten Bewegung ruhig. Nur die Handgelenke bewegen sich.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Parallel_Bar_Dip": {
+    "name": "Dips am Parallelbarren",
+    "instructions": [
+      "Stelle dich zwischen den Parallelbarren, greife beide Holme und springe leicht hoch, um mit vollständig gestreckten Armen in die Ausgangsposition zu kommen.",
+      "Beuge die Ellenbogen und senke den Körper kontrolliert ab, bis der Ellenbogenwinkel etwas kleiner als 90 Grad ist. Vermeide Schwung und halte den Oberkörper stabil.",
+      "Drücke dich durch Strecken der Ellenbogen zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Pelvic_Tilt_Into_Bridge": {
+    "name": "Beckenkippung zur Brücke",
+    "instructions": [
+      "Lege dich auf den Rücken, stelle die Füße auf und positioniere die Fersen direkt unter den Knien.",
+      "Hebe zunächst nur das Steißbein in Richtung Decke, um den unteren Rücken zu dehnen. Spanne dabei den Bauch an.",
+      "Hebe anschließend die gesamte Wirbelsäule außer dem Nacken an und gehe in eine Brückenposition."
+    ]
+  },
+  "Peroneals-SMR": {
+    "name": "Peroneus-Selbstmassage",
+    "instructions": [
+      "Lege dich seitlich auf den Unterarm und positioniere eine Faszienrolle unter der Außenseite des Unterschenkels. Das obere Bein kann auf dem unteren liegen oder davor aufgestellt werden. Das ist die Ausgangsposition.",
+      "Hebe die Hüfte an und rolle von knapp unterhalb des Knies bis oberhalb des Sprunggelenks. Halte verspannte Punkte 10 bis 30 Sekunden und wechsle anschließend das Bein."
+    ]
+  },
+  "Peroneals_Stretch": {
+    "name": "Peroneus-Dehnung",
+    "instructions": [
+      "Setze dich hin und lege einen Gurt, ein Seil oder ein Band um einen Fuß. Das ist die Ausgangsposition.",
+      "Strecke das Bein aus, hebe die Ferse vom Boden ab und ziehe am Gurt, sodass die Fußsohle nach innen gedreht wird. Halte die Dehnung 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Physioball_Hip_Bridge": {
+    "name": "Hüftbrücke auf dem Gymnastikball",
+    "instructions": [
+      "Lege den oberen Rücken auf einen Gymnastikball, während die Hüfte frei bleibt. Stelle beide Füße hüftbreit oder weiter auf den Boden. Das ist die Ausgangsposition.",
+      "Strecke die Hüfte mithilfe von Gesäß und hinteren Oberschenkeln nach oben.",
+      "Halte oben kurz und senke die Hüfte kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Pin_Presses": {
+    "name": "Pin Press",
+    "instructions": [
+      "Pin Presses entfernen die exzentrische Phase des Bankdrückens und trainieren die Startkraft. Außerdem lässt sich damit ein bestimmter Bewegungsabschnitt gezielt trainieren.",
+      "Stelle eine Bank in ein Power Rack und positioniere die Sicherheitsablagen auf der gewünschten Höhe, etwa knapp über der Brust oder nahe der vollständigen Streckung. Lege die Langhantel auf den Ablagen bereit.",
+      "Lege dich so auf die Bank, dass die Stange über dem üblichen Berührungspunkt liegt. Ziehe die Füße unter den Körper, bilde ein kontrolliertes Hohlkreuz und ziehe die Schulterblätter zusammen. Halte diese Ganzkörperspannung während der gesamten Bewegung.",
+      "Greife die Stange in normaler Bankdrückbreite oder etwa schulterbreit, um den Trizeps stärker zu belasten. Halte Stange, Handgelenke und Ellenbogen möglichst in einer Linie.",
+      "Drücke die Stange so kraftvoll wie möglich nach oben. Halte die Ellenbogen bis zur vollständigen Streckung nah am Körper.",
+      "Senke die Stange zurück auf die Sicherheitsablagen und pausiere kurz vor der nächsten Wiederholung."
+    ]
+  },
+  "Piriformis-SMR": {
+    "name": "Piriformis-Selbstmassage",
+    "instructions": [
+      "Setze dich mit dem Gesäß auf eine Faszienrolle. Beuge die Knie und lege einen Knöchel auf das gegenüberliegende Knie. Das ist die Ausgangsposition.",
+      "Verlagere das Gewicht auf die Seite des überkreuzten Beins und rolle über das Gesäß, bis du Spannung im oberen Gesäßbereich spürst. Ziehe das gebeugte Knie bei Bedarf leicht zur Brust. Halte die Position 10 bis 30 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Plank": {
+    "name": "Unterarmstütz",
+    "instructions": [
+      "Gehe in Bauchlage und stütze dich auf Unterarmen und Zehen ab. Die Ellenbogen befinden sich direkt unter den Schultern.",
+      "Halte den Körper durchgehend in einer geraden Linie und die Position so lange wie vorgesehen. Für eine schwierigere Variante kannst du einen Arm oder ein Bein anheben."
+    ]
+  },
+  "Plate_Pinch": {
+    "name": "Hantelscheiben-Klemmgriff",
+    "instructions": [
+      "Lege zwei Hantelscheiben mit den glatten Seiten nach außen aneinander.",
+      "Greife die Scheiben mit den Fingern auf der einen und dem Daumen auf der anderen Seite. Das ist die Ausgangsposition.",
+      "Drücke die Scheiben mit Fingern und Daumen fest zusammen und halte die Position so lange wie möglich.",
+      "Wiederhole die Übung für die im Trainingsplan vorgesehene Anzahl an Sätzen.",
+      "Wechsle anschließend den Arm."
+    ]
+  }
+}

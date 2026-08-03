@@ -1,0 +1,170 @@
+{
+  "Cable_Shoulder_Press": {
+    "name": "Schulterdrücken am Kabelzug",
+    "instructions": [
+      "Stelle die Kabelzüge ganz nach unten und wähle ein geeignetes Gewicht.",
+      "Stelle dich mittig zwischen die Türme, greife die Kabel und halte die Hände mit nach vorn gerichteten Handflächen auf Schulterhöhe. Das ist die Ausgangsposition.",
+      "Halte Kopf und Brust aufrecht und drücke die Griffe durch Strecken der Ellenbogen direkt über den Kopf.",
+      "Halte oben kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Cable_Shrugs": {
+    "name": "Schulterheben am Kabelzug",
+    "instructions": [
+      "Greife eine gerade Stange am unteren Kabelzug schulterbreit oder etwas weiter im Obergriff.",
+      "Stelle dich aufrecht nahe an die Rolle und halte die Stange mit gestreckten Armen vor dem Körper. Das ist die Ausgangsposition.",
+      "Ziehe die Schultern beim Ausatmen so hoch wie möglich und halte die Anspannung kurz. Die Arme bleiben gestreckt und der Bizeps hilft nicht mit.",
+      "Senke die Schultern langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Cable_Wrist_Curl": {
+    "name": "Handgelenkcurl am Kabelzug",
+    "instructions": [
+      "Stelle eine Flachbank vor einen unteren Kabelzug mit gerader Stange.",
+      "Greife die Stange eng bis schulterbreit im Untergriff und lege die Unterarme auf den Oberschenkeln ab. Die Handgelenke ragen knapp über die Knie hinaus.",
+      "Beuge die Handgelenke beim Ausatmen nach oben und halte die Anspannung kurz.",
+      "Senke die Handgelenke beim Einatmen langsam zurück.",
+      "Die Unterarme bleiben während der gesamten Bewegung ruhig.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Calf-Machine_Shoulder_Shrug": {
+    "name": "Schulterheben an der Wadenmaschine",
+    "instructions": [
+      "Stelle dich so in die Wadenmaschine, dass die Polster auf deinen Schultern liegen. Halte den Oberkörper aufrecht und die Arme seitlich gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe die Schultern beim Ausatmen in Richtung Ohren und halte die Anspannung eine Sekunde.",
+      "Senke die Schultern beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Calf_Press": {
+    "name": "Wadenpressen an der Maschine",
+    "instructions": [
+      "Stelle den Sitz so ein, dass die Knie in der Ausgangsposition nur leicht gebeugt sind. Die Fußballen stehen fest auf der Plattform.",
+      "Wähle ein geeignetes Gewicht und greife die Griffe. Das ist die Ausgangsposition.",
+      "Strecke die Knie fast vollständig und löse das Gewicht leicht vom Stapel. Senke die Fersen kontrolliert ab und drücke anschließend über die Fußballen so weit wie möglich nach unten.",
+      "Halte kurz, kehre kontrolliert zurück und wiederhole die Bewegung."
+    ]
+  },
+  "Calf_Press_On_The_Leg_Press_Machine": {
+    "name": "Wadenpressen an der Beinpresse",
+    "instructions": [
+      "Setze dich an die Beinpresse und stelle die Füße etwa schulterbreit auf die Plattform.",
+      "Drücke die Plattform hoch, ohne die Knie zu verriegeln. Platziere anschließend nur Zehen und Fußballen am unteren Rand der Plattform, sodass die Fersen frei hängen. Das ist die Ausgangsposition.",
+      "Hebe die Fersen beim Ausatmen so weit wie möglich an und spanne die Waden kräftig an. Halte die Knie während der gesamten Bewegung ruhig.",
+      "Senke die Fersen beim Einatmen langsam ab, bis die Waden gedehnt sind.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Calf_Raise_On_A_Dumbbell": {
+    "name": "Wadenheben auf einer Kurzhantel",
+    "instructions": [
+      "Halte dich zur Stabilisierung an einem festen Gegenstand fest und stelle einen Fuß auf den Griff einer Kurzhantel.",
+      "Rolle den Fuß leicht nach vorn, bis du eine deutliche Wadendehnung spürst. Das ist die Ausgangsposition.",
+      "Rolle den Fuß über den Griff und hebe die Ferse beim Ausatmen so hoch wie möglich. Spanne die Wade oben kurz an.",
+      "Senke die Ferse beim Einatmen kontrolliert ab und rolle die Kurzhantel leicht nach vorn, um die Wade zu dehnen.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Calf_Raises_-_With_Bands": {
+    "name": "Wadenheben mit Widerstandsband",
+    "instructions": [
+      "Stelle dich mit den Fußballen mittig auf ein Widerstandsband und achte darauf, dass beide Seiten gleich lang sind.",
+      "Halte die Griffe neben dem Kopf wie beim Schulterdrücken. Die Handflächen zeigen nach vorn und die Ellenbogen sind gebeugt. Das ist die Ausgangsposition.",
+      "Halte die Hände an den Schultern, drücke dich beim Ausatmen auf die Zehenspitzen und spanne die Waden oben kräftig an.",
+      "Halte kurz und senke dich langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Calf_Stretch_Elbows_Against_Wall": {
+    "name": "Wadendehnung mit Unterarmen an der Wand",
+    "instructions": [
+      "Stelle dich mit etwas Abstand vor eine Wand.",
+      "Lehne dich mit den Unterarmen gegen die Wand.",
+      "Halte die Fersen am Boden und die Dehnung 10 bis 20 Sekunden. Verändere den Abstand zur Wand, um die Intensität anzupassen."
+    ]
+  },
+  "Calf_Stretch_Hands_Against_Wall": {
+    "name": "Wadendehnung mit Händen an der Wand",
+    "instructions": [
+      "Stelle dich mehrere Schritte vor eine Wand und setze einen Fuß nach vorn.",
+      "Lehne dich nach vorn und stütze die Hände an der Wand ab. Halte Ferse, Hüfte und Kopf möglichst in einer Linie.",
+      "Drücke die hintere Ferse zum Boden, halte die Dehnung 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Calves-SMR": {
+    "name": "Waden-Selbstmassage",
+    "instructions": [
+      "Setze dich auf den Boden und lege eine Faszienrolle unter einen Unterschenkel. Das andere Bein kann darüber gekreuzt oder zur Entlastung auf dem Boden abgestellt werden.",
+      "Stütze die Hände seitlich oder hinter dir ab, hebe die Hüfte an und rolle die Wade vom Bereich unterhalb des Knies bis oberhalb des Sprunggelenks. Halte verspannte Punkte 10 bis 30 Sekunden und wechsle anschließend das Bein."
+    ]
+  },
+  "Car_Deadlift": {
+    "name": "Autokreuzheben",
+    "instructions": [
+      "Das Strongman-Gerät besitzt meist neutrale Griffe und kann mit einem Fahrzeug oder anderen schweren Lasten beladen werden.",
+      "Stelle dich je nach deiner stärkeren Hebetechnik mittig oder leicht nach hinten versetzt zwischen die Griffe. Die Füße stehen etwa hüftbreit. Greife die Griffe, atme tief ein, senke die Hüfte und beuge die Knie.",
+      "Halte Kopf und Brust aufrecht sowie den Rücken stabil. Drücke dich über die Fersen nach oben, ziehe die Schulterblätter zusammen und strecke die Hüfte nach vorn.",
+      "Senke das Gewicht durch Beugen der Hüfte kontrolliert zum Boden zurück."
+    ]
+  },
+  "Car_Drivers": {
+    "name": "Lenkraddrehen mit Hantelscheibe",
+    "instructions": [
+      "Halte im aufrechten Stand eine Hantelscheibe mit beiden Händen auf der Drei- und Neun-Uhr-Position. Strecke die Arme gerade vor dir aus. Das ist die Ausgangsposition.",
+      "Drehe die Scheibe wie ein Lenkrad so weit wie möglich zu einer Seite.",
+      "Kehre die Bewegung um und drehe vollständig zur anderen Seite.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Carioca_Quick_Step": {
+    "name": "Carioca-Schnellschritt",
+    "instructions": [
+      "Stelle die Füße wenige Zentimeter auseinander und nimm eine lockere, athletische Haltung ein.",
+      "Setze den rechten Fuß schnell hinter den linken und ziehe das rechte Knie anschließend nach oben.",
+      "Arbeite die Arme aktiv mit, führe das Knie gerade nach oben und unten und vermeide es, die Füße während der Seitwärtsbewegung stark zu verdrehen. Halte den Blick nach vorn."
+    ]
+  },
+  "Cat_Stretch": {
+    "name": "Katzenbuckel-Dehnung",
+    "instructions": [
+      "Gehe auf Händen und Knien in den Vierfüßlerstand.",
+      "Ziehe den Bauch ein, runde unteren und oberen Rücken sowie Nacken und lass den Kopf locker sinken.",
+      "Halte die Position 15 Sekunden."
+    ]
+  },
+  "Catch_and_Overhead_Throw": {
+    "name": "Fangen und Überkopfwurf",
+    "instructions": [
+      "Stelle dich vor eine Wand oder einen Trainingspartner.",
+      "Halte den Medizinball mit beiden Händen hinter dem Kopf, nutze die Dehnung und wirf ihn kraftvoll nach vorn.",
+      "Führe die Bewegung vollständig aus und bereite dich auf den Rückprall oder Rückwurf vor. Bei einer Wand solltest du nah genug stehen und etwas höher zielen."
+    ]
+  },
+  "Chain_Handle_Extension": {
+    "name": "Trizepsstrecken mit Ketten und Griffen",
+    "instructions": [
+      "Befestige die Mitte von Ketten an zwei Kabelgriffen und lege dich auf eine Flachbank. Die Ellenbogen zeigen senkrecht nach oben.",
+      "Halte die Oberarme ruhig und strecke die Ellenbogen mit nach unten gerichteten Handflächen.",
+      "Halte die vollständige Streckung kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Chain_Press": {
+    "name": "Kettendrücken",
+    "instructions": [
+      "Lege dich auf eine Flachbank und halte die Enden einer Kette mit beiden Händen über der Brust.",
+      "Senke die Hände kontrolliert seitlich zur Brust ab, während die Ellenbogen gebeugt werden.",
+      "Drücke die Kette anschließend kraftvoll nach oben und strecke die Arme."
+    ]
+  },
+  "Chair_Leg_Extended_Stretch": {
+    "name": "Beinstreckdehnung im Sitzen",
+    "instructions": [
+      "Setze dich aufrecht auf einen Stuhl und halte dich seitlich an der Sitzfläche fest.",
+      "Hebe ein Bein an, strecke das Knie und ziehe dabei die Fußspitze an.",
+      "Führe das gestreckte Bein langsam so weit wie möglich nach außen und anschließend zurück zur Mitte und nach unten.",
+      "Wiederhole die Bewegung mit dem anderen Bein."
+    ]
+  }
+}

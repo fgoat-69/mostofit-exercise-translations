@@ -1,0 +1,166 @@
+{
+  "Leg-Up_Hamstring_Stretch": {
+    "name": "Dehnung der hinteren Oberschenkel mit angehobenem Bein",
+    "instructions": [
+      "Lege dich auf den Rücken, beuge ein Knie und stelle den Fuß flach auf, um die Wirbelsäule zu stabilisieren.",
+      "Hebe das andere Bein an und strecke das Knie so weit wie möglich, sodass die Fußsohle zur Decke zeigt.",
+      "Strecke das Bein langsam weiter und ziehe es anschließend vorsichtig in Richtung Nase. Wechsle danach die Seite."
+    ]
+  },
+  "Leg_Extensions": {
+    "name": "Beinstrecken an der Maschine",
+    "instructions": [
+      "Wähle das Gewicht und setze dich an die Beinstreckmaschine. Positioniere die Unterschenkel unter dem Polster und greife die seitlichen Griffe. Stelle das Polster knapp oberhalb der Füße ein und achte auf einen Kniebeugewinkel von ungefähr 90 Grad. Das ist die Ausgangsposition.",
+      "Strecke die Beine beim Ausatmen mit dem Quadrizeps vollständig. Halte den Oberkörper ruhig und die Endposition kurz.",
+      "Senke das Gewicht beim Einatmen langsam zurück, ohne den 90-Grad-Winkel deutlich zu unterschreiten.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Leg_Lift": {
+    "name": "Beinheben nach hinten im Stand",
+    "instructions": [
+      "Stelle dich aufrecht und etwa schulterbreit hin. Halte dich zur Stabilisierung an einem festen Gegenstand fest.",
+      "Hebe ein Bein mit oder ohne Fußgelenkgewicht nach hinten an, ähnlich wie bei einem stehenden Beinbeuger. Halte das Standbein gestreckt und atme aus.",
+      "Senke das Bein beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Wechsle anschließend das Bein."
+    ]
+  },
+  "Leg_Press": {
+    "name": "Beinpresse",
+    "instructions": [
+      "Setze dich an die Beinpresse und stelle die Füße schulterbreit auf die Plattform.",
+      "Löse die Sicherheitsverriegelung und drücke die Plattform nach oben, bis die Beine fast vollständig gestreckt sind. Verriegele die Knie nicht. Das ist die Ausgangsposition.",
+      "Senke die Plattform beim Einatmen langsam ab, bis Ober- und Unterschenkel ungefähr einen 90-Grad-Winkel bilden.",
+      "Drücke die Plattform beim Ausatmen hauptsächlich über die Fersen zurück nach oben.",
+      "Wiederhole die Bewegung und sichere die Plattform nach dem Satz vollständig."
+    ]
+  },
+  "Leg_Pull-In": {
+    "name": "Knieanziehen",
+    "instructions": [
+      "Lege dich mit gestreckten Beinen auf eine Trainingsmatte. Lege die Hände seitlich mit den Handflächen nach unten oder unter das Gesäß. Das ist die Ausgangsposition.",
+      "Beuge die Knie beim Ausatmen und ziehe die Oberschenkel zur Körpermitte, bis sich die Knie nahe an der Brust befinden. Halte die Unterschenkel möglichst parallel zum Boden und spanne die Bauchmuskulatur oben kurz an.",
+      "Kehre beim Einatmen in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Leverage_Chest_Press": {
+    "name": "Brustdrücken an der plate-loaded Maschine",
+    "instructions": [
+      "Belade die Maschine passend und stelle den Sitz so ein, dass sich die Griffe zu Beginn im unteren oder mittleren Brustbereich befinden.",
+      "Halte Brust und Kopf aufrecht und ziehe die Schulterblätter zusammen. Das ist die Ausgangsposition.",
+      "Drücke die Griffe durch Strecken der Ellenbogen nach vorn.",
+      "Halte oben kurz und führe das Gewicht kontrolliert zurück, ohne es zwischen den Wiederholungen vollständig abzusetzen."
+    ]
+  },
+  "Leverage_Deadlift": {
+    "name": "Kreuzheben an der plate-loaded Maschine",
+    "instructions": [
+      "Belade die Maschine passend, stelle dich mittig zwischen die Griffe und greife die unteren Griffe. Senke die Hüfte, halte Brust und Kopf aufrecht und atme ein. Das ist die Ausgangsposition.",
+      "Drücke dich über die Füße nach oben, strecke Knie und Hüfte und senke das Gewicht anschließend kontrolliert zurück."
+    ]
+  },
+  "Leverage_Decline_Chest_Press": {
+    "name": "Negatives Brustdrücken an der plate-loaded Maschine",
+    "instructions": [
+      "Belade die Maschine passend und stelle den Sitz so ein, dass sich die Griffe zu Beginn im unteren Brustbereich befinden. Halte Brust und Kopf aufrecht und ziehe die Schulterblätter zusammen. Das ist die Ausgangsposition.",
+      "Drücke die Griffe durch Strecken der Ellenbogen nach vorn.",
+      "Halte oben kurz und führe das Gewicht kontrolliert zurück, ohne es zwischen den Wiederholungen vollständig abzusetzen."
+    ]
+  },
+  "Leverage_High_Row": {
+    "name": "Hohes Rudern an der plate-loaded Maschine",
+    "instructions": [
+      "Belade die Maschine passend und stelle Sitz und Kniepolster so ein, dass du die oberen Griffe erreichen kannst. Greife sie im Obergriff. Das ist die Ausgangsposition.",
+      "Ziehe die Griffe zum Oberkörper, beuge die Ellenbogen und führe die Schulterblätter zusammen.",
+      "Halte unten kurz und führe die Griffe langsam zurück.",
+      "Setze das Gewicht zwischen den Wiederholungen nicht vollständig ab, damit die Muskulatur unter Spannung bleibt."
+    ]
+  },
+  "Leverage_Incline_Chest_Press": {
+    "name": "Schräges Brustdrücken an der plate-loaded Maschine",
+    "instructions": [
+      "Belade die Maschine passend und stelle den Sitz so ein, dass sich die Griffe zu Beginn im oberen Brustbereich befinden. Halte Brust und Kopf aufrecht und ziehe die Schulterblätter zusammen. Das ist die Ausgangsposition.",
+      "Drücke die Griffe durch Strecken der Ellenbogen nach vorn.",
+      "Halte oben kurz und führe das Gewicht kontrolliert zurück, ohne es zwischen den Wiederholungen vollständig abzusetzen."
+    ]
+  },
+  "Leverage_Iso_Row": {
+    "name": "Iso-Rudern an der plate-loaded Maschine",
+    "instructions": [
+      "Belade die Maschine passend und stelle den Sitz so ein, dass sich die Griffe auf Brusthöhe befinden. Greife sie neutral oder im Obergriff. Das ist die Ausgangsposition.",
+      "Ziehe die Griffe zum Oberkörper, beuge die Ellenbogen und führe die Schulterblätter zusammen.",
+      "Halte unten kurz und führe die Griffe langsam zurück. Setze das Gewicht zwischen den Wiederholungen nicht vollständig ab."
+    ]
+  },
+  "Leverage_Shoulder_Press": {
+    "name": "Schulterdrücken an der plate-loaded Maschine",
+    "instructions": [
+      "Belade die Maschine passend und stelle den Sitz so ein, dass sich die Griffe zu Beginn auf Höhe der oberen Schultern befinden. Halte Brust und Kopf aufrecht und greife im Obergriff. Das ist die Ausgangsposition.",
+      "Drücke die Griffe durch Strecken der Ellenbogen nach oben.",
+      "Halte oben kurz und führe das Gewicht kontrolliert zurück, ohne es zwischen den Wiederholungen vollständig abzusetzen."
+    ]
+  },
+  "Leverage_Shrug": {
+    "name": "Schulterheben an der plate-loaded Maschine",
+    "instructions": [
+      "Belade die Maschine passend und stelle dich mittig zwischen die Griffe.",
+      "Greife die oberen Griffe, senke die Hüfte leicht und halte Brust und Kopf aufrecht.",
+      "Drücke dich über die Fersen in den Stand. Halte die Arme gestreckt und die Schultern zurück. Das ist die Ausgangsposition.",
+      "Ziehe die Schultern gerade nach oben in Richtung Ohren.",
+      "Halte oben kurz und senke die Schultern kontrolliert zurück."
+    ]
+  },
+  "Linear_3-Part_Start_Technique": {
+    "name": "Lineare Drei-Punkt-Starttechnik",
+    "instructions": [
+      "Diese Übung trainiert eine schnelle Beschleunigung aus dem Stillstand. Stelle beide Füße an eine Startlinie, den linken Fuß leicht vorn und den rechten etwa 10 bis 15 cm dahinter.",
+      "Setze die rechte Hand auf die Linie und bringe die Nase nahe zum linken Knie.",
+      "Gehe tief, lehne dich nach vorn und verlagere das Gewicht auf das linke Bein. Der Kopf liegt unterhalb der Hüfte. Das ist die Ausgangsposition.",
+      "Führe den linken Arm parallel zum Boden nach hinten und starte anschließend explosiv."
+    ]
+  },
+  "Linear_Acceleration_Wall_Drill": {
+    "name": "Linearer Beschleunigungsdrill an der Wand",
+    "instructions": [
+      "Lehne dich ungefähr 45 Grad gegen eine Wand. Halte die Füße zusammen und das Gesäß angespannt.",
+      "Hebe das rechte Knie schnell an, halte kurz und drücke den Fuß anschließend kraftvoll gerade nach unten.",
+      "Wechsle das Bein und wiederhole die Bewegung.",
+      "Führe die Bewegung erneut rechts aus und wechsle anschließend beide Beine so schnell wie möglich ab."
+    ]
+  },
+  "Linear_Depth_Jump": {
+    "name": "Linearer Tiefsprung",
+    "instructions": [
+      "Stelle zwei Boxen oder Bänke mit einigen Schritten Abstand gegenüber auf. Stelle dich auf eine Box mit Blick zur anderen.",
+      "Lass dich kontrolliert zwischen beide Plattformen auf den Boden fallen und beuge bei der Landung Knie und Hüfte.",
+      "Strecke Hüfte, Knie und Sprunggelenke unmittelbar explosiv und springe auf die gegenüberliegende Plattform.",
+      "Lande weich und fange den Aufprall über die Beine ab."
+    ]
+  },
+  "Log_Lift": {
+    "name": "Log Lift",
+    "instructions": [
+      "Stelle dich vor das Strongman-Log, greife die Griffe und beginne mit dem Umsetzen. Ziehe das Log beim Aufrichten möglichst hoch an die Brust und strecke Hüfte und Knie vollständig.",
+      "Lehne den Kopf zurück und lege das Log stabil auf der Brust ab. Beuge die Knie kurz und strecke sie explosiv, um das Log nach oben zu beschleunigen. Drücke anschließend die Ellenbogen vollständig durch und führe den Kopf unter das Log.",
+      "Wiederhole die Bewegung so oft wie vorgesehen und kontrolliere das Absenken des Logs zum Boden."
+    ]
+  },
+  "London_Bridges": {
+    "name": "London Bridges",
+    "instructions": [
+      "Befestige ein Kletterseil sicher an einem hohen Träger. Verriegele darunter eine Smith-Stange oder stelle eine stabile Box auf.",
+      "Stelle dich auf die Stange oder Box und nutze das Seil zur Balance. Das ist die Ausgangsposition.",
+      "Halte den Körper gerade, lehne dich zurück und wandere mit den Händen langsam am Seil nach unten, bis der Körper nahezu waagerecht ist.",
+      "Wandere anschließend mit den Händen wieder nach oben in die Ausgangsposition."
+    ]
+  },
+  "Looking_At_Ceiling": {
+    "name": "Blick zur Decke",
+    "instructions": [
+      "Knie dich auf den Boden und greife mit beiden Händen die Fersen.",
+      "Schiebe das Gesäß nach oben und vorn, lehne den Kopf zurück und richte den Blick zur Decke. Öffne dabei Brust und Rücken kontrolliert."
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "Kettlebell_Dead_Clean": {
+    "name": "Kettlebell Dead Clean",
+    "instructions": [
+      "Stelle die Kettlebell zwischen deine Füße. Schiebe die Hüfte nach hinten, halte den Rücken stabil und richte den Blick nach vorn. Das ist die Ausgangsposition.",
+      "Setze die Kettlebell zur Schulter um, indem du Beine und Hüfte kraftvoll streckst. Drehe dabei das Handgelenk ein.",
+      "Senke die Kettlebell kontrolliert ab. Halte den Rücken stabil und die Hüfte nach hinten geschoben, damit die hinteren Oberschenkel unter Spannung bleiben."
+    ]
+  },
+  "Kettlebell_Figure_8": {
+    "name": "Kettlebell-Figure-8",
+    "instructions": [
+      "Stelle dich weiter als schulterbreit hin und positioniere eine Kettlebell zwischen den Beinen. Schiebe die Hüfte nach hinten und halte den Rücken stabil.",
+      "Hebe die Kettlebell an und übergib sie zwischen den Beinen an die andere Hand. Die empfangende Hand greift von hinten durch die Beine. Führe die Bewegung abwechselnd in einer Acht aus."
+    ]
+  },
+  "Kettlebell_Hang_Clean": {
+    "name": "Kettlebell Hang Clean",
+    "instructions": [
+      "Stelle die Kettlebell zwischen deine Füße. Schiebe die Hüfte nach hinten und richte den Blick nach vorn.",
+      "Setze die Kettlebell zur Schulter um, indem du Beine und Hüfte kraftvoll streckst. Drehe dabei das Handgelenk ein.",
+      "Senke die Kettlebell zurück in die hängende Position zwischen den Beinen. Halte die hinteren Oberschenkel unter Spannung und den Kopf aufrecht."
+    ]
+  },
+  "Kettlebell_One-Legged_Deadlift": {
+    "name": "Einbeiniges Kreuzheben mit Kettlebell",
+    "instructions": [
+      "Halte eine Kettlebell in einer Hand und stehe auf dem gleichseitigen Bein.",
+      "Beuge das Standbein leicht, neige den Oberkörper aus der Hüfte nach vorn und strecke das freie Bein zur Balance nach hinten.",
+      "Senke die Kettlebell ab, bis der Oberkörper ungefähr parallel zum Boden ist, und richte dich anschließend kontrolliert wieder auf."
+    ]
+  },
+  "Kettlebell_Pass_Between_The_Legs": {
+    "name": "Kettlebell-Übergabe zwischen den Beinen",
+    "instructions": [
+      "Stelle dich bequem hin und positioniere eine Kettlebell zwischen den Beinen. Schiebe die Hüfte nach hinten und halte den Rücken stabil.",
+      "Hebe die Kettlebell an und übergib sie zwischen den Beinen in einer W-förmigen Bewegung an die andere Hand. Führe die Übung abwechselnd aus."
+    ]
+  },
+  "Kettlebell_Pirate_Ships": {
+    "name": "Kettlebell Pirate Ships",
+    "instructions": [
+      "Stelle dich breit hin und halte eine Kettlebell mit beiden Händen auf Hüfthöhe. Die Arme sind gestreckt. Das ist die Ausgangsposition.",
+      "Drehe den Oberkörper zu einer Seite und schwinge die Kettlebell bis ungefähr auf Kopfhöhe. Halte oben kurz.",
+      "Lass die Kettlebell absinken, drehe dich zur anderen Seite und führe sie dort erneut bis auf Kopfhöhe.",
+      "Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "Kettlebell_Pistol_Squat": {
+    "name": "Pistol Squat mit Kettlebell",
+    "instructions": [
+      "Halte eine Kettlebell mit beiden Händen an den Hörnern und hebe ein Bein vom Boden ab.",
+      "Beuge das Knie des Standbeins, schiebe die Hüfte nach hinten und halte die Kettlebell vor dem Körper.",
+      "Halte die untere Position kurz und drücke dich anschließend über die Ferse zurück nach oben. Halte Kopf und Brust aufrecht.",
+      "Senke dich erneut ab und wiederhole die Bewegung."
+    ]
+  },
+  "Kettlebell_Seated_Press": {
+    "name": "Sitzendes Kettlebell-Schulterdrücken",
+    "instructions": [
+      "Setze dich mit bequem gespreizten Beinen auf den Boden.",
+      "Setze eine Kettlebell zur Schulter um.",
+      "Drücke die Kettlebell nach oben und leicht außen, bis der Arm vollständig gestreckt ist. Senke sie anschließend kontrolliert zurück."
+    ]
+  },
+  "Kettlebell_Seesaw_Press": {
+    "name": "Kettlebell-Seesaw-Press",
+    "instructions": [
+      "Setze zwei Kettlebells zu den Schultern um.",
+      "Drücke eine Kettlebell über den Kopf.",
+      "Senke sie ab und drücke unmittelbar die andere Kettlebell nach oben. Führe auf beiden Seiten gleich viele Wiederholungen aus."
+    ]
+  },
+  "Kettlebell_Sumo_High_Pull": {
+    "name": "Kettlebell-Sumo-High-Pull",
+    "instructions": [
+      "Stelle eine Kettlebell zwischen deine weit aufgestellten Füße. Schiebe die Hüfte nach hinten, beuge die Knie und greife die Kettlebell mit beiden Händen. Halte Brust und Kopf aufrecht. Das ist die Ausgangsposition.",
+      "Strecke Hüfte und Knie und ziehe die Kettlebell gleichzeitig bis zu den Schultern. Führe die Ellenbogen dabei nach oben. Kehre anschließend kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Kettlebell_Thruster": {
+    "name": "Kettlebell-Thruster",
+    "instructions": [
+      "Setze zwei Kettlebells durch kraftvolles Strecken von Hüfte und Beinen zu den Schultern um. Drehe dabei die Handgelenke ein. Das ist die Ausgangsposition.",
+      "Gehe durch Beugen von Hüfte und Knien in eine tiefe Kniebeuge. Halte den Oberkörper aufrecht.",
+      "Drücke dich über die Fersen explosiv nach oben und nutze den Schwung, um beide Kettlebells durch Strecken der Arme über den Kopf zu drücken.",
+      "Senke die Kettlebells für die nächste Wiederholung zurück zu den Schultern."
+    ]
+  },
+  "Kettlebell_Turkish_Get-Up_Lunge_style": {
+    "name": "Turkish Get-up mit Kettlebell im Ausfallschrittstil",
+    "instructions": [
+      "Lege dich auf den Rücken und drücke eine Kettlebell mit gestrecktem Arm nach oben. Beuge das gleichseitige Knie.",
+      "Halte die Kettlebell während der gesamten Bewegung über dem Körper stabil. Drehe dich zur Gegenseite und nutze den freien Arm, um dich zuerst aufzusetzen und anschließend in eine kniende Ausfallschrittposition zu bringen.",
+      "Behalte die Kettlebell im Blick und stehe langsam auf. Kehre anschließend in umgekehrter Reihenfolge in die Ausgangsposition zurück."
+    ]
+  },
+  "Kettlebell_Turkish_Get-Up_Squat_style": {
+    "name": "Turkish Get-up mit Kettlebell im Kniebeugenstil",
+    "instructions": [
+      "Lege dich auf den Rücken und drücke eine Kettlebell mit gestrecktem Arm nach oben. Beuge das gleichseitige Knie.",
+      "Halte die Kettlebell während der gesamten Bewegung über dem Körper stabil. Drehe dich zur Gegenseite und nutze den freien Arm, um dich aufzusetzen.",
+      "Bringe die Füße unter den Körper, stehe langsam auf und behalte die Kettlebell im Blick. Kehre anschließend in umgekehrter Reihenfolge in die Ausgangsposition zurück."
+    ]
+  },
+  "Kettlebell_Windmill": {
+    "name": "Kettlebell-Windmill",
+    "instructions": [
+      "Stelle eine Kettlebell vor den vorderen Fuß. Setze sie mit dem gegenüberliegenden Arm zur Schulter um und drücke sie über den Kopf.",
+      "Halte den Arm gestreckt, schiebe die Hüfte zur Seite der Kettlebell und drehe die Füße etwa 45 Grad von diesem Arm weg.",
+      "Beuge dich seitlich aus der Hüfte ab und führe die freie Hand zum Boden. Behalte die Kettlebell jederzeit im Blick.",
+      "Halte unten kurz und richte dich kontrolliert wieder auf."
+    ]
+  },
+  "Kipping_Muscle_Up": {
+    "name": "Kipping Muscle-up",
+    "instructions": [
+      "Greife die Ringe im False Grip, sodass der Handballen auf den Ringen aufliegt.",
+      "Schwinge die Beine leicht nach hinten.",
+      "Schwinge die Beine anschließend nach vorn und oben, lehne Brust und Kinn zurück und ziehe dich gleichzeitig kraftvoll hoch. Ziehe die Ringe zu den Achseln, rolle die Schultern nach vorn und führe die Ellenbogen nach hinten, um in die Dip-Position zu gelangen.",
+      "Strecke die Ellenbogen kontrolliert und stabil, um die Bewegung abzuschließen.",
+      "Senke dich vorsichtig zurück."
+    ]
+  },
+  "Knee_Across_The_Body": {
+    "name": "Knie über den Körper",
+    "instructions": [
+      "Lege dich auf den Rücken. Strecke das rechte Bein aus und führe das gebeugte linke Bein über den Körper. Drücke das linke Knie mit der rechten Hand vorsichtig in Richtung Boden.",
+      "Strecke den linken Arm seitlich aus und drehe den Kopf nach links. Lass das Steißbein Richtung Boden sinken, während sich die Brust in die Gegenrichtung öffnet. Wechsle anschließend die Seite."
+    ]
+  },
+  "Knee_Circles": {
+    "name": "Kniekreisen",
+    "instructions": [
+      "Stelle dich mit geschlossenen Beinen hin und lege die Hände auf die Knie.",
+      "Beuge die Knie leicht und führe sie langsam gemeinsam in kreisenden Bewegungen.",
+      "Führe mehrere Kreise in eine Richtung aus und wechsle anschließend die Drehrichtung."
+    ]
+  },
+  "Knee_Hip_Raise_On_Parallel_Bars": {
+    "name": "Knie- und Hüftheben am Parallelbarren",
+    "instructions": [
+      "Stütze dich mit gestreckten Armen auf einem Parallelbarren ab und halte den Oberkörper aufrecht.",
+      "Beuge die Knie und hebe sie beim Ausatmen in Richtung Brust. Rolle das Becken am oberen Punkt leicht ein.",
+      "Halte die Bauchspannung kurz und senke die Beine beim Einatmen kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

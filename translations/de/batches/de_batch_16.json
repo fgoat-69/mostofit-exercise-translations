@@ -1,0 +1,188 @@
+{
+  "Forward_Drag_with_Press": {
+    "name": "Vorwärts-Schlittenziehen mit Drücken",
+    "instructions": [
+      "Befestige eine Kette oder ein Seil mit zwei Griffen am Schlitten. Wende dich vom Schlitten ab und halte in jeder Hand einen Griff.",
+      "Gehe einen Schritt nach vorn, lehne dich leicht vor und strecke Hüfte und Beine. Halte nach jedem Schritt kurz an und drücke die Hände durch Strecken der Ellenbogen nach vorn."
+    ]
+  },
+  "Frankenstein_Squat": {
+    "name": "Frankenstein-Kniebeuge",
+    "instructions": [
+      "Diese Übung trainiert die korrekte Position von Langhantel und Oberkörper beim Umsetzen und bei der Frontkniebeuge.",
+      "Lege die Langhantel auf die vorderen Schultern, löse den Griff und strecke die Arme nach vorn. Schiebe nur die Schulterblätter nach vorn, ohne den oberen Rücken zu runden.",
+      "Beuge Knie und Hüfte und setze dich zwischen die Beine. Halte Oberkörper und Arme aufrecht, damit die Stange sicher liegen bleibt. Gehe so tief, bis die hinteren Oberschenkel die Waden berühren.",
+      "Drücke dich über den vorderen Bereich der Fersen nach oben und strecke Knie und Hüfte."
+    ]
+  },
+  "Freehand_Jump_Squat": {
+    "name": "Sprungkniebeuge ohne Zusatzgewicht",
+    "instructions": [
+      "Verschränke die Arme vor der Brust.",
+      "Stelle die Füße schulterbreit auf und halte Kopf und Rücken stabil.",
+      "Gehe beim Einatmen in die Kniebeuge, bis die Oberschenkel mindestens parallel zum Boden stehen.",
+      "Drücke dich beim Ausatmen hauptsächlich über die Fußballen explosiv nach oben und springe so hoch wie möglich.",
+      "Lande weich, gehe sofort wieder in die Kniebeuge und springe erneut.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Frog_Hops": {
+    "name": "Froschsprünge",
+    "instructions": [
+      "Stelle dich mit den Händen hinter dem Kopf hin und gehe mit aufrechtem Oberkörper in eine tiefe Kniebeuge. Das ist die Ausgangsposition.",
+      "Springe mehrere Meter nach vorn, ohne unnötig hoch zu springen. Fange die Landung über die Beine ab und springe unmittelbar erneut. Wiederhole dies 5 bis 10 Mal."
+    ]
+  },
+  "Frog_Sit-Ups": {
+    "name": "Frosch-Sit-ups",
+    "instructions": [
+      "Lege dich auf den Rücken und strecke die Beine nach vorn.",
+      "Beuge die Knie, lege die Außenseiten der Oberschenkel Richtung Boden und führe die Fußsohlen zusammen.",
+      "Ziehe die Füße so nah wie angenehm zum Körper, während die Knie seitlich geöffnet bleiben. Die Beine bilden eine Rautenform.",
+      "Verschränke die Arme vor der Brust und berühre die gegenüberliegenden Schultern. Das ist die Ausgangsposition.",
+      "Drücke den unteren Rücken in den Boden und rolle den Oberkörper beim Ausatmen etwa ein Viertel eines Sit-ups nach oben. Halte kurz.",
+      "Senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Front_Barbell_Squat": {
+    "name": "Frontkniebeuge mit Langhantel",
+    "instructions": [
+      "Stelle die Langhantel in einem Kniebeugenständer auf passende Höhe ein. Positioniere sie auf den vorderen Schultern, halte die Ellenbogen hoch und greife die Stange im Kreuzgriff oder Clean-Griff.",
+      "Hebe die Stange durch Strecken der Beine aus der Ablage.",
+      "Gehe einen Schritt zurück und stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte Kopf und Rücken stabil. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und senke dich beim Einatmen kontrolliert ab, bis die Oberschenkel etwas unter parallel stehen.",
+      "Drücke dich beim Ausatmen über den Mittelfuß nach oben und strecke die Beine vollständig.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Front_Barbell_Squat_To_A_Bench": {
+    "name": "Frontkniebeuge mit Langhantel zur Bank",
+    "instructions": [
+      "Stelle eine Flachbank hinter dich und positioniere die Langhantel im Rack auf passende Höhe. Lege sie auf die vorderen Schultern, halte die Ellenbogen hoch und greife die Stange sicher.",
+      "Hebe die Stange durch Strecken der Beine aus der Ablage.",
+      "Gehe einen Schritt zurück und stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und senke dich beim Einatmen kontrolliert ab, bis das Gesäß die Bank leicht berührt.",
+      "Drücke dich beim Ausatmen hauptsächlich über die Fersen nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Front_Box_Jump": {
+    "name": "Boxsprung nach vorn",
+    "instructions": [
+      "Stelle dich schulterbreit etwa 30 bis 60 cm vor eine Box geeigneter Höhe.",
+      "Gehe kurz in die Knie und schwinge die Arme nach hinten.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und springe so hoch wie möglich. Schwinge die Arme nach vorn und oben.",
+      "Lande mit gebeugten Knien auf der Box und fange den Aufprall kontrolliert ab. Steige vorzugsweise einzeln wieder herunter."
+    ]
+  },
+  "Front_Cable_Raise": {
+    "name": "Einarmiges Frontheben am Kabelzug",
+    "instructions": [
+      "Wähle ein geeignetes Gewicht und greife den Einzelgriff des unteren Kabelzugs mit der linken Hand.",
+      "Stelle dich mit dem Rücken zur Rolle und halte den gestreckten Arm vor dem Oberschenkel. Die Handfläche zeigt zum Körper. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und hebe den linken Arm mit leicht gebeugtem Ellenbogen nach vorn, bis er etwas über parallel zum Boden steht. Atme aus und halte kurz.",
+      "Senke den Arm beim Einatmen langsam zurück.",
+      "Führe die vorgesehenen Wiederholungen aus und wechsle anschließend den Arm."
+    ]
+  },
+  "Front_Cone_Hops_or_hurdle_hops": {
+    "name": "Vorwärtssprünge über Hütchen oder Hürden",
+    "instructions": [
+      "Stelle mehrere kleine Hütchen oder Hürden mit einigen Schritten Abstand hintereinander auf.",
+      "Stelle dich schulterbreit vor das erste Hindernis. Das ist die Ausgangsposition.",
+      "Springe mit beiden Füßen über das erste Hindernis und nutze die Arme aktiv.",
+      "Fange die Landung durch Beugen der Knie ab und springe unmittelbar über das nächste Hindernis.",
+      "Fahre fort, bis du alle Hindernisse übersprungen hast."
+    ]
+  },
+  "Front_Dumbbell_Raise": {
+    "name": "Abwechselndes Frontheben mit Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel vor den Oberschenkeln. Die Handflächen zeigen zum Körper. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und hebe die linke Kurzhantel mit leicht gebeugtem Ellenbogen nach vorn, bis der Arm etwas über parallel zum Boden steht. Atme aus und halte kurz.",
+      "Senke die linke Hantel langsam ab und hebe gleichzeitig die rechte an.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen pro Arm erreicht hast."
+    ]
+  },
+  "Front_Incline_Dumbbell_Raise": {
+    "name": "Frontheben mit Kurzhanteln auf der Schrägbank",
+    "instructions": [
+      "Setze dich mit je einer Kurzhantel auf eine 30 bis 60 Grad geneigte Bank.",
+      "Strecke die Arme vor dir aus und halte die Kurzhanteln knapp über den Oberschenkeln. Die Handflächen zeigen nach unten. Das ist die Ausgangsposition.",
+      "Hebe die gestreckten Arme beim Ausatmen bis etwas über Schulterhöhe an. Halte den Kopf an der Lehne und die Füße am Boden. Spanne oben kurz an.",
+      "Senke die Arme beim Einatmen zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Front_Leg_Raises": {
+    "name": "Dynamisches Beinschwingen vor und zurück",
+    "instructions": [
+      "Stelle dich neben einen Stuhl oder eine andere Stütze und halte dich mit einer Hand fest.",
+      "Schwinge ein gestrecktes Bein kontrolliert nach vorn und anschließend so weit wie beweglich nach hinten. Wiederhole die Bewegung 5 bis 10 Mal und wechsle dann das Bein."
+    ]
+  },
+  "Front_Plate_Raise": {
+    "name": "Frontheben mit Hantelscheibe",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Hantelscheibe mit beiden Händen seitlich auf der Drei- und Neun-Uhr-Position. Halte sie mit fast gestreckten Armen vor der Hüfte. Das ist die Ausgangsposition.",
+      "Hebe die Scheibe beim Ausatmen langsam bis etwas über Schulterhöhe an. Vermeide Schwung und halte den Oberkörper ruhig.",
+      "Senke die Scheibe beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Front_Raise_And_Pullover": {
+    "name": "Frontheben und Pullover mit Langhantel",
+    "instructions": [
+      "Lege dich auf eine Flachbank und halte eine Langhantel etwa schulterbreit im Obergriff auf den Oberschenkeln.",
+      "Hebe die Stange mit fast gestreckten Armen in einem Bogen über die Brust.",
+      "Führe sie weiter über den Kopf nach hinten, bis du eine Dehnung in Brust und Latissimus spürst.",
+      "Bringe die Stange auf demselben Weg zurück über die Brust und anschließend zu den Oberschenkeln.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Front_Squat_Clean_Grip": {
+    "name": "Frontkniebeuge im Clean-Griff",
+    "instructions": [
+      "Stelle die Langhantel im Rack auf passende Höhe ein. Greife sie etwas weiter als schulterbreit, drehe die Ellenbogen nach vorn und lege die Stange auf den vorderen Schultern ab.",
+      "Hebe die Stange aus der Ablage und stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf.",
+      "Halte die Ellenbogen hoch und den Oberkörper aufrecht. Beuge Knie und Hüfte und senke dich kontrolliert so tief wie möglich ab.",
+      "Drücke dich über den Mittelfuß nach oben und kehre in den stabilen Stand zurück."
+    ]
+  },
+  "Front_Squats_With_Two_Kettlebells": {
+    "name": "Frontkniebeuge mit zwei Kettlebells",
+    "instructions": [
+      "Setze zwei Kettlebells zu den Schultern um und halte die Ellenbogen eng am Körper.",
+      "Stelle die Füße schulterbreit auf, halte Brust und Kopf aufrecht und gehe zwischen den Beinen in eine tiefe Kniebeuge.",
+      "Drücke dich über die Fersen zurück in den aufrechten Stand."
+    ]
+  },
+  "Front_Two-Dumbbell_Raise": {
+    "name": "Frontheben mit zwei Kurzhanteln",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel vor den Oberschenkeln. Die Handflächen zeigen zum Körper. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und hebe beide Arme mit leicht gebeugten Ellenbogen nach vorn, bis sie etwas über parallel zum Boden stehen.",
+      "Halte die obere Position kurz und senke die Gewichte langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Full_Range-Of-Motion_Lat_Pulldown": {
+    "name": "Latzug mit vollem Bewegungsumfang",
+    "instructions": [
+      "Greife die Einzelgriffe eines hohen Kabelzugs mit ausgestreckten Armen. Lehne den Oberkörper leicht zurück und halte die Brust aufrecht.",
+      "Ziehe die Griffe in einem weiten Bogen seitlich nach unten, bis sich die Hände nahe an den Schultern befinden. Halte kurz und lasse die Arme kontrolliert wieder vollständig nach oben."
+    ]
+  },
+  "Gironda_Sternum_Chins": {
+    "name": "Gironda-Sternum-Klimmzug",
+    "instructions": [
+      "Greife die Klimmzugstange etwas weiter als schulterbreit im Untergriff.",
+      "Hänge mit gestreckten Armen und strecke die Brust nach oben. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen nach oben und lehne Kopf und Oberkörper gleichzeitig nach hinten.",
+      "Führe die Brust zur Stange und ziehe die Ellenbogen nach unten und hinten.",
+      "Halte die obere Position kurz und senke dich beim Einatmen kontrolliert bis zur vollständigen Armstreckung ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

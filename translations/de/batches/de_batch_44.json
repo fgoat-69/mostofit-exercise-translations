@@ -1,0 +1,154 @@
+{
+  "Sumo_Deadlift_with_Chains": {
+    "name": "Sumo-Kreuzheben mit Ketten",
+    "instructions": [
+      "Befestige die Ketten an den Hantelscheibenaufnahmen oder lege ihre Mitte über die Stange. Halte die Kettenenden von den Scheiben fern, damit sie beim Absenken nicht dagegen schlagen.",
+      "Stelle dich sehr weit mit den Füßen nahe an den Hantelscheibenaufnahmen auf. Positioniere die Stange über der Fußmitte und greife sie innerhalb der Beine im Ober-, Wechsel- oder Hakengriff.",
+      "Atme ein, senke die Hüfte und halte Brust und Kopf aufrecht. Drücke die Füße nach außen in den Boden und strecke Hüfte und Knie.",
+      "Lehne dich nach dem Passieren der Knie leicht zurück, schiebe die Hüfte zur Stange und ziehe die Schulterblätter zusammen.",
+      "Senke das Gewicht durch Beugen der Hüfte kontrolliert zum Boden."
+    ]
+  },
+  "Superman": {
+    "name": "Superman",
+    "instructions": [
+      "Lege dich bäuchlings auf den Boden oder eine Trainingsmatte und strecke die Arme vollständig nach vorn. Das ist die Ausgangsposition.",
+      "Hebe Arme, Beine und Brust gleichzeitig vom Boden ab und halte die Spannung zwei Sekunden. Spanne den unteren Rücken an und atme aus.",
+      "Senke Arme, Beine und Brust beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Supine_Chest_Throw": {
+    "name": "Medizinball-Brustwurf in Rückenlage",
+    "instructions": [
+      "Lege dich mit gebeugten Knien auf den Rücken. Dieser Drill eignet sich, wenn kein Partner oder keine stabile Wand verfügbar ist.",
+      "Halte den Medizinball mit beiden Händen an der Brust.",
+      "Strecke die Ellenbogen explosiv und wirf den Ball so hoch wie möglich gerade nach oben.",
+      "Fange den Ball beim Herunterkommen mit beiden Händen auf."
+    ]
+  },
+  "Supine_One-Arm_Overhead_Throw": {
+    "name": "Einarmiger Überkopfwurf in Rückenlage",
+    "instructions": [
+      "Lege dich mit gebeugten Knien auf den Rücken und halte einen Medizinball mit einem vollständig hinter dem Kopf ausgestreckten Arm. Das ist die Ausgangsposition.",
+      "Wirf den Ball aus der Schulter explosiv nach vorn und richte dich gleichzeitig auf. Ziele auf maximale Weite.",
+      "Wirf den Ball zu einem Partner oder gegen eine stabile Wand."
+    ]
+  },
+  "Supine_Two-Arm_Overhead_Throw": {
+    "name": "Beidarmiger Überkopfwurf in Rückenlage",
+    "instructions": [
+      "Lege dich mit gebeugten Knien auf den Rücken.",
+      "Halte einen Medizinball mit beiden Händen und strecke die Arme vollständig hinter dem Kopf aus. Das ist die Ausgangsposition.",
+      "Wirf den Ball aus den Schultern explosiv nach vorn und richte dich gleichzeitig auf. Ziele auf maximale Weite.",
+      "Wirf den Ball zu einem Partner oder gegen eine stabile Wand."
+    ]
+  },
+  "Suspended_Fallout": {
+    "name": "Fallout an Schlingengurten",
+    "instructions": [
+      "Stelle die Schlingengurte so ein, dass sich die Griffe unterhalb der Hüfte befinden.",
+      "Greife die Griffe im Stand und lehne dich in eine erhöhte Liegestützposition. Das ist die Ausgangsposition.",
+      "Halte die Arme gestreckt und lehne dich weiter nach vorn und unten, sodass die Arme über den Kopf geführt werden.",
+      "Halte die Wirbelsäule neutral und den Körper gerade. Die Bewegung erfolgt nur aus den Schultergelenken.",
+      "Halte die tiefste Position kurz und kehre kontrolliert zurück."
+    ]
+  },
+  "Suspended_Push-Up": {
+    "name": "Liegestütz an Schlingengurten",
+    "instructions": [
+      "Befestige die Schlingengurte sicher an einem Rack oder einem anderen stabilen Gegenstand.",
+      "Greife die Griffe und lehne dich in eine Liegestützposition. Halte den Körper so parallel zum Boden wie möglich und die Arme vollständig gestreckt.",
+      "Halte den Oberkörper gerade und senke dich kontrolliert durch Beugen der Ellenbogen ab.",
+      "Senke dich bis unter einen 90-Grad-Ellenbogenwinkel, halte kurz und drücke dich zurück in die Ausgangsposition."
+    ]
+  },
+  "Suspended_Reverse_Crunch": {
+    "name": "Reverse Crunch an Schlingengurten",
+    "instructions": [
+      "Befestige die Schlingengurte so, dass die Griffe etwa 30 cm über dem Boden hängen. Gehe mit dem Rücken zum Befestigungspunkt in eine Liegestützposition.",
+      "Lege die Füße in die Griffe und halte den Körper gerade, ohne die Hüfte absinken zu lassen. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und ziehe die Knie zum Oberkörper. Rolle dabei das Becken ein und beuge die Wirbelsäule.",
+      "Kehre am oberen Punkt kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Suspended_Row": {
+    "name": "Rudern an Schlingengurten",
+    "instructions": [
+      "Befestige die Gurte etwa auf Brusthöhe. Greife die Griffe und lehne dich mit gestrecktem Körper und vollständig gestreckten Armen zurück. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen und ziehe den Körper zu den Griffen. Führe die Schulterblätter zusammen.",
+      "Halte oben kurz und senke dich kontrolliert zurück."
+    ]
+  },
+  "Suspended_Split_Squat": {
+    "name": "Split Squat an Schlingengurten",
+    "instructions": [
+      "Stelle die Gurte so ein, dass sich die Griffe etwa 45 bis 75 cm über dem Boden befinden.",
+      "Stelle dich mit dem Rücken zur Aufhängung und lege den hinteren Fuß in einen Griff. Halte Brust und Kopf aufrecht und das vordere Knie leicht gebeugt. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte des vorderen Beins und senke dich kontrolliert ab. Halte das Gewicht auf der Ferse und den Oberkörper stabil.",
+      "Drücke dich am unteren Punkt durch Strecken von Hüfte und Knie zurück nach oben."
+    ]
+  },
+  "Svend_Press": {
+    "name": "Svend Press",
+    "instructions": [
+      "Stelle dich aufrecht hin.",
+      "Drücke zwei leichte Hantelscheiben vor der Brust mit den Handflächen fest gegeneinander. Die Finger zeigen nach vorn. Das ist die Ausgangsposition.",
+      "Halte den Druck aufrecht und strecke die Arme kontrolliert nach vorn.",
+      "Halte kurz und führe die Scheiben langsam zur Brust zurück."
+    ]
+  },
+  "T-Bar_Row_with_Handle": {
+    "name": "T-Bar-Rudern mit Parallelgriff",
+    "instructions": [
+      "Fixiere eine Langhantel in einer Landmine oder sicher in einer Ecke und belade das freie Ende passend.",
+      "Stelle dich über die Stange, befestige einen Doppel-D-Griff direkt hinter der Hantelscheibenaufnahme und richte dich mithilfe von Hüfte und Beinen auf.",
+      "Stelle die Füße weit auf, schiebe die Hüfte nach hinten, halte die Brust aufrecht und die Arme gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe das Gewicht durch Zurückführen der Schulterblätter und Beugen der Ellenbogen zum oberen Bauch. Vermeide Schwung und ruckartige Bewegungen.",
+      "Halte kurz und senke das Gewicht kontrolliert zurück."
+    ]
+  },
+  "Tate_Press": {
+    "name": "Tate Press",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf den Oberschenkeln auf eine Flachbank. Die Handflächen zeigen zueinander.",
+      "Bringe die Kurzhanteln mithilfe der Oberschenkel nacheinander nach oben. Halte sie weiter als schulterbreit im Obergriff und führe die Ellenbogen nach außen. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und senke die Kurzhanteln beim Einatmen in einem Halbkreis nach innen und unten, bis sie die obere Brust leicht berühren. Lege sie nicht auf der Brust ab.",
+      "Drücke die Hanteln beim Ausatmen mit dem Trizeps auf demselben Weg zurück nach oben. Halte sie möglichst zusammen, strecke die Arme und halte kurz.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "The_Straddle": {
+    "name": "Grätschdehnung im Sitzen",
+    "instructions": [
+      "Setze dich aufrecht hin und strecke die Beine V-förmig nach vorn.",
+      "Stütze die Hände auf dem Boden ab und lehne dich so weit wie möglich nach vorn. Halte 10 bis 20 Sekunden."
+    ]
+  },
+  "Thigh_Abductor": {
+    "name": "Hüftabduktion an der Maschine",
+    "instructions": [
+      "Setze dich an die Abduktorenmaschine, wähle ein geeignetes Gewicht und positioniere die Beine korrekt. Greife die seitlichen Griffe und halte den Oberkörper ruhig. Das ist die Ausgangsposition.",
+      "Drücke die Beine beim Ausatmen langsam nach außen.",
+      "Halte die Anspannung kurz und führe die Beine beim Einatmen kontrolliert zurück. Der Oberkörper bleibt ruhig.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Thigh_Adductor": {
+    "name": "Hüftadduktion an der Maschine",
+    "instructions": [
+      "Setze dich an die Adduktorenmaschine, wähle ein geeignetes Gewicht und positioniere die Beine korrekt an den Polstern. Greife die seitlichen Griffe und halte den Oberkörper ruhig. Das ist die Ausgangsposition.",
+      "Drücke die Beine beim Ausatmen langsam zusammen.",
+      "Halte die Anspannung kurz und führe die Beine beim Einatmen kontrolliert zurück. Vermeide schnelle, ruckartige Bewegungen.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Tire_Flip": {
+    "name": "Reifenwenden",
+    "instructions": [
+      "Greife den Reifen unten am Profil, stelle die Füße etwas zurück und drücke die Brust gegen den Reifen.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und drücke den Reifen nach vorn und oben.",
+      "Sobald der Reifen etwa 45 Grad erreicht, mache einen Schritt nach vorn, drücke ein Knie dagegen, greife höher und schiebe ihn kraftvoll vollständig um. Wiederhole die Bewegung nach Bedarf."
+    ]
+  }
+}

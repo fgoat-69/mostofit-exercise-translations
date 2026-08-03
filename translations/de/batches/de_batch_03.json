@@ -1,0 +1,172 @@
+{
+  "Band_Hip_Adductions": {
+    "name": "Hüftadduktion mit Widerstandsband",
+    "instructions": [
+      "Befestige ein Widerstandsband an einem stabilen Pfosten oder einem anderen festen Gegenstand.",
+      "Stelle dich mit der linken Seite zum Befestigungspunkt und führe den rechten Fuß durch das Band, sodass es um den Knöchel liegt.",
+      "Stelle dich aufrecht hin und halte dich bei Bedarf am Pfosten fest. Das ist die Ausgangsposition.",
+      "Halte das Knie gestreckt und führe das rechte Bein kontrolliert seitlich über die Körpermitte.",
+      "Kehre in die Ausgangsposition zurück und wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen.",
+      "Wechsle anschließend die Seite."
+    ]
+  },
+  "Band_Pull_Apart": {
+    "name": "Band Pull-Apart",
+    "instructions": [
+      "Halte das Widerstandsband mit beiden Händen und strecke die Arme gerade vor dir aus.",
+      "Ziehe die Hände seitlich auseinander und führe eine Reverse-Fly-Bewegung aus.",
+      "Halte die Ellenbogen gestreckt und ziehe das Band bis zur Brust. Die Schultern bleiben dabei nach hinten und unten gezogen.",
+      "Halte die Endposition kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Band_Skull_Crusher": {
+    "name": "Skull Crusher mit Widerstandsband",
+    "instructions": [
+      "Befestige das Widerstandsband am unteren Teil eines Racks oder einer Bank. Lege dich so auf die Bank, dass das Band in einer Linie mit deinem Kopf verläuft.",
+      "Greife das Band und hebe die Ellenbogen an, bis die Oberarme senkrecht zum Boden stehen. Bei gebeugten Ellenbogen sollte sich das Band oberhalb deines Kopfes befinden. Das ist die Ausgangsposition.",
+      "Strecke die Ellenbogen, ohne die Oberarme zu bewegen. Halte die Endposition kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Barbell_Ab_Rollout": {
+    "name": "Bauch-Rollout mit der Langhantel",
+    "instructions": [
+      "Gehe in eine Liegestützposition und greife statt des Bodens eine Langhantel, die auf jeder Seite leicht beladen ist. Das ist die Ausgangsposition.",
+      "Halte den Rücken leicht gewölbt, hebe die Hüfte an und rolle die Langhantel beim Ausatmen in Richtung Füße. Spanne die Bauchmuskulatur an und halte die Arme während der gesamten Bewegung möglichst senkrecht zum Boden.",
+      "Halte die obere Position kurz und rolle die Langhantel beim Einatmen langsam zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Barbell_Ab_Rollout_-_On_Knees": {
+    "name": "Bauch-Rollout mit der Langhantel auf den Knien",
+    "instructions": [
+      "Knie dich auf den Boden und halte eine Langhantel, die auf jeder Seite leicht beladen ist.",
+      "Stelle die Langhantel vor dir auf den Boden und gehe in eine kniende Liegestützposition. Das ist die Ausgangsposition.",
+      "Rolle die Langhantel langsam gerade nach vorn und strecke den Körper dabei möglichst weit. Senke dich nur so weit ab, wie du die Position kontrollieren kannst, ohne den Oberkörper auf dem Boden abzulegen. Atme dabei ein.",
+      "Halte die gestreckte Position kurz und ziehe dich beim Ausatmen zurück in die Ausgangsposition. Arbeite langsam und halte die Bauchmuskulatur angespannt."
+    ]
+  },
+  "Barbell_Bench_Press_-_Medium_Grip": {
+    "name": "Langhantel-Bankdrücken mit mittlerem Griff",
+    "instructions": [
+      "Lege dich auf eine Flachbank. Greife die Langhantel mittelbreit, sodass Unter- und Oberarm in der unteren Bewegungsphase ungefähr einen 90-Grad-Winkel bilden. Hebe die Stange aus der Ablage und halte sie mit gestreckten Armen über dir. Das ist die Ausgangsposition.",
+      "Atme ein und senke die Stange langsam bis zur Mitte der Brust ab.",
+      "Halte die untere Position kurz und drücke die Stange beim Ausatmen mit der Brustmuskulatur zurück nach oben. Strecke die Arme und spanne die Brust oben kurz an. Senke die Stange anschließend wieder kontrolliert ab. Die Abwärtsbewegung sollte etwa doppelt so lange dauern wie das Hochdrücken.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Langhantel nach dem Satz sicher in der Ablage ab."
+    ]
+  },
+  "Barbell_Curl": {
+    "name": "Langhantelcurl",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte die Langhantel etwa schulterbreit im Untergriff. Die Handflächen zeigen nach vorn und die Ellenbogen bleiben nah am Oberkörper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen, während du beim Ausatmen den Bizeps anspannst. Nur die Unterarme sollten sich bewegen.",
+      "Führe die Stange bis auf Schulterhöhe, spanne den Bizeps vollständig an und halte die Position kurz.",
+      "Senke die Langhantel beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Barbell_Curls_Lying_Against_An_Incline": {
+    "name": "Langhantelcurl bäuchlings auf der Schrägbank",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Schrägbank und halte eine Langhantel mit nach unten hängenden Armen. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen so weit wie möglich. Spanne den Bizeps an und atme dabei aus. Vermeide Schwung; nur die Unterarme sollten sich bewegen.",
+      "Halte die obere Position kurz und senke die Stange beim Einatmen vollständig in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Barbell_Deadlift": {
+    "name": "Langhantel-Kreuzheben",
+    "instructions": [
+      "Stelle dich vor eine beladene Langhantel.",
+      "Halte den Rücken stabil, beuge Knie und Hüfte und greife die Stange etwa schulterbreit im Obergriff. Bei Bedarf kannst du einen Kreuzgriff oder Zughilfen verwenden. Das ist die Ausgangsposition.",
+      "Drücke dich über die Beine nach oben und richte gleichzeitig den Oberkörper auf. Atme dabei aus. Strecke in der Endposition die Hüfte vollständig, richte die Brust auf und ziehe die Schulterblätter leicht zusammen.",
+      "Senke die Stange kontrolliert ab, indem du zuerst die Hüfte nach hinten schiebst und anschließend die Knie beugst. Halte den Rücken dabei stabil. Sobald die Gewichte den Boden berühren, ist die Ausgangsposition erreicht.",
+      "Führe die im Trainingsplan vorgesehene Anzahl an Wiederholungen aus."
+    ]
+  },
+  "Barbell_Full_Squat": {
+    "name": "Tiefe Langhantel-Kniebeuge",
+    "instructions": [
+      "Führe die Übung aus Sicherheitsgründen in einem Kniebeugenständer aus. Stelle die Stange knapp oberhalb der Schulterhöhe ein, belade sie und positioniere sie auf dem oberen Rücken, leicht unterhalb des Nackens.",
+      "Greife die Stange mit beiden Händen und hebe sie durch Strecken der Beine aus der Ablage.",
+      "Gehe einen Schritt zurück und stelle die Füße etwa schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte Kopf und Rücken stabil. Das ist die Ausgangsposition.",
+      "Atme ein, beuge die Knie und schiebe die Hüfte nach hinten und unten. Halte den Oberkörper stabil und gehe so tief, wie du die Position kontrollieren kannst.",
+      "Drücke dich beim Ausatmen über Fersen und Mittelfuß nach oben und strecke Knie und Hüfte, bis du wieder aufrecht stehst.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Barbell_Glute_Bridge": {
+    "name": "Gesäßbrücke mit Langhantel",
+    "instructions": [
+      "Setze dich mit einer beladenen Langhantel über den Beinen auf den Boden. Verwende bei Bedarf ein Polster. Rolle die Stange über die Beine, bis sie direkt über der Hüfte liegt, und lege dich flach auf den Rücken.",
+      "Drücke dich über die Fersen ab und strecke die Hüfte senkrecht nach oben gegen die Langhantel. Das Gewicht wird vom oberen Rücken und den Fersen getragen.",
+      "Strecke die Hüfte so weit wie möglich und senke sie anschließend kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Barbell_Guillotine_Bench_Press": {
+    "name": "Guillotine-Bankdrücken mit Langhantel",
+    "instructions": [
+      "Greife die Langhantel mittelbreit und hebe sie aus der Ablage. Halte sie mit gestreckten Armen über dem oberen Brust- beziehungsweise Halsbereich. Das ist die Ausgangsposition.",
+      "Atme ein und senke die Stange langsam bis wenige Zentimeter oberhalb des Halses ab.",
+      "Halte kurz inne und drücke die Stange beim Ausatmen mit der Brustmuskulatur zurück nach oben. Strecke die Arme und spanne die Brust oben kurz an. Senke die Stange anschließend wieder langsam ab; die Abwärtsbewegung sollte etwa doppelt so lange dauern wie das Hochdrücken.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Langhantel nach dem Satz sicher in der Ablage ab."
+    ]
+  },
+  "Barbell_Hack_Squat": {
+    "name": "Hackenschmidt-Kniebeuge mit Langhantel",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Langhantel mit gestreckten Armen hinter dem Körper. Die Füße stehen etwa schulterbreit. Greife die Stange im Obergriff, die Handflächen zeigen nach hinten. Bei Bedarf kannst du Zughilfen verwenden. Das ist die Ausgangsposition.",
+      "Halte Kopf und Blick aufrecht sowie den Rücken stabil. Gehe langsam in die Kniebeuge, bis die Oberschenkel ungefähr parallel zum Boden sind. Atme dabei ein.",
+      "Drücke dich vor allem über die Fersen nach oben, spanne die Oberschenkel an und atme dabei aus.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Barbell_Hip_Thrust": {
+    "name": "Hip Thrust mit Langhantel",
+    "instructions": [
+      "Setze dich auf den Boden und positioniere eine Bank direkt hinter dir. Lege eine beladene Langhantel über deine Beine und verwende bei Bedarf ein Polster.",
+      "Rolle die Stange bis direkt über die Hüfte und lehne dich mit den Schulterblättern an die Oberkante der Bank.",
+      "Drücke dich über die Füße ab und strecke die Hüfte senkrecht gegen die Langhantel. Das Gewicht wird von den Schulterblättern und den Füßen getragen. Strecke die Hüfte vollständig und senke sie anschließend kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Barbell_Incline_Bench_Press_-_Medium_Grip": {
+    "name": "Schrägbankdrücken mit Langhantel und mittlerem Griff",
+    "instructions": [
+      "Lege dich auf eine Schrägbank. Greife die Langhantel mittelbreit, sodass Unter- und Oberarm in der unteren Bewegungsphase ungefähr einen 90-Grad-Winkel bilden. Hebe die Stange aus der Ablage und halte sie mit gestreckten Armen über dir. Das ist die Ausgangsposition.",
+      "Atme ein und senke die Stange langsam bis zum oberen Brustbereich ab.",
+      "Halte die untere Position kurz und drücke die Stange beim Ausatmen mit der Brustmuskulatur zurück nach oben. Strecke die Arme, spanne die Brust oben kurz an und senke die Stange anschließend kontrolliert ab. Die Abwärtsbewegung sollte etwa doppelt so lange dauern wie das Hochdrücken.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Langhantel nach dem Satz sicher in der Ablage ab."
+    ]
+  },
+  "Barbell_Incline_Shoulder_Raise": {
+    "name": "Schulterblattheben mit Langhantel auf der Schrägbank",
+    "instructions": [
+      "Lege dich auf eine Schrägbank. Greife die Langhantel etwas weiter als schulterbreit, hebe sie aus der Ablage und halte sie mit gestreckten Armen über dir. Das ist die Ausgangsposition.",
+      "Halte die Arme gestreckt und schiebe die Schulterblätter nach vorn, sodass sich die Schultern von der Bank abheben. Atme dabei aus.",
+      "Senke die Schultern beim Einatmen zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Barbell_Lunge": {
+    "name": "Ausfallschritt mit Langhantel",
+    "instructions": [
+      "Führe die Übung aus Sicherheitsgründen in einem Kniebeugenständer aus. Stelle die Stange knapp unter Schulterhöhe ein, belade sie und positioniere sie auf dem oberen Rücken, leicht unterhalb des Nackens.",
+      "Greife die Stange mit beiden Händen und hebe sie durch Strecken der Beine aus der Ablage.",
+      "Gehe einen Schritt zurück und mache mit dem rechten Bein einen Ausfallschritt nach vorn. Senke die Hüfte ab, halte den Oberkörper aufrecht und bewahre das Gleichgewicht. Atme beim Absenken ein. Achte darauf, dass das vordere Knie nicht deutlich über die Zehenspitzen hinauswandert.",
+      "Drücke dich hauptsächlich über die Ferse des vorderen Fußes zurück in die Ausgangsposition und atme dabei aus.",
+      "Führe die vorgesehene Anzahl an Wiederholungen aus und wechsle anschließend zum linken Bein."
+    ]
+  },
+  "Barbell_Rear_Delt_Row": {
+    "name": "Langhantelrudern für die hintere Schulter",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Langhantel mit weitem Obergriff. Die Handflächen zeigen zum Körper.",
+      "Beuge die Knie leicht und neige den Oberkörper bei stabilem Rücken nach vorn. Lasse die Arme mit der Stange nach unten hängen. Sobald der Oberkörper ungefähr parallel zum Boden ist, führe die Ellenbogen seitlich nach außen. Oberkörper und Arme sollten von oben betrachtet etwa ein T bilden. Das ist die Ausgangsposition.",
+      "Halte die Oberarme quer zum Oberkörper und ziehe die Langhantel beim Ausatmen in Richtung obere Brust. Spanne dabei die hintere Schultermuskulatur an. Vermeide es, die Bewegung hauptsächlich aus dem Bizeps auszuführen; die Arme dienen nur als Verbindung zur Stange.",
+      "Senke die Langhantel beim Einatmen langsam in die Ausgangsposition zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

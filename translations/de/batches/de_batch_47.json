@@ -1,0 +1,167 @@
+{
+  "Wide-Grip_Decline_Barbell_Pullover": {
+    "name": "Langhantel-Pullover auf der Negativbank mit weitem Griff",
+    "instructions": [
+      "Lege dich mit fixierten Beinen auf eine Negativbank und greife die Langhantel hinter dem Kopf weit im Obergriff. Hebe sie kontrolliert an.",
+      "Halte die Stange mit vollständig gestreckten Armen senkrecht über dem Körper. Das ist die Ausgangsposition.",
+      "Senke die Stange beim Einatmen in einem Halbkreis hinter den Kopf, bis die Arme parallel zum Boden stehen. Die Bewegung erfolgt nur aus den Schultern.",
+      "Führe die Stange beim Ausatmen kontrolliert zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Senke die Stange nach dem Satz vorsichtig hinter dem Kopf ab."
+    ]
+  },
+  "Wide-Grip_Lat_Pulldown": {
+    "name": "Latzug mit weitem Griff",
+    "instructions": [
+      "Setze dich an einen Latzug mit breiter Stange und stelle das Kniepolster passend ein.",
+      "Greife die Stange weiter als schulterbreit im Obergriff.",
+      "Lehne den Oberkörper etwa 30 Grad zurück, hebe die Brust an und halte den unteren Rücken leicht gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen zur oberen Brust und führe Schultern und Oberarme nach unten und hinten.",
+      "Halte unten kurz und führe die Stange beim Einatmen langsam bis zur vollständigen Armstreckung zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wide-Grip_Pulldown_Behind_The_Neck": {
+    "name": "Latzug hinter den Nacken mit weitem Griff",
+    "instructions": [
+      "Setze dich an einen Latzug mit breiter Stange und stelle das Kniepolster passend ein.",
+      "Greife die Stange weiter als schulterbreit im Obergriff.",
+      "Halte den Oberkörper aufrecht und neige den Kopf leicht nach vorn. Das ist die Ausgangsposition.",
+      "Ziehe die Stange beim Ausatmen kontrolliert hinter den Kopf bis zum oberen Nacken.",
+      "Halte unten kurz und führe die Stange beim Einatmen langsam bis zur vollständigen Armstreckung zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wide-Grip_Rear_Pull-Up": {
+    "name": "Breiter Klimmzug hinter den Nacken",
+    "instructions": [
+      "Greife die Klimmzugstange weit im Obergriff.",
+      "Hänge mit gestreckten Armen und neige Oberkörper und Kopf leicht nach vorn. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen nach oben, bis sich die Stange nahe am oberen Nacken befindet.",
+      "Halte oben kurz und senke dich beim Einatmen langsam bis zur vollständigen Armstreckung ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wide-Grip_Standing_Barbell_Curl": {
+    "name": "Stehender Langhantelcurl mit weitem Griff",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte eine Langhantel weit im Untergriff. Die Ellenbogen bleiben eng am Körper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen.",
+      "Führe die Stange bis auf Schulterhöhe und spanne den Bizeps oben kurz an.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wide_Stance_Barbell_Squat": {
+    "name": "Langhantel-Kniebeuge mit weitem Stand",
+    "instructions": [
+      "Stelle die Langhantel in einem Kniebeugenständer passend ein und positioniere sie auf dem oberen Rücken.",
+      "Greife die Stange und hebe sie durch Strecken der Beine aus der Ablage.",
+      "Gehe einen Schritt zurück und stelle die Füße weiter als schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte Kopf und Rücken aufrecht. Das ist die Ausgangsposition.",
+      "Beuge die Knie beim Einatmen und senke dich kontrolliert ab, bis die Oberschenkel etwas unter parallel stehen.",
+      "Drücke dich beim Ausatmen über die Fersen zurück nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wide_Stance_Stiff_Legs": {
+    "name": "Kreuzheben mit weitem Stand und nahezu gestreckten Beinen",
+    "instructions": [
+      "Stelle dich weit vor eine beladene Langhantel. Schiebe die Hüfte nach hinten, halte die Beine fast gestreckt und greife die Stange. Brust und Kopf bleiben aufrecht. Das ist die Ausgangsposition.",
+      "Strecke die Hüfte nach vorn und richte dich auf, während die Arme gestreckt bleiben. Senke das Gewicht anschließend kontrolliert zurück; bei aufeinanderfolgenden Wiederholungen muss die Stange den Boden nicht berühren."
+    ]
+  },
+  "Wind_Sprints": {
+    "name": "Hängende schnelle Kniehebeläufe",
+    "instructions": [
+      "Hänge mit gestreckten Armen und Beinen im Obergriff an einer Klimmzugstange. Das ist die Ausgangsposition.",
+      "Hebe ein Knie schnell so hoch wie möglich an, ohne den Körper zu schwingen.",
+      "Senke das Bein sofort ab und hebe gleichzeitig das andere Knie an.",
+      "Fahre abwechselnd fort, bis der Satz abgeschlossen ist."
+    ]
+  },
+  "Windmills": {
+    "name": "Windmills in Rückenlage",
+    "instructions": [
+      "Lege dich mit gestreckten Armen seitlich und gestreckten Beinen auf den Rücken. Das ist die Ausgangsposition.",
+      "Hebe ein Bein an und führe es zügig über den Körper in Richtung der gegenüberliegenden Hand.",
+      "Kehre zurück und wiederhole die Bewegung mit dem anderen Bein. Führe 10 bis 20 Wiederholungen abwechselnd aus."
+    ]
+  },
+  "Worlds_Greatest_Stretch": {
+    "name": "World’s Greatest Stretch",
+    "instructions": [
+      "Mache einen langen Ausfallschritt nach vorn und senke das hintere Knie fast zum Boden. Halte den Oberkörper aufrecht und die Position 10 bis 20 Sekunden.",
+      "Setze den gleichseitigen Ellenbogen neben dem vorderen Fuß auf den Boden und stütze dich mit der anderen Hand ab. Halte weitere 10 bis 20 Sekunden.",
+      "Setze beide Hände neben den vorderen Fuß, hebe dessen Zehen an und strecke das vordere Bein. Halte 10 bis 20 Sekunden und wiederhole die gesamte Abfolge auf der anderen Seite."
+    ]
+  },
+  "Wrist_Circles": {
+    "name": "Handgelenkkreisen",
+    "instructions": [
+      "Stelle dich schulterbreit hin und strecke die Arme seitlich auf Schulterhöhe aus. Die Handflächen zeigen nach unten. Das ist die Ausgangsposition.",
+      "Halte den restlichen Körper ruhig und kreise beide Handgelenke nach vorn.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wrist_Roller": {
+    "name": "Wrist Roller",
+    "instructions": [
+      "Stelle dich schulterbreit hin und greife einen Wrist Roller im Obergriff.",
+      "Hebe die gestreckten Arme bis parallel zum Boden an. Das Seil ist zunächst vollständig abgerollt. Das ist die Ausgangsposition.",
+      "Drehe die Handgelenke abwechselnd nach oben, bis das Gewicht den Griff erreicht.",
+      "Drehe die Handgelenke anschließend kontrolliert in die Gegenrichtung, bis das Gewicht wieder unten ist.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Wrist_Rotations_with_Straight_Bar": {
+    "name": "Handgelenkrotationen mit gerader Stange",
+    "instructions": [
+      "Halte eine Langhantel etwa schulterbreit im Obergriff. Das ist die Ausgangsposition.",
+      "Strecke die Handgelenke abwechselnd, als würdest du eine Zeitung aufrollen. Fahre bis zum Muskelversagen fort.",
+      "Kehre die Bewegungsrichtung um und beuge die Handgelenke abwechselnd bis zum Muskelversagen."
+    ]
+  },
+  "Yoke_Walk": {
+    "name": "Yoke Walk",
+    "instructions": [
+      "Verwende ein Yoke-Gerät oder einen vergleichbaren schweren Rahmen.",
+      "Positioniere das Gerät auf dem oberen Rücken, richte den Blick nach vorn und hebe es durch kraftvolles Strecken der Beine an.",
+      "Gehe mit kurzen, schnellen Schritten so zügig wie möglich und halte den Rumpf fest."
+    ]
+  },
+  "Zercher_Squats": {
+    "name": "Zercher-Kniebeuge",
+    "instructions": [
+      "Lege eine Langhantel etwa auf Hüfthöhe in ein Rack.",
+      "Greife die Stange, positioniere sie in den Ellenbeugen und verschränke die Hände vor dem Körper.",
+      "Hebe die Stange aus der Ablage und stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und senke dich kontrolliert ab, bis die Oberschenkel mindestens parallel zum Boden stehen.",
+      "Drücke dich über die Fersen zurück in den Stand.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Zottman_Curl": {
+    "name": "Zottman Curl",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel mit gestreckten Armen im neutralen Griff.",
+      "Halte die Ellenbogen eng am Körper. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Ausatmen und drehe die Handflächen nach oben.",
+      "Führe die Hanteln bis auf Schulterhöhe und spanne den Bizeps oben kurz an.",
+      "Drehe die Handflächen am oberen Punkt nach unten.",
+      "Senke die Kurzhanteln im Obergriff langsam zurück.",
+      "Drehe die Hände unten wieder in den neutralen Griff.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Zottman_Preacher_Curl": {
+    "name": "Zottman-Scott-Curl",
+    "instructions": [
+      "Lege beide Oberarme auf das Polster einer Scottbank und halte in jeder Hand eine Kurzhantel im Obergriff. Das ist die Ausgangsposition.",
+      "Senke die Kurzhanteln beim Einatmen langsam ab, bis die Arme nahezu vollständig gestreckt sind.",
+      "Drehe die Handflächen am unteren Punkt nach oben.",
+      "Beuge die Ellenbogen beim Ausatmen, bis die Hanteln Schulterhöhe erreichen. Führe den kleinen Finger leicht höher als den Daumen.",
+      "Spanne den Bizeps oben kurz an und drehe die Handflächen wieder nach unten.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

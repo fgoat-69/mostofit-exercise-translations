@@ -1,0 +1,169 @@
+{
+  "Sandbag_Load": {
+    "name": "Sandsackverladen",
+    "instructions": [
+      "Stelle die Sandsäcke oder anderen Gegenstände in einiger Entfernung zur Ladeplattform auf, üblicherweise etwa 15 Meter.",
+      "Hebe den Sandsack an. Greife so weit wie möglich um ihn herum und strecke Hüfte und Knie, um ihn hochzuziehen. Die genaue Technik hängt von Form und Füllung des Sandsacks ab.",
+      "Bewege dich so schnell wie möglich zur Plattform und lade den Sandsack durch explosives Strecken von Hüfte, Knien und Sprunggelenken ab. Stelle sicher, dass er nicht herunterfällt.",
+      "Kehre zum Ausgangspunkt zurück, hole den nächsten Sandsack und wiederhole den Ablauf."
+    ]
+  },
+  "Scapular_Pull-Up": {
+    "name": "Schulterblatt-Klimmzug",
+    "instructions": [
+      "Greife eine Klimmzugstange im Obergriff.",
+      "Hebe dich aus dem Hang einige Zentimeter an, ohne die Ellenbogen zu beugen. Ziehe dafür die Schulterblätter nach unten.",
+      "Halte oben kurz und kehre langsam in den vollständigen Hang zurück."
+    ]
+  },
+  "Scissor_Kick": {
+    "name": "Scherenkicks",
+    "instructions": [
+      "Lege dich auf den Rücken und strecke die Arme mit den Handflächen nach unten seitlich aus. Die Arme bleiben während der gesamten Übung ruhig.",
+      "Hebe die leicht gebeugten Beine an, bis die Fersen etwa 15 cm über dem Boden schweben. Das ist die Ausgangsposition.",
+      "Hebe das linke Bein ungefähr auf 45 Grad an, während das rechte Bein knapp über dem Boden bleibt.",
+      "Wechsle die Positionen, indem du das rechte Bein anhebst und das linke absenkst. Atme gleichmäßig weiter.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Scissors_Jump": {
+    "name": "Schersprung",
+    "instructions": [
+      "Nimm eine Ausfallschrittposition ein. Das vordere Knie ist gebeugt und das hintere Knie befindet sich knapp über dem Boden.",
+      "Halte das vordere Knie über dem Mittelfuß, strecke beide Beine explosiv und springe so hoch wie möglich. Nutze die Arme aktiv.",
+      "Wechsle in der Luft die Beinstellung, sodass das vordere Bein nach hinten und das hintere nach vorn kommt.",
+      "Lande kontrolliert im Ausfallschritt und wiederhole die Bewegung unmittelbar."
+    ]
+  },
+  "Seated_Band_Hamstring_Curl": {
+    "name": "Sitzender Beinbeuger mit Widerstandsband",
+    "instructions": [
+      "Befestige ein Widerstandsband bodennah und stelle eine Bank einige Schritte davor.",
+      "Setze dich auf die Bank, befestige das Band hinter den Knöcheln und strecke die Beine nach vorn. Das ist die Ausgangsposition.",
+      "Beuge die Knie und ziehe die Füße zur Bank. Lehne dich bei Bedarf leicht zurück, damit die Füße nicht den Boden berühren.",
+      "Halte kurz und strecke die Beine anschließend langsam zurück."
+    ]
+  },
+  "Seated_Barbell_Military_Press": {
+    "name": "Sitzendes Schulterdrücken mit Langhantel",
+    "instructions": [
+      "Setze dich auf eine Schulterdrückbank. Lass dir die Langhantel idealerweise von einem Spotter anreichen oder greife sie vorsichtig weiter als schulterbreit im Obergriff.",
+      "Drücke die Stange mit gestreckten Armen über den Kopf und halte sie leicht vor dem Kopf auf Schulterhöhe. Das ist die Ausgangsposition.",
+      "Senke die Langhantel beim Einatmen langsam zum Schlüsselbein.",
+      "Drücke sie beim Ausatmen zurück über den Kopf.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Barbell_Twist": {
+    "name": "Sitzende Rumpfdrehung mit Langhantel",
+    "instructions": [
+      "Setze dich auf das Ende einer Flachbank und lege eine Langhantel auf die Oberschenkel. Stelle die Füße schulterbreit auf.",
+      "Greife die Stange weiter als schulterbreit im Obergriff und drücke sie über den Kopf.",
+      "Senke die Langhantel hinter den Kopf auf den oberen Rücken. Das ist die Ausgangsposition.",
+      "Halte Füße und Kopf ruhig und drehe den Oberkörper langsam aus der Taille von Seite zu Seite. Bleibe innerhalb eines schmerzfreien Bewegungsumfangs.",
+      "Atme bei der Drehung aus und bei der Rückkehr zur Mitte ein.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+    "name": "Sitzendes einarmiges Trizepsstrecken vorgebeugt",
+    "instructions": [
+      "Setze dich auf das Ende einer Flachbank und halte eine Kurzhantel mit einer Hand im neutralen Griff.",
+      "Beuge die Knie leicht und neige den Oberkörper bei geradem Rücken nach vorn, bis er fast parallel zum Boden ist. Halte den Kopf aufrecht.",
+      "Führe den Oberarm eng am Körper nach hinten, bis er parallel zum Boden steht. Der Unterarm zeigt nach unten und der Ellenbogen ist etwa 90 Grad gebeugt. Das ist die Ausgangsposition.",
+      "Halte den Oberarm ruhig und strecke den Ellenbogen beim Ausatmen vollständig. Nur der Unterarm bewegt sich.",
+      "Halte oben kurz und senke die Kurzhantel beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Wechsle anschließend den Arm."
+    ]
+  },
+  "Seated_Bent-Over_Rear_Delt_Raise": {
+    "name": "Sitzendes Reverse Fly vorgebeugt",
+    "instructions": [
+      "Stelle zwei Kurzhanteln vor eine Flachbank.",
+      "Setze dich mit geschlossenen Beinen auf das Bankende und positioniere die Kurzhanteln hinter den Waden.",
+      "Beuge dich bei geradem Rücken nach vorn und greife die Kurzhanteln neutral. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und die Ellenbogen leicht gebeugt. Hebe die Kurzhanteln beim Ausatmen seitlich an, bis die Arme parallel zum Boden stehen.",
+      "Halte oben kurz und senke die Gewichte langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+    "name": "Sitzendes beidarmiges Trizepsstrecken vorgebeugt",
+    "instructions": [
+      "Setze dich auf das Ende einer Flachbank und halte in jeder Hand eine Kurzhantel im neutralen Griff.",
+      "Beuge die Knie leicht und neige den Oberkörper bei geradem Rücken nach vorn, bis er fast parallel zum Boden ist.",
+      "Führe beide Oberarme eng am Körper nach hinten, bis sie parallel zum Boden stehen. Die Unterarme zeigen nach unten und die Ellenbogen sind etwa 90 Grad gebeugt. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und strecke die Ellenbogen beim Ausatmen vollständig. Nur die Unterarme bewegen sich.",
+      "Halte oben kurz und senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Biceps": {
+    "name": "Sitzende Bizepsdehnung mit Partner",
+    "instructions": [
+      "Setze dich mit gebeugten Knien auf den Boden. Strecke die Arme mit zueinander gerichteten Handflächen gerade nach hinten, während dein Trainingspartner die Handgelenke hält. Das ist die Ausgangsposition.",
+      "Versuche, die Ellenbogen zu beugen, während dein Partner 10 bis 20 Sekunden lang jede Bewegung verhindert.",
+      "Entspanne anschließend die Arme und lass deinen Partner die Handgelenke vorsichtig nach oben ziehen. Gib rechtzeitig Bescheid, um eine Überdehnung zu vermeiden."
+    ]
+  },
+  "Seated_Cable_Rows": {
+    "name": "Sitzendes Kabelrudern",
+    "instructions": [
+      "Setze dich an einen unteren Kabelzug mit V-Griff, stelle die Füße auf die Plattform und halte die Knie leicht gebeugt.",
+      "Neige dich mit natürlicher Rückenhaltung nach vorn und greife den V-Griff.",
+      "Ziehe den Oberkörper mit gestreckten Armen zurück, bis er ungefähr im 90-Grad-Winkel zu den Beinen steht. Halte die Brust aufrecht und den Rücken leicht gestreckt. Das ist die Ausgangsposition.",
+      "Halte den Oberkörper ruhig und ziehe den Griff beim Ausatmen zum Bauch. Führe die Ellenbogen nah am Körper, spanne den Rücken kurz an und kehre beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Cable_Shoulder_Press": {
+    "name": "Sitzendes Schulterdrücken am Kabelzug",
+    "instructions": [
+      "Wähle ein geeignetes Gewicht, setze dich hin und greife die Griffe. Halte Kopf und Brust aufrecht, die Oberarme etwa rechtwinklig zum Körper und die Ellenbogen ungefähr 90 Grad gebeugt. Das ist die Ausgangsposition.",
+      "Drücke die Griffe durch Strecken der Ellenbogen über dem Kopf zusammen.",
+      "Halte oben kurz und kehre kontrolliert in die Ausgangsposition zurück. Halte die Kabel unter Spannung.",
+      "Du kannst die Übung auch ohne Rückenlehne und abwechselnd mit einem Arm ausführen."
+    ]
+  },
+  "Seated_Calf_Raise": {
+    "name": "Sitzendes Wadenheben an der Maschine",
+    "instructions": [
+      "Setze dich an die Maschine und stelle die Fußballen auf die Plattform, sodass die Fersen frei hängen. Richte die Zehen nach vorn, innen oder außen.",
+      "Positioniere das Polster passend auf den unteren Oberschenkeln und halte es mit den Händen fest.",
+      "Hebe die Fersen leicht an und löse die Sicherheitsverriegelung. Das ist die Ausgangsposition.",
+      "Senke die Fersen beim Einatmen langsam ab, bis die Waden vollständig gedehnt sind.",
+      "Hebe die Fersen beim Ausatmen so hoch wie möglich an und spanne die Waden oben kurz an.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Calf_Stretch": {
+    "name": "Sitzende Wadendehnung",
+    "instructions": [
+      "Setze dich aufrecht auf eine Trainingsmatte.",
+      "Beuge ein Knie und stelle den Fuß zur Stabilisierung auf den Boden.",
+      "Strecke das andere Bein und ziehe die Fußspitze an.",
+      "Ziehe die Zehen mit einem Band, Handtuch oder der Hand zu dir. Halte die Dehnung 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Seated_Close-Grip_Concentration_Barbell_Curl": {
+    "name": "Sitzender enger Konzentrationscurl mit Langhantel",
+    "instructions": [
+      "Setze dich auf eine Flachbank und stelle eine Langhantel oder SZ-Stange zwischen die gespreizten Beine. Die Knie sind gebeugt und die Füße stehen am Boden.",
+      "Greife die Stange enger als schulterbreit im Untergriff und lege die Rückseiten der Oberarme auf die inneren Oberschenkel. Strecke die Arme aus, ohne die Stange auf dem Boden abzusetzen. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen, bis die Stange Schulterhöhe erreicht. Spanne den Bizeps oben kurz an.",
+      "Senke die Stange beim Einatmen langsam zurück und vermeide Schwung.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Seated_Dumbbell_Curl": {
+    "name": "Sitzender Kurzhantelcurl",
+    "instructions": [
+      "Setze dich auf eine Flachbank und halte in jeder Hand eine Kurzhantel mit gestreckten Armen. Die Ellenbogen bleiben nah am Oberkörper.",
+      "Drehe die Handflächen zum Körper. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig, beuge die Ellenbogen und drehe die Handgelenke nach dem Passieren der Oberschenkel, sodass die Handflächen oben nach vorn zeigen. Atme aus und spanne den Bizeps kurz an.",
+      "Senke die Kurzhanteln beim Einatmen langsam ab und drehe die Hände zurück in den neutralen Griff.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

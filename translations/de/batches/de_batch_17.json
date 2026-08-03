@@ -1,0 +1,163 @@
+{
+  "Glute_Ham_Raise": {
+    "name": "Glute-Ham Raise",
+    "instructions": [
+      "Stelle das Gerät passend ein. Lege dich bäuchlings hinein, positioniere die Füße zwischen den Rollen an der Fußplatte und die Knie knapp hinter dem Polster.",
+      "Beginne unten, halte den Rücken stabil und beuge die Knie. Drücke die Zehen gegen die Fußplatte und richte den geraden Oberkörper bis in die aufrechte Position auf.",
+      "Senke dich kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Glute_Kickback": {
+    "name": "Gesäß-Kickback im Vierfüßlerstand",
+    "instructions": [
+      "Gehe auf Händen und Knien in den Vierfüßlerstand. Die Arme stehen schulterbreit, der Blick ist nach vorn gerichtet und die Knie sind ungefähr 90 Grad gebeugt. Das ist die Ausgangsposition.",
+      "Hebe das rechte Bein beim Ausatmen an, bis der Oberschenkel in einer Linie mit dem Rücken liegt. Halte den Kniebeugewinkel bei und spanne das Gesäß oben kurz an.",
+      "Senke das Bein beim Einatmen zurück und wiederhole die Bewegung mit dem linken Bein.",
+      "Fahre abwechselnd fort, bis du die vorgesehene Anzahl an Wiederholungen erreicht hast."
+    ]
+  },
+  "Goblet_Squat": {
+    "name": "Goblet-Kniebeuge",
+    "instructions": [
+      "Halte eine leichte Kettlebell an den Hörnern eng vor der Brust. Das ist die Ausgangsposition.",
+      "Gehe zwischen den Beinen tief in die Kniebeuge, bis die hinteren Oberschenkel die Waden berühren. Halte Brust, Kopf und Rücken aufrecht.",
+      "Halte unten kurz, drücke die Knie mit den Ellenbogen leicht nach außen und kehre anschließend in den Stand zurück."
+    ]
+  },
+  "Good_Morning": {
+    "name": "Good Morning",
+    "instructions": [
+      "Positioniere eine Langhantel im Rack auf Schulterhöhe und lege sie wie bei einer Powerlifting-Kniebeuge auf den oberen Rücken. Ziehe die Schulterblätter zusammen, halte den Rücken fest und die Knie leicht gebeugt.",
+      "Schiebe die Hüfte nach hinten und neige den Oberkörper bei stabilem Rücken bis ungefähr parallel zum Boden.",
+      "Strecke die Hüfte mithilfe von Gesäß und hinteren Oberschenkeln und kehre in die Ausgangsposition zurück."
+    ]
+  },
+  "Good_Morning_off_Pins": {
+    "name": "Good Morning von Sicherheitsablagen",
+    "instructions": [
+      "Positioniere die Langhantel etwa auf Bauchhöhe auf Sicherheitsablagen. Gehe mit nahezu waagerechtem Oberkörper darunter und lege sie auf den oberen Rücken. Halte Rücken und Nacken stabil sowie die Knie leicht gebeugt.",
+      "Strecke die Hüfte mithilfe von Gesäß und hinteren Oberschenkeln, bis du aufrecht stehst. Senke die Stange anschließend langsam zurück auf die Ablagen."
+    ]
+  },
+  "Gorilla_Chin_Crunch": {
+    "name": "Gorilla-Klimmzug mit Crunch",
+    "instructions": [
+      "Hänge etwas weiter als schulterbreit im Untergriff an einer Klimmzugstange.",
+      "Beuge die Knie auf 90 Grad, sodass die Unterschenkel parallel zum Boden stehen. Das ist die Ausgangsposition.",
+      "Ziehe dich beim Ausatmen nach oben und gleichzeitig die Knie zur Brust. Beende die Bewegung, wenn sich die Nase ungefähr auf Höhe der Stange befindet.",
+      "Senke dich beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Groin_and_Back_Stretch": {
+    "name": "Leisten- und Rückendehnung",
+    "instructions": [
+      "Setze dich mit gebeugten Knien und zusammengeführten Fußsohlen auf den Boden.",
+      "Verschränke die Finger hinter dem Kopf. Das ist die Ausgangsposition.",
+      "Rolle den Oberkörper nach vorn und führe die Ellenbogen zwischen die Oberschenkel. Halte kurz und richte dich mit geradem Rücken wieder auf. Wiederhole die Bewegung 10 bis 20 Mal."
+    ]
+  },
+  "Groiners": {
+    "name": "Groiners",
+    "instructions": [
+      "Gehe in eine Liegestützposition. Das ist die Ausgangsposition.",
+      "Springe mit beiden Füßen nach vorn und lande außen neben den Händen. Halte den Kopf aufrecht.",
+      "Springe zurück in die Ausgangsposition und wiederhole die Bewegung unmittelbar 10 bis 20 Mal."
+    ]
+  },
+  "Hack_Squat": {
+    "name": "Hackenschmidt-Kniebeuge an der Maschine",
+    "instructions": [
+      "Lehne Rücken und Oberkörper an das Polster und positioniere die Schultern unter den Schulterpolstern.",
+      "Stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf die Plattform. Halte Kopf und Rücken am Polster.",
+      "Greife die seitlichen Griffe und löse die Sicherheitsverriegelung.",
+      "Strecke die Beine, ohne die Knie vollständig zu verriegeln. Das ist die Ausgangsposition.",
+      "Beuge die Knie beim Einatmen und senke dich kontrolliert ab, bis die Oberschenkel etwas unter parallel stehen. Führe die Knie in Richtung der Zehen.",
+      "Drücke die Plattform beim Ausatmen hauptsächlich über die Fersen nach oben.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Hammer_Curls": {
+    "name": "Hammercurls",
+    "instructions": [
+      "Stelle dich aufrecht hin und halte in jeder Hand eine Kurzhantel mit gestreckten Armen. Die Ellenbogen bleiben nah am Oberkörper.",
+      "Die Handflächen zeigen zueinander. Das ist die Ausgangsposition.",
+      "Halte die Oberarme ruhig und beuge die Ellenbogen beim Ausatmen, bis sich die Hanteln auf Schulterhöhe befinden. Spanne den Bizeps oben kurz an.",
+      "Senke die Kurzhanteln beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Hammer_Grip_Incline_DB_Bench_Press": {
+    "name": "Schrägbankdrücken mit Kurzhanteln im neutralen Griff",
+    "instructions": [
+      "Lege dich mit je einer Kurzhantel auf den Oberschenkeln auf eine Schrägbank. Die Handflächen zeigen zueinander.",
+      "Nutze die Oberschenkel, um die Kurzhanteln nacheinander auf Schulterhöhe zu bringen.",
+      "Halte die Handflächen zueinander und die Ellenbogen seitlich auf Schulterhöhe. Ober- und Unterarm bilden ungefähr einen 90-Grad-Winkel. Das ist die Ausgangsposition.",
+      "Senke die Gewichte beim Einatmen langsam seitlich ab.",
+      "Drücke die Kurzhanteln beim Ausatmen mit der Brustmuskulatur nach oben. Strecke die Arme, halte kurz und senke die Gewichte anschließend langsam wieder ab.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Lege die Kurzhanteln nach dem Satz kontrolliert auf den Oberschenkeln und anschließend auf dem Boden ab."
+    ]
+  },
+  "Hamstring-SMR": {
+    "name": "Selbstmassage der hinteren Oberschenkel",
+    "instructions": [
+      "Setze dich auf den Boden und lege eine Faszienrolle unter die Rückseite der Oberschenkel. Stütze dich seitlich oder hinter dem Körper mit den Händen ab.",
+      "Hebe die Hüfte an und verlagere das Gewicht auf ein Bein. Entspanne die hintere Oberschenkelmuskulatur.",
+      "Rolle vom Bereich unterhalb der Hüfte bis knapp oberhalb des Knies. Halte verspannte Stellen 10 bis 30 Sekunden und wechsle anschließend das Bein."
+    ]
+  },
+  "Hamstring_Stretch": {
+    "name": "Dehnung der hinteren Oberschenkel",
+    "instructions": [
+      "Lege dich auf den Rücken und hebe ein Bein mit etwa 90 Grad gebeugter Hüfte nach oben. Das andere Bein bleibt flach auf dem Boden.",
+      "Lege einen Gurt, ein Band oder ein Seil um den Fußballen. Das ist die Ausgangsposition.",
+      "Ziehe vorsichtig am Gurt, bis du eine Dehnung in Wade und hinterem Oberschenkel spürst. Halte die Position 10 bis 30 Sekunden und wechsle anschließend das Bein."
+    ]
+  },
+  "Handstand_Push-Ups": {
+    "name": "Handstand-Liegestütze",
+    "instructions": [
+      "Stelle dich mit dem Rücken zu einer Wand, beuge dich nach vorn und setze die Hände schulterbreit auf den Boden.",
+      "Schwinge die Beine zur Wand hoch und strecke Arme und Beine vollständig. Halte den Körper möglichst gerade. Nutze bei den ersten Versuchen einen Trainingspartner zur Sicherung.",
+      "Senke dich beim Einatmen sehr langsam ab, bis der Kopf fast den Boden berührt.",
+      "Drücke dich beim Ausatmen kontrolliert zurück nach oben, bis die Ellenbogen nahezu gestreckt sind.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Hang_Clean": {
+    "name": "Hang Clean",
+    "instructions": [
+      "Halte die Langhantel etwa schulterbreit im doppelten Ober- oder Hakengriff auf Höhe der Oberschenkelmitte. Halte den Rücken gerade und leicht nach vorn geneigt.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und beschleunige die Stange nach oben. Ziehe gleichzeitig die Schultern kraftvoll hoch.",
+      "Ziehe dich unter die Stange, fange sie auf den vorderen Schultern ab und stehe über die Fersen vollständig auf."
+    ]
+  },
+  "Hang_Clean_-_Below_the_Knees": {
+    "name": "Hang Clean unterhalb der Knie",
+    "instructions": [
+      "Halte die Langhantel etwa schulterbreit im doppelten Ober- oder Hakengriff knapp unterhalb der Knie. Halte den Rücken gerade und leicht nach vorn geneigt.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und beschleunige die Stange nach oben. Ziehe gleichzeitig die Schultern kraftvoll hoch.",
+      "Ziehe dich nach vollständiger Streckung schnell unter die Stange und drehe die Ellenbogen nach vorn.",
+      "Fange die Stange auf den vorderen Schultern ab und stehe über die Fersen vollständig auf."
+    ]
+  },
+  "Hang_Snatch": {
+    "name": "Hang Snatch",
+    "instructions": [
+      "Halte die Langhantel im weiten Snatch-Griff auf Höhe der Oberschenkelmitte. Halte den Rücken gerade und leicht nach vorn geneigt.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und beschleunige die Stange eng am Körper nach oben.",
+      "Ziehe dich nach vollständiger Streckung schnell unter die Stange und fange sie mit gestreckten Armen über dem Kopf in einer Kniebeuge auf.",
+      "Stehe aus der Kniebeuge vollständig auf und stabilisiere die Stange über dem Kopf."
+    ]
+  },
+  "Hang_Snatch_-_Below_Knees": {
+    "name": "Hang Snatch unterhalb der Knie",
+    "instructions": [
+      "Halte die Langhantel im weiten Snatch-Griff knapp unterhalb der Knie. Halte den Rücken gerade und leicht nach vorn geneigt.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und beschleunige die Stange eng am Körper nach oben.",
+      "Ziehe dich nach vollständiger Streckung schnell unter die Stange und fange sie mit gestreckten Armen über dem Kopf in einer Kniebeuge auf.",
+      "Stehe aus der Kniebeuge vollständig auf und stabilisiere die Stange über dem Kopf."
+    ]
+  }
+}

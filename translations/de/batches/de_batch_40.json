@@ -1,0 +1,168 @@
+{
+  "Spider_Curl": {
+    "name": "Spider Curl mit SZ-Stange",
+    "instructions": [
+      "Lege die SZ-Stange sicher auf der Sitzseite einer Scottbank ab.",
+      "Stelle dich an die Vorderseite der Scottbank und lehne Oberkörper und Bauch etwa im 45-Grad-Winkel gegen das Polster.",
+      "Stelle die Füße sicher auf den Boden und lege die Oberarme auf die Innenseite des Polsters.",
+      "Greife die Stange etwa schulterbreit oder etwas enger im Untergriff.",
+      "Beuge die Ellenbogen beim Ausatmen und führe die Stange nach oben. Spanne den Bizeps oben kurz an.",
+      "Senke die Stange beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Spinal_Stretch": {
+    "name": "Wirbelsäulendehnung im Sitzen",
+    "instructions": [
+      "Setze dich mit geradem Rücken und flach aufgestellten Füßen auf einen Stuhl.",
+      "Verschränke die Finger hinter dem Kopf, führe die Ellenbogen nach außen und senke das Kinn leicht.",
+      "Drehe den Oberkörper mehrmals so weit wie angenehm zu einer Seite. Beuge dich anschließend nach vorn und führe den Ellenbogen an der Innenseite des Knies in Richtung Boden.",
+      "Richte dich wieder auf und wiederhole die Bewegung zur anderen Seite."
+    ]
+  },
+  "Split_Clean": {
+    "name": "Split Clean",
+    "instructions": [
+      "Greife die Langhantel knapp außerhalb der Beine im Obergriff. Halte sie nah an den Schienbeinen, senke die Hüfte, verlagere das Gewicht auf die Fersen und halte Rücken, Brust und Kopf aufrecht. Das ist die Ausgangsposition.",
+      "Beginne den ersten Zug über die Fersen und strecke die Knie. Halte Rückenwinkel und Arme unverändert, bis die Stange die Knie passiert.",
+      "Strecke im zweiten Zug Hüfte, Knie und Sprunggelenke explosiv. Beschleunige die Stange nach oben, ohne aktiv mit den Armen zu ziehen.",
+      "Ziehe nach vollständiger Streckung die Schultern hoch, beuge die Arme und ziehe dich kraftvoll unter die Stange. Drehe die Ellenbogen schnell nach vorn.",
+      "Fange die Stange in einer Schrittstellung auf den vorderen Schultern ab. Ein Fuß steht vorn, der andere hinten.",
+      "Drücke dich über die Fersen auf, halte den Oberkörper aufrecht und führe die Füße zusammen."
+    ]
+  },
+  "Split_Jerk": {
+    "name": "Split Jerk",
+    "instructions": [
+      "Halte die Langhantel auf den vorderen Schultern. Stelle die Füße unter die Hüfte und beuge die Knie kurz, ohne die Hüfte nach hinten zu schieben.",
+      "Kehre die Bewegung explosiv um, drücke dich über die Fersen ab und beschleunige die Stange nach oben. Bewege den Kopf aus dem Weg.",
+      "Setze die Füße schnell in eine Schrittstellung und ziehe dich unter die Stange. Fange sie mit leicht gebeugten Knien und vollständig gestreckten Armen über dem Kopf auf.",
+      "Richte dich auf und führe die Füße zusammen."
+    ]
+  },
+  "Split_Jump": {
+    "name": "Split Jump",
+    "instructions": [
+      "Nimm eine Ausfallschrittposition ein. Das vordere Knie ist gebeugt und das hintere Knie befindet sich knapp über dem Boden.",
+      "Halte das vordere Knie über dem Mittelfuß.",
+      "Strecke beide Beine explosiv und springe so hoch wie möglich. Nutze die Arme aktiv.",
+      "Führe die Füße in der Luft zusammen und bringe sie vor der Landung zurück in die Ausgangsposition.",
+      "Fange die Landung kontrolliert im Ausfallschritt ab."
+    ]
+  },
+  "Split_Snatch": {
+    "name": "Split Snatch",
+    "instructions": [
+      "Beginne mit einer beladenen Langhantel nah an den Schienbeinen. Greife sie weit, stelle die Füße unter die Hüfte, senke die Hüfte und halte Brust und Kopf aufrecht. Das ist die Ausgangsposition.",
+      "Beginne den ersten Zug über den vorderen Bereich der Fersen und halte den Rückenwinkel konstant, bis die Stange die Knie passiert.",
+      "Strecke Hüfte, Knie und Sprunggelenke explosiv und beschleunige die Stange eng am Körper nach oben. Ziehe am höchsten Punkt die Schultern hoch und beuge die Ellenbogen seitlich.",
+      "Setze die Füße kraftvoll in eine Schrittstellung und ziehe dich unter die Stange. Fange sie so tief wie möglich mit gestreckten Armen über dem Kopf auf.",
+      "Halte die Stange über dem vorderen Bereich der Fersen und stehe vollständig auf. Führe die Füße zusammen.",
+      "Senke die Stange anschließend kontrolliert zum Boden."
+    ]
+  },
+  "Split_Squat_with_Dumbbells": {
+    "name": "Split Squat mit Kurzhanteln",
+    "instructions": [
+      "Nimm eine versetzte Beinstellung ein und lege den hinteren Fuß erhöht ab.",
+      "Halte in jeder Hand eine Kurzhantel seitlich am Körper. Das ist die Ausgangsposition.",
+      "Beuge vorderes Knie und Hüfte und senke den Körper bei aufrechter Haltung ab. Halte das vordere Knie in einer Linie mit dem Fuß.",
+      "Drücke dich am unteren Punkt über die Ferse zurück in die Ausgangsposition."
+    ]
+  },
+  "Split_Squats": {
+    "name": "Dynamische Split Squats",
+    "instructions": [
+      "Springe aus dem Stand in eine Schrittstellung, wobei ein Bein vorn und das andere hinten steht. Beuge die Knie und senke die Hüfte leicht.",
+      "Drücke dich sofort wieder explosiv nach oben, wechsle in der Luft die Beinstellung und lande erneut im Ausfallschritt. Führe 5 bis 10 Wiederholungen pro Bein aus."
+    ]
+  },
+  "Squat_Jerk": {
+    "name": "Squat Jerk",
+    "instructions": [
+      "Halte die Langhantel auf den vorderen Schultern. Stelle die Füße unter die Hüfte, beuge die Knie kurz und kehre die Bewegung explosiv um. Drücke dich über die Fersen ab und bewege den Kopf aus dem Weg, sobald die Stange die Schultern verlässt.",
+      "Setze die Füße schnell etwas weiter als hüftbreit auf und ziehe dich in eine tiefe Kniebeuge unter die Stange. Fange sie mit vollständig gestreckten Armen über dem Kopf auf.",
+      "Halte die Stange über dem vorderen Bereich der Fersen und stehe aus der Kniebeuge vollständig auf. Senke das Gewicht anschließend kontrolliert ab."
+    ]
+  },
+  "Squat_with_Bands": {
+    "name": "Kniebeuge mit Widerstandsbändern",
+    "instructions": [
+      "Befestige die Widerstandsbänder an den Hantelscheibenaufnahmen und verankere sie sicher an Bandstiften, am Rack oder an schweren Kurzhanteln.",
+      "Lege die Langhantel auf den oberen Rücken, ziehe die Schulterblätter zusammen und hebe sie aus der Ablage. Stelle die Füße weit auf und halte den Blick nach vorn.",
+      "Halte Rücken, Schultern und Rumpf fest. Führe Knie und Hüfte nach außen und setze die Hüfte weit zurück, bis die Hüftfalte mindestens auf Höhe der Knie liegt.",
+      "Drücke dich über die Fersen kraftvoll nach oben, halte Knie und Füße nach außen gerichtet und bewahre die Ganzkörperspannung."
+    ]
+  },
+  "Squat_with_Chains": {
+    "name": "Kniebeuge mit Ketten",
+    "instructions": [
+      "Lege die Führungsketten über die Hantelscheibenaufnahmen und befestige die schweren Ketten mit Karabinerhaken. Stelle die Länge so ein, dass am oberen Punkt noch einige Kettenglieder den Boden berühren.",
+      "Lege die Langhantel auf den oberen Rücken, ziehe die Schulterblätter zusammen und hebe sie aus der Ablage. Stelle die Füße weit auf und halte den Blick nach vorn.",
+      "Halte Rücken, Schultern und Rumpf fest. Führe Knie und Hüfte nach außen und setze die Hüfte weit zurück, bis die Hüftfalte mindestens auf Höhe der Knie liegt.",
+      "Drücke dich über die Fersen kraftvoll nach oben, halte Knie und Füße nach außen gerichtet und bewahre die Ganzkörperspannung."
+    ]
+  },
+  "Squat_with_Plate_Movers": {
+    "name": "Kniebeuge mit seitlichem Verschieben einer Hantelscheibe",
+    "instructions": [
+      "Stelle die Langhantel knapp unter Schulterhöhe in ein Rack und lege einige Schritte dahinter eine Hantelscheibe auf den Boden. Positioniere die Stange auf dem oberen Rücken.",
+      "Greife die Stange und hebe sie durch Strecken der Beine aus der Ablage.",
+      "Gehe zurück, stelle die Füße weit mit leicht nach außen gedrehten Zehen auf und platziere einen Fuß auf der Hantelscheibe. Das ist die Ausgangsposition.",
+      "Beuge Knie und Hüfte und senke dich kontrolliert ab, bis die Oberschenkel etwas unter parallel stehen.",
+      "Drücke dich beim Ausatmen über die Fersen zurück nach oben.",
+      "Mache oben einen Seitwärtsschritt und führe die Füße auf der gegenüberliegenden Seite der Scheibe zusammen.",
+      "Schiebe die Hantelscheibe mit dem inneren Fuß über den Boden an die vorherige Position.",
+      "Stelle den inneren Fuß auf die Scheibe und nimm wieder einen weiten Stand für die nächste Wiederholung ein."
+    ]
+  },
+  "Squats_-_With_Bands": {
+    "name": "Kniebeugen mit Widerstandsband",
+    "instructions": [
+      "Stelle dich mittig auf ein Widerstandsband und halte beide Seiten gleich lang. Die Füße stehen schulterbreit.",
+      "Greife die Griffe im Obergriff und halte sie neben dem Gesicht auf gleicher Höhe. Das ist die Ausgangsposition.",
+      "Beuge die Knie und senke dich kontrolliert ab, bis die Oberschenkel parallel zum Boden stehen.",
+      "Drücke dich über die Fersen zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Stairmaster": {
+    "name": "Stairmaster",
+    "instructions": [
+      "Steige auf den Stairmaster und wähle den manuellen Modus oder ein Programm. Bei vielen Geräten kannst du Alter und Gewicht für eine Kalorienschätzung eingeben.",
+      "Bewege die Pedale in einem gleichmäßigen Rhythmus nach unten, ohne sie vollständig bis zum Boden zu drücken. Halte dich zur Sicherheit an den Griffen fest und nutze bei Bedarf die Pulssensoren.",
+      "Ein Stairmaster bietet intensives, gelenkschonendes Ausdauertraining. Eine etwa 68 kg schwere Person verbrennt in 30 Minuten häufig mehr als 300 kcal."
+    ]
+  },
+  "Standing_Alternating_Dumbbell_Press": {
+    "name": "Abwechselndes Schulterdrücken mit Kurzhanteln im Stand",
+    "instructions": [
+      "Stelle dich mit je einer Kurzhantel auf Schulterhöhe hin. Die Handflächen zeigen nach vorn und die Ellenbogen nach außen. Das ist die Ausgangsposition.",
+      "Drücke eine Kurzhantel gerade über den Kopf, während die andere auf Schulterhöhe bleibt. Vermeide Schwung und ein Zurücklehnen.",
+      "Halte kurz und senke die Hantel kontrolliert zurück.",
+      "Wiederhole die Bewegung mit der anderen Seite und fahre abwechselnd fort."
+    ]
+  },
+  "Standing_Barbell_Calf_Raise": {
+    "name": "Stehendes Wadenheben mit Langhantel",
+    "instructions": [
+      "Stelle die Langhantel aus Sicherheitsgründen in einem Kniebeugenständer auf passende Höhe ein und positioniere sie auf dem oberen Rücken.",
+      "Greife die Stange, drücke dich über die Beine nach oben und hebe sie aus der Ablage.",
+      "Gehe einen Schritt zurück und stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte den Rücken aufrecht und die Knie leicht gebeugt. Das ist die Ausgangsposition.",
+      "Hebe die Fersen beim Ausatmen so hoch wie möglich an und spanne die Waden an. Halte die Knie ruhig und die obere Position kurz.",
+      "Senke die Fersen beim Einatmen langsam ab, bis die Waden gedehnt sind.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Standing_Barbell_Press_Behind_Neck": {
+    "name": "Stehendes Schulterdrücken hinter dem Nacken",
+    "instructions": [
+      "Stelle die Langhantel in einem Rack auf passende Höhe ein und positioniere sie auf dem oberen Rücken.",
+      "Greife die Stange und hebe sie durch Strecken der Beine aus der Ablage.",
+      "Gehe einen Schritt zurück und stelle die Füße schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte den Rücken gerade. Das ist die Ausgangsposition.",
+      "Drücke die Langhantel beim Ausatmen über den Kopf, bis die Arme vollständig gestreckt sind.",
+      "Halte oben kurz und senke die Stange beim Einatmen zurück auf den oberen Rücken.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  }
+}

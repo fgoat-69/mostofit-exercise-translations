@@ -1,0 +1,157 @@
+{
+  "One-Arm_Incline_Lateral_Raise": {
+    "name": "Einarmiges Seitheben auf der Schrägbank",
+    "instructions": [
+      "Lege dich seitlich auf eine Schrägbank und halte eine Kurzhantel in der oberen Hand. Drücke die Schulter gegen die Bank und führe den Arm mit der Handfläche in Richtung Bauchnabel quer vor den Körper.",
+      "Halte den oberen Arm gestreckt und parallel zum Boden vor dir. Das ist die Ausgangsposition.",
+      "Führe die Kurzhantel beim Ausatmen in einer seitlichen Hebebewegung nach oben, bis der Arm zur Decke zeigt. Halte die obere Position kurz und spanne die Schulter an.",
+      "Senke das Gewicht beim Einatmen kontrolliert über den Körper zurück in die Ausgangsposition.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Wechsle anschließend den Arm."
+    ]
+  },
+  "One-Arm_Kettlebell_Clean": {
+    "name": "Einarmiger Kettlebell-Clean",
+    "instructions": [
+      "Stelle eine Kettlebell zwischen deine Füße. Schiebe beim Herunterbeugen die Hüfte nach hinten und richte den Blick nach vorn.",
+      "Setze die Kettlebell durch kraftvolles Strecken von Beinen und Hüfte zur Schulter um. Drehe dabei das Handgelenk ein.",
+      "Senke die Kettlebell kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "One-Arm_Kettlebell_Clean_and_Jerk": {
+    "name": "Einarmiger Kettlebell Clean and Jerk",
+    "instructions": [
+      "Halte eine Kettlebell am Griff.",
+      "Setze die Kettlebell durch kraftvolles Strecken von Beinen und Hüfte zur Schulter um. Drehe das Handgelenk so ein, dass die Handfläche nach vorn zeigt.",
+      "Beuge die Knie leicht und halte den Oberkörper aufrecht.",
+      "Drücke dich sofort explosiv über die Fersen ab und nutze den Schwung, um die Kettlebell durch Strecken des Arms über den Kopf zu bringen.",
+      "Fange das Gewicht mit leicht gebeugten Knien und vollständig gestrecktem Arm über dem Kopf ab.",
+      "Richte dich mit der Kettlebell über dem Kopf vollständig auf. Senke das Gewicht anschließend zum Boden, um die nächste Wiederholung zu beginnen."
+    ]
+  },
+  "One-Arm_Kettlebell_Floor_Press": {
+    "name": "Einarmiges Kettlebell-Bodendrücken",
+    "instructions": [
+      "Lege dich auf den Boden und halte eine Kettlebell in einer Hand. Der Oberarm liegt am Boden und die Handfläche zeigt zum Körper.",
+      "Drücke die Kettlebell gerade zur Decke und drehe dabei das Handgelenk.",
+      "Senke die Kettlebell kontrolliert in die Ausgangsposition zurück und wiederhole die Bewegung."
+    ]
+  },
+  "One-Arm_Kettlebell_Jerk": {
+    "name": "Einarmiger Kettlebell-Jerk",
+    "instructions": [
+      "Halte eine Kettlebell am Griff und setze sie durch kraftvolles Strecken von Beinen und Hüfte zur Schulter um. Drehe das Handgelenk so ein, dass die Handfläche nach vorn zeigt. Das ist die Ausgangsposition.",
+      "Beuge die Knie leicht und halte den Oberkörper aufrecht.",
+      "Drücke dich sofort explosiv über die Fersen ab und nutze den Schwung, um die Kettlebell über den Kopf zu stoßen. Fange sie mit leicht gebeugten Knien und vollständig gestrecktem Arm ab und richte dich anschließend vollständig auf.",
+      "Senke die Kettlebell für die nächste Wiederholung kontrolliert ab."
+    ]
+  },
+  "One-Arm_Kettlebell_Military_Press_To_The_Side": {
+    "name": "Einarmiges seitliches Kettlebell-Schulterdrücken",
+    "instructions": [
+      "Setze eine Kettlebell durch kraftvolles Strecken von Beinen und Hüfte zur Schulter um. Drehe das Handgelenk so ein, dass die Handfläche zum Körper zeigt. Das ist die Ausgangsposition.",
+      "Behalte die Kettlebell im Blick und drücke sie nach oben und leicht außen, bis der Arm vollständig gestreckt ist.",
+      "Senke die Kettlebell kontrolliert zur Schulter zurück. Spanne Latissimus, Gesäß und Bauch kräftig an, um den Körper zu stabilisieren."
+    ]
+  },
+  "One-Arm_Kettlebell_Para_Press": {
+    "name": "Einarmige Kettlebell Para Press",
+    "instructions": [
+      "Setze eine Kettlebell durch kraftvolles Strecken von Beinen und Hüfte zur Schulter um. Drehe das Handgelenk so ein, dass die Handfläche nach vorn zeigt. Das ist die Ausgangsposition.",
+      "Halte den Ellenbogen seitlich außen und drücke die Kettlebell nach oben und außen, bis der Arm vollständig gestreckt ist.",
+      "Senke die Kettlebell kontrolliert zur Schulter zurück. Spanne Latissimus, Gesäß und Bauch kräftig an, um den Körper zu stabilisieren."
+    ]
+  },
+  "One-Arm_Kettlebell_Push_Press": {
+    "name": "Einarmige Kettlebell Push Press",
+    "instructions": [
+      "Halte eine Kettlebell am Griff und setze sie durch kraftvolles Strecken von Beinen und Hüfte zur Schulter um. Drehe das Handgelenk so ein, dass die Handfläche nach vorn zeigt. Das ist die Ausgangsposition.",
+      "Beuge die Knie leicht und halte den Oberkörper aufrecht.",
+      "Drücke dich sofort explosiv über die Fersen ab und nutze den Schwung, um die Kettlebell durch Strecken des Arms über den Kopf zu drücken. Senke das Gewicht anschließend für die nächste Wiederholung kontrolliert ab."
+    ]
+  },
+  "One-Arm_Kettlebell_Row": {
+    "name": "Einarmiges Kettlebell-Rudern",
+    "instructions": [
+      "Stelle eine Kettlebell vor deine Füße. Beuge die Knie leicht, schiebe die Hüfte weit nach hinten und neige den Oberkörper bei stabilem Rücken nach vorn. Greife die Kettlebell und ziehe sie durch Zurückführen des Schulterblatts und Beugen des Ellenbogens zum Bauch. Senke sie anschließend kontrolliert ab und wiederhole die Bewegung."
+    ]
+  },
+  "One-Arm_Kettlebell_Snatch": {
+    "name": "Einarmiges Kettlebell-Reißen",
+    "instructions": [
+      "Stelle eine Kettlebell zwischen deine Füße. Beuge die Knie und schiebe die Hüfte nach hinten, um die Ausgangsposition einzunehmen.",
+      "Richte den Blick nach vorn und schwinge die Kettlebell zwischen den Beinen nach hinten.",
+      "Kehre die Bewegung sofort um und strecke Hüfte und Knie explosiv. Beschleunige die Kettlebell nach oben, drehe die Hand auf Schulterhöhe ein und strecke den Arm kraftvoll über den Kopf, um das Gewicht stabil abzufangen."
+    ]
+  },
+  "One-Arm_Kettlebell_Split_Jerk": {
+    "name": "Einarmiger Kettlebell Split Jerk",
+    "instructions": [
+      "Halte eine Kettlebell am Griff und setze sie durch kraftvolles Strecken von Beinen und Hüfte zur Schulter um. Drehe das Handgelenk so ein, dass die Handfläche nach vorn zeigt. Das ist die Ausgangsposition.",
+      "Beuge die Knie leicht und halte den Oberkörper aufrecht.",
+      "Drücke dich sofort explosiv über die Fersen ab und nutze den Schwung, um die Kettlebell über den Kopf zu stoßen.",
+      "Fange das Gewicht mit vollständig gestrecktem Arm in einer Schrittstellung ab, wobei ein Bein vorn und das andere hinten steht.",
+      "Richte dich mit der Kettlebell über dem Kopf auf, führe die Füße zusammen und senke das Gewicht anschließend für die nächste Wiederholung ab."
+    ]
+  },
+  "One-Arm_Kettlebell_Split_Snatch": {
+    "name": "Einarmiges Kettlebell Split Snatch",
+    "instructions": [
+      "Halte eine Kettlebell in einer Hand am Griff.",
+      "Gehe in die Kniebeuge und strecke anschließend Hüfte, Knie und Sprunggelenke explosiv, um die Kettlebell über den Kopf zu beschleunigen.",
+      "Ziehe dich nach vollständiger Körperstreckung in eine Schrittstellung unter das Gewicht. Fange die Kettlebell mit einem Bein vorn, einem hinten und vollständig gestrecktem Arm über dem Kopf ab.",
+      "Richte dich mit dem Gewicht über dem Kopf auf, führe die Füße zusammen und senke die Kettlebell anschließend in die Ausgangsposition zurück."
+    ]
+  },
+  "One-Arm_Kettlebell_Swings": {
+    "name": "Einarmiger Kettlebell-Swing",
+    "instructions": []
+  },
+  "One-Arm_Long_Bar_Row": {
+    "name": "Einarmiges Landmine-Rudern",
+    "instructions": [
+      "Fixiere eine Langhantel in einer Landmine oder sicher in einer Ecke und belade das freie Ende passend.",
+      "Stelle dich seitlich neben die Stange, greife sie mit einer Hand nahe an der Hantelscheibenaufnahme und richte dich mithilfe von Hüfte und Beinen auf.",
+      "Beuge die Knie leicht, schiebe die Hüfte nach hinten und halte Brust und Kopf aufrecht. Der Arm ist gestreckt. Das ist die Ausgangsposition.",
+      "Ziehe das Gewicht durch Zurückführen des Schulterblatts und Beugen des Ellenbogens seitlich zum Körper. Vermeide Schwung und ruckartige Bewegungen.",
+      "Halte oben kurz und kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "One-Arm_Medicine_Ball_Slam": {
+    "name": "Einarmiger Medizinball-Slam",
+    "instructions": [
+      "Nimm eine versetzte, athletische Standposition ein und halte einen Medizinball in einer Hand auf der Seite des hinteren Beins. Das ist die Ausgangsposition.",
+      "Führe den Arm nach hinten und oben und bringe den Ball über den Kopf. Strecke dabei Hüfte, Knie und Sprunggelenke vollständig.",
+      "Beuge am höchsten Punkt Schulter, Wirbelsäule und Hüfte explosiv und schleudere den Ball direkt vor dir kraftvoll auf den Boden.",
+      "Fange den zurückspringenden Ball und wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen."
+    ]
+  },
+  "One-Arm_Open_Palm_Kettlebell_Clean": {
+    "name": "Einarmiger Open-Palm Kettlebell Clean",
+    "instructions": [
+      "Stelle eine Kettlebell zwischen deine Füße.",
+      "Greife den Griff mit einer Hand und beschleunige die Kettlebell nach oben. Lass sie kontrolliert kippen, sodass die Kugel in deiner geöffneten Handfläche landet.",
+      "Wirf die Kettlebell leicht nach vorn und fange den Griff wieder mit einer Hand.",
+      "Führe die Kettlebell zum Boden zurück und wiederhole die Bewegung. Trainiere beide Arme."
+    ]
+  },
+  "One-Arm_Overhead_Kettlebell_Squats": {
+    "name": "Einarmige Überkopf-Kniebeuge mit Kettlebell",
+    "instructions": [
+      "Setze eine Kettlebell zur Schulter um und drücke sie mit einem Arm über den Kopf. Halte den Arm vollständig gestreckt. Das ist die Ausgangsposition.",
+      "Richte den Blick nach vorn, beuge Knie und Hüfte und senke den Oberkörper zwischen den Beinen ab. Halte Brust und Kopf aufrecht und die Kettlebell stabil über dem Körper.",
+      "Halte die untere Position kurz und drücke dich anschließend über die Fersen zurück nach oben."
+    ]
+  },
+  "One-Arm_Side_Deadlift": {
+    "name": "Einarmiges seitliches Kreuzheben",
+    "instructions": [
+      "Stelle dich seitlich neben die Mitte einer Langhantel. Beuge die Knie und senke den Körper ab, bis du die Stange erreichen kannst.",
+      "Greife die Stange wie einen Koffer mit neutraler Handposition. Bei hohem Gewicht kannst du eine Zughilfe verwenden. Das ist die Ausgangsposition.",
+      "Drücke dich beim Ausatmen über die Beine nach oben, bis du aufrecht stehst. Der Arm bleibt vollständig gestreckt.",
+      "Senke die Langhantel beim Einatmen langsam ab und beuge dabei die Knie.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen.",
+      "Wechsle anschließend den Arm."
+    ]
+  }
+}

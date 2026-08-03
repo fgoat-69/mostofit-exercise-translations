@@ -1,0 +1,151 @@
+{
+  "Hanging_Bar_Good_Morning": {
+    "name": "Good Morning mit aufgehängter Langhantel",
+    "instructions": [
+      "Positioniere eine Langhantel etwa auf Bauchhöhe im Rack und hänge sie mit Ketten oder Schlingengurten auf.",
+      "Beuge dich unter die Stange und lege sie wie bei einer Powerlifting-Kniebeuge auf den oberen Rücken, nicht direkt auf den Trapezmuskel. Halte Rücken und Nacken stabil, ziehe die Schulterblätter zusammen und beuge die Knie leicht.",
+      "Strecke die Hüfte mithilfe von Gesäß und hinteren Oberschenkeln, bis du aufrecht stehst.",
+      "Senke die Stange anschließend langsam zurück in die Ausgangsposition, bis sie wieder von den Ketten getragen wird."
+    ]
+  },
+  "Hanging_Leg_Raise": {
+    "name": "Hängendes Beinheben",
+    "instructions": [
+      "Hänge mit gestreckten Armen im mittleren oder weiten Griff an einer Klimmzugstange. Die Beine hängen gerade nach unten und das Becken ist leicht eingerollt. Das ist die Ausgangsposition.",
+      "Hebe die gestreckten Beine beim Ausatmen an, bis sie ungefähr einen 90-Grad-Winkel zum Oberkörper bilden. Halte die Anspannung kurz.",
+      "Senke die Beine beim Einatmen langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Hanging_Pike": {
+    "name": "Hängendes Pike-Beinheben",
+    "instructions": [
+      "Hänge etwas weiter als schulterbreit im Obergriff an einer Klimmzugstange. Halte Beine und Füße zusammen.",
+      "Beuge die Knie auf 90 Grad und hebe die Oberschenkel parallel zum Boden an. Das ist die Ausgangsposition.",
+      "Ziehe die Beine beim Ausatmen nach oben, bis die Schienbeine fast die Stange berühren. Strecke die Beine am oberen Punkt so weit wie möglich.",
+      "Senke die Beine ohne Schwung so langsam wie möglich zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Heaving_Snatch_Balance": {
+    "name": "Heaving Snatch Balance",
+    "instructions": [
+      "Diese Übung unterstützt das Erlernen des Reißens. Halte eine leichte Langhantel im weiten Griff auf dem oberen Rücken. Stelle die Füße etwas weiter als hüftbreit und leicht nach außen gedreht auf.",
+      "Beuge die Knie kurz und strecke sie anschließend explosiv, um die Stange zu entlasten. Ziehe dich gleichzeitig unter die Stange, drücke sie über den Kopf und lande in einer tiefen Kniebeuge.",
+      "Stehe mit der Stange über dem Kopf vollständig auf."
+    ]
+  },
+  "Heavy_Bag_Thrust": {
+    "name": "Explosives Drücken am Sandsack",
+    "instructions": [
+      "Stelle dich in breiter Schrittstellung neben einen schweren Sandsack und lege eine Hand ungefähr auf Brusthöhe daran. Das ist die Ausgangsposition.",
+      "Drehe den Oberkörper explosiv und drücke den Sandsack so kraftvoll wie möglich vom Körper weg.",
+      "Fange den zurückschwingenden Sandsack kontrolliert ab und kehre in die Ausgangsposition zurück."
+    ]
+  },
+  "High_Cable_Curls": {
+    "name": "Bizepscurl am hohen Kabelzug",
+    "instructions": [
+      "Stelle dich zwischen zwei hohe Kabelzüge und greife in jeder Hand einen Griff. Halte die Oberarme parallel zum Boden und die Handflächen zum Kopf gerichtet. Das ist die Ausgangsposition.",
+      "Beuge die Ellenbogen beim Ausatmen und ziehe die Griffe in Richtung Ohren. Halte die Oberarme ruhig und spanne den Bizeps oben kurz an.",
+      "Strecke die Arme langsam zurück.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Hip_Circles_prone": {
+    "name": "Hüftkreisen im Vierfüßlerstand",
+    "instructions": [
+      "Gehe in den Vierfüßlerstand und hebe ein gebeugtes Knie vom Boden ab. Halte den Rücken stabil. Das ist die Ausgangsposition.",
+      "Halte das Knie gebeugt und führe den Oberschenkel in einem möglichst großen Kreis.",
+      "Führe die Bewegung langsam für die vorgesehene Anzahl an Wiederholungen aus und wechsle anschließend die Seite."
+    ]
+  },
+  "Hip_Extension_with_Bands": {
+    "name": "Hüftstreckung mit Widerstandsband",
+    "instructions": [
+      "Befestige ein Ende des Bands tief an einem stabilen Pfosten und das andere Ende an einem Knöchel.",
+      "Stelle dich mit Blick zum Befestigungspunkt und halte dich zur Stabilisierung am Pfosten fest.",
+      "Halte Kopf und Brust aufrecht und führe das belastete Bein bei gestrecktem Knie so weit wie möglich nach hinten.",
+      "Kehre kontrolliert in die Ausgangsposition zurück."
+    ]
+  },
+  "Hip_Flexion_with_Band": {
+    "name": "Hüftbeugung mit Widerstandsband",
+    "instructions": [
+      "Befestige ein Ende des Bands tief an einem stabilen Pfosten und das andere Ende an einem Knöchel.",
+      "Stelle dich mit dem Rücken zum Befestigungspunkt.",
+      "Halte Kopf und Brust aufrecht und hebe das Knie bis ungefähr 90 Grad an. Halte kurz.",
+      "Senke das Bein kontrolliert zurück."
+    ]
+  },
+  "Hip_Lift_with_Band": {
+    "name": "Hüftheben mit Widerstandsband",
+    "instructions": [
+      "Befestige ein geeignetes Band auf beiden Seiten eines Racks oder sichere es mit schweren, unbeweglichen Kurzhanteln.",
+      "Lege dich so darunter, dass das Band direkt über der Hüfte liegt. Beuge die Knie, stelle die Füße flach auf und halte das Band bei Bedarf mit den Händen in Position.",
+      "Drücke dich über die Fersen ab und hebe die Hüfte gegen den Bandwiderstand so hoch wie möglich. Die Schultern bleiben am Boden.",
+      "Halte die obere Position kurz und senke die Hüfte kontrolliert zurück."
+    ]
+  },
+  "Hug_A_Ball": {
+    "name": "Umarmung des Gymnastikballs",
+    "instructions": [
+      "Setze dich auf den Boden.",
+      "Positioniere einen Gymnastikball zwischen den Beinen und senke die Hüfte in Richtung Boden.",
+      "Umarme den Ball zur Stabilisierung. Stelle die Füße flach auf und richte die Knie über den Sprunggelenken aus. Halte den Ball sicher fest, damit er nicht wegrollt."
+    ]
+  },
+  "Hug_Knees_To_Chest": {
+    "name": "Knie zur Brust ziehen",
+    "instructions": [
+      "Lege dich auf den Rücken und ziehe beide Knie zur Brust.",
+      "Greife unterhalb der Kniekehlen, nicht direkt über den Knien.",
+      "Ziehe die Knie langsam in Richtung Schultern, bis du eine Dehnung im unteren Rücken und Gesäß spürst."
+    ]
+  },
+  "Hurdle_Hops": {
+    "name": "Hürdensprünge",
+    "instructions": [
+      "Stelle mehrere kleine Hürden mit einigen Schritten Abstand hintereinander auf.",
+      "Stelle dich schulterbreit vor die erste Hürde. Das ist die Ausgangsposition.",
+      "Springe mit beiden Füßen über die erste Hürde und nutze die Arme aktiv.",
+      "Fange die Landung durch Beugen der Knie ab und springe unmittelbar über die nächste Hürde. Fahre fort, bis du alle Hürden übersprungen hast."
+    ]
+  },
+  "Hyperextensions_Back_Extensions": {
+    "name": "Hyperextensions",
+    "instructions": [
+      "Lege dich bäuchlings auf eine Hyperextension-Bank und fixiere die Knöchel unter den Fußpolstern.",
+      "Stelle das obere Polster so ein, dass die Oberschenkel aufliegen und du dich frei aus der Hüfte beugen kannst.",
+      "Halte den Körper gerade und verschränke die Arme vor der Brust oder hinter dem Kopf. Für mehr Widerstand kannst du eine Hantelscheibe vor der Brust halten. Das ist die Ausgangsposition.",
+      "Beuge dich beim Einatmen langsam aus der Hüfte nach vorn, bis du eine deutliche Dehnung in den hinteren Oberschenkeln spürst. Halte den Rücken während der gesamten Bewegung neutral.",
+      "Richte den Oberkörper kontrolliert wieder auf, ohne über die gerade Körperlinie hinaus ins Hohlkreuz zu gehen.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "Hyperextensions_With_No_Hyperextension_Bench": {
+    "name": "Hyperextensions ohne Hyperextension-Bank",
+    "instructions": [
+      "Lass deine Beine von einem Trainingspartner auf einer Flachbank fixieren und rutsche so weit nach vorn, dass die Hüfte über das Bankende hinausragt.",
+      "Halte den Körper gerade und verschränke die Arme vor der Brust oder hinter dem Kopf. Das ist die Ausgangsposition.",
+      "Beuge dich beim Einatmen langsam aus der Hüfte nach vorn, bis du beinahe den Boden berührst oder eine deutliche Dehnung in den hinteren Oberschenkeln spürst. Runde den Rücken nicht.",
+      "Richte den Oberkörper beim Ausatmen kontrolliert wieder auf, ohne über die gerade Körperlinie hinauszugehen.",
+      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+    ]
+  },
+  "IT_Band_and_Glute_Stretch": {
+    "name": "Dehnung von IT-Band und Gesäß",
+    "instructions": [
+      "Lege dich auf den Rücken, befestige einen Gurt oder ein Band an einem Fuß und führe das gestreckte Bein über die Körpermitte zur gegenüberliegenden Seite. Das ist die Ausgangsposition.",
+      "Halte den Fuß vom Boden ab und ziehe vorsichtig am Gurt, um die Fußspitze anzuziehen. Halte die Dehnung 10 bis 20 Sekunden und wechsle anschließend die Seite."
+    ]
+  },
+  "Iliotibial_Tract-SMR": {
+    "name": "IT-Band-Selbstmassage",
+    "instructions": [
+      "Lege dich seitlich hin und positioniere eine Faszienrolle zwischen Hüfte und Knie unter dem unteren Bein. Das obere Bein kann vor dem Körper aufgestellt werden.",
+      "Verlagere so viel Körpergewicht wie angenehm auf das untere Bein und entspanne die Muskulatur.",
+      "Rolle langsam von der Außenseite der Hüfte bis knapp oberhalb des Knies. Halte empfindliche Punkte 10 bis 30 Sekunden und wechsle anschließend die Seite."
+    ]
+  }
+}
