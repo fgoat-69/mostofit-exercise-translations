@@ -1,0 +1,42 @@
+name: Build English template
+
+on:
+  push:
+    paths:
+      - "translations/source/exercises_full_en.json"
+      - "scripts/build_english_template.py"
+      - ".github/workflows/build-english-template.yml"
+
+  pull_request:
+    paths:
+      - "translations/source/exercises_full_en.json"
+      - "scripts/build_english_template.py"
+      - ".github/workflows/build-english-template.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-english-template:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Generate compact English template
+        run: |
+          python scripts/build_english_template.py \
+            --input translations/source/exercises_full_en.json \
+            --output translations/templates/en.json
+
+      - name: Verify generated template is committed
+        run: |
+          git diff --exit-code -- translations/templates/en.json
