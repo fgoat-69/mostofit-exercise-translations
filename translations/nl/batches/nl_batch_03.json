@@ -1,0 +1,546 @@
+{
+  "Cable_Chest_Press": {
+    "name": "Kabelborstdruk",
+    "instructions": [
+      "Kies een passend gewicht, ga zitten en pak de handgrepen vast. Houd je bovenarmen ongeveer 45 graden van je romp, hoofd en borst omhoog en ellebogen ongeveer 90 graden gebogen. Dit is je startpositie.",
+      "Strek je ellebogen en druk de handgrepen recht voor je naar elkaar toe. Houd je schouderbladen ingetrokken.",
+      "Pauzeer bij volledige strekking en keer terug naar de startpositie terwijl je spanning op de kabels houdt.",
+      "Je kunt deze beweging ook uitvoeren met je rug van het kussen, op een helling of daling, of afwisselend met één arm."
+    ]
+  },
+  "Cable_Crossover": {
+    "name": "Cable crossover",
+    "instructions": [
+      "Plaats de katrollen hoog, kies de weerstand en pak in elke hand een handgreep.",
+      "Stap naar voren tot je voor de denkbeeldige lijn tussen de katrollen staat en breng je armen voor je samen. Buig licht voorover vanuit de heupen. Dit is je startpositie.",
+      "Houd een lichte buiging in de ellebogen en open je armen in een brede boog tot je rek in de borst voelt. Adem in. Houd romp en armen verder stil; de beweging komt uit de schouders.",
+      "Breng je armen via dezelfde boog terug terwijl je uitademt.",
+      "Houd één seconde vast en herhaal voor het voorgeschreven aantal herhalingen."
+    ]
+  },
+  "Cable_Crunch": {
+    "name": "Kabelcrunch",
+    "instructions": [
+      "Kniel onder een hoge katrol met een touwbevestiging.",
+      "Pak het touw vast en breng je handen naast je gezicht.",
+      "Buig je heupen licht en laat het gewicht je onderrug iets overstrekken. Dit is je startpositie.",
+      "Houd je heupen stil en buig je middel terwijl je de buikspieren aanspant en je ellebogen richting het midden van je dijen brengt. Adem uit en houd één seconde vast.",
+      "Keer langzaam terug terwijl je inademt. Houd constante spanning op de buikspieren en kies geen gewicht dat je onderrug overneemt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Deadlifts": {
+    "name": "Kabeldeadlift",
+    "instructions": [
+      "Plaats de kabels onderaan de torens, kies een passend gewicht en ga tussen de staanders staan.",
+      "Zak door heupen en knieën tot je de handgrepen kunt pakken.",
+      "Duw via je hielen, strek heupen en knieën en houd je handen langs je lichaam. Houd hoofd en borst omhoog.",
+      "Keer vanuit volledige stand terug naar de startpositie en herhaal."
+    ]
+  },
+  "Cable_Hammer_Curls_-_Rope_Attachment": {
+    "name": "Kabelhammercurl met touw",
+    "instructions": [
+      "Bevestig een touw aan een lage katrol en ga ongeveer 30 cm van de machine staan.",
+      "Pak het touw in neutrale greep en sta rechtop met een natuurlijke holling in de rug en stilstaande romp.",
+      "Houd je ellebogen langs je zij en laat alleen de onderarmen bewegen. Dit is je startpositie.",
+      "Buig je ellebogen met de biceps tot je onderarmen de biceps raken terwijl je uitademt.",
+      "Span één seconde aan en laat het gewicht langzaam terugzakken.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Hip_Adduction": {
+    "name": "Heupadductie aan de kabel",
+    "instructions": [
+      "Ga voor een lage katrol staan met één been naast de kabel en het andere verder weg.",
+      "Bevestig de enkelband aan de kabel en aan de enkel van het been naast de katrol.",
+      "Stap zijwaarts van de gewichtsstapel af, neem een brede houding aan en houd de machine vast.",
+      "Steun op het buitenste been en laat het been met de band richting de katrol bewegen. Dit is je startpositie.",
+      "Beweeg het been met de enkelband voor het andere been langs door de binnenkant van de dij te gebruiken. Adem uit.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen en wissel van been."
+    ]
+  },
+  "Cable_Incline_Pushdown": {
+    "name": "Incline kabel-pushdown",
+    "instructions": [
+      "Ga op een schuine bank liggen met je rug naar een hoge katrol met rechte stang.",
+      "Pak de stang boven je hoofd in pronatie op schouderbreedte en strek je armen voor je uit. Houd de stang ongeveer 5 cm van je bovenbenen. Dit is je startpositie.",
+      "Houd je bovenarmen stil en beweeg je armen in een halve cirkel naar achteren tot de stang boven je hoofd staat. Adem in.",
+      "Gebruik je lats om langzaam terug te keren en houd de contractie vast wanneer je de startpositie bereikt. Adem uit.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Incline_Triceps_Extension": {
+    "name": "Incline tricepsextensie aan de kabel",
+    "instructions": [
+      "Ga op een schuine bank liggen met je rug naar een hoge katrol met rechte stang.",
+      "Pak de stang boven je hoofd in een smalle pronatiegreep en houd je ellebogen langs je lichaam. Je bovenarmen vormen ongeveer 25 graden met de vloer.",
+      "Houd je bovenarmen stil en strek je armen door de triceps aan te spannen. Adem uit en houd één seconde vast.",
+      "Keer langzaam terug naar de startpositie.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Internal_Rotation": {
+    "name": "Interne rotatie aan de kabel",
+    "instructions": [
+      "Ga zijwaarts naast een lage katrol zitten en pak de handgreep met de arm die het dichtst bij de kabel is.",
+      "Houd je elleboog tegen je zij, gebogen tot 90 graden, met je onderarm naar de katrol gericht. Dit is je startpositie.",
+      "Trek de handgreep naar je lichaam door je schouder naar binnen te draaien tot je onderarm voor je buik staat. Houd je onderarm loodrecht op je romp.",
+      "Keer langzaam terug.",
+      "Herhaal voor het aanbevolen aantal herhalingen en wissel daarna van arm."
+    ]
+  },
+  "Cable_Iron_Cross": {
+    "name": "Cable iron cross",
+    "instructions": [
+      "Plaats de katrollen hoog, kies de weerstand en pak in elke hand een handgreep.",
+      "Ga midden tussen de katrollen staan met je armen zijwaarts gestrekt zodat je lichaam een T vormt. Houd hoofd en borst omhoog. Dit is je startpositie.",
+      "Houd je ellebogen gestrekt en trek je armen recht omlaag langs je zij.",
+      "Keer na een korte pauze bij maximale contractie terug naar de startpositie.",
+      "Herhaal voor het voorgeschreven aantal herhalingen."
+    ]
+  },
+  "Cable_Judo_Flip": {
+    "name": "Kabel-judo flip",
+    "instructions": [
+      "Bevestig een touw aan de laagste katrol. Ga zijwaarts met een brede houding staan en pak het touw met beide handen.",
+      "Draai van de katrol af en breng het touw over je schouder alsof je een judoworp uitvoert.",
+      "Verplaats je gewicht tussen je voeten terwijl je draait en voorover cruncht en de kabel omlaag trekt.",
+      "Keer terug en herhaal tot spierfalen.",
+      "Draai je om en herhaal aan de andere kant."
+    ]
+  },
+  "Cable_Lying_Triceps_Extension": {
+    "name": "Liggende tricepsextensie aan de kabel",
+    "instructions": [
+      "Ga op een vlakke bank liggen en pak een rechte stang van een lage katrol met een smalle pronatiegreep. Laat de stang bij voorkeur aangeven door een partner.",
+      "Houd de stang met gestrekte armen boven je romp zodat armen en romp 90 graden vormen. Dit is je startpositie.",
+      "Buig de ellebogen terwijl je bovenarmen stil blijven en laat de stang zakken tot hij licht je voorhoofd raakt. Adem in.",
+      "Strek je triceps en breng de stang terug naar de startpositie. Adem uit.",
+      "Houd één seconde vast en herhaal."
+    ]
+  },
+  "Cable_One_Arm_Tricep_Extension": {
+    "name": "Eenarmige tricepsextensie aan de kabel",
+    "instructions": [
+      "Pak met je rechterhand een enkele handgreep aan een hoge katrol in supinatie en sta recht voor de gewichtsstapel.",
+      "Trek de handgreep omlaag zodat bovenarm en elleboog tegen je zij vaststaan en de ellebooghoek kleiner dan 90 graden is. Gebruik eventueel een gespreide stand. Dit is je startpositie.",
+      "Strek de arm omlaag door de triceps aan te spannen tot de arm volledig recht is. Adem uit. Alleen de onderarm beweegt.",
+      "Span de triceps één seconde aan.",
+      "Keer langzaam terug.",
+      "Herhaal en wissel daarna van arm."
+    ]
+  },
+  "Cable_Preacher_Curl": {
+    "name": "Preachercurl aan de kabel",
+    "instructions": [
+      "Plaats een preacherbank ongeveer 60 cm voor een kabelmachine.",
+      "Bevestig een rechte stang aan de lage katrol.",
+      "Ga zitten met je ellebogen en bovenarmen stevig op het kussen en laat iemand je de stang aangeven.",
+      "Pak de stang en strek je armen volledig over het kussen. Dit is je startpositie.",
+      "Curl het gewicht naar je schouders en span bovenaan de biceps krachtig aan. Adem uit en houd één seconde vast.",
+      "Laat het gewicht langzaam zakken.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Rear_Delt_Fly": {
+    "name": "Rear-delt fly aan de kabel",
+    "instructions": [
+      "Plaats de katrollen boven hoofdhoogte en kies het gewicht.",
+      "Pak de linkerhandgreep met je rechterhand en de rechterhandgreep met je linkerhand, gekruist voor je. Dit is je startpositie.",
+      "Beweeg je armen gestrekt naar achteren en naar buiten.",
+      "Pauzeer aan het einde en keer terug naar de startpositie."
+    ]
+  },
+  "Cable_Reverse_Crunch": {
+    "name": "Omgekeerde crunch aan de kabel",
+    "instructions": [
+      "Bevestig een enkelband aan een lage katrol en leg een mat ervoor.",
+      "Ga zitten met je voeten naar de katrol en bevestig de kabel aan je enkels.",
+      "Ga liggen, hef je benen en buig je knieën tot 90 graden. Zorg dat benen en kabel in één lijn staan.",
+      "Plaats je handen achter je hoofd, trek je knieën naar je romp en til je heupen van de vloer.",
+      "Pauzeer kort en laat je heupen en benen langzaam terugzakken tot 90 graden terwijl je spanning op de buikspieren houdt.",
+      "Herhaal tot spierfalen."
+    ]
+  },
+  "Cable_Rope_Overhead_Triceps_Extension": {
+    "name": "Tricepsextensie boven het hoofd met kabeltouw",
+    "instructions": [
+      "Bevestig een touw aan de onderste katrol.",
+      "Pak het touw met beide handen en strek je armen boven je hoofd in neutrale greep. Houd je ellebogen dicht bij je hoofd, armen loodrecht op de vloer en knokkels naar het plafond. Dit is je startpositie.",
+      "Laat het touw langzaam achter je hoofd zakken terwijl je bovenarmen stil blijven. Adem in en pauzeer bij volledige rek.",
+      "Strek je triceps en keer terug terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Rope_Rear-Delt_Rows": {
+    "name": "Rear-delt row met kabeltouw",
+    "instructions": [
+      "Ga zitten op een lage kabelroeimachine zoals bij een normale seated row.",
+      "Bevestig een touw en pak het in pronatie. Houd je armen gestrekt, parallel aan de vloer en ellebogen naar buiten.",
+      "Houd je onderrug recht en schuif je heupen naar achteren met licht gebogen knieën. Dit is je startpositie.",
+      "Trek het touw naar je bovenborst net onder de nek, met ellebogen hoog en naar buiten. Ga door tot de ellebogen iets achter je rug komen. Adem uit.",
+      "Keer terug tot je armen gestrekt zijn en je schouders naar voren worden gerekt. Adem in.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Russian_Twists": {
+    "name": "Russische rotatie aan de kabel",
+    "instructions": [
+      "Bevestig een standaardhandgreep en zet de kabel op middelhoge stand.",
+      "Ga loodrecht op de kabel op een stabiliteitsbal liggen en pak de handgreep met één hand, ongeveer op armlengte van de katrol.",
+      "Pak de handgreep met beide handen en strek je armen boven de borst, in lijn met de katrol.",
+      "Houd je heupen hoog en buik aangespannen. Draai je romp een kwartslag van de katrol af. Houd je lichaam recht van hoofd tot knieën.",
+      "Pauzeer kort en keer langzaam terug terwijl de kabel zijwaartse spanning houdt.",
+      "Herhaal tot spierfalen.",
+      "Draai je om en herhaal aan de andere kant."
+    ]
+  },
+  "Cable_Seated_Crunch": {
+    "name": "Zittende kabelcrunch",
+    "instructions": [
+      "Ga op een vlakke bank zitten met je rug naar een hoge katrol.",
+      "Pak het touw met beide handen in neutrale greep en plaats je handen stevig boven je schouders. Laat het gewicht je onderrug licht overstrekken. Dit is je startpositie.",
+      "Houd je heupen stil en buig je middel zodat je ellebogen richting je heupen bewegen. Adem uit.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Seated_Lateral_Raise": {
+    "name": "Zittende zijwaartse kabelheffing",
+    "instructions": [
+      "Ga tussen twee tegenoverliggende lage katrollen staan, plaats een vlakke bank achter je en kies het gewicht.",
+      "Ga op de rand van de bank zitten met je voeten voor je knieën.",
+      "Buig voorover met een vlakke rug en laat je romp op je dijen rusten.",
+      "Pak gekruist de handgrepen vast zodat de kabels onder je knieën lopen. Houd je armen gestrekt met een lichte elleboogbuiging en handpalmen naar elkaar. Dit is je startpositie.",
+      "Hef je bovenarmen zijwaarts tot ze parallel aan de vloer en op schouderhoogte zijn. Adem uit en houd één seconde vast.",
+      "Laat je armen langzaam zakken terwijl je inademt.",
+      "Herhaal en houd je bovenarmen loodrecht op je romp met een vaste ellebooghoek."
+    ]
+  },
+  "Cable_Shoulder_Press": {
+    "name": "Schouderdruk aan de kabel",
+    "instructions": [
+      "Plaats de kabels onderaan de torens en kies een passend gewicht.",
+      "Ga tussen de staanders staan en houd de handgrepen op schouderhoogte met de handpalmen naar voren. Dit is je startpositie.",
+      "Houd hoofd en borst omhoog en druk de handgrepen boven je hoofd door de ellebogen te strekken.",
+      "Pauzeer bovenaan, keer terug en herhaal."
+    ]
+  },
+  "Cable_Shrugs": {
+    "name": "Kabelshrugs",
+    "instructions": [
+      "Pak een stang aan een lage katrol met een pronatiegreep op schouderbreedte of iets breder.",
+      "Sta rechtop dicht bij de katrol met gestrekte armen voor je. Dit is je startpositie.",
+      "Til je schouders zo hoog mogelijk terwijl je uitademt en houd één seconde vast. Houd de armen gestrekt en gebruik je biceps niet.",
+      "Laat de stang terugzakken.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Cable_Wrist_Curl": {
+    "name": "Polscurl aan de kabel",
+    "instructions": [
+      "Plaats een vlakke bank voor een lage katrol met rechte stang.",
+      "Pak de stang met een smalle tot schouderbrede supinatiegreep en laat je onderarmen op je dijen rusten, met de polsen voorbij de knieën.",
+      "Buig je polsen omhoog terwijl je uitademt en houd één seconde vast.",
+      "Laat je polsen langzaam zakken terwijl je inademt.",
+      "Houd je onderarmen stil; alleen je polsen bewegen.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Calf-Machine_Shoulder_Shrug": {
+    "name": "Shrug op de kuitmachine",
+    "instructions": [
+      "Ga in de kuitmachine staan met de schouderkussens boven je schouders, romp recht en armen langs je lichaam. Dit is je startpositie.",
+      "Trek je schouders naar je oren terwijl je uitademt en houd één seconde vast.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Calf_Press": {
+    "name": "Kuitdruk",
+    "instructions": [
+      "Stel de stoel zo af dat je benen in de startpositie slechts licht gebogen zijn en de bal van je voeten stevig op het platform staat.",
+      "Kies een passend gewicht en pak de handgrepen. Dit is je startpositie.",
+      "Strek je knieën en til het gewicht net van de stapel. Buig je enkels volledig met de tenen omhoog en druk daarna via de bal van je voeten zo ver mogelijk omlaag.",
+      "Pauzeer kort, keer de beweging om en herhaal."
+    ]
+  },
+  "Calf_Press_On_The_Leg_Press_Machine": {
+    "name": "Kuitdruk op de legpress",
+    "instructions": [
+      "Ga op de legpress zitten en plaats je voeten op schouderbreedte op het platform.",
+      "Ontgrendel het platform en strek je benen zonder de knieën te vergrendelen. Plaats daarna voorzichtig je tenen en de bal van je voeten op de onderste rand van het platform met de hielen vrij. Dit is je startpositie.",
+      "Druk het platform weg door je hielen zo hoog mogelijk te brengen en de enkels te strekken. Houd de knieën volledig stil en span de kuiten één seconde aan.",
+      "Laat je hielen langzaam zakken terwijl je inademt tot de kuiten zijn uitgerekt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Calf_Raise_On_A_Dumbbell": {
+    "name": "Kuitheffing op een dumbbell",
+    "instructions": [
+      "Houd je vast aan een stevig object en ga op de handgreep van een dumbbell staan, bij voorkeur met ronde schijven zodat deze rolt en extra stabilisatie vereist.",
+      "Rol je voet iets naar voren om de kuit te rekken. Dit is je startpositie.",
+      "Rol over de handgreep en kom volledig omhoog op je tenen. Adem uit, span de kuit één seconde aan en rol de dumbbell iets naar achteren.",
+      "Adem in en rol de dumbbell iets naar voren terwijl je zakt voor extra rek.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Calf_Raises_-_With_Bands": {
+    "name": "Kuitheffingen met banden",
+    "instructions": [
+      "Ga met je tenen op een trainingsband staan en zorg dat de lengte naar beide handen gelijk is.",
+      "Houd de handgrepen naast je hoofd alsof je een schouderdruk gaat doen, handpalmen naar voren en ellebogen gebogen. Dit creëert spanning. Dit is je startpositie.",
+      "Houd je handen bij de schouders en kom op je tenen terwijl je uitademt. Span de kuiten bovenaan krachtig aan.",
+      "Keer na één seconde langzaam terug.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Calf_Stretch_Elbows_Against_Wall": {
+    "name": "Kuitstretch met ellebogen tegen de muur",
+    "instructions": [
+      "Ga enkele voeten van een muur af staan en kijk ernaar.",
+      "Leun met je onderarmen tegen de muur.",
+      "Houd je hielen op de grond. Houd 10 tot 20 seconden vast. Ga verder van of dichter bij de muur staan om de moeilijkheid aan te passen."
+    ]
+  },
+  "Calf_Stretch_Hands_Against_Wall": {
+    "name": "Kuitstretch met handen tegen de muur",
+    "instructions": [
+      "Ga enkele voeten van een muur af staan met één voet voor de andere.",
+      "Leun voorover met je handen tegen de muur en houd hiel, heup en hoofd in één lijn.",
+      "Houd je achterste hiel op de grond. Houd 10 tot 20 seconden vast en wissel van kant."
+    ]
+  },
+  "Calves-SMR": {
+    "name": "Kuiten-SMR",
+    "instructions": [
+      "Ga op de vloer zitten en plaats een foamroller onder je onderbeen. Kruis het andere been erover of zet het op de vloer voor ondersteuning. Dit is je startpositie.",
+      "Plaats je handen naast of achter je en til je heupen op zodat veel gewicht op de kuit rust. Rol van onder de knie tot boven de enkel en houd gevoelige punten 10 tot 30 seconden vast. Wissel van been."
+    ]
+  },
+  "Car_Deadlift": {
+    "name": "Autodeadlift",
+    "instructions": [
+      "Dit toestel heeft meestal neutrale handgrepen, maar soms een rechte stang. Het kan worden beladen met een voertuig of zware objecten zoals tractorbanden of vaten.",
+      "Ga midden tussen de handgrepen staan als je sterk bent in squats, of iets naar achteren als je sterk bent in deadlifts. Zet je voeten op heupbreedte, buig vanuit de heupen en pak de handgrepen. Adem diep in, laat je heupen zakken en buig je knieën.",
+      "Kijk vooruit, houd je borst omhoog en rug gebogen en duw via de hielen. Trek tijdens het omhoogkomen je schouderbladen samen en duw je heupen naar voren.",
+      "Laat het gewicht zakken door vanuit de heupen te buigen en het naar de vloer te begeleiden."
+    ]
+  },
+  "Car_Drivers": {
+    "name": "Stuurbeweging met gewichtsschijf",
+    "instructions": [
+      "Sta rechtop en houd een halterschijf met beide handen vast op de posities 3 en 9 uur. Houd je handpalmen naar elkaar en armen recht voor je. Dit is je startpositie.",
+      "Draai de schijf zo ver mogelijk naar één kant alsof je aan een stuur draait.",
+      "Keer de beweging om en draai volledig naar de andere kant.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Carioca_Quick_Step": {
+    "name": "Carioca quick step",
+    "instructions": [
+      "Begin met je voeten enkele centimeters uit elkaar en je linkerarm omhoog in een ontspannen atletische houding.",
+      "Stap snel met je rechtervoet achterlangs en trek je knie omhoog.",
+      "Breng je armen krachtig omhoog wanneer je de rechterknie optrekt. Houd de knie recht op en neer, draai je voeten niet en blijf vooruit kijken terwijl je zijwaarts beweegt."
+    ]
+  },
+  "Cat_Stretch": {
+    "name": "Kattenstretch",
+    "instructions": [
+      "Ga op handen en knieën op de vloer zitten.",
+      "Trek je buik in en rond je wervelkolom, onderrug, schouders en nek terwijl je hoofd naar beneden zakt.",
+      "Houd 15 seconden vast."
+    ]
+  },
+  "Catch_and_Overhead_Throw": {
+    "name": "Vangen en bovenhandse worp",
+    "instructions": [
+      "Sta tegenover een muur of partner.",
+      "Houd de bal met beide handen achter je hoofd, rek zo ver mogelijk uit en gooi hem krachtig naar voren.",
+      "Maak de worp volledig af en bereid je voor op de terugkaatsende bal. Sta bij een muur dicht genoeg om de rebound te vangen en mik iets hoger dan bij een partner."
+    ]
+  },
+  "Chain_Handle_Extension": {
+    "name": "Tricepsextensie met kettinghandgrepen",
+    "instructions": [
+      "Gebruik twee kabelhandgrepen, een vlakke bank en kettingen. Bevestig het midden van de kettingen aan de handgrepen en ga op de bank liggen met je ellebogen recht omhoog.",
+      "Strek je ellebogen terwijl je bovenarmen stil blijven en polsen in pronatie staan.",
+      "Pauzeer bij lock-out en keer terug naar de startpositie."
+    ]
+  },
+  "Chain_Press": {
+    "name": "Chain press",
+    "instructions": [
+      "Bevestig kettingen aan kabelhandgrepen en ga op een vlakke bank liggen zoals bij een dumbbell press. Houd je polsen in pronatie en armen loodrecht op de vloer. Dit is je startpositie.",
+      "Laat de kettingen zakken door je ellebogen te buigen, waarbij een deel van de ketting op de vloer komt.",
+      "Ga door tot je ellebogen 90 graden vormen en strek daarna terug tot lock-out."
+    ]
+  },
+  "Chair_Leg_Extended_Stretch": {
+    "name": "Beenstrek op stoel",
+    "instructions": [
+      "Ga rechtop op een stoel zitten en pak de zijkanten van de zitting vast.",
+      "Til één been op, strek de knie en buig de enkel.",
+      "Beweeg het been langzaam zo ver mogelijk naar buiten en daarna terug naar het midden en omlaag.",
+      "Herhaal met het andere been."
+    ]
+  },
+  "Chair_Lower_Back_Stretch": {
+    "name": "Onderrugstretch op stoel",
+    "instructions": [
+      "Ga rechtop op een stoel zitten.",
+      "Buig naar één kant met je arm boven je hoofd. Houd eventueel de stoel vast met je vrije hand.",
+      "Houd 10 seconden vast en herhaal aan de andere kant."
+    ]
+  },
+  "Chair_Squat": {
+    "name": "Chair squat",
+    "instructions": [
+      "Stel de stang in op een passende hoogte, laad hem en plaats hem op de achterkant van je schouders.",
+      "Pak de stang vast met de handen naar voren, ontgrendel hem en til hem uit het rek door je benen te strekken.",
+      "Zet je voeten ongeveer 45 cm voor de stang op schouderbreedte met de tenen licht naar buiten. Kijk vooruit en houd je wervelkolom neutraal of licht gebogen. Dit is je startpositie.",
+      "Laat de stang langzaam zakken door je knieën te buigen terwijl je romp recht blijft. Zak tot de hoek tussen boven- en onderbeen kleiner is dan 90 graden.",
+      "Duw via de hielen, strek de knieën en keer terug terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Chair_Upper_Body_Stretch": {
+    "name": "Bovenlichaamstretch op stoel",
+    "instructions": [
+      "Ga op de rand van een stoel zitten en pak de rugleuning vast.",
+      "Strek je armen, houd je rug recht en trek je bovenlichaam naar voren tot je rek voelt. Houd 20 tot 30 seconden vast."
+    ]
+  },
+  "Chest_And_Front_Of_Shoulder_Stretch": {
+    "name": "Borst- en voorste schouderstretch",
+    "instructions": [
+      "Sta met je benen bij elkaar en houd een bodybar of bezemsteel vast.",
+      "Pak de stok iets breder dan schouderbreedte voor je vast met de handpalmen omlaag.",
+      "Til de stok voorzichtig omhoog en achter je hoofd."
+    ]
+  },
+  "Chest_Push_from_3_point_stance": {
+    "name": "Borstworp vanuit driepuntsstand",
+    "instructions": [
+      "Begin in een driepuntsstand, laag gehurkt met een vlakke rug en één hand op de grond. Plaats de medicijnbal voor je.",
+      "Zet je eerste stap en trek de bal naar je borst met beide handen klaar voor de worp.",
+      "Bij de tweede stap stoot je de bal zo explosief mogelijk naar voren."
+    ]
+  },
+  "Chest_Push_multiple_response": {
+    "name": "Borstworp met herhaalde respons",
+    "instructions": [
+      "Kniel tegenover een muur of partner en houd de bal stevig met beide handen tegen de borst.",
+      "Stoot de bal krachtig naar voren terwijl je heupen explosief naar voren bewegen.",
+      "Volg de worp door voorover te vallen en jezelf met je handen op te vangen.",
+      "Kom direct weer rechtop en herhaal."
+    ]
+  },
+  "Chest_Push_single_response": {
+    "name": "Borstworp met enkele respons",
+    "instructions": [
+      "Kniel met de medicijnbal stevig met beide handen tegen de borst.",
+      "Stoot de bal zo ver mogelijk naar voren terwijl je heupen explosief naar voren bewegen.",
+      "Volg de worp door voorover te vallen en jezelf met je handen op te vangen."
+    ]
+  },
+  "Chest_Push_with_Run_Release": {
+    "name": "Borstworp met sprint",
+    "instructions": [
+      "Neem een atletische houding aan met gebogen knieën, heupen naar achteren en vlakke rug. Houd de medicijnbal bij je benen. Dit is je startpositie.",
+      "Trek tijdens je eerste stap de medicijnbal naar je borst.",
+      "Stoot de bal bij de tweede stap explosief naar voren en sprint direct 10 yards na de worp."
+    ]
+  },
+  "Chest_Stretch_on_Stability_Ball": {
+    "name": "Borststretch op stabiliteitsbal",
+    "instructions": [
+      "Ga op handen en knieën naast een oefenbal zitten.",
+      "Plaats één elleboog boven op de bal met de arm zijwaarts. Dit is je startpositie.",
+      "Laat je romp richting de vloer zakken terwijl je elleboog op de bal blijft. Houd 20 tot 30 seconden vast en wissel van arm."
+    ]
+  },
+  "Childs_Pose": {
+    "name": "Kindhouding",
+    "instructions": [
+      "Ga op handen en knieën zitten en loop met je handen naar voren.",
+      "Laat je billen naar je hielen zakken terwijl je armen over de vloer glijden en je hele wervelkolom rekt.",
+      "Wanneer je op je hielen zit, plaats je handen naast je voeten en ontspan. Adem naar je rug en leg je voorhoofd op de vloer. Vermijd deze houding bij knieproblemen."
+    ]
+  },
+  "Chin-Up": {
+    "name": "Chin-up",
+    "instructions": [
+      "Pak de optrekstang in supinatie met een greep smaller dan schouderbreedte.",
+      "Hang met gestrekte armen, houd je romp zo recht mogelijk, maak een lichte holling in de onderrug en steek je borst vooruit. Dit is je startpositie.",
+      "Trek jezelf omhoog terwijl je uitademt tot je hoofd ongeveer op stanghoogte is. Gebruik vooral de biceps en houd de ellebogen dicht bij je lichaam.",
+      "Span bovenaan één seconde aan en laat jezelf langzaam zakken tot de armen volledig gestrekt zijn terwijl je inademt.",
+      "Herhaal voor het voorgeschreven aantal herhalingen."
+    ]
+  },
+  "Chin_To_Chest_Stretch": {
+    "name": "Kin-naar-borststretch",
+    "instructions": [
+      "Ga op de vloer zitten.",
+      "Plaats beide handen achter je hoofd met de vingers in elkaar, duimen omlaag en ellebogen naar voren. Trek je hoofd langzaam richting je borst. Houd 20 tot 30 seconden vast."
+    ]
+  },
+  "Circus_Bell": {
+    "name": "Circus bell",
+    "instructions": [
+      "De circus bell is een extra grote dumbbell met dikke handgreep. Begin met de dumbbell tussen je voeten en pak de handgreep met beide handen.",
+      "Clean de dumbbell door heupen en knieën te strekken en breng hem naar de gewenste schouder. Laat de extra hand los.",
+      "Zorg dat één kop van de dumbbell achter de schouder ligt voor balans. Buig je knieën kort en stoot de dumbbell boven het hoofd terwijl je iets van het gewicht af leunt.",
+      "Breng de dumbbell voorzichtig terug naar de vloer en houd hem zoveel mogelijk onder controle. Gebruik bij voorkeur een dikke rubbermat."
+    ]
+  },
+  "Clean": {
+    "name": "Clean",
+    "instructions": [
+      "Plaats een halterstang op de vloer dicht bij je schenen en pak hem net buiten je benen in pronatie of haakgreep. Laat je heupen zakken, houd het gewicht op de hielen, rug recht, hoofd vooruit, borst omhoog en schouders iets voor de stang. Dit is je startpositie.",
+      "",
+      "Begin de eerste trek door via de hielen te duwen en je knieën te strekken. Houd dezelfde rughoek, armen recht en beweeg de stang gecontroleerd tot boven de knieën.",
+      "Start daarna de tweede trek. Wanneer de stang het midden van de dijen bereikt, strek je heupen, knieën en enkels explosief alsof je springt. Trek niet actief met de armen; eindig volledig gestrekt en licht achterover met gestrekte armen.",
+      "Bij volledige strekking trek je de schouders krachtig op, buig je de armen met ellebogen omhoog en naar buiten en trek je jezelf onder de stang. Draai de ellebogen eronder en vang de stang op in een frontsquat, rustend op vooruitgebrachte schouders en licht tegen de keel.",
+      "Kom direct omhoog door via de hielen te duwen, romp recht en ellebogen hoog, tot je volledig staat."
+    ]
+  },
+  "Clean_Deadlift": {
+    "name": "Clean deadlift",
+    "instructions": [
+      "Sta met een halterstang dicht bij je schenen, voeten onder de heupen en licht naar buiten gedraaid. Pak de stang op schouderbreedte in dubbele pronatie- of haakgreep. Zak naar de stang met volledig gestrekte rug, schouders voor de stang en rug zo verticaal mogelijk.",
+      "Duw via de voorkant van je hielen in de vloer. Houd tijdens het stijgen een constante rughoek en duw je knieën naar buiten zodat ze de stang niet hinderen.",
+      "Wanneer de stang de knieën passeert, duw je de heupen naar de stang tot heupen en knieën volledig gestrekt zijn."
+    ]
+  },
+  "Clean_Pull": {
+    "name": "Clean pull",
+    "instructions": [
+      "Plaats een halterstang dicht bij je schenen en pak hem net buiten je benen in pronatie of haakgreep. Laat je heupen zakken, houd het gewicht op de hielen, rug recht, hoofd vooruit, borst omhoog en schouders iets voor de stang. Dit is je startpositie.",
+      "Begin de eerste trek door via de hielen te duwen en je knieën te strekken. Houd dezelfde rughoek, armen recht en ellebogen naar buiten en beweeg de stang gecontroleerd tot boven de knieën.",
+      "Start daarna de tweede trek. Wanneer de stang het midden van de dijen bereikt, strek je heupen, knieën en enkels explosief alsof je springt. Trek niet actief met de armen. Eindig volledig gestrekt en licht achterover. De strekking moet krachtig en kort zijn."
+    ]
+  },
+  "Clean_Shrug": {
+    "name": "Clean shrug",
+    "instructions": [
+      "Houd de stang op schouderbreedte in dubbele pronatie- of haakgreep ter hoogte van het midden van de dijen. Houd je rug recht en licht voorover.",
+      "Trek je schouders richting je oren. Gebruik eventueel meer gewicht dan bij een clean, maar niet zoveel dat de uitvoering traag wordt."
+    ]
+  },
+  "Clean_and_Jerk": {
+    "name": "Clean and jerk",
+    "instructions": [
+      "Plaats een halterstang dicht bij je schenen en pak hem net buiten je benen in pronatie of haakgreep. Laat je heupen zakken, houd het gewicht op de hielen, rug recht, hoofd vooruit, borst omhoog en schouders iets voor de stang. Dit is je startpositie.",
+      "Begin de eerste trek door via de hielen te duwen en je knieën te strekken. Houd dezelfde rughoek en rechte armen en beweeg de stang gecontroleerd tot boven de knieën.",
+      "Start de tweede trek wanneer de stang het midden van de dijen bereikt. Strek heupen, knieën en enkels explosief alsof je springt. Trek niet actief met de armen en eindig volledig gestrekt en licht achterover.",
+      "Bij volledige strekking trek je de schouders krachtig op, buig je de armen en trek je jezelf onder de stang. Draai de ellebogen eronder en vang de stang op in een frontsquat, rustend op vooruitgebrachte schouders en licht tegen de keel.",
+      "Kom direct omhoog door via de hielen te duwen, romp recht en ellebogen hoog, tot je volledig staat.",
+      "De tweede fase is de jerk. Met de stang op de voorste schouders buig je de knieën licht zonder de heupen naar achteren te bewegen en keer je de beweging zo krachtig mogelijk om.",
+      "Duw via de hielen om maximale snelheid en kracht te creëren en breng je hoofd uit de baan van de stang.",
+      "Wanneer je voeten de vloer verlaten, plaats je ze zo snel mogelijk in een gespreide ontvangstpositie, één voor en één achter. Duw jezelf onder de stang en vang hem op met vergrendelde armen boven het hoofd. Kom daarna rechtop."
+    ]
+  }
+}

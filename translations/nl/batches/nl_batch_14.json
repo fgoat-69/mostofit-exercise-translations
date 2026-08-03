@@ -1,0 +1,518 @@
+{
+  "Smith_Machine_Leg_Press": {
+    "name": "Leg press in de Smith-machine",
+    "instructions": [
+      "Plaats de Smith-stang enkele voeten boven de vloer en zorg dat hij op de veiligheidssteunen rust. Laad de stang, ga eronder liggen, plaats het midden van je voeten tegen de stang en trek je knieën naar je borst. Dit is je startpositie.",
+      "Duw via je voeten om de stang omhoog te bewegen en strek heupen en knieën zonder je knieën te vergrendelen.",
+      "Pauzeer kort bovenaan en keer terug naar de startpositie."
+    ]
+  },
+  "Smith_Machine_One-Arm_Upright_Row": {
+    "name": "Eenarmige upright row in de Smith-machine",
+    "instructions": [
+      "Plaats de stang op dijhoogte en laad hem passend.",
+      "Pak de stang breed vast, ontgrendel hem en haal je vrije hand weg. Sta rechtop met gestrekte arm, hoofd en borst omhoog. Dit is je startpositie.",
+      "Buig je elleboog en hef je bovenarm met de elleboog naar buiten tot je bovenarm parallel aan de vloer is.",
+      "Pauzeer kort en keer terug.",
+      "Herhaal voor het gewenste aantal herhalingen en vergrendel daarna de stang."
+    ]
+  },
+  "Smith_Machine_Overhead_Shoulder_Press": {
+    "name": "Overhead schouderdruk in de Smith-machine",
+    "instructions": [
+      "Plaats een vlakke bank, bij voorkeur met rugleuning, onder de Smith-machine. Stel de stang zo af dat je hem zittend met bijna gestrekte armen kunt bereiken.",
+      "Ga iets achter de stang zitten zodat er een denkbeeldige rechte lijn van je neuspunt naar de stang loopt. Houd je voeten stil, pak de stang in pronatie, ontgrendel hem en strek je armen volledig. Dit is je startpositie.",
+      "Laat de stang langzaam zakken tot kinhoogte terwijl je inademt.",
+      "Druk de stang met je schouders terug omhoog terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Smith_Machine_Pistol_Squat": {
+    "name": "Pistol squat in de Smith-machine",
+    "instructions": [
+      "Stel de stang op de juiste hoogte af, stap eronder en plaats hem over de achterkant van je schouders.",
+      "Pak de stang met de handpalmen naar voren, ontgrendel hem en haal hem uit het rek door je benen te strekken. 3",
+      "Plaats één voet ongeveer 30 cm voor de stang. Strek het andere been voor je uit en houd het van de vloer. Kijk vooruit en houd je wervelkolom neutraal of licht hol. Dit is je startpositie.",
+      "Houd een goede houding en zak door knie en heup zo diep als je mobiliteit toelaat.",
+      "Pauzeer kort onderaan en duw via je hiel terug omhoog door knie en heup te strekken."
+    ]
+  },
+  "Smith_Machine_Reverse_Calf_Raises": {
+    "name": "Reverse kuitheffing in de Smith-machine",
+    "instructions": [
+      "Stel de Smith-stang op je lengte af en plaats een verhoogd platform er recht onder.",
+      "Ga met je hielen op het platform staan en laat de bal van je voeten vrij over de rand hangen. Zet je voeten op schouderbreedte met de tenen naar voren.",
+      "Plaats je schouders onder de stang en kom rechtop door heupen en knieën te strekken. Houd je knieën licht gebogen. Dit is je startpositie.",
+      "Til de bal van je voeten en tenen zo hoog mogelijk terwijl je uitademt en span de voorkant van je onderbenen aan. Houd je knieën stil en pauzeer één seconde.",
+      "Laat de bal van je voeten en tenen langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Smith_Machine_Squat": {
+    "name": "Squat in de Smith-machine",
+    "instructions": [
+      "Stel de stang op de juiste hoogte af, laad hem, stap eronder en plaats hem op de achterkant van je schouders, iets onder de nek.",
+      "Pak de stang aan beide kanten vast, ontgrendel hem en haal hem uit het rek door met je benen te duwen en je romp te strekken.",
+      "Zet je voeten op schouderbreedte met de tenen licht naar buiten. Houd je hoofd omhoog en rug recht. Dit is je startpositie.",
+      "Zak langzaam door je knieën met een rechte houding tot bovenbenen en kuiten een hoek iets kleiner dan 90 graden vormen. Adem in en houd je knieën in lijn met de tenen.",
+      "Kom omhoog door vooral via je hielen te duwen en je benen te strekken terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Smith_Machine_Stiff-Legged_Deadlift": {
+    "name": "Stiff-legged deadlift in de Smith-machine",
+    "instructions": [
+      "Stel de Smith-stang af op het midden van je dijen, laad hem en pak hem op schouderbreedte in pronatie. Gebruik eventueel polsbanden.",
+      "Ontgrendel de stang, strek je armen volledig en sta rechtop met je voeten op schouderbreedte of smaller en knieën licht gebogen. Dit is je startpositie.",
+      "Houd je knieën stil en laat de stang met een rechte rug zakken door vanuit je middel te buigen tot je rek in de hamstrings voelt. Adem uit.",
+      "Strek heupen en middel om terug rechtop te komen zodra je rek voelt. Adem in.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Smith_Machine_Upright_Row": {
+    "name": "Upright row in de Smith-machine",
+    "instructions": [
+      "Stel de Smith-stang af op het midden van je dijen, laad hem en pak hem op schouderbreedte in pronatie. Gebruik eventueel polsbanden.",
+      "Ontgrendel de stang en houd hem met gestrekte armen en een lichte elleboogbuiging voor je. Houd je rug recht. Dit is je startpositie.",
+      "Hef de stang met je zijschouders dicht langs je lichaam tot bijna kinhoogte terwijl je uitademt. Laat je ellebogen leiden en houd ze hoger dan je onderarmen. Pauzeer bovenaan.",
+      "Laat de stang langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Smith_Single-Leg_Split_Squat": {
+    "name": "Eenbenige split squat in de Smith-machine",
+    "instructions": [
+      "Plaats een vlakke bank 60 tot 90 cm achter de Smith-machine. Stel de stang op de juiste hoogte af, laad hem en plaats hem op de achterkant van je schouders.",
+      "Pak de stang vast, ontgrendel hem en haal hem uit het rek door met je benen te duwen en je romp te strekken.",
+      "Plaats één voet licht voor je onder de stang en leg de wreef van je andere voet achter je op de bank. Dit is je startpositie",
+      "Zak langzaam door je voorste knie met een rechte houding tot bovenbeen en kuit een hoek iets kleiner dan 90 graden vormen. Adem in en houd je knie in lijn met je tenen.",
+      "Kom omhoog door vooral via de hiel van je voorste voet te duwen terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen.",
+      "Wissel van been."
+    ]
+  },
+  "Snatch": {
+    "name": "Snatch",
+    "instructions": [
+      "Zet je voeten op schouderbreedte en plaats de halterstang boven de overgang van je tenen naar je voeten.",
+      "Buig je knieën, houd je rug vlak en pak de stang breed vast in pronatie. Laat je heupen zakken alsof je op een stoel gaat zitten. Dit is je startpositie.",
+      "Duw de vloer met je voeten weg terwijl je de stang dicht langs je benen omhoog brengt.",
+      "Wanneer de stang het midden van je dijen bereikt, duw je krachtig via je benen en strek je je lichaam explosief volledig.",
+      "Trek je schouders op, breng je ellebogen zijwaarts omhoog en houd ze zo lang mogelijk boven de stang.",
+      "Trek jezelf snel en krachtig onder de stang wanneer deze hoog genoeg is, vergrendel je armen boven je hoofd en zak in een squat.",
+      "Kom uit de squat overeind met beide voeten op één lijn en de stang met gestrekte armen boven je hoofd."
+    ]
+  },
+  "Snatch_Balance": {
+    "name": "Snatch balance",
+    "instructions": [
+      "Begin met je voeten in trekpositie, de stang op de achterkant van je schouders en je handen in een brede snatchgreep.",
+      "Geef de stang een korte impuls met een snelle dip en drive van de knieën en duik krachtig onder de stang terwijl je je voeten naar de ontvangstpositie verplaatst.",
+      "Vang de stang bijna onderaan de squat op met vergrendelde armen boven je hoofd. Houd je romp verticaal en laat je heupen tussen je benen zakken.",
+      "Zak volledig door, kom daarna overeind en laat het gewicht voorzichtig zakken."
+    ]
+  },
+  "Snatch_Deadlift": {
+    "name": "Snatch deadlift",
+    "instructions": [
+      "De snatch deadlift versterkt de eerste trek van de snatch. Begin met een brede snatchgreep en de stang op het platform. Zet je voeten onder je heupen met de tenen naar buiten, zak naar de stang en houd je rug volledig gestrekt en hoofd vooruit.",
+      "Begin door via je hielen te duwen en je heupen te heffen. Houd dezelfde rughoek tot de stang je knieën passeert.",
+      "Duw daarna je heupen naar de stang terwijl je licht achterover leunt. Keer de beweging om en plaats de stang terug op het platform."
+    ]
+  },
+  "Snatch_Pull": {
+    "name": "Snatch pull",
+    "instructions": [
+      "Plaats de stang dicht bij je schenen op de vloer en pak hem breed vast. Laat je heupen zakken, houd het gewicht op je hielen, rug recht, hoofd vooruit, borst omhoog en schouders iets voor de stang. Dit is je startpositie.",
+      "Begin de eerste trek door via je hielen te duwen en je knieën te strekken. Houd dezelfde rughoek en armen gestrekt en breng de stang gecontroleerd boven je knieën.",
+      "Begin de tweede trek wanneer de stang het midden van je dijen nadert. Strek heupen, knieën en enkels explosief alsof je springt en versnel de stang omhoog.",
+      "Trek niet actief met je armen. Eindig volledig gestrekt en licht achterover. De strekking moet krachtig en kort zijn."
+    ]
+  },
+  "Snatch_Shrug": {
+    "name": "Snatch shrug",
+    "instructions": [
+      "Houd de stang breed vast ter hoogte van het midden van je dijen in haakgreep of pronatie. Houd je rug recht en licht voorover.",
+      "Trek je schouders richting je oren. Gebruik geen gewicht dat de uitvoering merkbaar vertraagt."
+    ]
+  },
+  "Snatch_from_Blocks": {
+    "name": "Snatch vanaf blokken",
+    "instructions": [
+      "Begin met een geladen halterstang op blokken of steunen op de gewenste hoogte. Pak de stang breed vast, zet je voeten onder je heupen en draai ze indien nodig naar buiten. Laat je heupen zakken, houd borst en hoofd omhoog, schouders iets voor de stang en ellebogen naar buiten. Dit is je startpositie.",
+      "Begin de eerste trek door via de voorkant van je hielen te duwen en de stang van de blokken te tillen.",
+      "Strek daarna heupen, knieën en enkels explosief en houd de stang dicht bij je lichaam. Trek op het hoogste punt je schouders op en laat je ellebogen zijwaarts buigen.",
+      "Verplaats je voeten naar net buiten heupbreedte, trek jezelf krachtig onder de stang en vang hem zo laag mogelijk op met volledig gestrekte armen boven je hoofd.",
+      "Houd de stang boven de voorkant van je hielen, hoofd en borst omhoog en kom via je hielen overeind. Plaats het gewicht voorzichtig terug op de blokken."
+    ]
+  },
+  "Speed_Band_Overhead_Triceps": {
+    "name": "Snelle overhead tricepsextensie met band",
+    "instructions": [
+      "Bevestig een band aan de vloer, bijvoorbeeld aan de basis van een schuine bank, of ga op de band staan.",
+      "Trek de band achter je hoofd en houd hem in pronatie met je ellebogen omhoog. Dit is je startpositie.",
+      "Strek je ellebogen om je armen recht te maken en houd je bovenarmen op hun plaats.",
+      "Pauzeer en keer terug."
+    ]
+  },
+  "Speed_Box_Squat": {
+    "name": "Speed box squat",
+    "instructions": [
+      "Bevestig banden aan de stang en veranker ze stevig dicht bij de vloer. Leg de banden indien nodig dubbel voor voldoende spanning.",
+      "Gebruik een box op passende hoogte en laad de stang zwaar genoeg om inspanning te vereisen zonder snelheid te verliezen, meestal 50 tot 70% van je maximale herhaling.",
+      "Plaats de stang op je bovenrug, trek je schouderbladen samen, maak een boog in je rug en span je hele lichaam aan. Dit is je startpositie.",
+      "Haal de stang uit het rek en ga voor de box staan. Ga gecontroleerd met je heupen naar achteren zitten tot je op de box zit.",
+      "Pauzeer kort en kom explosief van de box door heupen en knieën te strekken."
+    ]
+  },
+  "Speed_Squats": {
+    "name": "Speed squats",
+    "instructions": [
+      "Voer deze oefening bij voorkeur in een squatrek uit. Stel de stang op de juiste hoogte af, laad hem en plaats hem op de achterkant van je schouders, iets onder de nek.",
+      "Pak de stang vast en haal hem uit het rek door met je benen te duwen en je romp te strekken.",
+      "Stap achteruit en zet je voeten op schouderbreedte met de tenen licht naar buiten. Houd hoofd omhoog en rug recht. Dit is je startpositie.",
+      "Zak door je knieën met een rechte houding tot bovenbenen en kuiten een hoek iets kleiner dan 90 graden vormen. Adem in en houd je knieën in lijn met je tenen.",
+      "Kom zo snel mogelijk omhoog zonder momentum of verlies van techniek door vooral via je hielen te duwen terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Spell_Caster": {
+    "name": "Spell caster",
+    "instructions": [
+      "Houd in elke hand een dumbbell in pronatie. Neem een brede stand aan met gestrekte heupen en knieën. Dit is je startpositie.",
+      "Trek beide dumbbells naar één kant naast je heup terwijl je je romp draait.",
+      "Houd je armen gestrekt en dumbbells parallel aan de vloer en draai je romp om de gewichten naar de andere kant te zwaaien.",
+      "Blijf afwisselen tot de set voltooid is."
+    ]
+  },
+  "Spider_Crawl": {
+    "name": "Spider crawl",
+    "instructions": [
+      "Neem een buikligging aan op handen en tenen met je voeten bij elkaar, lichaam recht en ellebogen 90 graden gebogen. Dit is je startpositie.",
+      "Til één voet op, draai het been naar buiten en breng je knie zo ver mogelijk richting je elleboog.",
+      "Breng het been terug en herhaal aan de andere kant."
+    ]
+  },
+  "Spider_Curl": {
+    "name": "Spider curl",
+    "instructions": [
+      "Plaats de stang op het zitgedeelte van een preacherbank en zorg dat hij stabiel en in balans ligt.",
+      "Ga aan de voorkant van de preacherbank liggen met je romp en buik onder een hoek van 45 graden tegen het kussen.",
+      "Zet je voeten stevig op de vloer en plaats je bovenarmen op het binnenste kussen.",
+      "Pak de stang op schouderbreedte of iets smaller in supinatie.",
+      "Curl de stang omhoog terwijl je uitademt en houd bovenaan één seconde vast.",
+      "Laat de stang langzaam zakken terwijl je inademt. .",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Spinal_Stretch": {
+    "name": "Wervelkolomstretch",
+    "instructions": [
+      "Ga op een stoel zitten met een rechte rug en voeten plat op de vloer.",
+      "Verstrengel je vingers achter je hoofd, ellebogen naar buiten en kin omlaag.",
+      "Draai je bovenlichaam ongeveer drie keer zo ver mogelijk naar één kant. Buig daarna voorover en draai je romp zodat je elleboog de vloer aan de binnenkant van je knie probeert te bereiken.",
+      "Kom rechtop en herhaal aan de andere kant."
+    ]
+  },
+  "Split_Clean": {
+    "name": "Split clean",
+    "instructions": [
+      "Plaats een halterstang dicht bij je schenen op de vloer en pak hem net buiten je benen in pronatie. Laat je heupen zakken, houd het gewicht op je hielen, rug recht, hoofd vooruit, borst omhoog en schouders iets voor de stang. Dit is je startpositie.",
+      "Begin de eerste trek door via je hielen te duwen en je knieën te strekken. Houd dezelfde rughoek en armen gestrekt en breng de stang gecontroleerd boven je knieën.",
+      "Begin de tweede trek wanneer de stang het midden van je dijen nadert. Strek heupen, knieën en enkels explosief alsof je springt. Trek niet actief met je armen en eindig volledig gestrekt en licht achterover.",
+      "Trek bij volledige strekking je schouders krachtig op, buig je armen met de ellebogen omhoog en naar buiten en trek jezelf onder de stang terwijl je je ellebogen eronder draait.",
+      "Vang de stang op in een splitpositie met één voet voor en één achter. Laat de stang op je voorste schouders rusten, licht tegen je keel, en zak verder naar de onderste positie.",
+      "Kom direct overeind door via je hielen te duwen, romp recht en ellebogen hoog, en breng je voeten bij elkaar."
+    ]
+  },
+  "Split_Jerk": {
+    "name": "Split jerk",
+    "instructions": [
+      "Begin rechtop met de stang op je voorste schouders. Zet je voeten onder je heupen en buig je knieën zonder je heupen naar achteren te bewegen.",
+      "Zak slechts licht en keer zo krachtig mogelijk om. Duw via je hielen, creëer maximale snelheid en breng je hoofd uit de baan van de stang.",
+      "Verplaats je voeten snel naar een splitpositie met één voet voor en één achter en knieën licht gebogen. Vang de stang op met vergrendelde armen boven je hoofd.",
+      "Kom rechtop en breng je voeten bij elkaar."
+    ]
+  },
+  "Split_Jump": {
+    "name": "Split jump",
+    "instructions": [
+      "Neem een lungepositie aan met één voet voor, gebogen knie en de achterste knie bijna op de grond.",
+      "Houd de voorste knie boven het midden van je voet.",
+      "Strek beide benen en spring zo hoog mogelijk terwijl je je armen gebruikt.",
+      "Breng je voeten tijdens de sprong bij elkaar en plaats ze voor de landing terug in hun oorspronkelijke positie.",
+      "Vang de impact op door opnieuw in de startpositie te landen."
+    ]
+  },
+  "Split_Snatch": {
+    "name": "Split snatch",
+    "instructions": [
+      "Begin met een geladen halterstang op de vloer dicht bij of tegen je schenen. Pak de stang breed vast, zet je voeten onder je heupen en draai ze indien nodig naar buiten. Laat je heupen zakken, houd borst en hoofd omhoog en schouders iets voor de stang. Dit is je startpositie.",
+      "Begin de eerste trek door via de voorkant van je hielen te duwen en de stang van de vloer te tillen. Houd je rughoek gelijk tot de stang je knieën passeert.",
+      "Strek daarna heupen, knieën en enkels explosief en houd de stang dicht bij je lichaam. Trek op het hoogste punt je schouders op en laat je ellebogen zijwaarts buigen.",
+      "Trek jezelf krachtig onder de stang en verplaats je voeten naar een splitpositie met één voet voor en één achter. Vang de stang zo laag mogelijk op met volledig gestrekte armen boven je hoofd.",
+      "Houd de stang boven de voorkant van je hielen, hoofd en borst omhoog en kom via je hielen overeind terwijl je je voeten bij elkaar brengt.",
+      "Plaats het gewicht voorzichtig terug op de vloer."
+    ]
+  },
+  "Split_Squat_with_Dumbbells": {
+    "name": "Split squat met dumbbells",
+    "instructions": [
+      "Neem een gespreide stand aan met de achterste voet verhoogd en de voorste voet naar voren.",
+      "Houd in elke hand een dumbbell langs je zij. Dit is je startpositie.",
+      "Zak door knie en heup met een goede houding. Houd je voorste knie in lijn met je voet.",
+      "Duw onderaan via je hiel en strek knie en heup om terug te keren."
+    ]
+  },
+  "Split_Squats": {
+    "name": "Split squats",
+    "instructions": [
+      "Begin rechtop en spring naar een splitpositie met één been voor en één achter terwijl je je knieën buigt en heupen licht laat zakken.",
+      "Keer direct om, spring omhoog en wissel de positie van je benen. Herhaal 5 tot 10 keer per been."
+    ]
+  },
+  "Squat_Jerk": {
+    "name": "Squat jerk",
+    "instructions": [
+      "Begin rechtop met de stang op je voorste schouders. Zet je voeten onder je heupen, buig je knieën zonder je heupen naar achteren te bewegen, zak slechts licht en keer zo krachtig mogelijk om. Duw via je hielen en breng je hoofd uit de baan van de stang.",
+      "Verplaats je voeten snel naar net buiten heupbreedte en draai ze indien nodig naar buiten. Trek jezelf onder de stang en vang hem op in een volledige squat met gestrekte armen boven je hoofd.",
+      "Houd de stang boven de voorkant van je hielen, hoofd en borst omhoog en kom via je hielen overeind. Plaats het gewicht voorzichtig terug op de vloer."
+    ]
+  },
+  "Squat_with_Bands": {
+    "name": "Squat met banden",
+    "instructions": [
+      "Bevestig de banden aan de uiteinden van de stang en veranker ze aan pinnen, het rek of zware dumbbells met passende spanning.",
+      "Stap onder de stang, plaats hem over de achterkant van je schouders, trek je schouderbladen samen en draai je ellebogen naar voren. Haal de stang uit het rek met een stevige holling in je onderrug, stap achteruit en zet je voeten breed.",
+      "Houd rug, schouders en core aangespannen. Duw knieën en billen naar buiten en ga met je heupen zo ver mogelijk naar achteren. Zak tot je heupplooi op of onder de bovenkant van je knie komt.",
+      "Houd het gewicht op je hielen, duw voeten en knieën naar buiten en kom krachtig omhoog tot de startpositie."
+    ]
+  },
+  "Squat_with_Chains": {
+    "name": "Squat met kettingen",
+    "instructions": [
+      "Leg de geleideketting over de uiteinden van de stang en bevestig de zware ketting met een karabijnhaak. Stel de lengte zo af dat bovenaan nog enkele schakels op de vloer liggen.",
+      "Stap onder de stang, plaats hem over de achterkant van je schouders, trek je schouderbladen samen en draai je ellebogen naar voren. Haal de stang uit het rek met een stevige holling in je onderrug, stap achteruit en zet je voeten breed.",
+      "Houd rug, schouders en core aangespannen. Duw knieën en billen naar buiten en ga met je heupen zo ver mogelijk naar achteren. Zak tot je heupplooi op of onder de bovenkant van je knie komt.",
+      "Houd het gewicht op je hielen, duw voeten en knieën naar buiten en kom krachtig omhoog tot de startpositie."
+    ]
+  },
+  "Squat_with_Plate_Movers": {
+    "name": "Squat met verschuiven van gewichtsschijf",
+    "instructions": [
+      "Stel de stang in een rek net onder schouderhoogte af en plaats enkele voeten achter het rek een gewichtsschijf op de vloer. Laad de stang en plaats hem op de achterkant van je schouders.",
+      "Pak de stang vast en haal hem uit het rek door met je benen te duwen en je romp te strekken.",
+      "Stap achteruit, neem een brede stand aan met de tenen licht naar buiten en plaats één voet op de schijf. Houd je hoofd omhoog. Dit is je startpositie.",
+      "Zak langzaam door knieën en heupen tot bovenbenen en kuiten een hoek iets kleiner dan 90 graden vormen.",
+      "Kom omhoog door via je hielen te duwen en heupen en knieën te strekken terwijl je uitademt.",
+      "Stap bovenaan zijwaarts zodat je voeten aan de andere kant van de schijf bij elkaar komen.",
+      "Duw de schijf met je binnenste voet over de vloer naar je vorige positie.",
+      "Plaats je binnenste voet op de schijf en neem een brede stand aan voor de volgende herhaling."
+    ]
+  },
+  "Squats_-_With_Bands": {
+    "name": "Squats met banden",
+    "instructions": [
+      "Pak beide zijden van de band vast en plaats beide voeten in het midden zodat links en rechts evenveel bandlengte overblijft. Zet je voeten op schouderbreedte.",
+      "Houd beide handgrepen op gelijke hoogte naast je gezicht in pronatie. Dit is je startpositie.",
+      "Buig langzaam je knieën en zak tot je dijen parallel aan de vloer zijn terwijl je uitademt.",
+      "Duw via je hielen terug omhoog terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Stairmaster": {
+    "name": "Stairmaster",
+    "instructions": [
+      "Stap op de stairmaster en kies een handmatige instelling of programma. Voer eventueel leeftijd en gewicht in om calorieverbruik te schatten.",
+      "Beweeg je benen ritmisch op en neer en duw de pedalen niet volledig tot de vloer. Houd de handgrepen vast voor veiligheid en gebruik ze eventueel om je hartslag te volgen.",
+      "Een stairmaster biedt cardiovasculaire voordelen en meestal minder impact dan buiten hardlopen. Een persoon van 150 lb verbrandt doorgaans meer dan 300 calorieën in 30 minuten."
+    ]
+  },
+  "Standing_Alternating_Dumbbell_Press": {
+    "name": "Staande afwisselende dumbbell press",
+    "instructions": [
+      "Sta met in elke hand een dumbbell en breng de gewichten naar je schouders met de handpalmen naar voren en ellebogen naar buiten. Dit is je startpositie.",
+      "Strek één arm en druk de dumbbell recht omhoog terwijl je andere hand op zijn plaats blijft. Leun niet en ruk niet aan het gewicht.",
+      "Pauzeer kort en keer terug.",
+      "Herhaal aan de andere kant en blijf afwisselen."
+    ]
+  },
+  "Standing_Barbell_Calf_Raise": {
+    "name": "Staande kuitheffing met halterstang",
+    "instructions": [
+      "Voer deze oefening bij voorkeur in een squatrek uit. Stel de stang op de juiste hoogte af, laad hem en plaats hem op de achterkant van je schouders, iets onder de nek.",
+      "Pak de stang vast en haal hem uit het rek door met je benen te duwen en je romp te strekken.",
+      "Stap achteruit en zet je voeten op schouderbreedte met de tenen licht naar buiten. Houd hoofd omhoog, rug recht en knieën licht gebogen. Gebruik eventueel een stevig blok onder de bal van je voeten. Dit is je startpositie.",
+      "Kom zo hoog mogelijk op je tenen terwijl je uitademt en span je kuiten aan. Houd je knieën stil en pauzeer één seconde.",
+      "Laat je hielen langzaam zakken terwijl je inademt tot je kuiten zijn uitgerekt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Standing_Barbell_Press_Behind_Neck": {
+    "name": "Staande halterpress achter de nek",
+    "instructions": [
+      "Voer deze oefening bij voorkeur in een squatrek uit. Stel de stang op de juiste hoogte af, laad hem en plaats hem op de achterkant van je schouders, iets onder de nek.",
+      "Pak de stang vast en haal hem uit het rek door met je benen te duwen en je romp te strekken.",
+      "Stap achteruit, zet je voeten op schouderbreedte met de tenen licht naar buiten en houd je rug recht. Dit is je startpositie.",
+      "Druk de stang boven je hoofd door je armen volledig te strekken terwijl je uitademt.",
+      "Houd één seconde vast en laat de stang zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+    "name": "Staande voorovergebogen eenarmige tricepsextensie",
+    "instructions": [
+      "Houd een dumbbell in één hand met de handpalm naar je romp. Buig je knieën licht en buig met een rechte rug voorover tot je romp bijna parallel aan de vloer is. Houd je hoofd omhoog.",
+      "Houd je bovenarm dicht bij je romp en parallel aan de vloer, met je onderarm omlaag en elleboog 90 graden gebogen. Dit is je startpositie.",
+      "Houd je bovenarm stil en strek de dumbbell met je triceps tot je arm volledig gestrekt en onderarm parallel aan de vloer is. Adem uit.",
+      "Houd één seconde vast en laat de dumbbell langzaam zakken terwijl je inademt.",
+      "Herhaal voor het voorgeschreven aantal herhalingen.",
+      "Wissel van arm."
+    ]
+  },
+  "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+    "name": "Staande voorovergebogen tricepsextensie met twee dumbbells",
+    "instructions": [
+      "Houd in elke hand een dumbbell met de handpalmen naar je romp. Buig je knieën licht en buig met een rechte rug voorover tot je romp bijna parallel aan de vloer is. Houd je bovenarmen dicht bij je romp en parallel aan de vloer, met je onderarmen omlaag en ellebogen 90 graden gebogen. Dit is je startpositie.",
+      "Houd je bovenarmen stil en strek de dumbbells met je triceps tot je armen volledig gestrekt en onderarmen parallel aan de vloer zijn. Adem uit.",
+      "Houd één seconde vast en laat de dumbbells langzaam zakken terwijl je inademt.",
+      "Herhaal voor het voorgeschreven aantal herhalingen."
+    ]
+  },
+  "Standing_Biceps_Cable_Curl": {
+    "name": "Staande bicepscurl aan kabel",
+    "instructions": [
+      "Sta rechtop en houd een curlstang aan een lage katrol op schouderbreedte in supinatie. Houd je ellebogen dicht bij je romp. Dit is je startpositie.",
+      "Houd je bovenarmen stil en curl de stang omhoog terwijl je uitademt tot volledige contractie op schouderhoogte. Houd één seconde vast.",
+      "Laat de stang langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Standing_Biceps_Stretch": {
+    "name": "Staande bicepsstretch",
+    "instructions": [
+      "Verstrengel je handen achter je rug met de handpalmen tegen elkaar, strek je armen en draai ze zodat je handpalmen omlaag wijzen.",
+      "Hef je armen tot je rek in je biceps voelt en houd vast."
+    ]
+  },
+  "Standing_Bradford_Press": {
+    "name": "Staande Bradford press",
+    "instructions": [
+      "Plaats een geladen stang op schouderhoogte in een rek. Pak hem op schouderbreedte in pronatie en laat hem op de voorkant van je schouders rusten. Dit is je startpositie.",
+      "Strek je ellebogen en druk de stang boven je hoofd zonder volledig te vergrendelen terwijl je hem achter je hoofd beweegt.",
+      "Laat de stang achter je hoofd zakken tot je ellebogen 90 graden gebogen zijn.",
+      "Druk de stang terug boven je hoofd door je ellebogen te strekken",
+      "Laat de stang zakken naar de startpositie.",
+      "Blijf afwisselen tot je het aanbevolen aantal herhalingen hebt voltooid."
+    ]
+  },
+  "Standing_Cable_Chest_Press": {
+    "name": "Staande borstdruk aan kabel",
+    "instructions": [
+      "Plaats twee katrollen op borsthoogte, kies het gewicht en ga 30 tot 60 cm ervoor staan met in elke hand een handgreep. Neem eventueel een gespreide stand aan.",
+      "Houd je bovenarmen 90 graden van je romp en trek je schouderbladen samen. Dit is je startpositie.",
+      "Houd je lichaam stil en strek je ellebogen om de handgrepen voor je naar elkaar toe te drukken.",
+      "Pauzeer bovenaan en keer terug."
+    ]
+  },
+  "Standing_Cable_Lift": {
+    "name": "Staande cable lift",
+    "instructions": [
+      "Bevestig een standaardhandgreep aan de laagste positie van een kabeltoren.",
+      "Ga zijwaarts staan, pak de handgreep met één hand en stap ongeveer een armlengte weg met spanning op de kabel.",
+      "Zet je voeten op schouderbreedte, squat omlaag en pak de handgreep met beide handen. Houd je armen volledig gestrekt.",
+      "Trek de handgreep in één beweging omhoog en over je lichaam tot je armen volledig gestrekt boven je hoofd zijn.",
+      "Houd je rug recht en armen dicht bij je lichaam terwijl je je achterste voet draait en je benen strekt.",
+      "Breng eerst je armen en daarna je lichaam langzaam en gecontroleerd terug.",
+      "Herhaal tot spierfalen.",
+      "Wissel van kant."
+    ]
+  },
+  "Standing_Cable_Wood_Chop": {
+    "name": "Staande cable wood chop",
+    "instructions": [
+      "Bevestig een standaardhandgreep aan de hoogste positie van een kabeltoren.",
+      "Ga zijwaarts staan, pak de handgreep met één hand en stap ongeveer een armlengte weg met spanning op de kabel.",
+      "Zet je voeten op schouderbreedte, reik omhoog en pak de handgreep met beide handen. Houd je armen volledig gestrekt.",
+      "Trek de handgreep in één beweging omlaag en over je lichaam naar je voorste knie terwijl je je romp draait.",
+      "Houd rug en armen recht en core aangespannen terwijl je je achterste voet draait en je knieën buigt.",
+      "Keer langzaam en gecontroleerd terug met gestrekte armen.",
+      "Herhaal tot spierfalen.",
+      "Wissel van kant."
+    ]
+  },
+  "Standing_Calf_Raises": {
+    "name": "Staande kuitheffingen",
+    "instructions": [
+      "Stel het kussen van de kuithefmachine af op je lengte.",
+      "Plaats je schouders onder de kussens en de bal van je voeten op het kuitblok met je hielen vrij. Strek heupen en knieën tot je rechtop staat en houd je knieën licht gebogen. Dit is je startpositie.",
+      "Kom zo hoog mogelijk op je tenen terwijl je uitademt en span je kuiten aan. Houd je knieën stil en pauzeer één seconde.",
+      "Laat je hielen langzaam zakken terwijl je inademt tot je kuiten zijn uitgerekt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Standing_Concentration_Curl": {
+    "name": "Staande concentration curl",
+    "instructions": [
+      "Houd een dumbbell in je werkende hand en buig voorover. Laat je arm loodrecht naar de vloer hangen met je elleboog naar buiten. Dit is je startpositie.",
+      "Buig je elleboog om het gewicht omhoog te curlen terwijl je bovenarm stil blijft. Span bovenaan je biceps aan en pauzeer.",
+      "Laat de dumbbell terugzakken.",
+      "Herhaal voor het voorgeschreven aantal herhalingen."
+    ]
+  },
+  "Standing_Dumbbell_Calf_Raise": {
+    "name": "Staande kuitheffing met dumbbells",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell langs je zij. Plaats de bal van je voeten op een stevig blok van ongeveer 5 tot 8 cm hoog en laat je hielen de vloer raken. Dit is je startpositie.",
+      "Richt je tenen recht, naar binnen of naar buiten en kom op je tenen terwijl je uitademt. Span bovenaan je kuiten één seconde aan.",
+      "Laat je hielen langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Standing_Dumbbell_Press": {
+    "name": "Staande dumbbell press",
+    "instructions": [
+      "Sta met je voeten op schouderbreedte en houd in elke hand een dumbbell op hoofdhoogte, ellebogen naar buiten en ongeveer 90 graden gebogen. Dit is je startpositie.",
+      "Houd strikte techniek zonder beeninzet of achteroverleunen en druk beide dumbbells recht boven je hoofd.",
+      "Pauzeer en laat de gewichten langzaam zakken."
+    ]
+  },
+  "Standing_Dumbbell_Reverse_Curl": {
+    "name": "Staande reverse curl met dumbbells",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell in pronatie, armen volledig gestrekt en voeten op schouderbreedte. Dit is je startpositie.",
+      "Houd je bovenarmen stil en curl de dumbbells omhoog terwijl je uitademt tot volledige contractie op schouderhoogte. Houd één seconde vast.",
+      "Laat de dumbbells langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head": {
+    "name": "Staande front raise met gestrekte armen boven het hoofd",
+    "instructions": [
+      "Houd de dumbbells voor je dijen met de handpalmen naar je dijen.",
+      "Houd je armen gestrekt met een lichte, vaste elleboogbuiging. Dit is je startpositie.",
+      "Hef de dumbbells in een halve cirkel boven je hoofd terwijl je uitademt.",
+      "Laat ze via dezelfde baan langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Standing_Dumbbell_Triceps_Extension": {
+    "name": "Staande tricepsextensie met dumbbell",
+    "instructions": [
+      "Sta rechtop met je voeten op schouderbreedte en houd één dumbbell met beide handen. Breng hem boven je hoofd tot je armen volledig gestrekt zijn.",
+      "Laat het gewicht in je handpalmen rusten met je duimen eromheen en handpalmen naar het plafond. Dit is je startpositie.",
+      "Houd je bovenarmen dicht bij je hoofd en loodrecht op de vloer en laat de dumbbell in een halve cirkel achter je hoofd zakken tot je onderarmen je biceps raken. Adem in en beweeg alleen je onderarmen.",
+      "Strek je triceps en breng de dumbbell terug terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Standing_Dumbbell_Upright_Row": {
+    "name": "Staande upright row met dumbbells",
+    "instructions": [
+      "Pak in elke hand een dumbbell in pronatie, iets smaller dan schouderbreedte. Laat de gewichten op je dijen rusten met gestrekte armen en een lichte elleboogbuiging. Houd je rug recht. Dit is je startpositie.",
+      "Hef de dumbbells met je zijschouders dicht langs je lichaam tot bijna kinhoogte terwijl je uitademt. Laat je ellebogen leiden en houd ze hoger dan je onderarmen. Pauzeer bovenaan.",
+      "Laat de dumbbells langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  }
+}

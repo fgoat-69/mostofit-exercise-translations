@@ -1,0 +1,524 @@
+{
+  "Kettlebell_Seated_Press": {
+    "name": "Zittende kettlebell press",
+    "instructions": [
+      "Ga op de vloer zitten en spreid je benen comfortabel.",
+      "Clean één kettlebell naar je schouder.",
+      "Druk de kettlebell omhoog en naar buiten tot je arm boven je hoofd is vergrendeld. Keer terug naar de startpositie."
+    ]
+  },
+  "Kettlebell_Seesaw_Press": {
+    "name": "Kettlebell seesaw press",
+    "instructions": [
+      "Clean twee kettlebells naar je schouders.",
+      "Druk één kettlebell omhoog.",
+      "Laat die kettlebell zakken en druk direct de andere omhoog. Voer aan beide kanten evenveel herhalingen uit."
+    ]
+  },
+  "Kettlebell_Sumo_High_Pull": {
+    "name": "Kettlebell sumo high pull",
+    "instructions": [
+      "Plaats een kettlebell tussen je voeten. Neem een brede stand aan, pak hem met beide handen vast, duw je heupen zo ver mogelijk naar achteren en buig je knieën. Houd hoofd en borst omhoog. Dit is je startpositie.",
+      "Strek heupen en knieën terwijl je de kettlebell tegelijk naar je schouders trekt en je ellebogen omhoogbrengt. Keer de beweging om."
+    ]
+  },
+  "Kettlebell_Thruster": {
+    "name": "Kettlebell thruster",
+    "instructions": [
+      "Clean twee kettlebells naar je schouders door benen en heupen te strekken en je polsen te draaien. Dit is je startpositie.",
+      "Zak in een squat door heupen en knieën te buigen en je heupen tussen je benen te laten zakken. Houd je rug recht en romp rechtop.",
+      "Strek vanuit de onderste positie knieën en heupen krachtig via de hielen en druk tegelijk beide kettlebells boven je hoofd met het momentum van de squat.",
+      "Breng de gewichten terug naar je schouders wanneer je aan de volgende herhaling begint."
+    ]
+  },
+  "Kettlebell_Turkish_Get-Up_Lunge_style": {
+    "name": "Turkish get-up met kettlebell, lungestijl",
+    "instructions": [
+      "Ga op je rug liggen en druk een kettlebell omhoog door je elleboog te strekken. Buig de knie aan dezelfde kant.",
+      "Houd de kettlebell voortdurend vergrendeld, draai naar de andere kant en gebruik je vrije arm om jezelf naar een zitpositie en vervolgens op één knie te brengen.",
+      "Kijk naar de kettlebell en kom langzaam overeind. Keer de beweging om en herhaal."
+    ]
+  },
+  "Kettlebell_Turkish_Get-Up_Squat_style": {
+    "name": "Turkish get-up met kettlebell, squatstijl",
+    "instructions": [
+      "Ga op je rug liggen en druk een kettlebell omhoog door je elleboog te strekken. Buig de knie aan dezelfde kant.",
+      "Houd de kettlebell voortdurend vergrendeld, draai naar de andere kant en gebruik je vrije arm om jezelf vooruit te helpen.",
+      "Duw jezelf met je vrije hand naar een zitpositie en daarna op je voeten. Kijk naar de kettlebell en kom langzaam overeind. Keer de beweging om."
+    ]
+  },
+  "Kettlebell_Windmill": {
+    "name": "Kettlebell windmill",
+    "instructions": [
+      "Plaats een kettlebell voor je voorste voet en clean en press hem met de tegenovergestelde arm boven je hoofd. Draai je pols zodat de handpalm naar voren wijst.",
+      "Houd de kettlebell vergrendeld, duw je heupen richting de arm met het gewicht en draai je voeten 45 graden van die arm af. Buig zijwaarts vanuit de heup en raak met je vrije hand de vloer terwijl je naar de kettlebell blijft kijken.",
+      "Pauzeer één seconde onderaan en keer terug naar de startpositie."
+    ]
+  },
+  "Kipping_Muscle_Up": {
+    "name": "Kipping muscle-up",
+    "instructions": [
+      "Pak de ringen met een false grip vast, met de basis van je handpalmen boven op de ringen.",
+      "Begin door je benen licht naar achteren te zwaaien.",
+      "Zwaai je benen daarna vooruit en omhoog, trek kin en borst naar achteren en trek jezelf met beide armen op. Trek bovenaan de ringen naar je oksels en rol je schouders naar voren zodat je ellebogen achter je komen.",
+      "Strek je ellebogen gecontroleerd om de beweging te voltooien.",
+      "Laat jezelf voorzichtig zakken."
+    ]
+  },
+  "Knee_Across_The_Body": {
+    "name": "Knie over het lichaam",
+    "instructions": [
+      "Ga op de vloer liggen met je rechterbeen gestrekt. Buig links en breng dat been over je lichaam terwijl je de knie met je rechterhand richting de vloer houdt.",
+      "Leg je linkerarm comfortabel naast je en draai je hoofd naar links. Laat je stuitje richting de vloer zakken terwijl je borst de andere kant op reikt. Wissel van kant."
+    ]
+  },
+  "Knee_Circles": {
+    "name": "Kniecirkels",
+    "instructions": [
+      "Sta met je benen bij elkaar en handen op je middel.",
+      "Beweeg je knieën in cirkels terwijl je normaal ademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Knee_Hip_Raise_On_Parallel_Bars": {
+    "name": "Knie-/heupheffing op parallelle stangen",
+    "instructions": [
+      "Plaats je onderarmen op de kussens van een vertical-leg-raisebank en pak de handgrepen vast. Je ellebogen zijn 90 graden gebogen.",
+      "Houd je romp recht, onderrug tegen het kussen en benen gestrekt naar beneden. Dit is je startpositie.",
+      "Til je gestrekte benen op terwijl je uitademt tot ze ongeveer parallel aan de vloer zijn. Houd één seconde vast en vermijd zwaaien.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Knee_Tuck_Jump": {
+    "name": "Knee tuck jump",
+    "instructions": [
+      "Sta comfortabel met licht gebogen knieën. Houd je handen op borsthoogte voor je met de handpalmen omlaag. Dit is je startpositie.",
+      "Zak snel in een kwart squat en spring explosief omhoog. Trek je knieën naar je borst en probeer je handpalmen te raken.",
+      "Spring zo hoog mogelijk en strek je benen voor de landing zodat je de impact met gebogen knieën opvangt."
+    ]
+  },
+  "Kneeling_Arm_Drill": {
+    "name": "Knielende armdrill",
+    "instructions": [
+      "Deze oefening verbetert de armefficiëntie tijdens het lopen. Kniel met je linkervoet voor en rechterknie op de grond. Duw via de voorste hiel.",
+      "Begin met lange, pendelachtige armbewegingen. Maak de armhoek steeds kleiner zoals bij joggen, daarna hardlopen en uiteindelijk sprinten.",
+      "Versnel je handen voorwaarts zodra ze je heup passeren.",
+      "Wissel van knie en herhaal."
+    ]
+  },
+  "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists": {
+    "name": "Knielende kabelcrunch met afwisselende rotatie",
+    "instructions": [
+      "Bevestig een touw aan een hoge katrol en leg een mat ervoor.",
+      "Pak het touw met beide handen en kniel ongeveer 60 cm van de toren.",
+      "Plaats het touw achter je hoofd met je handen bij je oren.",
+      "Houd je handen op hun plaats, span je buik aan en crunch omlaag tot je ellebogen je knieën bereiken.",
+      "Pauzeer onderaan en kom langzaam en gecontroleerd omhoog.",
+      "Zak opnieuw tot halverwege en draai daarna één elleboog naar de tegenoverliggende knie.",
+      "Pauzeer onderaan en kom langzaam terug.",
+      "Herhaal aan de andere kant.",
+      "Blijf deze reeks uitvoeren tot spierfalen."
+    ]
+  },
+  "Kneeling_Cable_Triceps_Extension": {
+    "name": "Knielende tricepsextensie aan de kabel",
+    "instructions": [
+      "Plaats een bank dwars voor een hoge katrol.",
+      "Houd een rechte stang boven je hoofd met de handen ongeveer 15 cm uit elkaar en handpalmen omlaag.",
+      "Ga met je rug naar de machine knielen.",
+      "Leg je hoofd en de achterkant van je bovenarmen op de bank. Houd je ellebogen gebogen en onderarmen richting de katrol. Dit is je startpositie.",
+      "Houd de bovenarmen dicht bij je hoofd en druk de stang in een halve cirkel uit tot je ellebogen vergrendeld zijn en armen parallel aan de vloer. Span de triceps één seconde aan en adem uit.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Kneeling_Forearm_Stretch": {
+    "name": "Knielende onderarmstretch",
+    "instructions": [
+      "Kniel op een mat met je handpalmen plat op de vloer en vingers naar je knieën gericht.",
+      "Leun langzaam achterover terwijl je handpalmen plat blijven tot je rek in polsen en onderarmen voelt. Houd 20 tot 30 seconden vast."
+    ]
+  },
+  "Kneeling_High_Pulley_Row": {
+    "name": "Knielende hoge kabelrow",
+    "instructions": [
+      "Kies een passend gewicht op een katrol boven hoofdhoogte. Bevestig een touw, kniel enkele voeten verderop en houd het touw met gestrekte armen voor je. Dit is je startpositie.",
+      "Buig je ellebogen, trek je schouderbladen volledig samen en trek het touw met ellebogen naar buiten naar je bovenborst.",
+      "Pauzeer kort en keer langzaam terug."
+    ]
+  },
+  "Kneeling_Hip_Flexor": {
+    "name": "Knielende heupbuigerstretch",
+    "instructions": [
+      "Kniel op een mat, plaats je rechtervoet voor je en strek je linkerbeen achter je met de wreef op de vloer.",
+      "Verplaats je gewicht voorwaarts tot je rek in de heup voelt. Houd 15 seconden vast en wissel van kant."
+    ]
+  },
+  "Kneeling_Jump_Squat": {
+    "name": "Knielende jump squat",
+    "instructions": [
+      "Kniel op de vloer met een halterstang op de achterkant van je schouders of gebruik alleen je lichaamsgewicht.",
+      "Ga met je heupen naar achteren tot je billen je voeten raken en houd hoofd en borst omhoog.",
+      "Strek je heupen explosief zodat je met beide voeten plat op de vloer landt.",
+      "Ga direct door in een squat en kom via je hielen en gestrekte knieën volledig overeind."
+    ]
+  },
+  "Kneeling_Single-Arm_High_Pulley_Row": {
+    "name": "Knielende eenarmige hoge kabelrow",
+    "instructions": [
+      "Bevestig een enkele handgreep aan een hoge katrol en kies het gewicht.",
+      "Kniel voor de kabeltoren en houd de kabel met één gestrekte arm vast. Dit is je startpositie.",
+      "Begin met de handpalm naar voren, trek het gewicht naar je romp door je elleboog te buigen en schouderblad in te trekken. Draai je pols zodat de handpalm aan het einde naar je toe wijst.",
+      "Pauzeer kort en keer terug."
+    ]
+  },
+  "Kneeling_Squat": {
+    "name": "Knielende squat",
+    "instructions": [
+      "Stel de stang in een power rack op de juiste hoogte af. Kniel erachter, schuif eronder en leg de stang strak over de achterkant van je schouders. Trek je schouderbladen samen en haal de stang uit het rek.",
+      "Kijk vooruit en ga met je billen naar achteren tot je je kuiten raakt.",
+      "Keer de beweging om en breng je romp terug naar een rechte positie."
+    ]
+  },
+  "Landmine_180s": {
+    "name": "Landmine 180's",
+    "instructions": [
+      "Plaats een stang in een landmine of klem hem stevig in een hoek en laad hem passend.",
+      "Breng de stang met beide handen tot schouderhoogte, armen gestrekt voor je, en neem een brede stand aan. Dit is je startpositie.",
+      "Draai romp en heupen en zwaai het gewicht volledig naar één kant. Houd je armen gestrekt.",
+      "Keer de beweging om en zwaai naar de andere kant.",
+      "Blijf afwisselen tot de set voltooid is."
+    ]
+  },
+  "Landmine_Linear_Jammer": {
+    "name": "Landmine linear jammer",
+    "instructions": [
+      "Plaats een stang in een landmine of klem hem stevig in een hoek, laad hem en plaats een handgreep op het uiteinde.",
+      "Breng de handgrepen vanaf de vloer naar je schouders. Dit is je startpositie.",
+      "Neem een atletische houding aan en zak in een squat door je heupen naar achteren te brengen terwijl je armen gebogen blijven.",
+      "Strek heupen, knieën, enkels en ellebogen explosief zodat je vanuit de squat volledig uitstrekt.",
+      "Keer terug naar de startpositie."
+    ]
+  },
+  "Lateral_Bound": {
+    "name": "Zijwaartse sprong",
+    "instructions": [
+      "Neem een halve squat aan en sta 90 graden gedraaid ten opzichte van je bewegingsrichting. Dit is je startpositie.",
+      "Laat je voorste been kort naar binnen bewegen terwijl je gewicht naar het buitenste been verschuift.",
+      "Zet direct krachtig af en spring zo ver mogelijk zijwaarts.",
+      "Land en zet onmiddellijk terug af naar de andere kant.",
+      "Blijf meerdere herhalingen heen en weer bewegen."
+    ]
+  },
+  "Lateral_Box_Jump": {
+    "name": "Zijwaartse box jump",
+    "instructions": [
+      "Ga comfortabel naast een lage box staan. Dit is je startpositie.",
+      "Zak snel in een kwart squat en spring onmiddellijk omhoog en zijwaarts.",
+      "Trek je knieën hoog genoeg op om vrij over de box te komen.",
+      "Land in het midden van de box en vang de impact met je benen op.",
+      "Spring voorzichtig aan de andere kant omlaag en blijf heen en weer gaan."
+    ]
+  },
+  "Lateral_Cone_Hops": {
+    "name": "Zijwaartse kegelsprongen",
+    "instructions": [
+      "Plaats meerdere kegels in een rij, enkele voeten uit elkaar.",
+      "Ga naast het uiteinde van de rij staan en kijk 90 graden van de bewegingsrichting af. Dit is je startpositie.",
+      "Buig je knieën kort en spring direct omhoog en zijwaarts over de kegel.",
+      "Vang de landing met je benen op en spring direct over de volgende kegel."
+    ]
+  },
+  "Lateral_Raise_-_With_Bands": {
+    "name": "Zijwaartse heffing met banden",
+    "instructions": [
+      "Ga op een trainingsband staan zodat er spanning ontstaat met gestrekte armen. Pak de handgrepen in pronatie, iets smaller dan schouderbreedte, langs je dijen. Houd je armen bijna gestrekt en rug recht. Dit is je startpositie.",
+      "Hef de handgrepen zijwaarts tot iets boven parallel terwijl je uitademt. Kantel je handen licht alsof je water uitschenkt, houd je romp stil en pauzeer bovenaan.",
+      "Laat de handgrepen langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Latissimus_Dorsi-SMR": {
+    "name": "Latissimus dorsi-SMR",
+    "instructions": [
+      "Ga op de vloer liggen met een foamroller onder één zijde van je rug, net achter je oksel. Dit is je startpositie.",
+      "Houd de arm van de te behandelen zijde achter en naast je, verplaats je gewicht naar je lat en houd je bovenlichaam van de vloer. Houd 10 tot 30 seconden vast en wissel van kant."
+    ]
+  },
+  "Leg-Over_Floor_Press": {
+    "name": "Leg-over floor press",
+    "instructions": [
+      "Ga op de vloer liggen met een kettlebell op je borst en houd hem aan de handgreep vast. Kruis het been aan de werkende kant over het andere been. Strek je vrije arm zijwaarts voor steun.",
+      "Druk de kettlebell omhoog tot lock-out.",
+      "Laat het gewicht zakken tot je elleboog de vloer raakt en houd de kettlebell boven de elleboog. Herhaal."
+    ]
+  },
+  "Leg-Up_Hamstring_Stretch": {
+    "name": "Hamstringstretch met been omhoog",
+    "instructions": [
+      "Ga plat op je rug liggen, buig één knie en zet die voet plat op de vloer.",
+      "Strek het andere been omhoog. Het is niet erg wanneer je het niet volledig kunt strekken.",
+      "Strek de knie zo ver mogelijk en trek het been daarna langzaam richting je neus. Wissel van kant."
+    ]
+  },
+  "Leg_Extensions": {
+    "name": "Leg extensions",
+    "instructions": [
+      "Kies het gewicht op een leg-extensionmachine en ga zitten met je onderbenen onder het kussen en handen aan de handgrepen. Stel het kussen net boven je voeten af en zorg dat je knieën ongeveer 90 graden gebogen zijn. Dit is je startpositie.",
+      "Strek je benen met de quadriceps volledig terwijl je uitademt. Houd de rest van je lichaam stil en pauzeer één seconde.",
+      "Laat het gewicht langzaam zakken terwijl je inademt en ga niet verder dan 90 graden.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Leg_Lift": {
+    "name": "Staande beenheffing",
+    "instructions": [
+      "Sta rechtop met je voeten naast elkaar op ongeveer schouderbreedte en houd een stevig object vast voor balans.",
+      "Til één been met of zonder enkelgewicht achter je op alsof je een staande leg curl uitvoert. Houd het andere been recht en adem uit.",
+      "Breng het been langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen.",
+      "Voer daarna uit met het andere been."
+    ]
+  },
+  "Leg_Press": {
+    "name": "Leg press",
+    "instructions": [
+      "Ga op de legpress zitten en plaats je voeten op schouderbreedte op het platform.",
+      "Ontgrendel het platform en strek je benen zonder de knieën te vergrendelen. Romp en benen vormen ongeveer 90 graden. Dit is je startpositie.",
+      "Laat het platform langzaam zakken terwijl je inademt tot boven- en onderbenen 90 graden vormen.",
+      "Duw vooral via de hielen en quadriceps terug terwijl je uitademt.",
+      "Herhaal en vergrendel na afloop de veiligheidspinnen."
+    ]
+  },
+  "Leg_Pull-In": {
+    "name": "Leg pull-in",
+    "instructions": [
+      "Ga op een oefenmat liggen met gestrekte benen en je handen naast je of onder je billen. Dit is je startpositie.",
+      "Buig je knieën en trek je bovenbenen naar je romp terwijl je uitademt tot de knieën ongeveer op borsthoogte zijn. Span je buik aan en houd één seconde vast. Houd de onderbenen parallel aan de vloer.",
+      "Keer terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Leverage_Chest_Press": {
+    "name": "Leverage chest press",
+    "instructions": [
+      "Laad een passend gewicht en stel de stoel af. De handgrepen moeten aan het begin bij het onderste of middelste deel van je borst zijn.",
+      "Houd borst en hoofd omhoog en trek je schouderbladen samen. Dit is je startpositie.",
+      "Druk de handgrepen naar voren door je ellebogen te strekken.",
+      "Pauzeer bovenaan en keer terug tot net boven de startpositie zodat de spieren onder spanning blijven."
+    ]
+  },
+  "Leverage_Deadlift": {
+    "name": "Leverage deadlift",
+    "instructions": [
+      "Laad een passend gewicht, ga tussen de handgrepen staan, pak de onderste handgrepen vast en laat je heupen zakken terwijl je inademt. Kijk vooruit en houd je borst omhoog. Dit is je startpositie.",
+      "Breng het gewicht terug naar de startpositie."
+    ]
+  },
+  "Leverage_Decline_Chest_Press": {
+    "name": "Leverage decline chest press",
+    "instructions": [
+      "Laad een passend gewicht en stel de stoel af. De handgrepen moeten bij het onderste deel van je borst zijn. Houd borst en hoofd omhoog en trek je schouderbladen samen. Dit is je startpositie.",
+      "Druk de handgrepen naar voren door je ellebogen te strekken.",
+      "Pauzeer bovenaan en keer terug tot net boven de startpositie zodat de spieren onder spanning blijven."
+    ]
+  },
+  "Leverage_High_Row": {
+    "name": "Leverage high row",
+    "instructions": [
+      "Laad een passend gewicht en stel de zitting zo af dat je de handgrepen boven je net kunt bereiken. Stel het kniekussen af en pak de handgrepen in pronatie. Dit is je startpositie.",
+      "Trek de handgrepen naar je romp, trek je schouderbladen samen en buig je ellebogen.",
+      "Pauzeer onderaan en keer langzaam terug.",
+      "Laat het gewicht bij meerdere herhalingen niet volledig op de aanslagen rusten."
+    ]
+  },
+  "Leverage_Incline_Chest_Press": {
+    "name": "Leverage incline chest press",
+    "instructions": [
+      "Laad een passend gewicht en stel de stoel af. De handgrepen moeten bij het bovenste deel van je borst zijn. Houd borst en hoofd omhoog en trek je schouderbladen samen. Dit is je startpositie.",
+      "Druk de handgrepen naar voren door je ellebogen te strekken.",
+      "Pauzeer bovenaan en keer terug tot net boven de startpositie zodat de spieren onder spanning blijven."
+    ]
+  },
+  "Leverage_Iso_Row": {
+    "name": "Leverage iso row",
+    "instructions": [
+      "Laad een passend gewicht en stel de zitting zo af dat de handgrepen op borsthoogte zijn. Pak ze neutraal of in pronatie. Dit is je startpositie.",
+      "Trek de handgrepen naar je romp terwijl je de schouderbladen samenbrengt en je ellebogen buigt.",
+      "Pauzeer onderaan en keer langzaam terug. Laat het gewicht niet volledig op de aanslagen rusten."
+    ]
+  },
+  "Leverage_Shoulder_Press": {
+    "name": "Leverage shoulder press",
+    "instructions": [
+      "Laad een passend gewicht en stel de stoel af. De handgrepen moeten bij de bovenkant van je schouders zijn. Houd borst en hoofd omhoog en pak de handgrepen in pronatie. Dit is je startpositie.",
+      "Druk de handgrepen omhoog door je ellebogen te strekken.",
+      "Pauzeer bovenaan en keer terug tot net boven de startpositie zodat de spieren onder spanning blijven."
+    ]
+  },
+  "Leverage_Shrug": {
+    "name": "Leverage shrug",
+    "instructions": [
+      "Laad een passend gewicht en ga direct tussen de handgrepen staan.",
+      "Pak de bovenste handgrepen vast, laat je heupen zakken, kijk vooruit en houd je borst omhoog.",
+      "Duw via je hielen, strek heupen en knieën en kom rechtop met gestrekte armen en schouders naar achteren. Dit is je startpositie.",
+      "Trek je schouders recht omhoog richting je oren.",
+      "Pauzeer bovenaan en keer terug."
+    ]
+  },
+  "Linear_3-Part_Start_Technique": {
+    "name": "Lineaire starttechniek in drie delen",
+    "instructions": [
+      "Deze oefening helpt je vanuit stilstand snel te versnellen. Zet beide voeten op een lijn, plaats je linkertenen naast je rechterenkel en je rechtervoet 10 tot 15 cm achter links.",
+      "Plaats je rechterhand op de lijn en breng je neus dicht bij je linkerknie.",
+      "Zak in een squat en leun voorover met je hoofd lager dan je heupen en gewicht op je linkerbeen. Dit is je startpositie.",
+      "Breng je linkerarm parallel aan de grond achter je en explodeer vooruit wanneer je klaar bent."
+    ]
+  },
+  "Linear_Acceleration_Wall_Drill": {
+    "name": "Lineaire acceleratiedrill tegen de muur",
+    "instructions": [
+      "Leun ongeveer 45 graden tegen een muur met je voeten bij elkaar en bilspieren aangespannen.",
+      "Til je rechterknie snel op, pauzeer en duw de voet krachtig recht naar beneden.",
+      "Wissel van been en herhaal.",
+      "Herhaal nogmaals met rechts en wissel daarna zo snel mogelijk af."
+    ]
+  },
+  "Linear_Depth_Jump": {
+    "name": "Lineaire depth jump",
+    "instructions": [
+      "Plaats twee boxen of banken enkele voeten uit elkaar en ga op één box staan met je gezicht naar de andere.",
+      "Stap gecontroleerd tussen de platforms naar de vloer en laat knieën en heupen buigen.",
+      "Keer de beweging explosief om en strek heupen, knieën en enkels om op het andere platform te springen.",
+      "Land zacht en vang de impact met je benen op."
+    ]
+  },
+  "Log_Lift": {
+    "name": "Log lift",
+    "instructions": [
+      "Sta met de log voor je, pak de handgrepen en clean hem. Trek hem vanuit de voorovergebogen positie zo hoog mogelijk tegen je borst en strek heupen en knieën om de clean te voltooien.",
+      "Breng je hoofd naar achteren, kijk omhoog en laat de log op je borst rusten. Zak kort door je knieën en strek krachtig om momentum te creëren. Strek daarna je ellebogen en druk de log boven je hoofd. Breng je hoofd naar voren wanneer de log passeert.",
+      "Herhaal zo vaak mogelijk en controleer de daling naar de vloer."
+    ]
+  },
+  "London_Bridges": {
+    "name": "London bridges",
+    "instructions": [
+      "Bevestig een klimtouw aan een hoge balk en zorg dat een Smith-stang of stevige box eronder veilig vaststaat.",
+      "Ga op de stang staan en gebruik het touw voor balans. Dit is je startpositie.",
+      "Houd je lichaam recht, leun achterover en laat jezelf hand over hand zakken tot je loodrecht op de vloer staat.",
+      "Keer de beweging om en klim hand over hand terug."
+    ]
+  },
+  "Looking_At_Ceiling": {
+    "name": "Naar het plafond kijken",
+    "instructions": [
+      "Kniel op de vloer en houd je hielen met beide handen vast.",
+      "Breng je billen omhoog en naar voren terwijl je hoofd achterover gaat om naar het plafond te kijken en je rug te buigen."
+    ]
+  },
+  "Low_Cable_Crossover": {
+    "name": "Lage cable crossover",
+    "instructions": [
+      "Plaats de katrollen laag, kies de weerstand en pak in elke hand een handgreep.",
+      "Stap naar voren tot er spanning staat. Houd de handpalmen naar voren, handen onder je middel en armen gestrekt. Dit is je startpositie.",
+      "Breng je handen met licht gebogen armen omhoog en naar de middenlijn tot ze voor je borst samenkomen met de handpalmen omhoog.",
+      "Keer na een korte pauze terug."
+    ]
+  },
+  "Low_Cable_Triceps_Extension": {
+    "name": "Tricepsextensie aan lage kabel",
+    "instructions": [
+      "Kies het gewicht en ga met je gezicht omhoog op de bank van een kabelroeimachine liggen met je hoofd naar de kabel.",
+      "Pak de uiteinden van het touw in neutrale greep.",
+      "Houd je ellebogen 90 graden gebogen, bovenarmen loodrecht op je romp en gericht naar het plafond. Dit is je startpositie.",
+      "Strek je onderarmen verticaal terwijl je uitademt. Houd bovenarmen en ellebogen stil en span de triceps één seconde aan.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Low_Pulley_Row_To_Neck": {
+    "name": "Lage kabelrow naar de nek",
+    "instructions": [
+      "Ga op een lage kabelroeimachine zitten met een touwbevestiging.",
+      "Pak het touw in pronatie, houd je rug recht, knieën licht gebogen en armen volledig gestrekt. Dit is je startpositie.",
+      "Houd je romp stil, hef je ellebogen en trek het touw naar je nek terwijl je uitademt. Houd je bovenarmen parallel aan de vloer en trek tot je handen bijna naast je oren zijn.",
+      "Houd één seconde vast en keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Lower_Back-SMR": {
+    "name": "Onderrug-SMR",
+    "instructions": [
+      "Ga zitten met een foamroller onder je onderrug, kruis je armen en breng je schouders naar voren. Dit is je startpositie.",
+      "Til je heupen op, leun achterover en verplaats je gewicht iets naar één kant zodat je niet rechtstreeks over de wervelkolom rolt. Rol over de onderrug en houd gevoelige punten 10 tot 30 seconden vast. Wissel van kant."
+    ]
+  },
+  "Lower_Back_Curl": {
+    "name": "Onderrugcurl",
+    "instructions": [
+      "Ga op je buik liggen met je armen zijwaarts. Dit is je startpositie.",
+      "Strek je wervelkolom met je onderrugspieren en til je borst van de vloer. Duw niet met je armen en houd je hoofd omhoog. Herhaal 10 tot 20 keer."
+    ]
+  },
+  "Lunge_Pass_Through": {
+    "name": "Lunge met kettlebell-doorsteek",
+    "instructions": [
+      "Sta rechtop met een kettlebell in je rechterhand. Dit is je startpositie.",
+      "Stap met links naar voren en zak door heup en knie met een rechte romp tot je achterste knie bijna de vloer raakt.",
+      "Geef de kettlebell tijdens de lunge onder je voorste been door aan de andere hand.",
+      "Duw via de hiel terug naar de startpositie.",
+      "Herhaal afwisselend met beide benen."
+    ]
+  },
+  "Lunge_Sprint": {
+    "name": "Lunge sprint",
+    "instructions": [
+      "Stel een Smith-stang op de juiste hoogte af, plaats hem op je bovenrug en neem een gespreide stand aan met één voet voor en één achter. Dit is je startpositie.",
+      "Laat je achterste knie bijna de vloer raken door je knieën te buigen en heupen te laten zakken.",
+      "Keer onderaan explosief om, duw via de voorste hiel en spring omhoog terwijl je de positie van je benen wisselt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Lying_Bent_Leg_Groin": {
+    "name": "Liggende liesstretch met gebogen benen",
+    "instructions": [
+      "Ga op je rug liggen met gebogen knieën en voetzolen tegen elkaar. Laat je partner je knieën vasthouden. Dit is je startpositie.",
+      "Probeer je knieën tegen de weerstand van je partner in samen te drukken.",
+      "Ontspan na 10 tot 20 seconden terwijl je partner je knieën voorzichtig richting de vloer duwt. Geef aan wanneer de rek voldoende is."
+    ]
+  },
+  "Lying_Cable_Curl": {
+    "name": "Liggende kabelcurl",
+    "instructions": [
+      "Pak een rechte of EZ-stang aan een lage katrol met beide handen in supinatie op schouderbreedte.",
+      "Ga op je rug op een mat voor de gewichtsstapel liggen met je voeten tegen het frame en benen gestrekt.",
+      "Houd je armen bijna volledig gestrekt en ellebogen dicht bij je lichaam. Dit is je startpositie.",
+      "Houd je bovenarmen stil en curl de stang langzaam naar je borst terwijl je uitademt en de biceps aanspant.",
+      "Houd bovenaan één seconde vast en keer langzaam terug.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Lying_Cambered_Barbell_Row": {
+    "name": "Liggende row met cambered bar",
+    "instructions": [
+      "Plaats een cambered bar onder een trainingsbank.",
+      "Ga met je gezicht naar beneden op de bank liggen en pak de stang breder dan schouderbreedte in pronatie. Dit is je startpositie.",
+      "Trek de stang omhoog met de ellebogen dicht bij je lichaam naar je borst voor de bovenrug of naar je buik voor de lats. Adem uit.",
+      "Houd bovenaan één seconde vast en laat langzaam zakken terwijl je inademt."
+    ]
+  },
+  "Lying_Close-Grip_Bar_Curl_On_High_Pulley": {
+    "name": "Liggende smalle barcurl aan hoge katrol",
+    "instructions": [
+      "Plaats een vlakke bank voor een hoge katrol of lat-pulldownmachine.",
+      "Pak de rechte stang in supinatie ongeveer op schouderbreedte.",
+      "Ga op je rug liggen met je hoofd voorbij het uiteinde van de bank.",
+      "Strek je armen recht boven je schouders met de ellebogen naar binnen. Je armen staan loodrecht op je romp. Dit is je startpositie.",
+      "Curl de stang in een halve cirkel omlaag tot hij je kin raakt terwijl je uitademt. Beweeg alleen de onderarmen en span de biceps één seconde aan.",
+      "Keer langzaam terug.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  }
+}

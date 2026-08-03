@@ -1,0 +1,484 @@
+{
+  "Drag_Curl": {
+    "name": "Drag curl",
+    "instructions": [
+      "Pak een halterstang in supinatie en houd je ellebogen dicht bij en iets achter je romp. Dit is je startpositie.",
+      "Curl de stang omhoog terwijl je uitademt en trek je ellebogen naar achteren zodat de stang langs je romp omhoog glijdt. Til je schouders niet op.",
+      "Laat de stang langzaam zakken terwijl hij contact met je romp houdt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Drop_Push": {
+    "name": "Drop push-up",
+    "instructions": [
+      "Plaats lage boxen of platforms 60 tot 90 cm uit elkaar.",
+      "Neem ertussen een push-uphouding aan met je handen op de boxen.",
+      "Duw jezelf van de boxen af, plaats je handen op schouderbreedte op de vloer en vang de landing met gebogen armen op terwijl je houding stevig blijft."
+    ]
+  },
+  "Dumbbell_Alternate_Bicep_Curl": {
+    "name": "Afwisselende dumbbellcurl",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell, armen gestrekt, ellebogen dicht bij je romp en handpalmen naar je dijen.",
+      "Houd je bovenarm stil en curl de rechterdumbbell omhoog terwijl je de handpalm naar voren draait. Adem uit, ga door tot volledige contractie op schouderhoogte en houd één seconde vast.",
+      "Laat de dumbbell langzaam zakken terwijl je inademt en draai de handpalm terug naar de dij.",
+      "Herhaal met de linkerhand. Dit telt als één herhaling.",
+      "Blijf afwisselen voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Bench_Press": {
+    "name": "Bankdrukken met dumbbells",
+    "instructions": [
+      "Ga op een vlakke bank liggen met in elke hand een dumbbell op je dijen, handpalmen naar elkaar.",
+      "Gebruik je dijen om de dumbbells één voor één omhoog te brengen en houd ze op schouderbreedte voor je.",
+      "Draai je polsen zodat de handpalmen van je af wijzen. Houd de dumbbells naast je borst met boven- en onderarmen ongeveer 90 graden. Dit is je startpositie.",
+      "Druk de dumbbells met je borst omhoog terwijl je uitademt. Vergrendel de armen, span de borst één seconde aan en laat daarna langzaam zakken. De neerwaartse fase duurt idealiter ongeveer twee keer zo lang.",
+      "Herhaal voor het voorgeschreven aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Bench_Press_with_Neutral_Grip": {
+    "name": "Bankdrukken met dumbbells in neutrale greep",
+    "instructions": [
+      "Ga met in elke hand een dumbbell op een vlakke bank liggen. Zet je voeten plat op de vloer en trek je schouderbladen samen.",
+      "Houd de handpalmen naar elkaar en strek je armen loodrecht boven je uit. Dit is je startpositie.",
+      "Buig je ellebogen en laat je bovenarmen zijwaarts zakken tot de dumbbells naast je romp zijn.",
+      "Pauzeer en strek je ellebogen om terug te keren."
+    ]
+  },
+  "Dumbbell_Bicep_Curl": {
+    "name": "Dumbbell bicep curl",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell, armen gestrekt en ellebogen dicht bij je romp. Draai je handpalmen naar voren. Dit is je startpositie.",
+      "Houd de bovenarmen stil, adem uit en curl de gewichten omhoog tot volledige contractie op schouderhoogte. Houd kort vast.",
+      "Adem in en laat de dumbbells langzaam zakken.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Clean": {
+    "name": "Dumbbell clean",
+    "instructions": [
+      "Sta met in elke hand een dumbbell en je voeten op schouderbreedte.",
+      "Buig heupen en knieën en duw je heupen naar achteren tot de dumbbells de vloer raken. Dit is je startpositie.",
+      "Spring explosief omhoog door heupen, knieën en enkels te strekken. Houd een neutrale greep en je armen recht tot volledige strekking.",
+      "Buig daarna heupen en knieën opnieuw om de gewichten in een squat op te vangen en begeleid de dumbbells naar je schouders.",
+      "Strek heupen en knieën om rechtop te eindigen met de gewichten op je schouders."
+    ]
+  },
+  "Dumbbell_Floor_Press": {
+    "name": "Floor press met dumbbells",
+    "instructions": [
+      "Ga op de vloer liggen met dumbbells in je handen en eventueel gebogen knieën. Begin met de gewichten volledig boven je uitgestrekt.",
+      "Laat de gewichten zakken tot je bovenarmen de vloer raken. Houd de ellebogen dichter bij je romp voor meer triceps of wijder voor meer borst.",
+      "Pauzeer onderaan en strek je ellebogen om de gewichten bovenaan weer samen te brengen."
+    ]
+  },
+  "Dumbbell_Flyes": {
+    "name": "Dumbbell flyes",
+    "instructions": [
+      "Ga op een vlakke bank liggen met in elke hand een dumbbell op je dijen, handpalmen naar elkaar.",
+      "Gebruik je dijen om de dumbbells één voor één omhoog te brengen. Houd ze met bijna gestrekte armen boven je op schouderbreedte. Dit is je startpositie.",
+      "Houd een lichte buiging in de ellebogen en open je armen in een brede boog tot je rek in de borst voelt. Adem in en laat alleen de schouders bewegen.",
+      "Breng je armen via dezelfde boog terug terwijl je uitademt en de borst aanspant.",
+      "Houd één seconde vast en herhaal."
+    ]
+  },
+  "Dumbbell_Incline_Row": {
+    "name": "Incline row met dumbbells",
+    "instructions": [
+      "Leun in neutrale greep tegen een schuine bank.",
+      "Pak in elke hand een dumbbell met gestrekte armen. Dit is je startpositie.",
+      "Trek je schouderbladen samen en buig je ellebogen om de dumbbells naar je zij te roeien.",
+      "Pauzeer bovenaan en keer terug."
+    ]
+  },
+  "Dumbbell_Incline_Shoulder_Raise": {
+    "name": "Schouderheffing met dumbbells op schuine bank",
+    "instructions": [
+      "Ga op een schuine bank zitten met in elke hand een dumbbell op je dijen.",
+      "Gebruik je benen om de gewichten naar je schouders te brengen en leun achterover. Houd de dumbbells met gestrekte armen boven je schouders, handpalmen naar voren. Dit is je startpositie.",
+      "Houd je armen gestrekt en til de dumbbells door je schouders van de bank te heffen terwijl je uitademt.",
+      "Keer terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Lunges": {
+    "name": "Lunges met dumbbells",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell langs je lichaam. Dit is je startpositie.",
+      "Stap ongeveer 60 cm naar voren met rechts en laat je lichaam zakken met een rechte romp. Adem in. Houd je voorste scheenbeen verticaal en laat de knie niet voorbij de tenen komen.",
+      "Duw vooral via de hiel omhoog en keer terug terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen en wissel daarna van been."
+    ]
+  },
+  "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise": {
+    "name": "Liggende eenarmige rear lateral raise",
+    "instructions": [
+      "Ga met je borst naar beneden op een licht schuine bank van ongeveer 15 graden liggen en houd een dumbbell in één hand. Gebruik de andere hand voor stabiliteit.",
+      "Houd de handpalm naar je romp en de arm gestrekt met een lichte elleboogbuiging. Dit is je startpositie.",
+      "Hef de arm zijwaarts tot de elleboog op schouderhoogte is en de arm ongeveer parallel aan de vloer. Adem uit en houd bovenaan één seconde vast.",
+      "Laat de dumbbell langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Lying_Pronation": {
+    "name": "Liggende pronatie met dumbbell",
+    "instructions": [
+      "Ga met je gezicht naar beneden op een vlakke bank liggen met een dumbbell in één hand en laat je hoofd op de andere, gevouwen arm rusten.",
+      "Buig de elleboog van de werkende arm tot 90 graden.",
+      "Hef de bovenarm zodat deze parallel aan de vloer en loodrecht op je romp is, met de onderarm loodrecht op de vloer. Dit is je startpositie.",
+      "Draai de onderarm extern terwijl je uitademt en behoud de hoek van 90 graden tot de onderarm parallel aan de vloer is. Houd één seconde vast.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Lying_Rear_Lateral_Raise": {
+    "name": "Liggende rear lateral raise met dumbbells",
+    "instructions": [
+      "Ga met je borst naar beneden op een licht schuine bank van ongeveer 15 graden liggen met in elke hand een dumbbell.",
+      "Houd de handpalmen naar je romp en de armen gestrekt met een lichte elleboogbuiging. Dit is je startpositie.",
+      "Hef beide armen zijwaarts tot de ellebogen op schouderhoogte zijn en de armen parallel aan de vloer. Adem uit en houd bovenaan één seconde vast.",
+      "Laat de dumbbells langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Lying_Supination": {
+    "name": "Liggende supinatie met dumbbell",
+    "instructions": [
+      "Ga zijwaarts op een vlakke bank liggen met een dumbbell in één hand en laat je hoofd op de andere, gevouwen arm rusten.",
+      "Buig de elleboog van de werkende arm tot 90 graden.",
+      "Houd de bovenarm langs je romp en de onderarm parallel aan de vloer, recht voor je. Dit is je startpositie.",
+      "Draai de onderarm extern in een halve cirkel omhoog terwijl je uitademt tot hij loodrecht op de vloer staat. Houd één seconde vast.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen en wissel daarna van arm."
+    ]
+  },
+  "Dumbbell_One-Arm_Shoulder_Press": {
+    "name": "Eenarmige schouderdruk met dumbbell",
+    "instructions": [
+      "Pak een dumbbell en ga op een bank met rugleuning zitten of sta rechtop.",
+      "Clean de dumbbell naar schouderhoogte. Houd je vrije hand zijwaarts, op je middel of aan een vast oppervlak.",
+      "Draai je pols zodat de handpalm naar voren wijst. Dit is je startpositie.",
+      "Druk de dumbbell omhoog tot je arm volledig gestrekt is terwijl je uitademt.",
+      "Pauzeer één seconde en laat langzaam zakken terwijl je inademt.",
+      "Herhaal en wissel daarna van arm."
+    ]
+  },
+  "Dumbbell_One-Arm_Triceps_Extension": {
+    "name": "Eenarmige tricepsextensie met dumbbell",
+    "instructions": [
+      "Pak een dumbbell en ga op een bank met rugleuning zitten of sta rechtop.",
+      "Clean de dumbbell naar schouderhoogte en strek de arm naast je hoofd boven je uit. Gebruik je vrije hand eventueel voor ondersteuning.",
+      "Draai de handpalm naar voren en richt de pink naar het plafond. Dit is je startpositie.",
+      "Laat de dumbbell langzaam achter je hoofd zakken terwijl de bovenarm stil blijft. Adem in en pauzeer bij volledige rek.",
+      "Strek je triceps en keer terug terwijl je uitademt. Alleen de onderarm beweegt.",
+      "Herhaal en wissel daarna van arm."
+    ]
+  },
+  "Dumbbell_One-Arm_Upright_Row": {
+    "name": "Eenarmige upright row met dumbbell",
+    "instructions": [
+      "Sta rechtop met een dumbbell voor je dij, arm gestrekt met een lichte elleboogbuiging en handpalm naar je dij. Dit is je startpositie.",
+      "Houd je vrije hand zijwaarts, op je middel of aan een vast oppervlak.",
+      "Hef de dumbbell dicht langs je lichaam met de zijkant van je schouder tot bijna kinhoogte. Laat de elleboog leiden en houd hem hoger dan de onderarm. Houd je romp stil en pauzeer bovenaan.",
+      "Laat de dumbbell langzaam zakken terwijl je inademt.",
+      "Herhaal en wissel daarna van arm."
+    ]
+  },
+  "Dumbbell_Prone_Incline_Curl": {
+    "name": "Prone incline curl met dumbbells",
+    "instructions": [
+      "Ga met je gezicht naar beneden op een schuine bank liggen met in elke hand een dumbbell en je schouders dicht bij de bovenkant.",
+      "Laat je armen recht omlaag hangen, loodrecht op de vloer.",
+      "Houd je ellebogen langs je zij en draai de handpalmen naar voren. Dit is je startpositie.",
+      "Curl de dumbbells omhoog door de biceps aan te spannen terwijl je uitademt. Alleen de onderarmen bewegen.",
+      "Laat de dumbbells zakken tot de armen volledig gestrekt zijn.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Raise": {
+    "name": "Dumbbell raise",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell naast je dijen, armen gestrekt met een lichte elleboogbuiging en handpalmen naar achteren. Dit is je startpositie.",
+      "Hef de dumbbells zijwaarts omhoog tot bijna kinhoogte. Laat de ellebogen leiden en houd ze hoger dan de onderarmen. Houd je romp stil en pauzeer bovenaan.",
+      "Laat de dumbbells langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Rear_Lunge": {
+    "name": "Achterwaartse lunge met dumbbells",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell langs je lichaam. Dit is je startpositie.",
+      "Stap ongeveer 60 cm naar achteren met rechts en laat je lichaam zakken met een rechte romp. Adem in. Houd het voorste scheenbeen verticaal. Een langere pas benadrukt de bilspieren, een kortere de quadriceps.",
+      "Duw jezelf omhoog en keer terug terwijl je uitademt. Duw via de voorvoet voor meer quadriceps of via de hiel voor meer bilspieren.",
+      "Herhaal met het andere been."
+    ]
+  },
+  "Dumbbell_Scaption": {
+    "name": "Dumbbell scaption",
+    "instructions": [
+      "Deze corrigerende oefening versterkt de spieren rond het schouderblad. Houd in elke hand een licht gewicht langs je lichaam met de duimen omhoog.",
+      "Hef je armen voorwaarts en ongeveer 30 graden naar buiten met volledig gestrekte armen.",
+      "Ga door tot de armen parallel aan de vloer zijn en keer daarna terug."
+    ]
+  },
+  "Dumbbell_Seated_Box_Jump": {
+    "name": "Zittende box jump met dumbbell",
+    "instructions": [
+      "Plaats een box enkele voeten naast een bank. Houd een dumbbell met beide handen tegen je borst en ga op de bank zitten met je gezicht naar de box. Dit is je startpositie.",
+      "Zet je voeten stevig neer, leun voorover en strek heupen en knieën om omhoog en naar voren te springen.",
+      "Land met beide voeten op de box en vang de impact op door heupen en knieën te buigen.",
+      "Stap af en keer terug."
+    ]
+  },
+  "Dumbbell_Seated_One-Leg_Calf_Raise": {
+    "name": "Zittende eenbenige kuitheffing met dumbbell",
+    "instructions": [
+      "Plaats een blok ongeveer 30 cm voor een vlakke bank.",
+      "Ga zitten en plaats een dumbbell op je linker bovenbeen, ongeveer 8 cm boven de knie.",
+      "Plaats de bal van je linkervoet op het blok. Dit is je startpositie.",
+      "Kom zo hoog mogelijk op je tenen terwijl je uitademt en span de kuit één seconde aan.",
+      "Keer langzaam terug en rek zo ver mogelijk omlaag.",
+      "Herhaal en voer de oefening daarna uit met rechts."
+    ]
+  },
+  "Dumbbell_Shoulder_Press": {
+    "name": "Schouderdruk met dumbbells",
+    "instructions": [
+      "Ga op een bank met rugleuning zitten met in elke hand een dumbbell rechtop op je dijen.",
+      "Gebruik je dijen om de dumbbells één voor één naar schouderhoogte te brengen.",
+      "Draai je polsen zodat de handpalmen naar voren wijzen. Dit is je startpositie.",
+      "Druk de dumbbells omhoog tot ze bovenaan bij elkaar komen terwijl je uitademt.",
+      "Pauzeer kort en laat de gewichten langzaam zakken terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Shrug": {
+    "name": "Shrug met dumbbells",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell, handpalmen naar je romp en armen gestrekt langs je zij.",
+      "Trek je schouders zo hoog mogelijk op terwijl je uitademt en houd één seconde vast. Houd de armen gestrekt en gebruik je biceps niet.",
+      "Laat de dumbbells terugzakken.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Side_Bend": {
+    "name": "Zijwaartse buiging met dumbbell",
+    "instructions": [
+      "Sta rechtop met een dumbbell in je linkerhand en je rechterhand op je middel. Zet je voeten op schouderbreedte. Dit is je startpositie.",
+      "Houd je rug recht en hoofd omhoog en buig vanuit je middel zo ver mogelijk naar rechts. Adem in, houd één seconde vast en keer terug terwijl je uitademt.",
+      "Buig daarna naar links, houd één seconde vast en keer terug.",
+      "Herhaal voor het aanbevolen aantal herhalingen en wissel daarna van hand."
+    ]
+  },
+  "Dumbbell_Squat": {
+    "name": "Squat met dumbbells",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell langs je lichaam.",
+      "Zet je voeten op schouderbreedte met de tenen licht naar buiten. Houd je hoofd omhoog en rug recht. Dit is je startpositie.",
+      "Zak langzaam door de knieën met een rechte romp tot je dijen parallel aan de vloer zijn. Houd de knieën in lijn met de tenen.",
+      "Kom omhoog door vooral via de hielen te duwen en je benen te strekken terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Squat_To_A_Bench": {
+    "name": "Squat met dumbbells naar een bank",
+    "instructions": [
+      "Sta rechtop met een vlakke bank achter je en in elke hand een dumbbell langs je lichaam.",
+      "Zet je voeten op schouderbreedte met de tenen licht naar buiten. Houd je hoofd omhoog en rug recht. Dit is je startpositie.",
+      "Zak langzaam door de knieën tot je de bank licht raakt. Adem in en houd de knieën in lijn met de tenen.",
+      "Kom omhoog door vooral via de hielen te duwen en je benen te strekken terwijl je uitademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Dumbbell_Step_Ups": {
+    "name": "Step-ups met dumbbells",
+    "instructions": [
+      "Sta rechtop met in elke hand een dumbbell langs je lichaam.",
+      "Plaats je rechtervoet op het platform en stap omhoog door de rechterheup en -knie te strekken. Duw vooral via de hiel en plaats daarna ook de linkervoet op het platform. Adem uit.",
+      "Stap met links omlaag door de rechterheup en -knie te buigen en adem in. Plaats daarna de rechtervoet terug naast de linker.",
+      "Herhaal met rechts en voer de oefening daarna uit met links."
+    ]
+  },
+  "Dumbbell_Tricep_Extension_-Pronated_Grip": {
+    "name": "Tricepsextensie met dumbbells in pronatie",
+    "instructions": [
+      "Ga op een vlakke bank liggen met twee dumbbells recht boven je schouders. Houd je armen volledig gestrekt en loodrecht op je romp en de vloer.",
+      "Houd je handpalmen naar voren en ellebogen naar binnen. Dit is je startpositie.",
+      "Adem in en laat de dumbbells langzaam zakken tot ze bij je oren zijn. Houd de bovenarmen stil en ellebogen naar binnen.",
+      "Adem uit en strek je triceps om terug te keren."
+    ]
+  },
+  "Dynamic_Back_Stretch": {
+    "name": "Dynamische rugstretch",
+    "instructions": [
+      "Sta met je voeten op schouderbreedte. Dit is je startpositie.",
+      "Houd je armen gestrekt en zwaai ze 5 tot 10 keer recht voor je omhoog. Vergroot telkens de bewegingsuitslag tot je armen boven je hoofd komen."
+    ]
+  },
+  "Dynamic_Chest_Stretch": {
+    "name": "Dynamische borststretch",
+    "instructions": [
+      "Sta met je handen tegen elkaar en armen recht voor je uit. Dit is je startpositie.",
+      "Houd je armen gestrekt en beweeg ze snel zo ver mogelijk naar achteren en weer naar voren, als een overdreven klapbeweging. Herhaal 5 tot 10 keer en verhoog geleidelijk het tempo."
+    ]
+  },
+  "EZ-Bar_Curl": {
+    "name": "EZ-bar curl",
+    "instructions": [
+      "Sta rechtop en houd een EZ-curlstang aan de brede buitenste handgrepen vast. De handpalmen wijzen naar voren en licht naar binnen. Houd de ellebogen dicht bij je romp. Dit is je startpositie.",
+      "Houd de bovenarmen stil, adem uit en curl de stang omhoog terwijl je de biceps aanspant. Beweeg alleen de onderarmen.",
+      "Ga door tot volledige contractie op schouderhoogte en houd kort vast.",
+      "Adem in en laat de stang langzaam zakken.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "EZ-Bar_Skullcrusher": {
+    "name": "EZ-bar skullcrusher",
+    "instructions": [
+      "Pak de EZ-stang smal vast en houd hem met de ellebogen naar binnen boven je terwijl je op de bank ligt. Je armen staan loodrecht op de vloer. Dit is je startpositie.",
+      "Houd de bovenarmen stil en laat de stang zakken door de ellebogen te buigen. Adem in en pauzeer wanneer de stang boven je voorhoofd is.",
+      "Strek de ellebogen en breng de stang terug terwijl je uitademt.",
+      "Herhaal."
+    ]
+  },
+  "Elbow_Circles": {
+    "name": "Elleboogcirkels",
+    "instructions": [
+      "Ga zitten of staan met je voeten licht uit elkaar.",
+      "Plaats je handen op je schouders met de ellebogen op schouderhoogte en naar buiten gericht.",
+      "Maak langzaam cirkels met je ellebogen. Adem uit aan het begin en in wanneer je de cirkel voltooit."
+    ]
+  },
+  "Elbow_to_Knee": {
+    "name": "Elleboog naar knie",
+    "instructions": [
+      "Ga op de vloer liggen en kruis je rechterbeen over je gebogen linkerknie. Plaats je handen achter je hoofd en houd je schouderbladen op de vloer. Dit is je startpositie.",
+      "Buig en draai je romp om je linkerelleboog naar je rechterknie te brengen.",
+      "Keer terug en herhaal voor het gewenste aantal herhalingen voordat je van kant wisselt."
+    ]
+  },
+  "Elbows_Back": {
+    "name": "Elleboogstretch naar achteren",
+    "instructions": [
+      "Sta rechtop.",
+      "Plaats beide handen op je onderrug met de vingers omlaag en ellebogen naar buiten.",
+      "Trek je ellebogen voorzichtig naar achteren alsof je ze tegen elkaar wilt brengen."
+    ]
+  },
+  "Elevated_Back_Lunge": {
+    "name": "Verhoogde achterwaartse lunge",
+    "instructions": [
+      "Plaats een passend beladen halterstang in een rek op schouderhoogte en zet een laag verhoogd platform achter je.",
+      "Plaats de stang op je bovenrug, houd je rug gebogen en aangespannen en ga met beide voeten op het platform staan. Dit is je startpositie.",
+      "Stap met één been naar achteren en zak door heupen en knieën tot de knie de vloer raakt.",
+      "Pauzeer en strek heupen en knieën om volledig terug te keren voordat je wisselt."
+    ]
+  },
+  "Elevated_Cable_Rows": {
+    "name": "Verhoogde kabelrows",
+    "instructions": [
+      "Gebruik een platform van ongeveer 10 tot 15 cm hoog.",
+      "Plaats het op de zitting van de kabelroeimachine.",
+      "Ga zitten en plaats je voeten op de voorste steun met licht gebogen, niet vergrendelde knieën.",
+      "Buig voorover met een natuurlijke rugpositie en pak de V-handgreep.",
+      "Trek met gestrekte armen terug tot je romp 90 graden met je benen vormt. Houd een lichte holling in de rug en borst vooruit. Dit is je startpositie.",
+      "Houd je romp stil en trek de handgreep naar je buik met de armen dicht langs je lichaam. Adem uit, span je rug één seconde aan en keer langzaam terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Elliptical_Trainer": {
+    "name": "Crosstrainer",
+    "instructions": [
+      "Stap op de crosstrainer en kies de gewenste instelling. Gebruik handmatige bediening of een programma en voer eventueel leeftijd en gewicht in om calorieverbruik te schatten. Pas de helling aan om de intensiteit te veranderen.",
+      "Gebruik de handgrepen eventueel om je hartslag te volgen en op een passende intensiteit te blijven."
+    ]
+  },
+  "Exercise_Ball_Crunch": {
+    "name": "Crunch op oefenbal",
+    "instructions": [
+      "Ga met je onderrug tegen een oefenbal liggen, voeten stevig op de vloer en knieën gebogen. Laat je bovenlichaam over de bal hangen en houd je armen langs je lichaam of gekruist op de borst.",
+      "Laat je romp zakken tot een uitgerekte positie en houd je nek stil. Dit is je startpositie.",
+      "Houd je heupen stil en buig je middel door de buikspieren aan te spannen. Rol schouders en romp omhoog, houd je onderrug tegen de bal, adem uit en houd één seconde vast.",
+      "Keer terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Exercise_Ball_Pull-In": {
+    "name": "Pull-in op oefenbal",
+    "instructions": [
+      "Plaats een oefenbal achter je en neem ervoor een push-uphouding aan met je handen op schouderbreedte.",
+      "Leg je onderste schenen op de bal met gestrekte benen en steun op gestrekte armen. Dit is je startpositie.",
+      "Houd je rug recht en bovenlichaam stil en trek je knieën naar je borst terwijl de bal onder je enkels naar voren rolt. Adem uit en houd één seconde vast.",
+      "Strek je benen langzaam en rol de bal terug terwijl je inademt.",
+      "Herhaal voor het aanbevolen aantal herhalingen."
+    ]
+  },
+  "Extended_Range_One-Arm_Kettlebell_Floor_Press": {
+    "name": "Eenarmige kettlebell floor press met vergroot bereik",
+    "instructions": [
+      "Ga op de vloer liggen met een kettlebell in één hand. Buig het been aan dezelfde kant en laat de knie over de middellijn van je lichaam komen.",
+      "Druk de kettlebell boven je lichaam door de elleboog te strekken en de arm naar binnen te bewegen. Keer terug naar de startpositie."
+    ]
+  },
+  "External_Rotation": {
+    "name": "Externe rotatie",
+    "instructions": [
+      "Ga zijwaarts op een vlakke bank liggen met een dumbbell in één hand en laat je hoofd op de andere, gevouwen arm rusten.",
+      "Buig de elleboog van de werkende arm tot 90 graden en houd de bovenarm parallel aan je romp.",
+      "Houd de bovenarm stil en plaats de onderarm parallel aan de vloer en loodrecht op je romp, recht voor je. Dit is je startpositie.",
+      "Draai de onderarm extern in een halve cirkel omhoog terwijl je uitademt tot hij loodrecht op de vloer staat. Houd één seconde vast.",
+      "Keer langzaam terug terwijl je inademt.",
+      "Herhaal en wissel daarna van arm."
+    ]
+  },
+  "External_Rotation_with_Band": {
+    "name": "Externe rotatie met band",
+    "instructions": [
+      "Bevestig een band op ellebooghoogte rond een paal en ga enkele voeten verderop met je linkerzijde naar de band staan.",
+      "Pak de band met je rechterhand en druk je elleboog stevig tegen je zij. Gebruik eventueel een kussen of foamroller.",
+      "Houd de elleboog 90 graden gebogen en je hand voor je romp. Dit is je startpositie.",
+      "Draai je onderarm naar buiten alsof je een backhand uitvoert en houd de elleboog op zijn plaats.",
+      "Ga zo ver mogelijk, pauzeer en keer terug."
+    ]
+  },
+  "External_Rotation_with_Cable": {
+    "name": "Externe rotatie aan de kabel",
+    "instructions": [
+      "Stel de kabel af op ellebooghoogte en ga enkele voeten verderop met je linkerzijde naar de machine staan.",
+      "Pak de handgreep met je rechterhand en druk je elleboog stevig tegen je zij. Gebruik eventueel een kussen of foamroller.",
+      "Houd de elleboog 90 graden gebogen en je hand voor je romp. Dit is je startpositie.",
+      "Draai je onderarm naar buiten alsof je een backhand uitvoert en houd de elleboog op zijn plaats."
+    ]
+  },
+  "Face_Pull": {
+    "name": "Face pull",
+    "instructions": [
+      "Ga voor een hoge katrol met touw of dubbele handgrepen staan en trek het gewicht recht naar je gezicht terwijl je handen uit elkaar bewegen. Houd je bovenarmen parallel aan de vloer."
+    ]
+  },
+  "Farmers_Walk": {
+    "name": "Farmer's walk",
+    "instructions": [
+      "Gebruik farmer's-walkhandgrepen, zware dumbbells of korte stangen. Begin tussen de gewichten.",
+      "Pak de handgrepen en til ze op door via de hielen te duwen met een rechte rug en hoofd omhoog.",
+      "Loop met korte, snelle passen en blijf ademen. Leg de voorgeschreven afstand, meestal 50 tot 100 voet, zo snel mogelijk af."
+    ]
+  },
+  "Fast_Skipping": {
+    "name": "Snelle skips",
+    "instructions": [
+      "Begin ontspannen met één been iets voor het andere. Dit is je startpositie.",
+      "Voer een ritme uit van rechts-rechts-stap, links-links-stap en blijf afwisselen.",
+      "Houd bij snelle skips veel contact met de grond, beperk de zweeftijd en beweeg zo snel mogelijk."
+    ]
+  },
+  "Finger_Curls": {
+    "name": "Vingercurls",
+    "instructions": [
+      "Houd een halterstang met beide handen in supinatie op ongeveer schouderbreedte.",
+      "Zet je voeten plat op de vloer, iets breder dan schouderbreedte. Dit is je startpositie.",
+      "Laat de stang zo ver mogelijk zakken door je vingers te strekken. Laat hem door je handen rollen en vang hem op het laatste vingerkootje.",
+      "Sluit je handen en curl de stang zo hoog mogelijk terwijl je uitademt. Houd bovenaan de contractie vast."
+    ]
+  }
+}
