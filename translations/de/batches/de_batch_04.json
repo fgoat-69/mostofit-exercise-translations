@@ -76,16 +76,17 @@
     ]
   },
   "Barbell_Squat_To_A_Bench": {
-    "name": "Langhantel-Kniebeuge zur Bank",
-    "instructions": [
-      "Stelle aus Sicherheitsgründen eine Flachbank oder Box hinter dich und führe die Übung in einem Kniebeugenständer aus. Die Bank hilft dir, die Hüfte nach hinten zu führen und eine gleichmäßige Tiefe zu erreichen.",
-      "Stelle die Langhantel passend zu deiner Körpergröße ein, belade sie und positioniere sie auf dem oberen Rücken, leicht unterhalb des Nackens.",
-      "Greife die Stange mit beiden Händen und hebe sie durch Strecken der Beine aus der Ablage.",
-      "Gehe einen Schritt zurück und stelle die Füße etwa schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte Kopf und Rücken stabil. Das ist die Ausgangsposition.",
-      "Atme ein, beuge die Knie und schiebe die Hüfte nach hinten, bis du die Bank leicht berührst. Setze dich nicht vollständig ab und halte die Körperspannung.",
-      "Drücke dich beim Ausatmen über die Fersen nach oben und strecke Knie und Hüfte vollständig.",
-      "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
-    ]
+  "name": "Langhantel-Kniebeuge zur Bank",
+  "instructions": [
+    "Stelle aus Sicherheitsgründen eine Flachbank oder Box hinter dich und führe die Übung in einem Kniebeugenständer aus. Die Bank hilft dir, die Hüfte nach hinten zu führen und eine gleichmäßige Tiefe zu erreichen.",
+    "",
+    "Stelle die Langhantel passend zu deiner Körpergröße ein, belade sie und positioniere sie auf dem oberen Rücken, leicht unterhalb des Nackens.",
+    "Greife die Stange mit beiden Händen und hebe sie durch Strecken der Beine aus der Ablage.",
+    "Gehe einen Schritt zurück und stelle die Füße etwa schulterbreit mit leicht nach außen gedrehten Zehen auf. Halte Kopf und Rücken stabil. Das ist die Ausgangsposition.",
+    "Atme ein, beuge die Knie und schiebe die Hüfte nach hinten, bis du die Bank leicht berührst. Setze dich nicht vollständig ab und halte die Körperspannung.",
+    "Drücke dich beim Ausatmen über die Fersen nach oben und strecke Knie und Hüfte vollständig.",
+    "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
+  ]
   },
   "Barbell_Step_Ups": {
     "name": "Aufsteigen mit Langhantel",
