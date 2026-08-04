@@ -159,12 +159,13 @@
     ]
   },
   "Lying_Glute": {
-    "name": "Gesäßdehnung in Rückenlage",
-    "instructions": [
-      "Lege dich auf den Rücken und beuge beide Knie.",
-      "Lege einen Knöchel auf das gegenüberliegende Knie.",
-      "Greife den Oberschenkel des unteren Beins und ziehe beide Beine vorsichtig zur Brust, bis du eine Dehnung im Gesäß spürst. Halte die Position und wechsle anschließend die Seite."
-    ]
+  "name": "Gesäßdehnung in Rückenlage",
+  "instructions": [
+    "Lege dich auf den Rücken, während dein Trainingspartner neben dir kniet.",
+    "Beuge die Hüfte eines Beins und hebe es vom Boden ab. Drehe das Bein so, dass sich der Fuß über der gegenüberliegenden Hüfte befindet und der Unterschenkel senkrecht zu deinem Körper steht. Dein Trainingspartner hält Knie und Knöchel in Position. Dies ist die Ausgangsposition.",
+    "Versuche, dein Bein in Richtung deines Trainingspartners zu drücken, während er jede tatsächliche Bewegung des Beins verhindert.",
+    "Entspanne nach 10–20 Sekunden vollständig, während dein Trainingspartner Knöchel und Knie vorsichtig in Richtung Brust drückt. Teile deinem Helfer mit, sobald die Dehnung ausreichend ist, um Verletzungen oder eine Überdehnung zu vermeiden."
+  ]
   },
   "Lying_Hamstring": {
     "name": "Dehnung der hinteren Oberschenkel in Rückenlage",
