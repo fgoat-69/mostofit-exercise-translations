@@ -3565,10 +3565,9 @@
   "Kettlebell_Windmill": {
     "name": "Kettlebell-Windmill",
     "instructions": [
-      "Stelle eine Kettlebell vor den vorderen Fuß. Setze sie mit dem gegenüberliegenden Arm zur Schulter um und drücke sie über den Kopf.",
-      "Halte den Arm gestreckt, schiebe die Hüfte zur Seite der Kettlebell und drehe die Füße etwa 45 Grad von diesem Arm weg.",
-      "Beuge dich seitlich aus der Hüfte ab und führe die freie Hand zum Boden. Behalte die Kettlebell jederzeit im Blick.",
-      "Halte unten kurz und richte dich kontrolliert wieder auf."
+      "Stelle eine Kettlebell vor deinen vorderen Fuß und setze sie mit dem gegenüberliegenden Arm zur Schulter um, bevor du sie über den Kopf drückst. Strecke beim Umsetzen Beine und Hüfte, während du die Kettlebell zu den Schultern ziehst. Drehe dabei das Handgelenk, sodass die Handfläche nach vorn zeigt. Drücke die Kettlebell anschließend durch Strecken des Ellenbogens über den Kopf.",
+      "Halte die Kettlebell während der gesamten Bewegung über dem Kopf fixiert. Schiebe das Gesäß in Richtung der angehobenen Kettlebell und drehe die Füße etwa 45 Grad von dem Arm mit der Kettlebell weg. Beuge dich seitlich aus der Hüfte, schiebe das Gesäß nach außen und senke den Oberkörper langsam ab, bis du mit der freien Hand den Boden berühren kannst. Behalte die Kettlebell dabei ständig im Blick.",
+      "Halte unten eine Sekunde inne und kehre anschließend kontrolliert in die Ausgangsposition zurück."
     ]
   },
   "Kipping_Muscle_Up": {
@@ -3597,11 +3596,12 @@
     ]
   },
   "Knee_Hip_Raise_On_Parallel_Bars": {
-    "name": "Knie- und Hüftheben am Parallelbarren",
+    "name": "Knie-/Hüftheben am Parallelbarren",
     "instructions": [
-      "Stütze dich mit gestreckten Armen auf einem Parallelbarren ab und halte den Oberkörper aufrecht.",
-      "Beuge die Knie und hebe sie beim Ausatmen in Richtung Brust. Rolle das Becken am oberen Punkt leicht ein.",
-      "Halte die Bauchspannung kurz und senke die Beine beim Einatmen kontrolliert zurück.",
+      "Positioniere dich an der vertikalen Beinhebestation so, dass deine Unterarme auf den Polstern neben dem Oberkörper aufliegen und du die Griffe hältst. Deine Arme sind dabei in einem Winkel von 90 Grad gebeugt.",
+      "Halte den Oberkörper aufrecht, drücke den unteren Rücken gegen das Rückenpolster und strecke die Beine in Richtung Boden. Dies ist die Ausgangsposition.",
+      "Atme aus und hebe die gestreckten Beine an. Fahre fort, bis sie ungefähr parallel zum Boden sind, und halte die Spannung dort eine Sekunde. Tipp: Vermeide während der gesamten Übung Schwung- oder Pendelbewegungen.",
+      "Kehre beim Einatmen langsam in die Ausgangsposition zurück.",
       "Wiederhole die Bewegung für die vorgesehene Anzahl an Wiederholungen."
     ]
   },
@@ -4095,9 +4095,10 @@
   "Lying_Glute": {
     "name": "Gesäßdehnung in Rückenlage",
     "instructions": [
-      "Lege dich auf den Rücken und beuge beide Knie.",
-      "Lege einen Knöchel auf das gegenüberliegende Knie.",
-      "Greife den Oberschenkel des unteren Beins und ziehe beide Beine vorsichtig zur Brust, bis du eine Dehnung im Gesäß spürst. Halte die Position und wechsle anschließend die Seite."
+      "Lege dich auf den Rücken, während dein Trainingspartner neben dir kniet.",
+      "Beuge die Hüfte eines Beins und hebe es vom Boden ab. Drehe das Bein so, dass sich der Fuß über der gegenüberliegenden Hüfte befindet und der Unterschenkel senkrecht zu deinem Körper steht. Dein Trainingspartner hält Knie und Knöchel in Position. Dies ist die Ausgangsposition.",
+      "Versuche, dein Bein in Richtung deines Trainingspartners zu drücken, während er jede tatsächliche Bewegung des Beins verhindert.",
+      "Entspanne nach 10–20 Sekunden vollständig, während dein Trainingspartner Knöchel und Knie vorsichtig in Richtung Brust drückt. Teile deinem Helfer mit, sobald die Dehnung ausreichend ist, um Verletzungen oder eine Überdehnung zu vermeiden."
     ]
   },
   "Lying_Hamstring": {
